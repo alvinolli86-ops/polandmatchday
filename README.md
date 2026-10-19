@@ -19,4 +19,4 @@ English-language guide to football in Poland for visitors & expats. Plain HTML +
 
 ## Known gaps
 - Stands to avoid, transport notes and prices are only filled where a source was found; everything else says "not yet verified".
-- Forms (get featured, newsletter) are front-end placeholders; nothing is sent.
+- The “get featured” form is a front-end placeholder; nothing is sent. Newsletter signup sends the visitor to the beehiiv subscribe page (`newsletter.publication_url` in `config.json`).

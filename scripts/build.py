@@ -28,6 +28,18 @@ BASE = normalize_base_path(CFG)
 def url(path=""):
     """Internal link/asset URL under base_path (works on GitHub Pages project sites)."""
     return BASE + str(path).lstrip("/")
+
+def subscribe_url():
+    """beehiiv public subscribe page. Its client reads ?email= and prefills the field."""
+    return CFG["newsletter"]["publication_url"].rstrip("/") + "/subscribe"
+
+def newsletter_form(input_id):
+    action = subscribe_url()
+    return f"""<form method='get' action='{E(action)}'>
+<label for='{input_id}'>Email</label>
+<input id='{input_id}' name='email' type='email' required autocomplete='email' placeholder='you@example.com'>
+<p><button class='btn' type='submit'>Subscribe free</button></p>
+</form>"""
 CLUBS = json.load(open(ROOT / "data/clubs.json"))
 PUBS = json.load(open(ROOT / "data/pubs.json"))
 EK = json.load(open(ROOT / "data/fixtures_ekstraklasa.json"))
@@ -121,7 +133,7 @@ def page(path, title, desc, body, prefix=None):
 <link rel="stylesheet" href="{url('style.css')}"></head><body>
 <header><div class="wrap"><div class="top"><a class="logo" href="{url()}">⚽ Poland <span>Matchday</span></a><nav>{nav}</nav></div>{body[0]}</div></header>
 <main class="wrap">{body[1]}</main>
-<footer><div class="wrap"><p><a href="{url('about/')}">About</a> · <a href="{url('get-featured/')}">Get your pub featured</a> · <a href="{url('newsletter/')}">Newsletter</a></p>
+<footer><div class="wrap"><p><a href="{url('about/')}">About</a> · <a href="{url('get-featured/')}">Get your pub featured</a> · <a href="{url('newsletter/')}">Newsletter</a> · <a href="{E(subscribe_url())}">Subscribe free</a></p>
 <p>Fixtures: Ekstraklasa from <a href="https://ekstraklasa.org/terminarz/">ekstraklasa.org</a> (official); 1. Liga from <a href="https://www.thesportsdb.com/">TheSportsDB</a> (community data). Last refresh: {E(EK['fetched'])} (Polish time). All times Europe/Warsaw. Always confirm with the club before travelling.</p>
 <p>Unofficial fan guide. Not affiliated with Ekstraklasa S.A. or any club.</p></div></footer></body></html>"""
     f = OUT / path / "index.html" if not path.endswith(".html") else OUT / path
@@ -162,7 +174,7 @@ def build():
     body += f"""<h2>New to Polish football?</h2><div class='grid'>
 <div class='card'><strong>Can I buy online with a passport?</strong><p class='small'>Mostly yes. See the <a href='{url("tickets-for-foreigners/")}'>club-by-club table</a> with official sources.</p></div>
 <div class='card'><strong>Watching the Premier League?</strong><p class='small'>English-friendly <a href='{url("where-to-watch/")}'>sports bars in Warsaw & Kraków</a>.</p></div>
-<div class='card'><strong>Get the weekly email</strong><p class='small'>The best matches to see in Poland, every Thursday. <a href='{url("newsletter/")}'>Sign up</a>.</p></div></div>"""
+<div class='card'><strong>Get the weekly email</strong><p class='small'>The best matches to see in Poland, every Thursday.</p>{newsletter_form('home-nl-email')}</div></div>"""
     page("", "Football in Poland this weekend – Ekstraklasa & 1. Liga fixtures in English | Poland Matchday",
          "This weekend's Ekstraklasa and 1. Liga matches with kickoff times in Polish time, ticket rules for foreigners and where to watch. In English.",
          (hero("Football in Poland this weekend", "Ekstraklasa & 1. Liga fixtures, tickets for foreigners and where to watch – in English."), body), "")
@@ -276,10 +288,9 @@ def build():
     urls.append("get-featured/")
 
     # NEWSLETTER
-    body = """<div class='card'><p>Every Thursday: the best matches to see in Poland this weekend, ticket sale openings, and where to watch the big games. Free.</p>
-<form onsubmit="event.preventDefault();document.getElementById('nmsg').textContent='Thanks! The newsletter is launching soon – signups are not live yet.';">
-<label>Email</label><input type='email' required placeholder='you@example.com'><p><button class='btn' type='submit'>Subscribe</button></p><p id='nmsg' class='small'></p></form>
-<p class='small'>Placeholder – will connect to a newsletter tool before launch.</p></div>"""
+    body = f"""<div class='card'><p>Every Thursday: the best matches to see in Poland this weekend, ticket sale openings, and where to watch the big games. Free.</p>
+{newsletter_form('nl-email')}
+<p class='small'>Subscribe free. This opens the newsletter’s subscribe page with your email filled in. Nothing is stored on this site.</p></div>"""
     page("newsletter/", "Poland Matchday newsletter – this weekend's best football in Poland", "A free weekly email with the best football matches to see in Poland, ticket news and where to watch.",
          (hero("The weekly Poland Matchday email", "Every Thursday, free."), body), "../")
     urls.append("newsletter/")
