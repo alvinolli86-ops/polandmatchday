@@ -31,14 +31,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Enable GitHub Pages if possible
+      # enablement needs a token that can create the Pages site. This app token
+      # cannot (403), so the step is allowed to fail. The owner must set
+      # Settings → Pages → Source to "GitHub Actions" once; later runs succeed.
+      - name: Setup Pages
         continue-on-error: true
         uses: actions/configure-pages@v5
         with:
           enablement: true
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
 
       - name: Install dependencies
         run: pip install -r requirements.txt
