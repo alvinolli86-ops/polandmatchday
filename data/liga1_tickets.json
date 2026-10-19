@@ -45,6 +45,33 @@
    "buy": "https://bilety.ksruch.com/",
    "source": "https://bilety.ksruch.com/documents/d/bilety-ruch-chorzów/2025-06-23-regulamin-sprzedazy-biletow-ruch-1-",
    "text": "Sales regulations in force from 27 June 2025 define a ticket as carrying a name, surname and PESEL, and a Fan Card as an ID that can carry an electronic ticket. The text we read does not describe a passport substitute. Buy at bilety.ksruch.com. Fan points: ul. Cicha 6 (Mon–Fri 8:00–16:00) and ul. Jagiellońska 3/U3 (Mon–Fri 10:00–18:00, Sat 10:00–14:00), except match days. If you have no PESEL, check with the club before you go. Home games are at Superauto.pl Stadion Śląski, ul. Katowicka 10, Chorzów."
+  },
+  {
+   "slug": "odra-opole",
+   "name": "Odra Opole",
+   "city": null,
+   "passport": "yes",
+   "buy": "https://bilety.odraopole.pl/",
+   "source": "https://bilety.odraopole.pl/rejestracja",
+   "text": "The online registration form has a choice of PESEL or \"Nr paszportu\" (passport number) before you enter the number, plus a first name and surname. Club footer: OKS Odra Opole S.A., ul. Leonarda Olejnika 1, 45-839 Opole, bilety@odraopole.pl, phone +48 575 750 475. No Fan Card rule was on that registration page. Check before you go."
+  },
+  {
+   "slug": "puszcza-niepolomice",
+   "name": "Puszcza Niepołomice",
+   "city": "krakow",
+   "passport": "accepted",
+   "buy": "https://bilety.puszcza-niepolomice.pl/",
+   "source": "https://bilety.puszcza-niepolomice.pl/CMS?page=zakup+biletow",
+   "text": "Official how-to: \"I am a foreigner and I live in Poland. I do not have a PESEL. Can I buy a ticket online?\" The answer is yes, and it points to a \"Konto kibica\" section for the steps. That section was not in the page HTML we read, and the question is about a foreigner living in Poland, not a short stay. Buy online at bilety.puszcza-niepolomice.pl. The stadium box office in Niepołomice is open on Tuesday and Thursday of a match week, 16:30–18:30. A mobile ticket is enough at the gate. Check before you go."
+  },
+  {
+   "slug": "podbeskidzie-bielsko-biala",
+   "name": "Podbeskidzie Bielsko-Biała",
+   "city": null,
+   "passport": "unclear",
+   "buy": "https://bilety.tspodbeskidzie.pl/",
+   "source": "https://tspodbeskidzie.pl/static/upload/store/Karnety2025/Regulamin_sprzedazy_biletow_i_karnetow_25-26.pdf",
+   "text": "Sales regulations labelled season 2025/2026. Buy at the stadium box office or online at bilety.tspodbeskidzie.pl. At the box office the buyer gives a first name, surname and PESEL. A later clause says a ticket is valid with an identity document that shows a PESEL. The privacy section says the data kept are a name, surname and PESEL, or, if a PESEL was never issued, the type and series of an identity document. The text does not say a passport works in the online shop or at the gate. One registered user can hold one ticket per match, and can buy for up to 10 other registered users. Someone under 14 must be bought for by an adult who sits next to them. Photo ID is checked at the gate. The PDF is labelled 2025/26 — check before you go. Club office: ul. Tadeusza Rychlińskiego 21, Bielsko-Biała, phone +48 33 498 39 88."
   }
  ]
 }

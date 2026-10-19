@@ -57,6 +57,8 @@ CITIES = {
  "szczecin": {"name":"Szczecin","pl":"Szczecin","ek":["Pogoń Szczecin"],"l1":[],"gyg":"Szczecin","bk":"Szczecin"},
  "lodz":     {"name":"Łódź","pl":"Łódź","ek":["Widzew Łódź"],"l1":["ŁKS Łódź"],"gyg":"Lodz","bk":"Lodz"},
  "katowice": {"name":"Katowice & Silesia","pl":"Katowice / Zabrze / Gliwice / Chorzów / Bytom","ek":["GKS Katowice","Górnik Zabrze","Piast Gliwice"],"l1":["Ruch Chorzów","Polonia Bytom"],"gyg":"Katowice","bk":"Katowice"},
+ "bialystok":{"name":"Białystok","pl":"Białystok","ek":["Jagiellonia Białystok"],"l1":[],"gyg":"Bialystok","bk":"Bialystok"},
+ "lublin":   {"name":"Lublin","pl":"Lublin","ek":["Motor Lublin"],"l1":[],"gyg":"Lublin","bk":"Lublin"},
 }
 CITY_NOTE = {"krakow":"Puszcza Niepołomice play in Niepołomice, just outside Kraków."}
 STATUS = {"yes":("Passport OK online","ok"),"accepted":("Passport accepted (online not explicit)","mid"),
@@ -176,7 +178,7 @@ def build():
     body += "<h2>Coming up next</h2>" + ("".join(match_card(m, "") for m in nxt) or "<p class='empty'>Nothing scheduled yet.</p>")
     body += f"""<h2>New to Polish football?</h2><div class='grid'>
 <div class='card'><strong>Can I buy online with a passport?</strong><p class='small'>Mostly yes. See the <a href='{url("tickets-for-foreigners/")}'>club-by-club table</a> with official sources.</p></div>
-<div class='card'><strong>Watching the Premier League?</strong><p class='small'>English-friendly <a href='{url("where-to-watch/")}'>sports bars</a> in Warsaw, Kraków, Wrocław, Poznań, Gdańsk and Łódź.</p></div>
+<div class='card'><strong>Watching the Premier League?</strong><p class='small'>English-friendly <a href='{url("where-to-watch/")}'>sports bars</a> in Warsaw, Kraków, Wrocław, Poznań, Gdańsk, Łódź, Gliwice, Białystok and Lublin.</p></div>
 <div class='card'><strong>Get the weekly email</strong><p class='small'>The best matches to see in Poland, every Thursday.</p>{newsletter_form('home-nl-email')}</div></div>"""
     page("", "Football in Poland this weekend – Ekstraklasa & 1. Liga fixtures in English | Poland Matchday",
          "This weekend's Ekstraklasa and 1. Liga matches with kickoff times in Polish time, ticket rules for foreigners and where to watch. In English.",
@@ -215,7 +217,7 @@ def build():
 {''.join(blocks)}
 <h2>Not yet verified</h2><div class='card'><p>No official passport or Fan Card rule found for these 1. Liga clubs in this check:</p><ul>{rest_html}</ul><p class='small'>Checked {LIGA['checked']}. We will add a club when its own ticket page or regulations say so.</p></div>"""
     page("tickets-1-liga/", "1. Liga tickets for foreigners: Fan Card and passport rules | Poland Matchday",
-         "Can visitors buy 1. Liga tickets with a passport? Club-by-club rules from official ticket pages for ŁKS, Arka, Warta, Lechia, Ruch and the clubs we could not verify.",
+         "Can visitors buy 1. Liga tickets with a passport? Club-by-club rules from official ticket pages, including ŁKS, Arka, Warta, Lechia, Ruch, Odra, Puszcza and Podbeskidzie.",
          (hero("1. Liga tickets for foreigners", "Fan Card, passport and where to buy — only what each club publishes."), body), "../")
     urls.append("tickets-1-liga/")
 
@@ -321,16 +323,16 @@ def build():
         if not group:
             continue
         grouped.append(f"<h2>{E(CITIES[key]['name'])}</h2>" + "".join(pubcard(p) for p in group))
-    body = "<p>Sports bars near Ekstraklasa grounds and in city centres, checked from each venue's own website (or, where noted, the city's official tourism page). Real addresses only. Fields we could not confirm are marked <em>unverified</em>. No Katowice-area bar is listed yet — we have not verified one from the venue's own site.</p>" + "".join(grouped) + f"<p><a class='btn' href='{url('get-featured/')}'>Own a bar? Get listed or featured</a></p>"
+    body = "<p>Sports bars near Ekstraklasa grounds and in city centres, checked from each venue's own website (or, where noted, the city's official tourism page). Real addresses only. Fields we could not confirm are marked <em>unverified</em>. No verified bar yet in Szczecin, Zabrze or Chorzów.</p>" + "".join(grouped) + f"<p><a class='btn' href='{url('get-featured/')}'>Own a bar? Get listed or featured</a></p>"
     page("where-to-watch/", "Where to watch football in Poland: sports bars in Warsaw, Kraków, Wrocław and more | Poland Matchday",
-         "Fan-friendly sports bars in Warsaw, Kraków, Wrocław, Poznań, Gdańsk and Łódź, with addresses and map links. Checked from each venue's own site.",
+         "Fan-friendly sports bars in Warsaw, Kraków, Wrocław, Poznań, Gdańsk, Łódź, Gliwice, Białystok and Lublin, with addresses and map links. Checked from each venue's own site.",
          (hero("Where to watch football in Poland", "Sports bars with a real address, checked from the venue."), body), "../")
     urls.append("where-to-watch/")
 
     # GET FEATURED
     body = """<p>Run a bar in Poland that shows the Premier League, Champions League or Ekstraklasa to an English-speaking crowd? Get a free basic listing, or ask about a <strong>featured</strong> spot on city pages and in the weekly newsletter.</p>
 <form class='card' onsubmit="event.preventDefault();document.getElementById('msg').textContent='Thanks! Submissions are not live yet – this form is a preview.';">
-<label>Bar name</label><input required name='name'><label>City</label><select name='city'><option>Warsaw</option><option>Kraków</option><option>Wrocław</option><option>Gdańsk / Tricity</option><option>Poznań</option><option>Szczecin</option><option>Łódź</option><option>Katowice area</option><option>Other</option></select>
+<label>Bar name</label><input required name='name'><label>City</label><select name='city'><option>Warsaw</option><option>Kraków</option><option>Wrocław</option><option>Gdańsk / Tricity</option><option>Poznań</option><option>Szczecin</option><option>Łódź</option><option>Katowice area</option><option>Białystok</option><option>Lublin</option><option>Other</option></select>
 <label>Website / Google Maps link</label><input name='url' type='url'><label>Which competitions do you show? English commentary?</label><textarea name='shows' rows='3'></textarea>
 <label>Contact email</label><input name='email' type='email' required><label>Interested in</label><select name='plan'><option>Free basic listing</option><option>Featured listing (paid)</option></select>
 <p><button class='btn' type='submit'>Submit</button></p><p id='msg' class='small'></p><p class='small'>Preview only – no data is sent or stored yet.</p></form>"""

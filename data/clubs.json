@@ -21,6 +21,11 @@
     "source": "https://www.reddit.com/r/warsaw/comments/1v5mp5e/tickets_for_legia/",
     "type": "community tip (Reddit), not official"
    },
+   "price": {
+    "text": "No single-match price was in the public HTML checked on 19 October 2026. The open-sale article for Legia Warszawa v Lech Poznań (Sunday 25 October 2026, 17:30) does not print a zł figure, and the public event page redirects to a login. Check the shop before you go.",
+    "source": "https://legia.com/articles/trwa-otwarta-sprzedaz-biletow-na-mecz-legia-warszawa-lech-poznan",
+    "type": "official sale article — no price in the HTML"
+   },
    "transport": {
     "text": "Legia's own match guides say Metro Politechnika and Metro Centrum Nauki Kopernik are a few stops from the stadium (ul. Łazienkowska 3) and list nearby buses, with current routes on wtp.waw.pl. One club note gave about 15 minutes on foot from Plac Na Rozdrożu through Park Agrykola, and about 5 minutes from the Torwar stop via ul. Czerniakowska. Bus numbers differ between club articles, and roadworks have changed access. The club does not say a match ticket includes public transport. Check before you go.",
     "source": "https://legia.com/articles/utrudnienia-w-dojezdzie-na-stadion-legii",
@@ -56,6 +61,11 @@
    "passport": "yes",
    "evidence": "'How to buy a ticket' page: 'Can a person without a PESEL attend? Yes – during the ticket purchase you can choose a passport number instead of PESEL.'",
    "source": "https://bilety.widzew.com/jak-kupic-bilet",
+   "price": {
+    "text": "2026/27 graphic on the official cennik (an older 2022/23 graphic is on the same page and is not used here). Full price, category I: sectors F and D 50 zł, H and E 55 zł, C and G 60 zł, B and A 70 zł. Category II, which the graphic labels as matches against Lech, Legia and Raków: 60 / 65 / 70 / 80 zł. Reduced and child columns are on the graphic and are not transcribed here. Widzew v Górnik Zabrze on 23 October 2026 is not one of those three opponents. Check the shop for the seat you want.",
+    "source": "https://bilety.widzew.com/cennik",
+    "type": "official 2026/27 price graphic"
+   },
    "transport": {
     "text": "In a match note the club says the stadium is served by MPK trams 8, 9, 10A and 10B and buses 64A, 64B, 75A, 75B, 80A and 80B, and that ŁKA trains stop at Łódź Niciarniana. That note is for one fixture. The club does not say a match ticket includes public transport. Check before you go.",
     "source": "https://widzew.com/aktualnosci/item/WIDPIA-Sprawdz-najwazniejsze-informacje-organizacyjne/",
@@ -66,7 +76,7 @@
    "slug": "motor-lublin",
    "name": "Motor Lublin",
    "en": "Motor Lublin",
-   "city": null,
+   "city": "lublin",
    "ticket_url": "https://bilety.motorlublin.eu/",
    "passport": "yes",
    "evidence": "Ticket sales regulations §: 'People without a PESEL can buy a ticket at club box offices, authorised points and via the online sales system, entering a passport number or other valid ID instead of PESEL.'",
@@ -91,6 +101,11 @@
    "passport": "accepted",
    "evidence": "2026/27 sales regulations: for people without Polish citizenship and PESEL, the series/number of an ID document (e.g. passport) and date of birth are required. Online channel not spelled out.",
    "source": "https://www.zaglebie.com/var/assets/aktualnosci/2026/6/REGULAMIN%20SPRZEDAZY%20BILETOW%20I%20KARNETOW%20%20%20%20%2026-27.pdf",
+   "price": {
+    "text": "Autumn 2026 list on the club site (\"Bilety Jesień 2026\"). Online normal price: sectors B1/B2 and G 45 zł, E2/E3/F3 and F2/F1/H2 50 zł, A1/A2 60 zł, V1/V2 85 zł. SVIP is 350 zł online and in person (a seat in the SVIP sector, catering in a small hall, and an SVIP parking space). Online concession is 40 zł (B and G), 45 zł (E/F/H), 55 zł (A) and 75 zł (V). A child under 7 is 5 zł. A family ticket on B1/B2 is 30 zł per person online, minimum 3 people. Disabled people and carers on A1/A2 are 25 zł online. Buying in person is generally 20 zł more; the child price stays 5 zł and SVIP stays 350 zł. The page lists those autumn home games as Piast, Śląsk, Pogoń, GKS Katowice, Wisła Płock, Jagiellonia, Korona, Górnik and Wisła Kraków. It also says a first name, surname and PESEL are required to buy. The 2026/27 regulations linked from the same page still describe an ID-document fallback if you have no PESEL. Organised groups are 25 zł per person by email to bilety@zaglebie.com (sectors B, E or F). Ticket phone 76 746 96 29, 08:00–15:00. Buy at bilety.zaglebie.com or the club shop at Cuprum Arena, ul. Generała Władysława Sikorskiego 20, 10:00–21:00.",
+    "source": "https://www.zaglebie.com/Bilety",
+    "type": "official club page, autumn 2026"
+   },
    "transport": {
     "text": "The club's fan guide for KGHM Zagłębie Arena (ul. Marii Skłodowskiej-Curie 98) lists city buses 2, 5, 6 and 7 and 100, 103, 104, 105 and 113. Match notes have also promised extra buses after specific games. The club does not publish a walking time from the centre, and does not say a match ticket includes public transport. Check before you go.",
     "source": "https://www.zaglebie.com/Kibice",
@@ -166,6 +181,11 @@
    "passport": "accepted",
    "evidence": "FAQ, 'How do I buy tickets for foreigners?': a foreigner must have a valid photo ID; to buy without the document in hand, the name and the ID-document number are required. A separate answer, about making a Fan Card for a foreigner, says an ID-document number plus date of birth is used instead of a PESEL. The online registration answer still says to enter a PESEL, and the FAQ does not explicitly say the online shop accepts a passport in that field. A one-off ticket does not require a Fan Card; a season ticket or package does. Online purchase requires an account.",
    "source": "https://bilety.gkskatowice.eu/CMS?page=FAQ",
+   "price": {
+    "text": "2026/27 Ekstraklasa single tickets on the club site: 39 zł on the South stand (Blaszok) and the North stand, 49 zł on the East stand, 59 zł on the West stand. Concession is 25 zł on South and North and 30 zł on East and West. A family ticket is 90 zł for two adults and up to three children under 15, any seats on the East stand. Children under 13 are 15 zł anywhere. On a matchday the stadium box office is 5 zł higher. VIP is 450 zł with parking, 400 zł without, and 300 zł for under-18s. Concession is for people over 65 and ages 13–18, and for students under 26 with a student ID (show it in person, or email a scan to the ticket address on that page, bilety@gkskatowice.eu). Buy at bilety.gkskatowice.eu, at GieKSa Fanstore in Galeria Katowicka (ul. 3 Maja 30, Monday–Saturday 9:00–21:00, trading Sundays 10:00–20:00), and at the Arena Katowice box office on matchdays. Phone 725 250 898, Monday–Friday 09:00–16:00.",
+    "source": "https://www.gkskatowice.eu/bilety",
+    "type": "official club page, 2026/27"
+   },
    "transport": {
     "text": "Club travel page: Arena Katowice is at ul. Nowa Bukowa 1. On matchdays two free buses run to the Katowice Arena stop — GKS 1 from Centrum Przesiadkowe Brynów and GKS 2 from Plac Andrzeja — from 2.5 hours before kickoff until 2 hours after, including the return. Everyday lines 70 and Z-38 also serve Katowice Arena. Cars approach only from ul. Bocheńskiego. A paid car park needs a parking ticket bought the same way as a match ticket.",
     "source": "https://www.gkskatowice.eu/dojazd-na-arene",
@@ -221,6 +241,11 @@
    "passport": "yes",
    "evidence": "Ticket regulations §4.1 (online sales): register an account; up to 6 tickets per match giving name and PESEL '(for foreigners, another identity document)'. Season tickets need a Fan Card.",
    "source": "https://cdn.sportigio.com/spaces/507/uploads/NETKDpKlc6XhaUWQweGlrtMm7VqOMqzy2UIwmaub.pdf",
+   "price": {
+    "text": "Single-match columns on the club's 2026/27 ticket graphic (the page caption is the ticket price list for 2026/27; season-ticket columns on the same graphic are not quoted). Normal price, sectors A to J: 45, 49, 55, 59, 64, 69, 74, 79, 89 and 99 zł. Reduced: 35, 39, 45, 49, 54, 59, 64, 69, 79 and 89 zł. A child under 15 in family sectors I2, I3 and I4 is 15 zł. In sector C, a disabled supporter pays 5 zł (1st degree) or 15 zł (2nd degree). Women aged 60+ and men aged 65+ pay the reduced price. The page says every ticket is 10 zł more on matchday, and that a child up to and including age 3 pays 1 zł for a single match in every sector except J.",
+    "source": "https://cracovia.pl/informacjebilety",
+    "type": "official club page and 2026/27 graphic"
+   },
    "transport": {
     "text": "The club's matchday page lists many buses to Muzeum Narodowe (including 124, 134, 144, 152, 164, 173, 179, 192, 194 and 300) and buses 134 and 307 to Cracovia Stadion, plus airport bus 300. From the main station it lists buses 124 and 424 from Teatr Słowackiego and bus 192 from Dworzec Główny Wschód. Recent match notes also listed trams 8 and 14 to Muzeum Narodowe or Oleandry; the standing page currently shows a replacement bus instead of those trams. The ground is by Błonia, close to the centre. Check mpk.krakow.pl. The club does not say a match ticket includes public transport.",
     "source": "https://www.cracovia.pl/dzien-meczowy",
@@ -231,11 +256,16 @@
    "slug": "jagiellonia-bialystok",
    "name": "Jagiellonia Białystok",
    "en": "Jagiellonia Białystok",
-   "city": null,
+   "city": "bialystok",
    "ticket_url": "https://bilety.jagiellonia.pl/",
-   "passport": "accepted",
-   "evidence": "Only the 2025 SEASON-TICKET regulations were found: foreigners give type, series and number of their ID document instead of PESEL when registering in the online sales system. Single-ticket rules not yet checked.",
-   "source": "https://static-fr.roboticket.com/Content/JAGA/Images/Layouts/reg_sprzed_karnetow-2025.pdf",
+   "passport": "yes",
+   "evidence": "Single-ticket sales regulations: to buy, you give a first name, surname and PESEL, used to register you in the ticket system. A foreigner gives the type, series and number of an identity document instead of a PESEL. The document definition includes a passport. The online system named in the same regulations is bilety.jagiellonia.pl. A Fan Card can be made at Jaga Fan Shop, ul. Lipowa 12; the text does not say a one-off ticket requires one. The definitions clause says the regulations have applied since 1 July 2017, and the closing clause says they enter into force on 15 August 2024. They still name the stadium at ul. Słoneczna 1. Check before you go.",
+   "source": "https://api.jagiellonia.pl/public/mediafiles/regulaminy/Regulamin%20sprzedaz%CC%87y%20bileto%CC%81w%20.pdf",
+   "price": {
+    "text": "2026/27 graphic in the \"Cennik biletów Sezon 2026/27\" section of the official prices page. Normal price by sector: A 70 zł, B 60 zł, C 55 zł, D 45 zł, E 40 zł, F 35 zł. Concession: 60 / 50 / 45 / 35 / 30 / 25 zł. Child: 30 / 25 / 20 / 15 / 10 / 10 zł. The text under the graphic says matchday adds 5 zł to regular prices. The graphic does not define who counts as concession or child. Monthly subscriptions on the same page are a separate product, not a match ticket.",
+    "source": "https://bilety.jagiellonia.pl/CMS?page=ceny-i-informacje",
+    "type": "official 2026/27 price graphic"
+   },
    "transport": {
     "text": "No standing tram or bus list was found on the club's ticket site (last checked Oct 2026). The ticket office contact address published there is ul. Jurowiecka 21, 15-101 Białystok. Check local buses before you go.",
     "source": "https://bilety.jagiellonia.pl/",
@@ -251,6 +281,11 @@
    "passport": "yes",
    "evidence": "FAQ: 'How to buy a ticket for a foreigner?' After choosing a seat, enter the document number, click FILL IN USER DATA, enter name and tick the FOREIGNER checkbox. Account registration also accepts an ID number.",
    "source": "https://bilety.wisla-plock.pl/CMS?page=faq",
+   "price": {
+    "text": "2026/27 graphic on the official cennik page. Standard price: tribunes B and D 45 zł, C 50 zł, A 60 zł. Concession: 35 / 40 / 50 zł. Child: 20 / 25 / 30 zł. Family sectors C5 and C6: standard 50 zł, concession 40 zł, child 10 zł. People born in 1947: 1 zł. VIP is 350 zł with no discounts. The page defines standard as over 18, and concession as pupils and students up to 26, women, pensioners, war veterans, and disabled people and their carers (bring the document). Child is under 13. On C5/C6 the child price is lower and the adult price is unchanged. Tribune D is the active-support stand. Buy online at bilety.wisla-plock.pl. Box office: Orlen Stadion, ul. Łukasiewicza 34, weekdays 10:00–18:00. Niebieska Wyspa, Galeria Mazovia, ul. Wyszogrodzka 127, Monday–Friday 14:00–21:00, and Saturdays and trading Sundays 9:00–21:00.",
+    "source": "https://bilety.wisla-plock.pl/CMS?page=cennik",
+    "type": "official cennik page and 2026/27 graphic"
+   },
    "transport": {
     "text": "For the 2026/27 opener the club listed city buses to Siennickiego (lines 3, 7, 20, 22, 24, 31, 62, N1), Orlen Arena 01 and 02 (3, 20, 22, 24, N1) and Orlen Arena 03 and 04 (7, 32, 33, 35). The same note said free city transport was not yet in force for that Widzew match. Check before you go.",
     "source": "https://wisla-plock.pl/aktualnosci/wplwid-najwazniejsze-informacje-przed-przyjsciem-na-stadion/",
@@ -266,6 +301,11 @@
    "passport": "yes",
    "evidence": "English FAQ: 'I am a foreign national and do not have a PESEL number – how can I buy a ticket? … enter your passport number or another valid identity document number … When purchasing without logging in, you can also enter your identification number.'",
    "source": "https://bilety.slaskwroclaw.pl/CMS?page=FAQ-en",
+   "price": {
+    "text": "2026/27 price tool on the official cennik (the page footer says season 2026/2027). Online normal price: tribune A 65 zł, B (Młyn) 45 zł, C 55 zł, C Premium 65 zł, D 45 zł, family sector 45 zł. Concession (ages 13–18 and over 60) is 25 zł online on those stands. A pupil (6–13) is 15 zł. Ages 0–6 are free. The in-person pre-sale column is 5 zł above the online normal price on those stands, and the matchday column is 10 zł above it. Matches against Legia, Lech, Górnik Zabrze and Wisła Kraków add a further 5 zł to every ticket, and 50 zł in the VIP zone. A 2 zł service fee is added to a web transaction over 20 zł. Hospitality, online normal: Silver 380 zł, Gold 500 zł, Diamond 650 zł. Wieczysta Kraków is not in the +5 zł list.",
+    "source": "https://bilety.slaskwroclaw.pl/CMS?page=Cennik",
+    "type": "official ticket shop, 2026/27"
+   },
    "transport": {
     "text": "The ticket shop's travel page: trams 18 and 21 to Tarczyński Arena (Królewiecka); trams 3, 10 and 20 to Tarczyński Arena (Lotnicza); buses 101, 102, 103, 104, 123 and 127 (Królewiecka) and 152 (Pilczyce). Regional trains from Wrocław Główny stop at Wrocław Stadion (Lotnicza side). The club's stadium page lists a slightly different set, including tram 31. Address on the ticket page: Aleja Śląska 1. The club does not say a match ticket includes public transport. Check before you go.",
     "source": "https://bilety.slaskwroclaw.pl/CMS?page=dojazd",
@@ -281,6 +321,11 @@
    "passport": "yes",
    "evidence": "FAQ: people without a PESEL register with the ID they have: enter the document number in the PESEL field, click FILL IN DATA, tick 'Foreigner'. A Fan Card is not required.",
    "source": "https://bilety.gornikzabrze.pl/CMS?page=FAQ",
+   "price": {
+    "text": "The official cennik page titles two graphics \"BILETY SEZON 2026/27\" and \"BILETY TOP SEZON 2026/27\". On 19 October 2026 the image host returned HTTP 503, so the numbers are not quoted here. A 2024/25 VIP graphic on that page is commented out. Check the page before you go.",
+    "source": "https://bilety.gornikzabrze.pl/CMS?page=cennik",
+    "type": "official cennik page — price graphics not readable"
+   },
    "transport": {
     "text": "The ticket-shop guide: buses 32 and 932 run to the stadium from Zabrze or Gliwice centre (932 on weekdays only) and bus 720 from Zabrze only. From the Zabrze Goethego interchange the club says about 20 minutes. Full ZTM times are on the operator site. The club does not say a match ticket includes public transport. Check before you go.",
     "source": "https://bilety.gornikzabrze.pl/CMS?page=poradnik",
@@ -296,6 +341,11 @@
    "passport": "yes",
    "evidence": "Q&A: 'Can I buy a ticket for a foreigner (no PESEL)? Yes – enter the ID card/passport number in the PESEL field and tick the foreigner option.' Matchday sales open ~10–18 days before each match.",
    "source": "https://bilety.pogonszczecin.pl/CMS?page=qa",
+   "price": {
+    "text": "Autumn round 2026/27, on the club's cennik page. The page does not say which fixtures are category 1, 2 or 3. Standard price: category 1 is 55 zł on tribunes B and D, 70 zł on A and 80 zł on C (Prosta+); category 2 is 65 / 80 / 90 zł; category 3 is 80 / 100 / 120 zł. Reduced: category 1 is 35 / 50 / 60 zł, category 2 is 45 / 60 / 70 zł, category 3 is 60 / 80 / 100 zł. Child: category 1 is 15 / 20 / 25 zł, category 2 is 25 / 30 / 35 zł, category 3 is 30 / 40 / 50 zł. Each graphic says a matchday ticket is 10 zł more. The page adds a 4% transaction fee to every single-ticket purchase (not to a 2026/27 season ticket). VIP and disabled-person graphics on the same page were not read.",
+    "source": "https://pogonszczecin.pl/cennik-biletow",
+    "type": "official club page, autumn 2026/27 graphics"
+   },
    "transport": {
     "text": "Club guide for a first visit: trams 4, 5 and 7 to Karłowicza (ul. Mickiewicza); bus 86 to Witkiewicza Szkoła; buses 75 and 67 to Witkiewicza or Osiedle Przyjaźni; night buses 521 and 527. A walk from Plac Rodła is about 40 minutes (about 3 km) — the club's own figure. Matchday public transport is free from 12:00 with a match ticket. Parking is 20 zł, bought with the match ticket, entry from ul. Witkiewicza. The same page still points at 2025/26 season tickets, so check ZDiTM before you go.",
     "source": "https://pogonszczecin.pl/pierwszy-raz-na-stadionie",
@@ -311,6 +361,11 @@
    "passport": "accepted",
    "evidence": "Sales regulations: if the ticket holder has no PESEL, the type, series and number of an ID document (passport, ID card, residence document) is given. Online channel not spelled out. Home games are at the Reymana stadium (shared with Wisła Kraków).",
    "source": "https://static-fr.roboticket.com/Content/Wieczysta/Images/Layouts/REGULAMIN%20SPRZEDA%C5%BBY%20BILET%C3%93W%20NA%20MECZE%20KS_compressed.pdf",
+   "price": {
+    "text": "The public ticket-shop homepage, checked on 19 October 2026, does not print a single-match price. Check the shop when the match you want is on sale.",
+    "source": "https://bilety.kswieczysta.com/",
+    "type": "official ticket shop — no price in the HTML"
+   },
    "transport": {
     "text": "Home games are at the same ground as Wisła Kraków (Synerise Arena / Reymana, Reymonta 20). Use Wisła's road-to-the-stadium page and the stadium operator's dojazd page: tram options they publish include 14, 8 and 1 (club) or 1 and 20 (stadium site) to the Reymana stop. Airport bus 300 to Muzeum Narodowe, then about 15 minutes on foot along al. 3 Maja. Lines differ between the two pages. Check mpk.krakow.pl. Neither page says a Wieczysta ticket includes public transport.",
     "source": "https://stadionkrakow.pl/dojazd/",

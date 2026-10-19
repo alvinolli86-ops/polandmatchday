@@ -105,6 +105,59 @@
    "hours": "unverified",
    "source_note": "Łódź official tourism portal (lodz.travel), not the pub's own site. A phone number on that page sits next to the tourism-office address, so it is not listed here.",
    "featured": false
+  },
+  {
+   "name": "MasterLech Sport Bar",
+   "city": "poznan",
+   "address": "ul. Bułgarska 17, 60-320 Poznań",
+   "phone": "+48 536 829 357",
+   "url": "https://masterlechsport.pl/",
+   "shows": "The venue's events page lists Ekstraklasa, Champions League, Europa League and Conference League, and says they show three events at once. Premier League is not named. The homepage says live sport is on telebims and TVs",
+   "screens": "Large telebims and TVs; no count published",
+   "english_commentary": "unverified",
+   "booking": "+48 536 829 357 or dyrekcja@masterlechsport.pl",
+   "hours": "unverified",
+   "source_note": "venue website. The site's certificate was expired on the day checked; the stadium operator page also names Master Lech Sport at this address (ul. Bułgarska 17, 60-320 Poznań): https://eneastadion.pl/bar-sportowy/",
+   "featured": false
+  },
+  {
+   "name": "Lola Montez",
+   "city": "katowice",
+   "address": "ul. Średnia 10, 44-100 Gliwice",
+   "phone": "500 223 234",
+   "url": "https://www.lolamontezpub.pl/",
+   "shows": "Football, tennis and other sport on multiple screens. Two events can be shown at once. The site does not name the Premier League or the Champions League",
+   "screens": "Multiple screens; no count published",
+   "english_commentary": "unverified",
+   "booking": "The site says to reserve ahead for a big match. Phone 500 223 234",
+   "hours": "Sunday–Thursday 16:00–01:00, Friday–Saturday 16:00–03:00",
+   "featured": false
+  },
+  {
+   "name": "Klub Bilardowy Elida",
+   "city": "bialystok",
+   "address": "ul. Choroszczańska 29, 15-732 Białystok",
+   "phone": "85 652 47 24",
+   "url": "http://www.elidaclub.pl/transmisje",
+   "shows": "The venue's transmissions page names the Champions League, Europa League, Bundesliga, Premier League, Ligue 1, La Liga and Ekstraklasa. The same page still carries old match posts, so call to confirm a fixture",
+   "screens": "An HD projector with a large screen, plus seven TVs",
+   "english_commentary": "unverified",
+   "booking": "85 652 47 24 or 532 801 533",
+   "hours": "Monday–Thursday 15:00–24:00. Friday from 15:00 until the last customer. Saturday and Sunday 15:00 until the last customer. The page also still prints Easter hours for 1 and 2 April, so check before you go",
+   "featured": false
+  },
+  {
+   "name": "Perła Sport Pub",
+   "city": "lublin",
+   "address": "Stadion Arena Lublin, ul. Stadionowa 1, 20-001 Lublin",
+   "phone": "785 759 841",
+   "url": "http://perlasportpub.pl/",
+   "shows": "Live broadcasts of major sporting events, away games of Lublin teams, and events at Arena Lublin. The homepage does not name the Premier League or the Champions League",
+   "screens": "unverified",
+   "english_commentary": "unverified",
+   "booking": "785 759 841 or perlasportpub@perla.pl",
+   "hours": "unverified",
+   "featured": false
   }
  ]
 }
