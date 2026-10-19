@@ -80,28 +80,52 @@ def parse_round(html, rnd):
         })
     return out
 
-def fetch_ekstraklasa():
-    allm = []
-    for r in range(1, ROUNDS + 1):
-        url = f"https://ekstraklasa.org/terminarz/{SEASON}/kolejka-{r}/"
+def get_text(url, tries=3):
+    last = None
+    for i in range(tries):
         try:
             resp = requests.get(url, headers=UA, timeout=20)
             resp.raise_for_status()
-            ms = parse_round(resp.text, r)
+            return resp.text
+        except Exception as e:
+            last = e
+            time.sleep(2 * (i + 1))
+    raise last
+
+def get_json(url, tries=3):
+    last = None
+    for i in range(tries):
+        try:
+            resp = requests.get(url, headers=UA, timeout=20)
+            resp.raise_for_status()
+            return resp.json()
+        except Exception as e:
+            last = e
+            time.sleep(2 * (i + 1))
+    raise last
+
+def fetch_ekstraklasa():
+    allm, errors = [], 0
+    for r in range(1, ROUNDS + 1):
+        url = f"https://ekstraklasa.org/terminarz/{SEASON}/kolejka-{r}/"
+        try:
+            ms = parse_round(get_text(url), r)
             allm += ms
             print(f"Ekstraklasa round {r}: {len(ms)} matches", file=sys.stderr)
         except Exception as e:
+            errors += 1
             print(f"Ekstraklasa round {r}: ERROR {e}", file=sys.stderr)
         time.sleep(0.5)
-    return allm
+    return allm, errors
 
 def fetch_1liga():
-    allm = []
+    allm, errors = [], 0
     for r in range(1, ROUNDS + 1):
         url = f"https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4661&r={r}&s={SEASON}"
         try:
-            ev = requests.get(url, headers=UA, timeout=20).json().get("events") or []
+            ev = get_json(url).get("events") or []
         except Exception as e:
+            errors += 1
             print(f"1. Liga round {r}: ERROR {e}", file=sys.stderr); ev = []
         for e in ev:
             ts, t = e.get("strTimestamp"), e.get("strTime")
@@ -122,17 +146,30 @@ def fetch_1liga():
             })
         print(f"1. Liga round {r}: {len(ev)} matches", file=sys.stderr)
         time.sleep(1.2)  # be gentle with the free tier
-    return allm
+    return allm, errors
+
+def write_league(path, payload, matches, errors, label):
+    """Replace a league file only when every round succeeded.
+
+    A partial response must not overwrite the last committed fixtures.
+    """
+    if errors or not matches:
+        print(f"{label}: incomplete ({errors} failed rounds, {len(matches)} matches); keeping last committed file", file=sys.stderr)
+        return False
+    json.dump(payload, open(path, "w"), ensure_ascii=False, indent=1)
+    return True
 
 if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
     now = dt.datetime.now(WAW).isoformat(timespec="minutes")
-    ek = fetch_ekstraklasa()
-    if ek:
-        json.dump({"fetched": now, "source": "ekstraklasa.org (official)", "matches": ek},
-                  open(DATA / "fixtures_ekstraklasa.json", "w"), ensure_ascii=False, indent=1)
-    l1 = fetch_1liga()
-    if l1:
-        json.dump({"fetched": now, "source": "TheSportsDB (community data, free test key)", "matches": l1},
-                  open(DATA / "fixtures_1liga.json", "w"), ensure_ascii=False, indent=1)
-    print(f"done: {len(ek)} Ekstraklasa, {len(l1)} 1. Liga", file=sys.stderr)
+    ek, ek_err = fetch_ekstraklasa()
+    l1, l1_err = fetch_1liga()
+    write_league(DATA / "fixtures_ekstraklasa.json",
+                 {"fetched": now, "source": "ekstraklasa.org (official)", "matches": ek},
+                 ek, ek_err, "Ekstraklasa")
+    write_league(DATA / "fixtures_1liga.json",
+                 {"fetched": now, "source": "TheSportsDB (community data, free test key)", "matches": l1},
+                 l1, l1_err, "1. Liga")
+    print(f"done: {len(ek)} Ekstraklasa ({ek_err} errors), {len(l1)} 1. Liga ({l1_err} errors)", file=sys.stderr)
+    if ek_err or l1_err:
+        sys.exit(1)
