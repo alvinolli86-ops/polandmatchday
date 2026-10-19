@@ -1,0 +1,257 @@
+https://bilety.slaskwroclaw.pl/CMS?page=FAQ-en
+
+FAQ-en | roboticket
+launch
+Cennik
+Polski
+arrow_drop_down
+English
+Polski
+Українська
+Deutsch
+FAQ · Śląsk Wrocław
+Śląsk Wrocław
+          Buy ticket 
+→
+Help
+FAQ
+Answers to the most frequently asked questions about registration, buying tickets, vouchers, season tickets and entering the stadium.
+          🇵🇱 Wersja polska →
+Registration & Login
+How do I create an account?
++
+At the top of the bilety.slaskwroclaw.pl page, click the "Create account" button.
+Enter your PESEL number (for foreign nationals: another identification number or the series and number of your identity document), then click "NEXT".
+Fill in all fields and tick the checkboxes marked with an asterisk. Click "CREATE ACCOUNT".
+An activation link will be sent to the e-mail address you provided. Click it to complete the account activation process. Once clicked, your account in the ticketing system is active.
+How do I log in to the system?
++
+At the top of the bilety.slaskwroclaw.pl page, click the "LOGIN" button.
+In the "Email" field enter the address used during registration; in the "Password" field enter your password. Then click "LOGIN".
+How do I change my password?
++
+After logging in, expand the icon with the account owner's name and select "YOUR ACCOUNT".
+Then expand the context menu on the right side and select the password change option.
+Enter your old password, then enter your new password twice and confirm by clicking "Save". Your password has been changed successfully.
+How do I change my e-mail address in the system?
++
+Log in to your account in the ticketing system.
+After logging in, expand the icon with the account owner's name and select "YOUR ACCOUNT".
+Then expand the context menu on the right side and select "EDIT DATA".
+Change your e-mail address and save the changes. You will be logged out automatically.
+Log in using the new e-mail address and confirm the change by clicking the activation link.
+Can I change my personal data (name, surname, PESEL) myself?
++
+Mandatory personal data cannot be changed independently. If a change is necessary, please contact the Fan Service Office by e-mail at 
+kasy@slaskwroclaw.pl
+ or 
+wks@slaskwroclaw.pl
+.
+I can't log in – what should I do?
++
+Make sure you are entering the correct login and password. If you continue to have problems, use the "Forgot your password?" option.
+Do I need to register to buy a ticket?
++
+Yes, registering an account is required to purchase a ticket and allows you to manage your purchases.
+Purchases
+How do I buy a ticket?
++
+Create a new account or log in by clicking "CREATE ACCOUNT" or "LOGIN" respectively. Select the event you are interested in, then choose a stand and sector from the stadium map. After zooming in on the sector, select the specific seats you want to occupy during the match.
+Fill in the details of all persons for whom you are buying tickets (PESEL number, or for foreign nationals another identification number, e.g. passport number). If the fan's name does not fill in automatically after you enter the PESEL number, use the "FILL IN USER DATA" button.
+Fan Card – if the fan has a personalised Fan Card, the ticket will be encoded on it.
+Self-print / Mobile ticket – a ticket generated for download and printing, or to be sent via SMS to a smartphone.
+I am a foreign national and do not have a PESEL number – how can I buy a ticket?
++
+When creating an account on bilety.slaskwroclaw.pl, simply enter your passport number or another valid identity document number in the "PESEL for Polish citizens or document number for foreign nationals" field, and then fill in the remaining fields: first name, surname, date of birth, gender and e-mail address. When purchasing without logging in, you can also enter your identification number (other than PESEL) in place of the identifier.
+How can a foreign national who is entitled to a discounted ticket obtain the discount?
++
+When creating an account on bilety.slaskwroclaw.pl, enter your passport number or another valid identity document number in the "PESEL for Polish citizens or document number for foreign nationals" field, and then fill in the remaining fields: first name, surname, date of birth, gender and e-mail address. When purchasing without logging in, you can also enter your identification number (other than PESEL) in place of the identifier.
+If it is not possible to fill in the data independently, please send a request to 
+kasy@slaskwroclaw.pl
+ to have the date of birth and gender added to the foreign national's account.
+I have already bought a ticket but would like a different seat – can I change it?
++
+A seat change for individual matches is possible both for season ticket holders and for single tickets. If you wish to move to a more expensive zone, you will need to pay the price difference. Detailed instructions on how to change your seat are provided in the next item.
+How do I change my ticket seat?
++
+Log in to your account in the ticketing system. Use the drop-down menu in the upper-right area of the page (grey triangle next to your name) and select the "Your data" tab. Your ticket is displayed halfway down the page – open it using the square icon with an arrow in the lower-right corner. Click "Change seat" below the ticket details. Select a new seat on the stadium map. Proceed to the transaction summary by clicking the shopping-cart button, then click "Confirm". After the transaction is completed, your new ticket will appear in your account.
+Note: more than one seat change for the same ticket may result in having to pay the full ticket price again.
+I can't make it to the match but I've already bought a ticket – can I get a refund?
++
+In accordance with the terms of sale accepted in the regulations at the time of purchase, tickets cannot be returned. Pursuant to Article 38(12) of the Act of 30 May 2014 on Consumer Rights (Journal of Laws of 2020, item 287, as amended), the customer is not entitled to withdraw from a distance contract under Article 27 of that Act.
+I can't make it to the match but I've already bought a ticket – can I transfer it to someone else?
++
+Transfer for individual matches is possible both for season ticket holders and for single tickets. If you wish to transfer a ticket to another person, you must pay the price difference if you are transferring from a discounted ticket to a full-price ticket. Detailed instructions on how to transfer a ticket are provided in the next item.
+How do I transfer a ticket to another person?
++
+Log in to your account in the ticketing system. Use the drop-down menu in the upper-right area of the page (grey triangle next to your name) and select the "Your account" tab. Your ticket is displayed halfway down the page – open it using the square icon with an arrow in the lower-right corner. Click "Transfer ticket" below the ticket details. Fill in the details of the person you are transferring the ticket to. Proceed to the transaction summary by clicking the shopping-cart button, then click "Confirm". After the transaction is completed, a new ticket will appear in your account.
+Note: an additional charge may be added when transferring a ticket. The surcharge is calculated based on the price of the ticket being transferred. It may arise when, for example, a child's or season-ticket price (with applied discounts) is transferred to a person who is not entitled to such discounts and/or whose tickets fall into a higher price group. Ticket changes are available up to 2 hours before the match and are automatically disabled once the stadium gates open.
+Can I get a refund on a ticket?
++
+No, purchased tickets are non-refundable unless the event is cancelled.
+What should I do if I haven't received my ticket?
++
+Check your SPAM folder. If the ticket is still missing, contact the Fan Service Office.
+I don't have a Fan Card – can I still buy a ticket?
++
+Holding a physical Fan Card is not required. Via bilety.slaskwroclaw.pl you can purchase tickets that you print yourself at home or send as a mobile ticket to your phone. A Fan Card is also not required when buying in person, e.g. at the stadium. A season ticket can also be purchased without a Fan Card – however, you will need to download and print a ticket from your account before each home match.
+I bought a print-at-home ticket but I don't have a printer – what should I do?
++
+A PDF ticket purchased for self-printing can also be displayed on your phone and scanned at the turnstile. The PDF ticket contains barcodes and an active "MOBILE" button which converts it into a mobile ticket with one click. You can also convert it to a mobile ticket from the "TRANSACTION LIST" in your account, and send it as a link or via SMS to a chosen phone number. Both versions – PDF and mobile – are valid and work at the turnstile. A ticket for a given stand works at every turnstile on that stand – choose the one with the shortest queue.
+Advantages of the mobile ticket
++
+No printing, no Fan Card – you come to the match with just your smartphone. It allows you to quickly and easily send your ticket to friends or family, even a few minutes before kick-off. It reduces the risk of losing, forgetting or having your ticket stolen. The best solution for those who value speed and convenience.
+Important tips for mobile tickets
++
+Download your mobile ticket before approaching the turnstile – internet at the stadium does not always work fast when there are many fans. Set your screen brightness to maximum and disable NFC. Always use a charged phone with a clean, undamaged screen. A ticket for a given stand works at every turnstile on that stand – choose the one with the shortest queue.
+SMS ticket – how do I send one?
++
+Step 1. Buy a match ticket with the delivery method "SELF-PRINT / MOBILE TICKET".
+Step 2. Go to the ticket details and click the "MOBILE TICKET" button.
+Step 3. Select the "SMS TICKET" option, enter your phone number (9 digits, without the country code) and click "SEND SMS". To open the ticket immediately without sending an SMS, you can also scan the QR code or copy the link.
+Step 4. A message containing a link to the ticket will be sent to the number provided. Clicking the link will display the ticket with a barcode that grants entry to the stadium.
+Important: an internet connection is required to open the ticket from the SMS. The SMS gateway has a limited number of messages.
+Can I send an SMS ticket to another person?
++
+Yes, simply enter the phone number of the person you want to send the ticket link to. Important: an internet connection is required to open the ticket from the SMS.
+I bought several tickets in one transaction – can I send them all in one SMS?
++
+Yes, you can send all tickets from a given transaction in one SMS. Simply go to the transaction details and click "MOBILE TICKET" – all purchased tickets will be sent to one phone.
+What if I entered the wrong phone number and someone else receives the ticket?
++
+If you accidentally entered the wrong phone number and suspect that someone else might use the ticket, please contact the Fan Service Office – we will generate a replacement ticket and send it to the correct number.
+Can I send an SMS ticket after the match has already started?
++
+Unfortunately not – sending a ticket via SMS is only possible until kick-off.
+I have a season ticket / match ticket on my Fan Card. Can I change the delivery method and enter the stadium using a mobile ticket?
++
+If you purchased a single match ticket on your Fan Card, it is not possible to change the delivery method – your physical Fan Card is the only medium and you can only enter the stadium with it. If you purchased a season ticket on your Fan Card, you can change the delivery method for individual matches and then open the ticket in a mobile app, a digital wallet, or send it to yourself via SMS. To do this, go to your season ticket details and select "CONVERT TO TICKET" next to the relevant match.
+Can I print a ticket that I have on my phone?
++
+Yes, you can download the ticket after logging in to your account and print it. After printing, check its quality – especially the barcode, as a self-printed ticket is sensitive to creasing and damage. The printed ticket also contains a QR code, which is more resistant to damage or poor print quality. Remember that your ticket can exist in one of three forms: in the app, as a mobile ticket sent via SMS, or in a digital wallet.
+Turnstiles
+Can I enter the match with a PDF ticket open on my phone, or a photo of the barcode?
++
+Screenshots or photos are in most cases not read correctly by the turnstiles and do not guarantee entry to the stadium. We recommend having your ticket in PDF or mobile format (a PDF can be converted to mobile format by clicking the relevant button on the PDF ticket or in the transaction history in your account) to avoid unnecessary stress, wasted time or printing costs.
+Can I have multiple tickets on my phone, e.g. for friends I'm going to the match with?
++
+Yes. One person can scan and admit the rest of the group (if they arrived together) by switching between tickets on their phone. If people did not arrive together, you can send each of them an individual ticket via the SMS gateway (limited number) or a mobile ticket link (unlimited).
+What should I do if my ticket is not scanned correctly and I get a "ticket not recognised" message at the turnstile?
++
+Usually it is enough to set your screen brightness to maximum. Also check whether NFC is enabled or whether the screen is dirty or damaged. If that does not help, ask a steward for assistance or go to the complaints desk in the FanShop on Królewiecka Street. Also check that you are holding the phone correctly in front of the reader and that the barcode is clearly visible. Important: the barcode can also be scanned vertically without zooming in; do not zoom in on the QR code on your screen – its size is calibrated for the reader. Signs showing the correct technique for scanning a ticket from a phone are displayed throughout the stadium.
+What if I have a friend's ticket on my phone but they haven't arrived at the stadium yet?
++
+The simplest solution is to send the ticket via SMS or as an attachment through a messaging app. The service is free of charge.
+Vouchers
+How do I redeem a voucher?
++
+A voucher can be redeemed on the ticketing platform at bilety.slaskwroclaw.pl. After selecting seats and filling in personal details in the transaction basket, enter the voucher code in the field next to the ticket price. Vouchers can also be redeemed at the box office at ul. Oporwoska 62, Monday to Friday, 9 a.m. – 5 p.m.
+How do I use a gift voucher?
++
+Select a ticket, then during payment enter the voucher code – its value will be deducted from the ticket price.
+Gift voucher
++
+A gift voucher can be loaded with an amount between PLN 10 and PLN 650 and used as an electronic wallet when purchasing tickets and season tickets for Śląsk Wrocław matches at Tarczyński Arena Wrocław.
+When you buy a voucher, you receive a special multi-use code up to the purchased amount. The voucher can be used to buy tickets and season tickets for all stands, including VIP sectors – it covers both single tickets and tickets for multiple people, as well as season tickets.
+The voucher can be used by its purchaser or transferred to another person, e.g. as a gift. If the voucher balance is exceeded at the time of purchase, you will pay the remaining difference.
+When purchasing a voucher, you must provide a first name, surname and PESEL number. The voucher will be assigned to the account of the person whose data was provided at the time of purchase (e.g. your own or the recipient's) and can be downloaded from that person's profile. The personal data provided at the time of purchase will not be visible on the voucher.
+How do I buy a gift voucher?
++
+Step 1. Log in at bilety.slaskwroclaw.pl.
+Step 2. Select the "Gift voucher" tab, set the amount you want, go to "SUMMARY" and click "CONFIRM". Pay for the order using PayU – the order must be paid immediately.
+The voucher is valid until 31.12.2026 (the club may extend its validity for further years) or until its full value has been used.
+Can a voucher be used partially?
++
+Yes. The unused balance remains on the account and can be used for future purchases.
+Season Tickets
+What are the benefits of having a season ticket?
++
+A season ticket grants entry to all home matches during the season and offers additional benefits, such as discounts.
+Can a season ticket be transferred to another person?
++
+No, a season ticket is personal and cannot be transferred to other people. However, a single match from the season ticket can be transferred to someone else up to 4 times per season (2 times per half-season) – in your account, next to the season ticket match, select the "Transfer ticket" option.
+I lost my Fan Card which had my season ticket on it – what should I do to be able to enter the stadium?
++
+Simply visit the stadium box office at ul. Oporowska 62 in person (during the pre-match week) or the FanShop at the stadium (on match day) to order a duplicate card. The previous card will be cancelled so that nobody else can use it. The cost of a duplicate card is PLN 20.
+How do I purchase a season ticket? Step-by-step guide
++
+Step 1. Log in to the system and select a seat.
+Step 2. Fill in your details.
+Step 3. Select the price category – the system will automatically assign the appropriate price category for each fan based on the PESEL number.
+Step 4. Choose the delivery method for your season ticket: PDF print (you must download a ticket before each home match; this method also allows you to obtain a Fan Card later at selected in-person locations); encode on Fan Card (encode the season ticket onto an existing, active Fan Card linked to your account); or new virtual card (a digital version, e.g. for a digital wallet – select "NEW CARD" and then click the green "+" icon; note that a virtual card prevents you from obtaining a physical Fan Card later).
+Step 5. Payment.
+How do I change the seat on my season ticket?
++
+From your fan account it is only possible to change the seat for a selected match within the season ticket. Log in to your account, use the drop-down menu in the upper-right area of the page and select the "Your data" tab. Your season ticket is displayed halfway down the page – open it using the square icon with an arrow in the lower-right corner. Click "Change seat", select a new seat on the stadium map, proceed to the transaction summary and click "Confirm".
+Note: more than one seat change for the same season ticket may result in having to pay the full season ticket price again.
+I can't make it to the match but I have a season ticket – can I return it?
++
+In accordance with the terms of sale accepted at the time of purchase, season tickets are non-refundable. However, it is possible to transfer a season ticket match to another person for a specific match.
+I have a season ticket but am not receiving SMS messages from the club
++
+To receive important club information, add your phone number to the ticketing system. Log in to your account, select "Your account", then "Edit data". Enter your number in the "Phone" field and save the changes.
+I have a Fan Card but selected PDF as my delivery method – what should I do?
++
+Nothing needs to be changed. If the card is linked to your fan account, is working and undamaged, simply generate the ticket from your season ticket – your Fan Card will also work with a PDF season ticket.
+Can I buy a season ticket without a Fan Card?
++
+Holding a Fan Card is no longer required. You can purchase a season ticket without a Fan Card at bilety.slaskwroclaw.pl by selecting "PDF print" as the delivery method. In this case, remember to download your tickets for each match in PDF format for printing, or as a mobile ticket.
+I want to buy a season ticket online but I want it on a physical (plastic) Fan Card
++
+If you want a physical Fan Card with your season ticket, choose an in-person purchase at ul. Oporowska 62 or ul. Królewiecka – online purchases only offer the new virtual card option (a digital version on your phone). If you want to buy your season ticket quickly online and obtain a physical card later, choose the PDF version (without a card) – this PDF season ticket will later be linked to your physical Fan Card. If you selected the new virtual card during the online purchase, the season ticket is in digital format and obtaining a physical card later may cause the season ticket to malfunction at the turnstiles.
+I renewed my season ticket for my own seat – how do I renew a season ticket for another person from my account?
++
+When renewing a season ticket, the system always asks whether the fan wants to keep the same seat or change it. However, if a fan renews a season ticket for another person using their own account, the system skips this step and goes directly to seat selection on the stadium map. If you want to renew the same seat for another person, you must select that exact seat on the map. Season ticket seats are reserved with a red border on the stadium map for a set period of time defined by the club – no other person can select a reserved seat.
+Additional Information
+Service fee
++
+A service fee of PLN 2 is added to every online transaction (the transaction must exceed PLN 20). This fee covers the payment gateway provider's service charge.
+Do children need a ticket?
++
+Children under the age of 6 may enter free of charge but still need a free ticket to access the venue. Older children need a paid ticket.
+How do I use the Nasz Wrocław and Nasz Wrocław MAX programmes?
++
+Tickets can only be collected at the box office at ul. Oporowska 62 (10 a.m. – 5 p.m.) and at the Fan Shop at ul. Piłsudskiego (10 a.m. – 6 p.m.), Monday to Friday, excluding match days. Under the Nasz Wrocław programme, the card/account holder may collect one ticket for themselves; under Nasz Wrocław MAX, one ticket for themselves and one for a companion. Tickets are valid for the family sector at Tarczyński Arena Wrocław.
+How do I use the Wrocław Agglomeration Card programme?
++
+Tickets can only be collected at the box office at ul. Oporowska 62 (10 a.m. – 5 p.m.), Monday to Friday, excluding match days. The card holder may collect one ticket for themselves. Tickets carry a 50% discount and are valid for the family sector at Tarczyński Arena Wrocław.
+How do I use the Honorary Blood Donor discount?
++
+The ZHDK discount is available only to distinguished honorary blood donors holding a white Polish Red Cross First Degree ID or a Certificate of Distinguished Blood Donor for the Nation. A scan of the ID must be sent to 
+kasy@slaskwroclaw.pl
+ – after verification the person will be added to the ticketing database with special discount entitlements.
+How do I use the Veterans' discount?
++
+The 100% Veterans' discount is available only to Polish Armed Forces soldiers holding a veteran's ID. A scan of the ID must be sent to 
+kasy@slaskwroclaw.pl
+ – after verification the person will be added to the ticketing database with special discount entitlements.
+How do I buy tickets for an organised group?
++
+Contact us by writing to 
+kasy@slaskwroclaw.pl
+, providing the group name, number of participants (children and adults) and the stand you are interested in. We will prepare a reservation and a link for self-collection of the tickets.
+Invoice
++
+If purchasing in person, inform the cashier before the transaction that you require an invoice. If purchasing online, contact us by writing to 
+kasy@slaskwroclaw.pl
+.
+Tickets for persons with disabilities
++
+To purchase a discounted ticket, please contact the Śląsk Wrocław Disabled Fans Club – 
+www.kkn.wroclaw.pl
+.
+Where can I find more information?
++
+Contact the Fan Service Office: 
+kasy@slaskwroclaw.pl
+ or +48 71 750 00 83.
+© WKS Śląsk Wrocław S.A. · Season 2025/2026
+          Buy ticket →
+                        © 2026
+English
+                                    /
+Polski
+                                    /
+Українська
+                                    /
+Deutsch

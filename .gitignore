@@ -1,0 +1,12 @@
+# Static output is deployed as a GitHub Actions Pages artifact, not committed.
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store

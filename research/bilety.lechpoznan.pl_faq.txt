@@ -1,0 +1,345 @@
+https://bilety.lechpoznan.pl/CMS?page=faq
+
+faq | roboticket
+launch
+Informacja
+Polski
+arrow_drop_down
+English
+Polski
+Українська
+Deutsch
+NAJCZĘSCIEJ ZADAWANE PYTANIA - FAQ
+Konto w systemie
+help_outline
+Jak założyć konto?
+Krok 1.
+U góry strony 
+bilety.lechpoznan.pl
+ klikamy przycisk
+			Załóż konto
+Krok 2.
+Wpisujemy swój numer PESEL (w przypadku obcokrajowców inny numer identyfikacyjny lub serię i numer dokumentu tożsamości), następnie klikamy przycisk 
+Dalej
+Krok 3.
+Uzupełniamy wszystkie pola oraz zaznaczamy przyciski wyboru oznaczone gwiazdką. Klikamy przycisk „ZAŁÓŻ KONTO”. 
+Krok 4.
+Na podany w kroku 3. adres e-mail zostanie wysłana wiadomość z linkiem aktywacyjnym - należy kliknąć aby w dokończyć proces aktywacji konta.
+            Po kliknięciu w link aktywacyjny konto użytkownika w systemie biletowym zostaje automatycznie aktywowane. 
+help_outline
+Jak się zalogować do systemu?
+Krok 1.
+U góry strony 
+bilety.lechpoznan.pl
+ klikamy przycisk 
+			Logowanie 
+Krok 2.
+W polu "e-mail" wpisujemy adres poczty internetowej użytej przy rejestracji, a w polu "Hasło" ustawione przez użytkownika hasło do konta. Następnie klikamy przycisk 
+done
+ Logowanie
+help_outline
+Jak zmienić indywidualne hasło?
+Krok 1.
+Po zalogowaniu rozwijamy ikonę z nazwiskiem właściciela i wybieramy opcję "Twoje konto".
+Krok 2.
+Następnie rozwijamy menu kontekstowe po prawej stronie i wybieramy opcję "Zmiana hasła".
+Krok 3.
+ Wpisujemy stare hasło, a następnie dwa razy nowe hasło oraz potwierdzamy przyciskiem 
+Zapisz
+Twoje hasło zostało zmienione.
+Zakup biletów
+help_outline
+Jak zakupić bilet? - instrukcja
+Krok 1.
+Na stronie 
+bilety.lechpoznan.pl
+ wybieramy interesujący nas mecz. W przypadku szczególnie atrakcyjnych wydarzeń, w celu kontynuowania zakupów konieczne może być zalogowanie się.
+Krok 2.
+Wybieramy trybunę oraz sektor z poglądowej mapy stadionu.
+Krok 3.
+Wyświetla się szczegółowy widok wybranego sektora - wybieramy interesujące nas miejsca.
+Krok 4.
+Uzupełniamy dane (numer PESEL lub w przypadku obcokrajowców inny numer identyfikacyjny) każdej osoby, dla której kupujemy bilet. 
+Jeżeli osoby, której chcemy kupić bilet nie ma jeszcze w systemie biletowym możemy ją dodać po kliknięciu w przycisk 
+local_offer
+Uzupełnij dane użytkownika
+Krok 5.
+Spośród kafelków z typami cen (Normalny, Ulgowy, Dziecko) wybieramy odpowiednią cenę dla każdego biletu. Poniżej wybieramy metodę dostarczenia - spośród dwóch dostępnych
+•	Karta Kibica Internet – bilet zostanie doładowany na plastikową Kartę Kibica (jeżeli posiadasz)
+•	Wydruk samodzielny/Bilet na telefon – bilet zostanie wygenerowany i będzie możliwy do pobrania i wydrukowania w formacie kartki A4 na domowej drukarce lub wysłania SMS-em.
+Jeżeli kibic posiada voucher obniżający cenę biletu można go wpisać w pole "Użyj voucher". Po kliknięciu w ikonkę z symbolem prezentu pojawi się również lista wszystkich aktywnych voucherów upoważniających do zniżki (jeżeli posiadasz).
+UWAGA:
+ do realizacji vouchera niezbędne może być uzupełnienie danych teleadresowych oraz wyrażenie zgody na przetwarzanie danych osobowych.
+Krok 6. 
+Przechodzimy do podsumowania transakcji poprzez kliknięcie w niebieski przycisk z wizualizacją karty płatniczej. 
+Po upewnieniu się, że wszystkie wybrane bilety i wprowadzone dane są poprawne klikamy przycisk 
+Realizuj
+. 
+Krok 7. 
+W przypadku zakupu bez logowania (jako gość), zostaniesz poproszony o uzupełnienie adresu e-mail, na który otrzymasz wiadomość z bezpośrednim dostępem do zakupionych biletów. Upewnij się, że wpisujesz prawidłowy adres e-mail, do którego masz dostęp. Przechodzimy następnie do serwisu PayU gdzie należy dokonać płatności za zamówione bilety. Zamówienie należy opłacić od razu, za pośrednictwem szybkich płatności PayU. Miejsca nieopłacone w przeciągu 15 minut, zwalniają się i są dostępne dla innych Kibiców.
+.
+help_outline
+Zakup biletu bez rejestracji i logowania
+Krok 1.
+Wejdź na stronę 
+bilety.lechpoznan.pl
+ i kliknij przy interesującym Cię meczu ikonkę zakupu biletu, wybierz z mapki stadionu tyle miejsc, ile biletów chcesz zakupić i bez rejestracji uzupełnij dane osobowe (PESEL, imię i nazwisko).
+Krok 2.
+Po uzupełnieniu danych należy przejść do podsumowania, zaakceptować wymagane zgody a następnie kliknąć "REALIZUJ".
+Aby przejść do płatności należy w tym miejscu się zalogować lub uzupełnić dane w  sekcji "Kontynuuj jako gość"
+Krok 3.
+Uzupełnij dane - imię i nazwisko, podaj adres e-mail, do którego masz dostęp (to na ten adres otrzymasz indywidualny link, który umożliwi Ci dostęp do biletów), a następnie kliknij przycisk "DALEJ", a  zostaniesz przekierowany do płatności.  
+UWAGA!
+ Na podany adres e-mail zostanie wysłany link z możliwością pobrania biletów. Prosimy dokładnie uzupełnić dane. 
+Krok 4.
+Konieczne jest opłacenie zakupów przez system szybkich płatności PayU w przeciągu 15 minut od podsumowania transakcji. Jeśli nie dokończysz tego etapu w wyznaczonym czasie lub na przykład w międzyczasie stracisz łącze internetowe, konieczne będzie przeprowadzenie całej procedury zakupu, łącznie z wyborem miejsc na stadionie, od początku.
+Opcja zakupu biletu bez rejestracji w systemie biletowym nie będzie dostępna przy wszystkich meczach. Wejściówki na niektóre hitowe spotkania  będą mogli nabyć, przez Internet, tylko zarejestrowani użytkownicy. Zachęcamy do założenia konta, aby w pełni korzystać ze wszystkich opcji zakupowych.
+help_outline
+Jak wykorzystać kod zniżkowy (voucher)?
+Jeżeli Kibic posiada kod zniżkowy/voucher obniżający cenę biletu, może go wprowadzić tuż przed podsumowaniem transakcji. 
+W tym celu wystarczy wprowadzić kod zniżkowy w pole "Użyj voucher".
+Po kliknięciu w widoczną obok ikonkę z wizualizacją prezentu, pojawi się lista wszystkich aktywnych voucherów upoważniających do zniżki (jeżeli są dostępne).
+UWAGA: 
+do realizacji vouchera niezbędne może być uzupełnienie danych teleadresowych oraz wyrażenie zgody na przetwarzanie danych osobowych.
+help_outline
+Czy mogę zakupić bilety na stadionie?
+Bilety można zakupić w Stacji Kolejorz mieszczącej się na stadionie pod trybuną IV im. Edmunda Białasa. Punkt Biletowy w sklepie otwarty jest w następujących godzinach: 
+od poniedziałku do piątku 9:00 - 17:00
+w soboty 10:00 - 15:00 
+W dniu meczowym w Stacji Kolejorz na stadionie nie jest prowadzona sprzedaż biletów. 
+Bilety w dzień meczowy można zakupić w Kasach Biletowych nr 2 i nr 3, znajdujących się pod wejściem na promenadę od ulicy Bułgarskiej.
+Kasy Biletowe w dni meczowe są czynne od 10:00 do końca pierwszej połowy spotkania.
+help_outline
+Czy mogę zakupić bilet w punkcie stacjonarnym poza terenem Poznania?
+Wszystkie punkty współpracujące z nami w sprzedaży biletów wymienione są pod 
+tym linkiem.
+help_outline
+Czy mogę zakupić wejściówkę przez swojego smartfona?
+Istnieje możliwość zakupienia pojedynczych wejściówek za pomocą smartfonów. W tym celu należy ściągnąć aplikację mobilną 
+Lech bilety
+ i postępować zgodnie z jej poleceniami.
+help_outline
+Chcę sprawić prezent - niespodziankę dla znajomego. Czy Klub ma w swojej ofercie produkt o takiej charakterystyce?
+KKS Lech Poznań dysponuje szeroką ofertą o charakterze prezentowym. Jeśli chcesz podarować bliskiej osobie niezapomniane chwile podczas kibicowania na stadionie, ale nie wiesz, na którą trybunę chce się ona wybrać lub interesujący ją mecz nie jest jeszcze w sprzedaży, karta podarunkowa Lecha Poznań lub voucher prezentowy będzie idealnym rozwiązaniem! Wszystkie szczegóły znajdziesz 
+tutaj
+. 
+Wejście na mecz i Karta Kibica
+help_outline
+Nie posiadam Karty Kibica, czy mogę zakupić bilet?
+Posiadanie plastikowej Karty Kibica 
+NIE JEST WYMAGANE
+, za pośrednictwem strony 
+bilety.lechpoznan.pl
+ możesz kupić bilety, które samodzielnie wydrukujesz w domu lub wyślesz w formie mobilnej na swój telefon komórkowy. Karta Kibica nie jest wymagana także podczas zakupu stacjonarnego, na przykład na stadionie.
+Od 10 grudnia 2015r. bilety na mecze Lecha możesz zakupić poprzez 
+aplikację mobilną Lech Bilety
+. W kilku krokach kupisz wejściówkę i korzystając wyłącznie z telefonu wejdziesz na każdą trybunę poznańskiego stadionu poprzez dedykowane wejścia mobilne. Oczywiście jest możliwość zakupu biletu bez Karty Kibica w punkcie biletowym i w kasie na terenie stadionu. Wystarczy tylko w momencie zakupu podać imię, nazwisko i nr PESEL kibica.
+help_outline
+Kupiłem przez Internet bilet bez Karty Kibica. Jak wejdę na mecz?
+Jeśli podczas zakupu biletu wybrałeś opcję „Wydruk samodzielny/Bilet na telefon”, możesz pobrać bilet ze swojego konta na stronie 
+bilety.lechpoznan.pl 
+ i wydrukować go lub skorzystać z funkcji wysłania biletu SMS-em.  Nie musisz już stać w kolejce do kasy, ani odbierać swojego biletu na miejscu, na stadionie. 
+ Po sfinalizowaniu transakcji zakupu biletów, ponownie wejdź na swoje konto w systemie biletowym za pomocą rozwijanego menu w prawej górnej części strony (kliknij na strzałkę przy Twoim imieniu i nazwisku, a następnie „Twoje konto”). W połowie strony znajdziesz pole w kształcie prostokąta z informacjami o szczegółach mecz i swojego miejsca. U dołu pola jest szereg ikonek: najeżdżając kursorem na każdą z nich, wyświetlisz informację, do czego służą. 
+Klikając w ikonę „
+Pobierz bilet
+” otworzysz swój bilet w formacie .pdf. Możesz wydrukować go na zwykłej domowej drukarce. Bilet możesz wydrukować w kolorze lub w wersji czarno-białej. Na wydruku są dane na temat Twojego miejsca oraz tego, którym wejściem powinieneś wejść na stadion, ale najważniejszy jest 
+kod kreskowy
+ widoczny u góry i u dołu strony. Upewnij się, że jest wyraźny i nie zginaj kartki w jego miejscu. Najlepiej złożyć wydruk na trzy części wzdłuż linii. Z tak przygotowanym biletem i dokumentem tożsamości przyjedź na stadion i bez oczekiwania w kolejce do kasy wejdź na mecz. 
+ Gdy klikniesz w ikonę „
+Wyślij SMS
+”, pojawi się pole, w którym należy wpisać numer telefonu, na jaki ma zostać wysłany SMS z biletem. Po wywołaniu tej funkcji, na podany numer zostanie wysłana wiadomość z linkiem, po otwarciu którego na telefonie pojawi bilet z kodem kreskowym na górze widoku. Aby otworzyć link, musisz mieć połączenie z Wi-Fi lub włączoną transmisję danych. Wyświetlony bilet trzeba włożyć do czytnika przy odpowiednim kołowrotku. 
+ Bilet zakupiony z metodą dostarczenia "Wydruk samodzielny/ Bilet na telefon" możesz w łatwy sposób przesłać na swoją skrzynkę E-mail. W szczegółowym widoku biletu wybierz funkcję "
+Link bezpośredni
+", a w nowym oknie wpisz adres E-mail, na który wyślemy wiadomość z bezpośrednim odnośnikiem do Twojego biletu. Co prawda otwarty za pomocą maila bilet w formacie .pdf nie uruchomi przed Tobą kołowrotka na przy wejściu, ale mając bilet zapisany na skrzynce mailowej, łatwiej go później znajdziesz i wydrukujesz.
+ Bilet zakupiony z metodą dostarczenia „Wydruk samodzielny/ Bilet na telefon” jest też dostępny na aplikacji mobilnej LECH Bilety, o której więcej dowiesz się 
+tutaj
+. 
+ Swój bilet możesz zarówno wydrukować, jak i wysłać SMS-em oraz otworzyć w aplikacji i dopiero przy samym wejściu zdecydować, która funkcja jest dla Ciebie najbardziej wygodna.
+Jeśli w jednej transakcji kupowałeś większą ilość biletów i chcesz pobrać je wszystkie, kliknij w ostatnią z ikonek „
+Przejdź do transakcji
+”. Z tego miejsca zobaczysz wszystkie zakupione w transakcji bilety, a korzystając przycisku „Pobierz wszystkie bilety”, możesz w jednym kroku pobrać i wydrukować bilety dla całej Twojej grupy.
+help_outline
+Jestem obcokrajowcem i nie posiadam numeru PESEL, jak mogę kupić bilet?
+Podczas zakładania konta w systemie 
+bilety.lechpoznan.pl 
+wystarczy w polu "PESEL/inny numer" wpisać numer paszportu lub innego ważnego dokumentu tożsamości, a następnie uzupełnić pozostałe pola, takie jak: imię, nazwisko, adres E-mail. Podczas zakupu bez logowania również możesz wpisać swój numer identyfikacyjny, który nie jest numerem PESEL w miejsce identyfikatora.
+help_outline
+Zgubiłem Kartę Kibica, co mam zrobić, aby móc wejść na mecz?
+Wystarczy osobiście w kasach stadionu (w dniu meczu), bądź w Punkcie Biletowym w Stacji Kolejorz (w pozostałe dni)  zamówić duplikat karty. Poprzednia karta zostanie wówczas anulowana, by nikt nie mógł z niej korzystać. Koszt wyrobienia duplikatu karty wynosi 10zł.
+help_outline
+Zamówiłem kartę kibica z doładowanym już biletem, ale nie zdążyłem jej otrzymać przed meczem, jak mogę wejść na stadion?
+W przypadku takiej sytuacji należy przed meczem udać się do Kasy Reklamacyjnej numer 1, znajdującej się przy stadionie, gdzie zostanie wydrukowany specjalny jednorazowy bilet reklamacyjny. Kasa reklamacyjna znajduje się pomiędzy I Trybuną im. Anioły, a II Trybuną Kocioł.
+help_outline
+Czy można wyrobić Kartę Kibica tuż przed meczem?
+Jest to możliwe, jednak ze względów logistycznych, w zależności od liczby kibiców przy kasach, karty kibica są drukowane najpóźniej na godzinę lub dwie przed pierwszym gwizdkiem. Warto więc pojawić się wcześniej.Koszt wyrobienia karty kibica to 10 zł.
+help_outline
+Czy to oznacza, że na godzinę przed meczem w kasach stadionu nie da się już kupić biletu?
+Oczywiście istnieje możliwość zakupu biletu w kasach nr 2 i 3 (pod promenadą przy III trybunie, od ul. Bułgarskiej), wówczas są wydawane jednorazowe bilety papierowe.
+help_outline
+Na mojej karcie kibica skończyła się data ważności, czy muszę wyrobić nową?
+Data ważności naniesiona na niektórych kartach dotyczy wyłącznie funkcji płatniczej karty, jeśli chcesz ją przedłużyć musisz udać się do jednej z placówek SGB. Taka karta w dalszym ciągu pozwala jednak wchodzić na mecze, gdyż jej funkcja identyfikacyjna utrzymuje swoją ważność bezterminowo. 
+help_outline
+Ile kosztuje wyrobienie karty kibica?
+Zarówno duplikat karty jak i wyrobienie nowej karty kibica w kasach stadionu i w punkcie biletowym w Stacji Kolejorz lub punktach partnerskich kosztuje 10zł. Dostarczenie karty kibica do domu kosztuje 10 zł.
+help_outline
+Czy mogę zamówić Kartę Kibica przez system biletowy?
+Oczywiście, można zamówić Kartę Kibica przez Internet. Aby zamówić kartę należy:
+Krok 1.
+ Zaloguj się na swoje konto w systemie biletowym
+Krok 2.
+Po zalogowaniu z rozwijanego menu wybierz opcję "Twoje konto"
+Krok 3.
+Wybierz przycisk "ZAMóW KARTĘ " w przypadku pierwszej karty lub "ZAMóW NOWĄ KARTĘ" w przypadku zamawiania duplikatu.
+Krok 4.
+Po przejściu do podsumowania transakcji, zostaniesz poproszony o uzupełnienie danych do wysyłki lub - jeżeli na koncie podałeś juz wcześniej adres do wysyłki - jego weryfikację.
+Krok 5. 
+Następnie przejdziesz do szybkich płatności PayU - koszt karty kibica 10 zł, koszt wysyłki - 10 zł. Po opłaceniu transakcji karta dotrze do Ciebie najpóźniej w ciągu 10 dni roboczych.
+help_outline
+Przychodzę na mecz z dodatkowym bagażem. Czy mogę go gdzieś zostawić na czas trwania spotkania?
+W kasie nr 1 znajduje się okienko „depozyt”. Przeznaczony jest on dla kibiców, którzy na mecz wybierają się z dodatkowym bagażem, a którego nie można wnieść na stadion. 
+Depozyt jest już otwarty na 1,5 godziny przed rozpoczęciem meczu, a czas odbioru rzeczy pozostawionych tam wynosi do 30 minut po zakończeniu spotkania. Regulamin depozytu znajdziesz u dołu tej strony.
+help_outline
+Przyjeżdżam na mecz samochodem. Czy na stadionie znajduje się parking dla kibiców?
+Wjazd na parking dla kibiców znajduje się przy ulicy Ptasiej, na wysokości I trybuny i przeznaczony jest tylko dla samochodów osobowych. Opłata za wjazd wynosi odpowiednio 8zł dla biletów zakupionych przez Internet i 10zł dla biletów zakupionych stacjonarnie (punkt biletowy w Stacji Kolejorz, kasy biletowe, bezpośrednio przy wjeździe). Pojemność parkingu jest ograniczona dlatego zachęcamy do zakupu wjazdówek w przedsprzedaży.
+Od sezonu 2016/2017 wszyscy posiadacze karnetów są uprawnieni do zakupu biletu na parking w dedykowanej im cenie 1 zł. Aby skorzystać z tej ceny zaloguj się na swoje konto podczas zakupu internetowego lub okaż kasjerowi kartę kibica lub inny dokument tożsamości, jeśli zdecydujesz się na zakup stacjonarny. Promocyjna cena nie obowiązuje bezpośrednio przy wjeździe na parking, dlatego zachęcamy do wcześniejszego zakupu biletu na parking.
+help_outline
+Jak wejść na stadion?
+Krok 1.
+Przygotuj dokument tożsamości i swój bilet:
+bilet wydrukowany na kartce formatu A4 zegnij na 3 części wzdłuż linii na wydruku
+mobilny bilet (na aplikacji, SMS) otwórz i upewnij się, że kod kreskowy jest widoczny
+wyjmij kartę kibica z kieszeni/portfela.
+Krok 2.
+Znajdź wejście, którego numer widnieje na Twoim bilecie lub paragonie zakupu biletu. W przypadku zakupu biletu na kartę kibica przez Internet musisz zapamiętać, którym kołowrotkiem wejdziesz na mecz lub zapisać sobie te dane.
+Krok 3.
+Podejdź do kołowrotka. Zbliż do czytnika kartę kibica, wydrukowany bilet lub telefon z wczytanym biletem. Gdy zapali się zielone światło, pchnij kołowrotek barkiem i przejdź na teren stadionu. Pamiętaj, by bagaż (torbę/torebkę) trzymać blisko ciała, najlepiej przed sobą. Skasowanie biletu umożliwia obrót kołowrotka tylko jeden raz.
+ W przypadku wystąpienia problemów z wejściem na mecz, poproś o pomoc stewarda. Okienko reklamacyjne znajduje się w kasie numer 1, między I Trybuną (im. Anioły), a II Trybuną (Kocioł). 
+Obowiązujące zniżki
+help_outline
+Z jakich zniżek można skorzystać w bieżącym sezonie?
+W bieżącym sezonie przewidziano system zniżek, które przysługują:
+1. dzieciom do 13 roku życia (kategoria cenowa Dziecko),
+2. uczniom i studentom od 13 do 26 roku życia w wysokości 20% - kategoria cenowa Ulgowy (należy pamiętać o przesłaniu oświadczenia o statusie ucznia lub studenta w przypadku osób pełnoletnich przez 
+bok.lechpoznan.pl
+)
+3. seniorom powyżej 65 roku życia (kategoria cenowa Ulgowy, uprawniająca do 20% zniżki). 
+Warto również pamiętać, że dzieci do 5 roku życia wchodzą na mecz za darmo, muszą jednak zająć miejsce na kolanach rodzica (nie są natomiast zobowiązane do posiadania własnej karty kibica ani biletu papierowego).
+Dla fanów kibicujących Kolejorzowi całą rodziną przygotowano specjalny bilet rodzinny. Aby go aktywować w całej transakcji musi znaleźć się przynajmniej jedno dziecko do 13 r. ż., wówczas mama będzie mogła skorzystać z zakupu biletu ulgowego.
+Jeszcze większe zniżki przysługują wielodzietnym rodzinom posiadającym 
+Kartę Dużej Rodziny
+ (ogólnopolską) lub 
+Kartę Rodziny Dużej
+ (poznańską) - bilet dla każdego dziecka do 18 roku życia kosztuje 5 zł mniej od cceny 'Dziecko'. Aby skorzystać ze zniżki, wystarczy okazać kartę w jednym z klubowych punktów sprzedaży biletów. W transakcji oprócz dzieci musi znajdować się co najmniej jeden opiekun prawny (rodzic), który również posiada KRD/KDR i zakupi wejściówkę w kategorii cenowej Normalny.
+help_outline
+Jestem uczniem/studentem, ale po wyborze ulgowej kategorii biletu wyskakuje błąd, jak mogę kupić bilet ulgowy?
+Osoby pełnoletnie, chcące skorzystać z przysługującego im biletu ulgowego, prosimy o przesłanie oświadczenia o posiadaniu statusu ucznia/studenta przez 
+bok.lechpoznan.pl
+. Podczas wejścia na stadion z biletem Ulgowym, należy mieć ze sobą ważna legitymację uczniowską/studencką.
+help_outline
+Chcę kupić karnet i mam na swoim koncie więcej niż 1 voucher, jak mogę ich użyć?
+Zgodnie z Warunkami sprzedaży nie ma możliwości połączenia voucherów. Jednak w wyjątkowych przypadkach prośby takie będą rozpatrywane indywidualnie, wniosek o połączenie voucherów należy kierować na stronie: 
+bok.lechpoznan.pl
+.
+Bilety specjalne
+help_outline
+Jestem osobą niepełnosprawną, czy mogę obejrzeć mecz na stadionie?
+W ramach akcji Lech Bez Barier, osoby ze znacznym stopniem niepełnosprawności mogą dopingować Kolejorza z trybun za darmo. Szczegółowe informacje na ten temat znajdują się w zakładce Lech Bez Barier: 
+więcej >>>
+help_outline
+Jako firma planujemy zakupić większą ilość karnetów, czy możemy liczyć na jakąś zniżkę?
+Wysokość rabatu jest zależna od ilości zakupionych karnetów/biletów. Wszelkie pytania prosimy kierować poprzez formularz na stronie 
+bok.lechpoznan.pl
+help_outline
+Chcielibyśmy przyjechać na stadion ze zorganizowaną grupą dzieci, do kogo powinniśmy się zgłosić?
+Szczegółowe informacje na ten temat znajdują się w zakładce Sektor Dziecięcy. 
+więcej >>>
+Bilety i karnety
+help_outline
+Trwa sprzedaż zamknięta. Jak mogę kupić bilet?
+W czasie trwania sprzedaży zamkniętej bilety może zakupić tylko wybrana grupa kibiców  (np. osoby posiadające karnet). Klub w osobnym komunikacie podaje czas trwania sprzedaży zamkniętej, jakie grupy kibiców są uprawnione do zakupu biletu oraz ile biletów może w tym czasie zakupić jedna osoba. 
+Jeżeli chcesz kupić bilety przez stronę biletową lub w aplikacji Lech Bilety musisz być w gronie kibiców, którzy mają uprawnienia do wcześniejszego zakupu i być zalogowany na swoje konto w systemie biletowym. Po kliknięciu w przycisk "Kup bilet" znajdujący się na banerze wydarzenia, pojawi się mapka stadionu oraz komunikat ile biletów pozostało do wykorzystania. Wybierz miejsce, uzupełnij dane na wejściówce i przejdź do płatności. Pamiętaj, że nie ma konieczności wykorzystania całej puli dostępnych dla Ciebie wejściówek.
+Przy zakupie biletów w stacjonarnych punktach sprzedaży zostaniesz poproszony o okazanie Karty Kibica (lub dokumentu tożsamości) w celu potwierdzenia, że masz prawo do wcześniejszego zakupu biletu. 
+help_outline
+Mam już zakupiony bilet, ale chciałbym wybrać inne miejsce na stadionie, czy mogę je zmienić?
+Zmiana miejsca na poszczególne spotkania jest możliwa zarówno w ramach karnetu jak i w przypadku pojedynczych biletów. W przypadku zmiany miejsca jednorazowych wejściówek usługa jest płatna 5 zł. Jeżeli chcesz się przenieść do strefy droższej, koniecznie będzie dodatkowo uregulowanie różnicy w cenie. Szczegółowa instrukcja jak zmienić miejsce znajduje się 
+TUTAJ.
+help_outline
+Niestety nie mogę uczestniczyć w meczu, ale kupiłem już bilet, czy mogę go zwrócić?
+Zgodnie z warunkami sprzedaży, akceptowanymi podczas zakupu, biletów nie można zwrócić.
+help_outline
+Niestety nie mogę uczestniczyć w meczu, ale kupiłem już bilet, czy mogę go przekazać innej osobie?
+Możliwość przekazania biletu występuje tylko w przypadku miejsc karnetowych, pojedynczych biletów imiennych nie można przekazać, gdyż posługiwać się nimi mogą jedynie osoby, których dane widnieją na bilecie/karcie.
+help_outline
+Wczoraj wysłałem zgłoszenie reklamacyjne/z zapytaniem i wciąż nie otrzymałem odpowiedzi, po jakim czasie mogę się jej spodziewać?
+Zgodnie z warunkami sprzedaży rozpatrzenie reklamacji trwać może do 14 dni, robimy jednak wszystko, aby czas ten był znacznie krótszy. Podobnie w przypadku zapytań - czas oczekiwania na odpowiedź zależy od ilości nadesłanych zgłoszeń i zwykle nie przekracza kilku dni.
+help_outline
+Czy mogę kupić karnet nie posiadając karty kibica?
+Posiadanie Karty Kibica nie jest już wymagane. Karnet bez Karty Kibica możesz zakupić na stronie bilety.lechpoznan.pl wybierając metodę dostarczenia „Wydruk samodzielny/ Bilet na telefon”. W takim przypadku, pamiętaj o pobraniu biletów na poszczególne spotkania w formie .pdf do wydruku lub użyj opcji "Wyślij SMS".
+help_outline
+Kupiłem karnet do wydruku samodzielnego. Czy mogę zmienić metodę dostarczenia na kartę kibica?
+Niestety, nie można tego robić. Raz wybrana metoda dostarczenia karnetu pozostaje ważna do końca jego obowiązywania.
+help_outline
+Kupiłem karnet do wydruku samodzielnego. Jak mam pobrać swoje bilety?
+Jeżeli zakupiłeś przez Internet karnet korzystając z metody dostarczenia "Wydruk samodzielny/ Bilet na telefon", pamiętaj, by pobrać wejściówki na spotkania, które obejmuje karnet. Będąc zalogowanym na stronie 
+bilety.lechpoznan.pl
+, otwórz zakładkę "Twoje konto". W połowie strony zobaczysz tytuł "Bilety" i szereg kafelków, z których każdy dotyczy jednego meczu w ramach Twoje karnetu. W prawym dolnym rogu każdego z nich, widoczne są cztery ikonki: klikając w pierwszą z nich (strzałka w dół), pobierzesz swój bilet w formacie .pdf, który należy wydrukować na kartce A4; trzecia ikonka ("dymek" z trzema kropkami wewnątrz) umożliwia wysłanie SMS-a z bezpośrednim linkiem do biletu, dzięki któremu wejdziesz na stadion bez potrzeby drukowania biletu, wyłącznie ze swoim smartfonem i dokumentem tożsamości. W ten sposób możesz pobrać każdy bilet z osobna. 
+W celu pobrania wszystkich biletów obowiązujących na najbliższą rundę, wejdź w szczegóły karnetu (znajdziesz go na tej samej stronie, nieco niżej niż bilety) i wywołaj funkcję "Pobierz wszystkie bilety". 
+Pobierając bilety z dużym wyprzedzeniem, pamiętaj, że Departament Rozgrywek Ekstraklasy S.A. ustala dokładny dzień i godzinę rozegrania meczu na około trzy tygodnie przed spotkaniem. Bilet pobrany przed oficjalnym ogłoszeniem daty meczu, nie będzie zawierał tej informacji, dlatego na tydzień lub dwa przed meczem, sprawdź na oficjalnej stronie Klubu 
+lechpoznan.pl
+, w który dzień i o której godzinie Lech rozpoczyna walkę o zwycięstwo!
+help_outline
+Posiadam karnet, ale chcę podczas jednego meczu zmienić miejsce. Czy mogę to zrobić?
+Oczywiście, istnieje taka możliwość. Instrukcja pokazująca jak to zrobić znajduje się 
+tutaj.
+Kibice, którzy zakupili karnet do wydruku samodzielnego, a chcą zmienić miejsce, proszeni są o kontakt poprzez formularz na stronie 
+bok.lechpoznan.pl
+help_outline
+Czy mogę zakupić karnet na raty?
+Oczywiście, że tak. Jeśli Twoja suma zakupów abonamentów przekroczy 300 złotych, możesz skorzystać z systemu ratalnego PayU. Przy zakupie karnetu przez Internet, po wybraniu opcji „Realizuj Ratami” pojawi się kalkulator, w którym należy wybrać dogodną dla siebie liczbę miesięcznych rat. Następnie wystarczy wypełnić krótki wniosek i potwierdzić warunki umowy. Wybierając tą metodę płatności nie musisz martwić się jednorazowym wydatkiem i jednocześnie  korzystać ze wszystkich korzyści, jakie niesie ze sobą posiadanie karnetu.
+help_outline
+Czy mecze rundy finałowej są zawarte w karnecie sezonowym?
+Tak. W skład karnetu na cały sezon zawarte są wszystkie domowe mecze rundy zasadniczej oraz rundy finałowej.
+help_outline
+Gdzie mogę sprawdzić ilość przysługującej mi zniżki lojalnościowej?
+Przysługującą zniżkę lojalnościową możesz sprawdzić na swoim koncie biletowym. Wystarczy po zalogowaniu na stronie bilety.lechpoznan.pl wejść w zakładkę „Twoje konto”  i rozwinąć swoje dane za pomocą strzałki znajdującej się obok numeru PESEL.
+Faktury
+help_outline
+Czy mogę otrzymać fakturę VAT za zakupy dokonane na stronie bilety.lechpoznan.pl?
+Tak, oczywiście jest taka możliwość.
+Fakturę można zamówić podczas składania zamówienia. W tym celu należy po podsumowaniu transakcji wybrać opcję ”Chcę otrzymać fakturę” oraz uzupełnić wymagane dane. Faktura za zakupione bilety będzie do pobrania po zrealizowaniu transakcji z konta, z którego dokonano zakupu: logowanie-> lista transakcji-> szczegóły transakcji -> Wyświetl Fakturę. 
+Jeżeli faktura nie zostanie zamówiona w momencie zakupów, można ją wygenerować w określonym terminie po zrealizowaniu transakcji: logowanie->lista transakcji->szczegóły transakcji->wygeneruj fakturę. Po uzupełnieniu danych i wygenerowaniu faktury, dostępna jest ona do pobrania po wejściu w szczegóły danej transakcji.
+help_outline
+W jakim terminie od daty zakupów można pobrać fakturę za zamówienia przez system biletowy?
+Chęć otrzymania faktury na firmę należy zgłosić do 15 dnia następnego miesiąca po dokonaniu zakupu. Przykładowo do transakcji dokonanej w październiku należy zgłosić się po fakturę do 15 listopada.
+Faktura imienna (na osobę fizyczną nieprowadzącą działalności gospodarczej) może zostać wystawiona w ciągu 3 miesięcy licząc od końca miesiąca, w którym dokonano zakupu. Przykładowo do transakcji dokonanej w październiku należy zgłosić się po fakturę do końca stycznia.
+help_outline
+ Omyłkowo wpisałem błędne dane na Fakturze. Czy mogę je poprawić? 
+Niestety nie ma możliwości samodzielnej zmiany danych na wygenerowanej fakturze. W przypadku pomyłki i konieczności wystawienia korekty prosimy o kontakt z Działem Finansów przez 
+bok.lechpoznan.pl
+help_outline
+Zakupiłem bilet/karnet w kasach biletowych i otrzymałem paragon. Do kiedy mogę się zgłosić po fakturę? 
+Przy transakcjach dokonywanych w kasach biletowych chęć otrzymania faktury prosimy zgłaszać kasjerom przed rozpoczęciem zakupu. 
+help_outline
+Czy kupując bilet/karnet w jednym ze stacjonarnych punktów sprzedaży (np. Kolporter, STS)  również otrzymam fakturę? 
+Punkty partnerskie sprzedają bilety/karnety we własnym imieniu stąd też chęć otrzymania faktury należy zgłaszać do punktu, w którym dokonano transakcji. Nie ma możliwości otrzymania faktury od KKS Lech Poznań S.A. do transakcji zrealizowanej w punkcie partnerskim – klub nie jest w tym przypadku sprzedawcą biletu/karnetu.
+help_outline
+Zakupiłem kilka biletów/karnetów w jednej transakcji. Czy mogę otrzymać fakturę tylko za jeden z nich?
+Obecnie można wygenerować fakturę jedynie za całą transakcję, w przypadku konieczności wystawienie faktury tylko za część produktów z danej transakcji, prosimy o kontakt z Działem Finansów przez formularz 
+bok.lechpoznan.pl
+. W przypadku zakupu w kasach prosimy zgłaszać taką prośbę kasjerom przed rozpoczęciem transakcji.
+Regulaminy
+Regulamin Sprzedaży Biletów i Karnetów KKS Lech Poznań
+OBOWIĄZEK INFORMACYJNY
+Regulamin Enea Stadionu  
+Regulamin Imprezy Masowej
+Regulamin Sprzedaży i Realizacji Voucherów i Kart Podarunkowych KKS Lech Poznań
+Regulamin Przekazywania Rzeczy do Depozytu
+Zasady dystrybucji karnetów Sezon 2023/2024 oraz Jesień 2023
+                        © 2026
+English
+                                    /
+Polski
+                                    /
+Українська
+                                    /
+Deutsch

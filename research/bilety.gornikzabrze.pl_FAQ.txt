@@ -1,0 +1,169 @@
+https://bilety.gornikzabrze.pl/CMS?page=FAQ
+
+Najczęściej zadawane pytania | roboticket
+Polski
+arrow_drop_down
+Deutsch
+English
+Polski
+Najczęściej zadawane pytania
+BILETY
+help
+Czy muszę posiadać konto kibica?
+      Tak, zakup drogą online wymaga posiadania konta kibica.
+      Aby zakupić większą ilość biletów (limit 10) wystarczy, że tylko Ty będziesz zarejestrowany.
+      Dla pozostałych osób w trakcie zakupu wystarczy, że podasz ich dane osobowe bez konieczności zakładania konta.
+help
+Czy jest możliwy zakup bez rejestracji konta?
+W punktach stacjonarnych - 
+Sklep Kibica na Arenie Zabrze
+ lub Platan Zabrze.
+Bilet online dla niezarejestrowanych osób wymaga zakupu z konta osoby posiadającej aktywne konto.
+help
+Czy wymagana jest Karta Kibica?
+      Karta kibica nie jest wymagana do zakupu biletów.
+help
+Jak kupić bilety online?
+Wejdź na stronę bilety.gornikzabrze.pl
+W prawym górnym rogu wybierz opcję 
+LOGOWANIE
+.
+Z listy dostępnych meczów do sprzedaży, kliknij w 
+KUP BILET
+.
+Z mapy stadionu wybierz dogodne dla siebie miejsce, po najechaniu na wybrany sektor zobaczysz zdjęcie poglądowe
+Po wybraniu miejsc kliknij w 
+KOSZYK
+, wprowadź dane osób dla których kupujesz bilety - imię, nazwisko, PESEL lub dla obcokrajowca ID dokumentu i data urodzenia
+Rodzaj biletu normalny, ulgowy, studencki, ulgowy specjalny zostaje automatycznie przypisany na podstawie numeru PESEL lub przypisania do odpowiedniej grupy uprawniającej do nabycia zniżki.
+Wybierz formę nośnika biletu - do wyboru jest e-bilet SMS, Apple Wallet, Google Wallet, karta fizyczna lub wirtualna. 
+PODSUMOWANIE
+ przeniesie Cię do realizacji płatności z wyborem banku lub karty płatniczej
+help
+Jestem obcokrajowcem (bez numeru PESEL), jak mogę zakupić bilet?
+     Osoby nie posiadające polskiego obywatelstwa, bez numeru PESEL muszą dokonać rejestracji konta na podstawie dokumentów jakie posiadają.
+     W polu PESEL należy wpisać numer dokumentu tożsamości, a następnie wybrać opcję UZUPEŁNIJ DANE. W nowym oknie zaznaczyć checkbox 'Obcokrajowiec' a następnie uzupełnić dane Imię, Nazwisko, Narodowość, Data urodzenia i płeć.
+help
+Gdzie mogę dokupić bilet na parking podziemny?
+      Aby nabyć wjazdówkę na parking podziemny należy kliknąć ikonę "P" na głównym banerze danego wydarzenia lub wybrać z zakładki KUP DOSTĘPNE PRODUKTY wydarzenie "PARKING PODZIMENY NAZWA MECZU". Następnie wybrać strefę parkowania (dostępne do sprzedaży są zazwyczaj ŻÓŁTA i ZIELONA).
+      Po poprawnie przeprowadzonej transakcji należy użyć wydrukowanego/wygenerowanego biletu podczas wjazdu na szlabanie. Opcja zakupu wjazdówki jest dostępna tylko dla osób, które nabyły już wcześniej bilety na dany mecz.
+help
+Nie mam możliwości wydruku biletu na drukarce w domu
+     Możliwy jest bezpłatny oddruk biletu na stadionie w dniu meczowym w każdej kasie, wystarczy podać numer transakcji lub numer PESEL. 
+     Drugą opcją jest wejście za pomocą biletu w formie cyfrowej na telefonie (np. Apple Wallet, Portfel Google czy SMS).
+help
+Czy mogę kupić bilet dla znajomych ze swojego konta?
+Zarówno online jak i stacjonarnie jest taka możliwość. Wymagane są dla każdego biletu - imię, nazwisko, PESEL.
+help
+Ile mogę kupić biletów w jednej transakcji?
+Limit  to 10 spersonalizowanych biletów.
+KARNETY
+help
+Do kiedy obowiązuje rezerwacja mojego miejsca z sezonu 2025/26?
+      Twoje miejsce jest zarezerwowane do 25 kwietnia 2025 roku.
+help
+Czy muszę wykupić miejsce z poprzedniego sezonu?
+     Nie masz takiego obowiązku. Przykładowo jeśli posiadałeś karnet na sektorze Trybuny Wschodniej możesz wybrać nowe miejsce na Trybunie Zachodniej zachowując preferencyjną zniżkę kontynuującego karnet.
+help
+Czy wymagana jest karta?
+      Masz do wyboru następujące opcje jako nośnik Twojego karnetu:
+karta wirtualna - bezpłatna - możesz wysłać ją w formie SMSa na telefon, dodać do Apple Wallet (iOS) lub Google Wallet (Android)
+karta fizyczna (mifare) - odpłatnie zgodnie z cennikiem - w trakcie zakupu możesz wybrać kartę, która jest fizycznym odpowiednikiem Twojego profilu w systemie. Zostanie ona spersonalizowana Twoimi danymi wraz z informacjami o zajmowanym miejscu.
+help
+Kiedy mogę odebrać kartę fizyczną na nowy sezon?
+Karty fizyczne zakupione do karnetów na sezon 2026/27 są możliwe do odbioru od 1 lipca w Sklepie Kibica na Arenie Zabrze. W dniu meczu karty można odebrać tylko i wyłącznie w kasach biletowych.
+help
+Jak mogę zapłacić za karnety? Czy jest możliwość odroczonej płatności?
+Za pośrednictwem bramki płatniczej Przelewy24 oferujemy wszystkie dostępne i popularne kanały płatności szybkimi przelewami, blikiem oraz portfelami płatniczymi ApplePay lub GooglePay.
+Istnieje również płatność ratalna w formie rat 0% - 5 lub 10 rat oraz płatność odroczona (PayPo).
+Formę płatności wybierasz w ostatnim kroku finalizacji zamówienia.
+help
+Nie będzie mnie na kilku meczach, jakie mam opcje?
+     Posiadając karnet na sezon masz możliwość przepisania pojedynczego biletu z karnetu na inną osobę. Możesz to zrobić dwa razy w ciągu całego sezonu.
+info
+ Zgodnie z Ustawą o Bezpieczeństwie Imprez Masowych każdy uczestnik musi posiadać spersonalizowaną wejściówkę. Próba wejścia z biletem innej osoby może nieść za sobą konsekwencje prawne.
+help
+Jakie mam przywileje posiadając karnet?
+     Lista przywilejów wynikających z posiadania karnetu:
+- pierwszeństwo w zakupie biletów dla bliskich (na mecze PKO BP Ekstraklasy są to 3 sztuki w trakcie sprzedaży zamkniętej)
+- możliwość zmiany miejsca - podobnie jak w  sezonie 24/25 oraz 25/26 w pierwszych dwóch dobach sprzedaży zamkniętej
+- 2-krotne przebukowanie biletu w trakcie sezonu (np. jeśli nie możesz pojawić się na meczu przekaż bilet rodzinie, znajomemu)
+- dedykowane wejście na stadion
+- pierwszeństwo zakupu miejsca parkingowego podczas sprzedaży zamkniętej
+- wstęp na wydarzenia specjalne
+- 10% rabatu w Sklepie Kibica na Arenie Zabrze
+- pierwszeństwo w zakupie limitowanych produktów oraz dostęp do ważnych informacji
+help
+Czy mogę zwolnić lub odsprzedać swoje miejsce?
+Od sezonu 2026/27 istnieje opcja odsprzedaży swojego miejsca. W przypadku braku możliwości uczestnictwa w meczu, posiadacz karnetu po zalogowaniu się na swoje konto i przejściu do karnetu może wybrać opcję ODSPRZEDAŻ MIEJSCA. Miejsce to jest zwalniane na wybrany mecz i trafia do ogólnej sprzedaży. Jeśli inny kibic zakupi bilet na to miejsce, posiadacz karnetu ma możliwość odebrania na swoim koncie vouchera zniżkowego o wartośći 10%.
+help
+Ile mogę kupić karnetów w jednej transakcji?
+Ograniczenie wynosi 20 spersonalizowanych karnetów.
+SUBSKRYPCJA
+help
+Czym jest subskrypcja?
+      Subskrypcja jest modelem płatności, w którym za regularny dostęp do określonych usług uiszcza się ustaloną opłatę w danych odstępach czasu - w przypadku usługi TRÓJKOLOROWI jest to model miesięczny.
+help
+Dla kogo przeznaczona jest subskrypcja?
+     Subskrypcja przeznaczona jest dla osób pełnoletnich.
+help
+Jaka jest cena subskrypcji?
+     Cena subskrypcji to 49,99zł na miesiąc.
+help
+Jaki jest czas trwania subskrypcji?
+Subskrypcja zawierana jest na minimum 6 miesięcy. Po tym okresie Kibic może sam anulować ją w panelu swojego profilu.
+help
+Co otrzymuję w ramach subskrypcji?
+    1. Posiadacz subksrypcji otrzymuje 20% zniżki na dwa bilety na każdy mecz.
+    2. Dostęp do drugiego dnia przedsprzedaży biletów na mecze domowe Górnika. 
+    3. Limit zakupu biletów w sprzedaży zamkniętej to 2 sztuki.
+    Wspomniane przywileje i zniżki obowiązują na sezon 2026/27.
+GRUPY ZORGANIZOWANE
+help
+Jak mogę nabyć bilety dla większej ilości kibiców?
+     Skontaktuj się z nami pisząc maila na 
+grupy@gornikzabrze.pl
+.
+      W treści prześlij następujące informacje
+Nazwa grupy (organizacja, szkoła, firma, stowarzyszenie)
+Orientacyjna liczba osób (dzieci do 18. Roku życia + opiekunowie)
+Interesująca trybuna/sektory
+Dane organizatora (imię, nazwisko, adres e-mail, nr telefonu)
+Forma rozliczenia (faktura, paragon / gotówka, przelew)
+OSOBY NIEPEŁNOSPRAWNE PORUSZAJĄCE SIĘ O WÓZKU
+help
+Jak mogę nabyć bilet będać osobą poruszającą się o wózku?
+      W celu otrzymania takiej wejściówki należy skontaktować się z oficjalnym stowarzyszeniem Klub Kibiców Niepełnosprawnych Górnik Zabrze (KKN Górnik Zabrze).
+      Więcej szczegółów na 
+www.kknzabrze.pl
+POZOSTAŁE PYTANIA
+help
+Posiadam voucher, jak z niego skorzystać?
+      Jeżeli otrzymałeś/aś Voucher z kodem do wykorzystania, podczas zakupu należy go wpisać w polu 
+UŻYJ VOUCHER
+help
+Jak mogę przepisać bilet na inną osobę?
+        Jeżeli masz wykupiony bilet na mecz, a nie możesz się na nim pojawić - masz możliwość przepisania biletu na znajomego.
+        W tym celu zaloguj się na swoje konto, przejdź do listy transkacji wybierz bilet, który chcesz przebukować, a następnie wybierz opcję
+        "PRZEKAŻ BILET" i postępuj z instrukcjami pojawiającymi się na ekranie. Po poprawnej operacji bilet będzie posiadał nowe dane.
+Przepisanie biletu/karnetu jest możliwe do dwóch godzin przed rozpoczęciem meczu.
+        W razie problemów skontaktuj się z Działem Ticketingu Klubu - bilety@gornikzabrze.pl lub +48 706 1948.
+help
+Jak skorzystać z przysługującej mi zniżki np studenckiej?
+Studenci. Należy przesłać skan/zdjęcie awersu i rewersu legitymacji na maila 
+studenci@gornikzabrze.pl
+.
+Niepełnosprawni. Osoby posiadające stopień niepełnosprawności proszeni są również o wysłanie zdjęcia skanu dokumentu uprawniającego do skorzystania ze zniżki na 
+studenci@gornikzabrze.pl
+.
+Oczywiście oba dokumenty można okazać przy zakupie w punktach stacjonarnych. Wtedy kasjer przypisze zniżkę do konta zgodnie z datą ważności dokumentu.
+help
+Jak mogę użyć e-biletu?
+      Aby skorzystać z e-biletu po zakupie biletu online należy wysłać kodem SMS bilet na swój numer. Zobacz video:
+https://fb.watch/86Kot0uOtj
+                        © 2026
+Deutsch
+                                    /
+English
+                                    /
+Polski

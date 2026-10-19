@@ -1,0 +1,91 @@
+# Deploys the static site to GitHub Pages (project site: /polandmatchday/).
+# Pages source must be "GitHub Actions" (Settings → Pages). The enablement step
+# tries to turn that on; if the token cannot, enable it once in the repo settings.
+name: Refresh fixtures & deploy
+
+on:
+  schedule:
+    - cron: "17 4,16 * * *" # twice a day (UTC)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Enable GitHub Pages if possible
+        continue-on-error: true
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh fixtures
+        run: python scripts/fetch_fixtures.py || echo "fetch failed - building with last committed data"
+
+      - name: Commit refreshed fixture data
+        # A push made with GITHUB_TOKEN does not start another workflow run.
+        # Skip when this push is already a fixture commit so a token that does
+        # re-trigger cannot loop. Failure here must not block the deploy.
+        continue-on-error: true
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          HEAD_MSG: ${{ github.event.head_commit.message || '' }}
+        run: |
+          if [ "$EVENT_NAME" = "push" ] && printf '%s' "$HEAD_MSG" | grep -q "Refresh fixture data"; then
+            echo "This push is already a fixture refresh; not committing again"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fixtures_ekstraklasa.json data/fixtures_1liga.json
+          if git diff --staged --quiet; then
+            echo "No fixture changes to commit"
+          else
+            git commit -m "Refresh fixture data"
+            git push
+          fi
+
+      - name: Build site
+        run: python scripts/build.py
+        env:
+          TZ: Europe/Warsaw
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

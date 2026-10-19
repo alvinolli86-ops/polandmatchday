@@ -1,0 +1,260 @@
+https://bilety.slaskwroclaw.pl/CMS?page=FAQ
+
+FAQ | roboticket
+launch
+Cennik
+Polski
+arrow_drop_down
+English
+Polski
+Українська
+Deutsch
+FAQ · Śląsk Wrocław
+Śląsk Wrocław
+          Kup bilet 
+→
+Pomoc
+FAQ
+Odpowiedzi na najczęściej zadawane pytania dotyczące rejestracji, zakupu biletów, voucherów, karnetów i wejścia na stadion.
+          🇬🇧 English version →
+Zadaj pytanie
+🔍
+×
+Szukaj
+→
+Rejestracja i logowanie
+Jak założyć konto?
++
+U góry strony bilety.slaskwroclaw.pl klikamy przycisk „Załóż konto”.
+Wpisujemy swój numer PESEL (w przypadku obcokrajowców inny numer identyfikacyjny lub seria i numer dokumentu tożsamości), następnie klikamy przycisk „DALEJ”.
+Uzupełniamy wszystkie pola oraz zaznaczamy przyciski wyboru oznaczone gwiazdką. Klikamy przycisk „ZAŁÓŻ KONTO”.
+Na podany adres e-mail zostanie wysłana wiadomość z linkiem aktywacyjnym, który należy kliknąć, aby dokończyć proces aktywacji konta. Po kliknięciu w link konto w systemie biletowym jest aktywne.
+Jak się zalogować do systemu?
++
+U góry strony klikamy przycisk „LOGOWANIE” na bilety.slaskwroclaw.pl.
+W polu „Email” wpisujemy adres poczty użytej przy rejestracji, w polu „Hasło” ustawione przez nas hasło konta. Następnie klikamy przycisk „LOGOWANIE”.
+Jak zmienić indywidualne hasło?
++
+Po zalogowaniu rozwijamy ikonę z nazwiskiem właściciela i wybieramy opcję „TWOJE KONTO”.
+Następnie rozwijamy menu kontekstowe po prawej stronie i wybieramy opcję zmiany hasła.
+Wpisujemy stare hasło, a następnie dwa razy nowe hasło oraz potwierdzamy przyciskiem „Zapisz”. Hasło zostało pomyślnie zmienione.
+Jak zmienić adres mailowy w systemie?
++
+Zaloguj się na swoje konto w systemie biletowym.
+Po zalogowaniu rozwiń ikonę z nazwiskiem właściciela i wybierz opcję „TWOJE KONTO”.
+Następnie rozwiń menu kontekstowe po prawej stronie i wybierz opcję „EDYCJA DANYCH”.
+Zmień adres e-mail oraz zapisz zmiany. Zostaniesz automatycznie wylogowany.
+Zaloguj się na podany adres e-mail i potwierdź zmianę, klikając w link aktywacyjny.
+Czy mogę samodzielnie zmienić dane osobowe (imię, nazwisko, PESEL)?
++
+Obowiązkowych danych osobowych nie można zmienić samodzielnie. W przypadku konieczności zmiany prosimy skontaktować się z Biurem Obsługi Kibica przez e-mail 
+kasy@slaskwroclaw.pl
+ lub 
+wks@slaskwroclaw.pl
+.
+Nie mogę się zalogować – co robić?
++
+Upewnij się, że wpisujesz poprawny login i hasło i nie zostawiasz spacji po adresie mailowym. W razie problemów użyj opcji „Nie pamiętasz hasła?”.
+Czy muszę się rejestrować, by kupić bilet?
++
+Tak, rejestracja konta jest konieczna do zakupu biletu i pozwala zarządzać zakupami.
+Zakupy
+Jak kupić bilet?
++
+Załóż nowe konto lub zaloguj się do systemu, klikając odpowiednio „ZAŁÓŻ KONTO” lub „LOGOWANIE”, wybierz interesujące Cię wydarzenie, wybierz trybunę i sektor z poglądowej mapy stadionu. Po powiększeniu sektora zaznacz konkretne miejsca, które zajmiesz podczas meczu.
+Uzupełnij dane wszystkich osób, dla których kupujesz bilety (numer PESEL lub w przypadku obcokrajowców inny numer identyfikacyjny, np. numer paszportu). Jeżeli po wpisaniu numeru PESEL imię i nazwisko kibica nie uzupełni się automatycznie, skorzystaj z przycisku „UZUPEŁNIJ DANE UŻYTKOWNIKA”.
+Karta kibica – jeśli kibic posiada imienną kartę kibica, bilet zostanie na nią zakodowany.
+Wydruk samodzielny / bilet mobilny – bilet wygenerowany do pobrania i wydrukowania na drukarce lub do wysłania SMS-em na smartfon.
+Jestem obcokrajowcem i nie posiadam numeru PESEL, jak mogę kupić bilet?
++
+Podczas zakładania konta w systemie bilety.slaskwroclaw.pl wystarczy w polu „PESEL dla obywatela Polski lub numer dokumentu dla osoby z zagranicy” wpisać numer paszportu lub innego ważnego dokumentu tożsamości, a następnie uzupełnić pozostałe pola: imię, nazwisko, datę urodzenia, płeć i adres e-mail. Podczas zakupu bez logowania również możesz wpisać swój numer identyfikacyjny niebędący numerem PESEL w miejsce identyfikatora.
+Jak uzyskać zniżkę dla osoby z zagranicy, której przysługują bilety z ulgą?
++
+Podczas zakładania konta w systemie bilety.slaskwroclaw.pl wystarczy w polu „PESEL dla obywatela Polski lub numer dokumentu dla osoby z zagranicy” wpisać numer paszportu lub innego ważnego dokumentu tożsamości, a następnie uzupełnić pozostałe pola: imię, nazwisko, datę urodzenia, płeć i adres e-mail. Podczas zakupu bez logowania również możesz wpisać swój numer identyfikacyjny niebędący numerem PESEL w miejsce identyfikatora.
+W przypadku, kiedy samodzielne uzupełnienie danych nie będzie możliwe, zgłoś na adres 
+kasy@slaskwroclaw.pl
+ prośbę o dodanie do konta osoby z zagranicy daty urodzenia i płci.
+Mam już zakupiony bilet, ale chciałbym wybrać inne miejsce na stadionie – czy mogę je zmienić?
++
+Zmiana miejsca na poszczególne spotkania jest możliwa zarówno w ramach karnetu, jak i w przypadku pojedynczych biletów. Jeżeli chcesz się przenieść do strefy droższej, konieczne będzie dodatkowo uregulowanie różnicy w cenie. Szczegółowa instrukcja jak zmienić miejsce znajduje się w następnym punkcie.
+Jak zmienić miejsce biletu?
++
+Zaloguj się na swoje konto w systemie biletowym. Skorzystaj z rozwijanego menu w prawej górnej części strony (szary trójkąt obok nazwiska) i wybierz zakładkę „Twoje dane”. W połowie strony widoczny jest posiadany przez Ciebie bilet – otwórz go poprzez kwadratową ikonkę ze znakiem strzałki w prawym, dolnym rogu. Kliknij przycisk „Zmień miejsce”, który znajduje się pod szczegółami biletu. Wybierz nowe miejsce na mapce stadionu. Przejdź do podsumowania transakcji, klikając przycisk z wizualizacją koszyka, a następnie użyj przycisku „Realizuj”. Po sfinalizowaniu transakcji na swoim koncie zobaczysz nowy bilet.
+Uwaga: więcej niż jedna zmiana miejsca tego samego biletu może generować konieczność zapłacenia pełnej kwoty biletu ponownie. Zmiany biletów można dokonać do dwóch godzin przed meczem- po otwarciu bramofurt opcja ta zostaje automatycznie wyłączona.
+Niestety nie mogę uczestniczyć w meczu, ale kupiłem już bilet – czy mogę go zwrócić?
++
+Zgodnie z warunkami sprzedaży, akceptowanymi w regulaminie podczas zakupu, biletów nie można zwrócić. Na podstawie art. 38 ust. 12 ustawy z dnia 30.05.2014 o prawach konsumenta (Dz.U. z 2020 r. poz. 287 z późn. zm.) klientowi nie przysługuje prawo do odstąpienia od umowy zawartej na odległość w trybie art. 27 wskazanej ustawy.
+Niestety nie mogę uczestniczyć w meczu, ale kupiłem już bilet – czy mogę go przepisać na inną osobę?
++
+Przekazywanie na poszczególne spotkania jest możliwe zarówno w ramach karnetu, jak i w przypadku pojedynczych biletów. Jeżeli chcesz przepisać bilet na inną osobę, musisz uregulować różnicę w cenie, jeśli robisz to z osoby posiadającej ulgę na osobę bez ulgi. Szczegółowa instrukcja jak przepisać bilet znajduje się w następnym punkcie.
+Jak przepisać / przekazać bilet na inną osobę?
++
+Zaloguj się na swoje konto w systemie biletowym. Skorzystaj z rozwijanego menu w prawej górnej części strony (szary trójkąt obok nazwiska) i wybierz zakładkę „Twoje konto”. W połowie strony widoczny jest posiadany przez Ciebie bilet – otwórz go poprzez kwadratową ikonkę ze znakiem strzałki w prawym, dolnym rogu. Kliknij przycisk „Przekaż bilet”, który znajduje się pod szczegółami biletu. Uzupełnij dane osoby, na którą przekazujesz swój bilet. Przejdź do podsumowania transakcji, klikając przycisk z wizualizacją koszyka, a następnie użyj przycisku „Realizuj”. Po sfinalizowaniu transakcji na swoim koncie zobaczysz nowy bilet.
+Uwaga: przy przekazaniu biletu może doliczyć się dopłata – punktem wyliczenia dopłaty jest cena biletu przekazywanego. Dopłata może wynikać z faktu przekazania biletu np. dziecięcego lub karnetowego (z naliczonymi zniżkami) osobie, która takich zniżek nie posiada i/lub przysługują jej bilety w wyższej grupie cenowej.
+Czy mogę zwrócić bilet?
++
+Nie, zakupiony bilet nie podlega zwrotowi, chyba że wydarzenie zostanie odwołane.
+Co zrobić, gdy nie otrzymałem biletu?
++
+Sprawdź folder SPAM. Jeśli nadal nie ma biletu, skontaktuj się z Biurem Obsługi Kibica.
+Nie posiadam Karty Kibica – czy mogę kupić bilet?
++
+Posiadanie plastikowej karty kibica nie jest wymagane. Za pośrednictwem strony bilety.slaskwroclaw.pl możesz kupić bilety, które samodzielnie wydrukujesz w domu lub wyślesz w formie mobilnej na swój telefon. Karta kibica nie jest wymagana także podczas zakupu stacjonarnego, np. na stadionie. Karnet można też zakupić bez karty kibica – wymagane jest jednak drukowanie biletu z konta na każdy kolejny mecz.
+Kupiłem bilet do samodzielnego wydruku, ale nie mam drukarki – co zrobić?
++
+Bilet kupiony w formie PDF do samodzielnego wydruku można także okazać na telefonie i z telefonu zeskanować na kołowrotku. Bilet PDF posiada kody kreskowe oraz aktywny przycisk „MOBILNY”, który jednym kliknięciem przekształca go w bilet mobilny. Bilet mobilny można też wygenerować z „LISTY TRANSAKCJI” na koncie i wysłać w postaci linku lub SMS-em na wybrany numer telefonu. Obie wersje – PDF i mobilna – są prawidłowe i działają na kołowrotku. Bilet na trybunę zadziała na każdym kołowrotku tej trybuny – wybierz ten z najmniejszą kolejką.
+Zalety biletu mobilnego
++
+Bez drukowania, bez karty kibica – na mecz przychodzisz jedynie ze smartfonem. Pozwala na szybkie i łatwe przesłanie biletu znajomym czy rodzinie, nawet kilka minut przed rozpoczęciem meczu. Zmniejsza ryzyko zgubienia, zapomnienia lub kradzieży biletu. Najlepsze rozwiązanie dla osób cenicych szybkość i wygodę.
+Ważne wskazówki dotyczące biletu mobilnego
++
+Pobierz swój bilet mobilny jeszcze przed podejściem do kołowrotka – internet na stadionie nie zawsze działa szybko, gdy jest dużo kibiców. Ustaw maksymalną jasność ekranu i wyłącz NFC. Zawsze używaj naładowanego telefonu z czystym, nieuszkodzonym ekranem. Bilet na trybunę zadziała na każdym kołowrotku tej trybuny – wybierz ten z najmniejszą kolejką.
+Bilet SMS – jak go wysłać?
++
+Krok 1. Kup bilet na mecz z metodą dostarczenia „WYDRUK SAMODZIELNY / BILET MOBILNY”.
+Krok 2. Wejdź w szczegóły biletu i wybierz przycisk „BILET MOBILNY”.
+Krok 3. Zaznacz opcję „BILET SMS”, wpisz swój numer telefonu (9 cyfr, bez numeru kierunkowego) i kliknij „WYŚLIJ SMS”. Aby od razu otworzyć bilet bez wysyłania SMS-a, możesz również zeskanować kod QR lub skopiować link.
+Krok 4. Na podany numer telefonu zostanie wysłana wiadomość z linkiem do biletu. Po kliknięciu w link wyświetli się bilet z kodem kreskowym, który uprawnia do wejścia na stadion.
+Ważne: aby otworzyć bilet z SMS-a, konieczne jest połączenie z internetem. Bramka SMS jest limitowana.
+Czy można wysłać bilet SMS drugiej osobie?
++
+Tak, wystarczy podać numer telefonu osoby, do której chcemy wysłać link z biletem. Ważne: aby otworzyć bilet z SMS-a, konieczne jest połączenie z internetem.
+Zakupiłem kilka biletów w transakcji – czy mogę wysłać wszystkie w jednym SMS-ie?
++
+Tak, można wysłać wszystkie bilety z danej transakcji jednym SMS-em. Wystarczy wejść w szczegóły transakcji i kliknąć „BILET MOBILNY” – wszystkie zakupione wejściówki otrzymasz na jeden telefon.
+Co w przypadku, gdy pomyliłem numer telefonu i inna osoba otrzyma bilet?
++
+Jeżeli omyłkowo podałeś błędny numer telefonu i masz podejrzenie, że na bilet może wejść ktoś inny, skontaktuj się z Biurem Obsługi Kibica – wygenerujemy bilet reklamacyjny i wyślemy na wskazany numer.
+Czy mogę wysłać bilet SMS-em po tym, jak mecz się już zacznie?
++
+Niestety nie – przesłanie biletu SMS-em jest możliwe tylko do momentu rozpoczęcia spotkania.
+Posiadam karnet / bilet na karcie kibica. Czy mogę zmienić metodę dostarczenia i wejść na stadion korzystając z biletu mobilnego?
++
+W przypadku zakupu pojedynczego biletu na kartę kibica nie ma możliwości zmiany metody dostawy – Twoim nośnikiem jest plastikowa karta kibica i tylko z nią wejdziesz na stadion. W przypadku zakupu karnetu na kartę kibica możesz na pojedyncze mecze zmienić metodę dostarczenia, a następnie otworzyć bilet w aplikacji mobilnej, w portfelu cyfrowym lub wysłać go SMS-em. Aby to zrobić, wejdź w szczegóły swojego karnetu i przy danym meczu wybierz opcję „PRZEKSZTAŁĆ W BILET”.
+Czy mogę wydrukować bilet, który mam na telefonie?
++
+Tak, bilet można pobrać po zalogowaniu się na konto i wydrukować. Po wydruku skontroluj jego jakość, szczególnie kod kreskowy – bilet drukowany samodzielnie jest wrażliwy na zagięcia i uszkodzenia. Bilet drukowany posiada też kod QR, który jest bardziej odporny na uszkodzenia lub słaby wydruk. Pamiętaj, że bilet możesz mieć w jednej z trzech form: w aplikacji, jako bilet mobilny wysłany SMS-em lub w portfelu cyfrowym.
+Kołowrotki
+Czy mogę wejść na mecz mając otwarty na telefonie bilet w formacie PDF lub zdjęcie kodu kreskowego?
++
+Zrzuty ekranu lub zdjęcia w większości przypadków nie są prawidłowo odczytywane przez kołowroty i nie gwarantują wejścia na stadion. Zalecamy posiadanie biletu w formie PDF lub mobilnej (PDF można przekształcić w wersję mobilną, klikając odpowiednie pole na bilecie lub w historii transakcji na koncie), aby uniknąć niepotrzebnego stresu, straty czasu czy kosztów związanych z wydrukiem.
+Czy mogę mieć kilka biletów na swoim telefonie, np. dla znajomych, z którymi idę na mecz?
++
+Tak. Jedna osoba może skanować i wpuszczać resztę osób (jeśli przyjechały razem na mecz), zmieniając skanowane bilety na swoim telefonie. Jeśli osoby nie przyjechały razem, można wysłać każdej z nich indywidualny bilet przez bramkę SMS (limitowana liczba) lub link do biletu mobilnego (bez limitu).
+Co w przypadku, gdy bilet nie zostanie prawidłowo zeskanowany i pojawia się komunikat „nie rozpoznano biletu”?
++
+Zazwyczaj wystarczy zwiększyć jasność urządzenia do maksimum. Sprawdź też, czy nie masz włączonego NFC oraz czy ekran nie jest brudny lub uszkodzony. Jeżeli to nie pomoże, poproś o pomoc stewarda lub udaj się do kasy reklamacyjnej w FanShopie na Królewieckiej. Skontroluj również, czy poprawnie wkładasz telefon do czytnika i czy kod kreskowy jest widoczny. Ważne: kod kreskowy można skanować także w pionie, bez powiększania; kodu QR nie należy powiększać na ekranie telefonu – jego rozmiar jest dopasowany do czytnika. Na terenie stadionu znajdują się tablice prezentujące prawidłową technikę skanowania biletu z telefonu.
+Co w przypadku, gdy mam bilet na telefonie dla kolegi, a on jeszcze nie przybył na stadion?
++
+Najprostszym rozwiązaniem jest przesłanie biletu SMS-em lub jako załącznik przez komunikator. Usługa jest darmowa.
+Vouchery
+Jak wymienić voucher?
++
+Voucher można wymienić na platformie biletowej bilety.slaskwroclaw.pl. Po wybraniu miejsc i uzupełnieniu danych osobowych w koszyku transakcji wpisz kod vouchera w pole znajdujące się obok ceny biletu. Voucher można wymienić także w kasach na ul. Oporowskiej 62, w tygodniu w godzinach 9–17.
+Jak wykorzystać voucher prezentowy?
++
+Wybierz bilet, a następnie podczas płatności wpisz kod vouchera – jego wartość zostanie odjęta od ceny biletu.
+Voucher prezentowy
++
+Voucher prezentowy można zasilić kwotą w przedziale 10–650 zł i wykorzystywać jako elektroniczną portmonetkę przy zakupie biletów i karnetów na spotkania Śląska Wrocław na Tarczyński Arena Wrocław.
+Kupując voucher, otrzymujesz specjalny kod wielokrotnego użytku do wysokości kwoty zakupu. Voucher można realizować przy zakupie biletów i karnetów na wszystkie trybuny, włącznie z sektorami VIP – umożliwia zakup pojedynczych wejściówek, wejściówek dla kilku osób, a także karnetów.
+Z vouchera może skorzystać jego nabywca lub można przekazać go innej osobie, np. w formie prezentu. W przypadku przekroczenia limitu kwoty na voucherze, brakującą różnicę dopłacisz przy zakupie.
+Przy zakupie vouchera należy podać imię, nazwisko oraz numer PESEL. Voucher zostanie przypisany do konta osoby, której dane podano przy zakupie (np. swoje lub osoby obdarowanej) – pobrać go można z profilu tej osoby. Dane podane przy zakupie nie będą widoczne na voucherze.
+Jak kupić voucher prezentowy?
++
+Krok 1. Zaloguj się na stronie bilety.slaskwroclaw.pl.
+Krok 2. Wybierz zakładkę „Voucher prezentowy”, ustaw kwotę, przejdź do „PODSUMOWANIE”, a następnie kliknij „REALIZUJ”. Opłać zamówienie za pomocą serwisu PayU – zamówienie należy opłacić od razu.
+Voucher jest ważny do 31.12.2026 (istnieje możliwość przedłużenia przez klub o kolejne lata) lub do wykorzystania jego całej wartości.
+Czy voucher można wykorzystać częściowo?
++
+Tak. Niewykorzystana część zostaje na koncie i można jej użyć przy kolejnych zakupach.
+Karnety
+Co daje posiadanie karnetu?
++
+Karnet uprawnia do wejścia na wszystkie mecze domowe w sezonie z dużymi rabatami cenowymi ale nie tylko. Cała lista korzyści podawana jest na stronach bilety.slaskwroclaw.pl/ slaskwroclaw.pl przed każdym sezonem.
+Czy można przenieść karnet na inną osobę?
++
+Nie, karnet jest imienny i nie można go przenosić na inne osoby. Można jednak 4 razy w sezonie (2 razy na rundę) przepisać pojedynczy mecz z karnetu na kogoś innego – na swoim koncie, przy bilecie z karnetu, wybierz opcję „Przekaż bilet”.
+Zgubiłem Kartę Kibica, na której był karnet – co mam zrobić, aby móc wejść na mecz?
++
+Wystarczy osobiście w kasach stadionu przy ul. Oporowskiej 62 (w tygodniu przedmeczowym) lub w FanShopie na stadionie (w dniu meczowym) zamówić duplikat karty. Poprzednia karta zostanie anulowana, by nikt nie mógł z niej skorzystać. Koszt wyrobienia duplikatu wynosi 20 zł.
+Jak zakupić karnet? Instrukcja
++
+Krok 1. Logowanie do systemu i wybór miejsca.
+Krok 2. Uzupełnij dane.
+Krok 3. Wybór ceny – system automatycznie, na podstawie numeru PESEL, wybierze odpowiednią kategorię cenową dla każdego kibica.
+Krok 4. Sposób dostarczenia karnetu: wydruk PDF (konieczność generowania biletu przed każdym domowym meczem, z możliwością późniejszego wyrobienia karty kibica), kodowanie na karcie kibica (zakodowanie karnetu na posiadanej, aktywnej karcie) lub nowa karta wirtualna (forma elektroniczna, np. do portfela cyfrowego – wybierz „NOWA KARTA”, a następnie ikonkę zielonego „+”; uwaga, karta wirtualna blokuje możliwość późniejszego wyrobienia karty plastikowej).
+Krok 5. Płatność.
+Jak zmienić miejsce karnetu?
++
+Z poziomu konta kibica możliwa jest tylko zmiana miejsca na wybrany mecz w karnecie. Zaloguj się na swoje konto, skorzystaj z rozwijanego menu w prawej górnej części strony i wybierz zakładkę „Twoje dane”. W połowie strony widoczny jest posiadany przez Ciebie karnet – otwórz go poprzez kwadratową ikonkę ze znakiem strzałki w prawym, dolnym rogu. Kliknij przycisk „Zmień miejsce”, wybierz nowe miejsce na mapce stadionu, przejdź do podsumowania transakcji i użyj przycisku „Realizuj”.
+Uwaga: więcej niż jedna zmiana miejsca tego samego karnetu może generować konieczność zapłacenia pełnej kwoty karnetu ponownie.
+Niestety nie mogę uczestniczyć w meczu, a posiadam karnet – czy mogę go zwrócić?
++
+Zgodnie z warunkami sprzedaży akceptowanymi podczas zakupu karnety nie podlegają zwrotowi. Istnieje jednak możliwość przepisania biletu z karnetu na konkretny mecz na inną osobę.
+Mam karnet, a nie dostaję SMS-ów z klubu z ważnymi informacjami
++
+Aby otrzymywać najważniejsze informacje z klubu, uzupełnij numer telefonu w systemie biletowym. Zaloguj się na swoje konto, wybierz „Twoje konto”, a następnie „Edytuj dane”. Wpisz numer w polu „Telefon” i zapisz zmiany. Zaznacz również zgody na kontakt marketingowy z klubu.
+Mam kartę kibica, a wybrałem metodę dostarczenia PDF – co robić?
++
+Nie trzeba nic zmieniać. Jeśli karta jest dodana do konta, jest sprawna i nieuszkodzona, wystarczy wygenerować bilet z karnetu – karta kibica będzie działać także z karnetem w postaci PDF.
+Czy mogę kupić karnet, nie posiadając karty kibica?
++
+Posiadanie Karty Kibica nie jest już wymagane. Karnet bez karty kibica możesz zakupić na bilety.slaskwroclaw.pl, wybierając metodę dostarczenia „Wydruk PDF”. W takim przypadku pamiętaj o pobieraniu biletów na poszczególne spotkania w formie PDF do wydruku lub jako bilet mobilny.
+Chcę kupić karnet online, ale chcę go mieć na fizycznej (plastikowej) karcie kibica
++
+Jeśli zależy Ci na fizycznej karcie kibica z karnetem, wybierz zakup stacjonarny na ul. Oporowskiej 62 lub ul. Królewieckiej – online nie ma możliwości wyboru karty fizycznej, jedynie nowej karty wirtualnej (wersja cyfrowa na telefonie). Jeśli chcesz szybko kupić karnet, a kartę fizyczną wyrobić później, wybierz karnet w wersji PDF (bez karty) – taki karnet „podepnie się” pod kartę fizyczną wyrobioną w późniejszym czasie. Jeśli wybrałeś nową kartę wirtualną, karnet jest w wersji cyfrowej i wyrobienie później karty plastikowej może spowodować niepoprawne działanie karnetu na kołowrotkach.
+Przedłużyłem sobie karnet na swoje miejsce – jak przedłużyć karnet innej osobie z mojego konta?
++
+Przedłużając karnet, system zawsze pyta, czy kibic chce wybrać to samo miejsce, czy je zmienić. Jeśli jednak kibic przedłuża karnet innej osobie, korzystając ze swojego konta, system pomija ten etap i od razu przechodzi do wyboru miejsca z mapy stadionu. Jeśli chcesz przedłużyć innej osobie karnet na to samo miejsce, musisz wybrać dokładnie to miejsce z mapy. Miejsca karnetowe są przez określony czas zarezerwowane czerwoną obwódką na mapie stadionu – nie ma możliwości wybrania zarezerwowanego miejsca przez inną osobę.
+Dodatkowe informacje
+Opłata serwisowa
++
+Do każdej transakcji w systemie online dolicza się opłatę serwisową w wysokości 2 zł (transakcja musi przekraczać 20 zł). Kwota pokrywa koszt opłaty serwisowej dostawcy bramki płatniczej.
+Czy dzieci potrzebują biletu?
++
+Dzieci do lat 6 mogą wejść bezpłatnie, ale potrzebują bezpłatnego biletu do wejścia na obiekt. Starsze dzieci potrzebują biletu płatnego.
+Jak skorzystać z programu Nasz Wrocław i Nasz Wrocław MAX?
++
+Odbiór biletów odbywa się tylko w kasach przy ul. Oporowskiej 62 (godz. 10–17) oraz w Sklepie Kibica na ul. Piłsudskiego (godz. 10–18), od poniedziałku do piątku, z wyjątkiem dni meczowych. W programie Nasz Wrocław właściciel karty/konta może odebrać bilet dla siebie i na swoje dane; w programie Nasz Wrocław MAX – dla siebie i osoby towarzyszącej. Bilety obowiązują na sektor rodzinny na Tarczyński Arena Wrocław.
+Jak skorzystać z programu Karta Aglomeracji Wrocławskiej?
++
+Odbiór biletów odbywa się tylko w kasach przy ul. Oporowskiej 62 (godz. 10–17), od poniedziałku do piątku, z wyjątkiem dni meczowych. Właściciel karty może odebrać bilet dla siebie i na swoje dane. Bilety mają 50% rabat i obowiązują na sektor rodzinny na Tarczyński Arena Wrocław.
+Jak skorzystać ze zniżki Honorowego Dawcy Krwi?
++
+Ze zniżki ZHDK może skorzystać tylko zasłużony honorowy dawca krwi posiadający białą legitymację Polskiego Czerwonego Krzyża I stopnia lub legitymację Krwiodawcy Zasłużonego dla Narodu. Skan legitymacji należy wysłać na adres 
+kasy@slaskwroclaw.pl
+ – po weryfikacji osoba zostanie dodana do bazy biletowej ze specjalnymi uprawnieniami do zniżek.
+Jak skorzystać ze zniżki Weterana?
++
+Ze 100% zniżki Weterana może skorzystać tylko żołnierz Wojska Polskiego posiadający legitymację weterana. Skan legitymacji należy wysłać na adres 
+kasy@slaskwroclaw.pl
+ – po weryfikacji osoba zostanie dodana do bazy biletowej ze specjalnymi uprawnieniami do zniżek.
+Jak kupić bilety dla grupy zorganizowanej?
++
+Skontaktuj się z nami pisząc na 
+kasy@slaskwroclaw.pl
+, podając nazwę grupy, liczbę uczestników (dzieci i dorośli) oraz trybunę, która Cię interesuje. Przygotujemy rezerwację oraz link do samodzielnego odbioru biletów.
+Faktura
++
+W przypadku zakupu w punkcie stacjonarnym poinformuj kasjera przed zakupem o chęci otrzymania faktury. W przypadku zakupu online skontaktuj się z nami, pisząc na 
+kasy@slaskwroclaw.pl
+.
+Bilety dla osób z niepełnosprawnością
++
+W celu zakupu biletu ze zniżką prosimy o kontakt z Klubem Kibiców Niepełnosprawnych Śląsk Wrocław – [www.kkn.wroclaw.pl](https://www.kkn.wroclaw.pl).
+Gdzie mogę znaleźć więcej informacji?
++
+Skontaktuj się z Biurem Obsługi Kibica: 
+kasy@slaskwroclaw.pl
+ lub +48 71 750 00 83.
+© WKS Śląsk Wrocław S.A. · Sezon 2026/2027
+          Wróć na stronę główną →
+                        © 2026
+English
+                                    /
+Polski
+                                    /
+Українська
+                                    /
+Deutsch

@@ -1,0 +1,84 @@
+https://bilety.wislakrakow.com/CMS?page=faq
+
+faq | roboticket
+Polski
+arrow_drop_down
+Deutsch
+English
+Polski
+Українська
+Jak założyć konto?
+Krok 1.
+U góry strony bilety.wisla.krakow.pl klikamy przycisk „ZAŁÓŻ KONTO”.
+Krok 2.
+Wpisujemy swój numer PESEL (w przypadku obcokrajowców inny numer identyfikacyjny lub seria i numer dokumentu tożsamości), następnie klikamy przycisk  „DALEJ”
+Krok 3.
+Uzupełniamy wszystkie pola oraz zaznaczamy przyciski wyboru oznaczone gwiazdką. Klikamy przycisk „ZAŁÓŻ KONTO”
+Krok 4.
+Na podany w kroku 3 adres e-mail zostanie wysłana wiadomość z linkiem aktywacyjnym, który należy kliknąć aby w dokończyć proces aktywacji konta. Po kliknięciu w link aktywacyjny konto użytkownika w systemie biletowym jest aktywne.
+Konto dla dziecka poniżej 13 lat może w systemie biletowym założyć pełnoletni opiekun
+Krok 1.
+U góry strony  bilety.wisla.krakow.pl kliknij przycisk „ZAŁÓŻ KONTO”
+Krok 2.
+Wpisz numer PESEL dziecka, następnie kliknij przycisk „DALEJ”
+Krok 3.
+Uzupełniamy wszystkie pola oraz zaznaczamy przyciski wyboru oznaczone gwiazdką. Klikamy przycisk "ZAŁÓŻ KONTO"
+Krok 4.
+Pojawi się komunikat: "Dziecko poniżej 13 lat. Zbyt młody, aby się zarejestrować KLIKNIJ TUTAJ, aby połączyć konto opiekuna"
+Kliknij w podany komunikat i podaj dane do logowania opiekuna, następnie kliknij ponownie ZAŁÓŻ KONTO
+Krok 5.
+Na podany w kroku 3 adres e-mail zostanie wysłana wiadomość z linkiem aktywacyjnym, który należy kliknąć aby w dokończyć proces aktywacji konta. Po kliknięciu w link aktywacyjny konto użytkownika w systemie biletowym jest aktywne i można zalogować się na konto dziecka.
+Krok 6.
+Po zalogowaniu na swoje konto przydzielony opiekun ma podgląd na konto dziecka. W tym celu należy wejść w zakładkę: Twoje konto->Twoje grupy użytkowników.
+Jak się zalogować do systemu?
+Krok 1.
+U góry strony bilety.wisla.krakow.pl klikamy przycisk "LOGOWANIE"
+Krok 2.
+W polu "Email" wpisujemy adres poczty internetowej użytej przy rejestracji, w polu "Hasło" ustawione przez użytkownika hasło konta. Następnie klikamy przycisk "LOGOWANIE".
+Jak zmienić indywidualne hasło?
+Krok 1.
+Po zalogowaniu rozwijamy ikonę z nazwiskiem właściciela i wybieramy opcję "Twoje konto"
+Krok 2.
+Następnie rozwijamy menu kontekstowe po prawej stronie i wybieramy opcję "Zmiana hasła"
+Krok 3.
+Wpisujemy stare hasło, a następnie dwa razy nowe hasło oraz potwierdzamy przyciskiem "Zapis"
+Jak zmienić adres mailowy w systemie?
+Krok 1.
+Zaloguj się na swoje konto w systemie biletowym
+Krok 2.
+Po zalogowaniu rozwiń ikonę z nazwiskiem właściciela i wybierz opcję „Twoje konto”
+Krok 3.
+Następnie rozwiń menu kontekstowe po prawej stronie i wybierz opcję „Edycja danych”
+Krok 4.
+Zmień adres mailowy oraz zapisz zmiany. Zostaniesz automatycznie wylogowany
+Krok 5.
+Zaloguj się na podany adres mailowy i potwierdź zmianę adresu klikając w link aktywacyjny
+Czy mogę samodzielnie zmienić dane osobowe (imię, nazwisko, pesel)?
+Obowiązkowych danych osobowych nie można zmieniać samodzielnie. W przypadku konieczności zmiany wyżej wymienionych danych prosimy skontaktować się z Punktem Obsługi Kibica przez adres email: bilety@wisla.krakow.pl. 
+W jaki sposób sprawdzić historię swoich transakcji?
+Po zalogowaniu się na konto w systemie biletowym rozwiń ikonę z nazwiskiem właściciela. Cała historia transakcji pojawi się po wybraniu opcji „Lista transakcji”
+Metoda dostarczenia - wybór formy biletu/karnetu
+Wydruk samodzielny
+Wybór tej opcji stwarza konieczność drukowania w formie papierowej biletu przed każdym meczem. W przypadku karnetu należy drukować pojedynczą wejściówkę na każdy mecz
+Karta kibica
+Każdy posiadacz karty kibica (wirtualnej lub plastikowej> przy wyborze tej metody będzie miał wejściówkę na przypisaną do niej. Dotyczy to biletów oraz karnetów. 
+Czy muszę posiadać konto w systemie w celu zakupu karnetu?
+Tak, każda osoba planująca kupić bilet lub karnet musi posiadać aktywne konto w systemie.
+Czy mogę dokonać zakupu osobie trzeciej?
+Tak, karnety oraz można kupować osobom trzecim. Aby dokonać takiego zakupu należy przypisać osobę do miejsca podając jej numer PESEL
+Ile mam czasu na dokonanie zakupu wybranych miejsc?
+Czas sesji w systemie dla zalogowanego użytkownika to 15 minut
+Ile karnetów mogę kupić maksymalnie w jednej transakcji?
+W jednej transakcji można zakupić maksymalnie 10 karnetów
+Moja transakcja nie została opłacona, a wybrane miejsca zostały zablokowane. W jaki sposób mogę kupić zaznaczone wcześniej miejsca?
+Rozpoczęta i nieopłacona transakcja zostanie automatycznie anulowana najpóźniej w ciągu 1 godziny, a zajęte miejsca wrócą do ponownej sprzedaży. W przypadku, gdy kupujesz jako zalogowany użytkownik sprawdź, czy możesz ponownie opłacić transakcję lub ją anulować, wybierz Menu->Lista Transakcji i sprawdź status transakcji.
+Jestem obcokrajowcem i nie posiadam numeru PESEL, jak mogę kupić bilet?
+Podczas zakładania konta w systemie bilety.wisla.krakow.pl wystarczy w polu "PESEL/inny numer" wpisać numer paszportu lub innego ważnego dokumentu tożsamości, a następnie uzupełnić pozostałe pola, takie jak: imię, nazwisko, adres E-mail. Podczas zakupu bez logowania również możesz wpisać swój numer identyfikacyjny, który nie jest numerem PESEL w miejsce identyfikatora.
+                        © 2026
+Deutsch
+                                    /
+English
+                                    /
+Polski
+                                    /
+Українська

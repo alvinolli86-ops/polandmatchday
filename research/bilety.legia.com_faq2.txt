@@ -1,0 +1,59 @@
+https://bilety.legia.com/CMS?page=faq2
+
+faq2 | by roboticket
+Polski
+arrow_drop_down
+Deutsch
+English
+Polski
+Українська
+Zakup biletów
+help_outline
+Czy muszę posiadać konto kibica, aby kupić dla siebie bilet w systemie online?
+          Tak, każda osoba dokonująca zakupu biletów online dla siebie, musi posiadać konto kibica.
+help_outline
+Jak kupić bilety bez rejestracji?
+Zakup biletów bez rejestracji możliwy jest stacjonarnie w Punkcie Obsługi Kibica na Stadionie Legii Warszawa przy Łazienkowskiej 3
+W systemie online istnieje możliwość zakupu biletów dla osób, które nie posiadają konta kibica. Zakup biletów możliwy jest wtedy wyłącznie przez osobę posiadającą aktywne konto kibica.
+help_outline
+Czy muszę posiadać kartę kibica, aby kupić bilety?
+          Karta kibica nie jest wymagana do zakupu biletów. 
+help_outline
+Jak kupić bilety online?
+Wejdź na stronę bilety.legia.com
+Zaloguj się do systemu biletowego klikając w „Logowanie” – wybierając w prawym, górnym rogu „Logowanie”
+Wybierz interesujący Cię mecz z listy i kliknij w „Kup Bilet” – następnie wybierz konkretne wydarzenie spośród udostępnionej listy meczów
+Wybierz optymalny sektor, rząd i miejsce – po przekierowaniu na mapę stadionu wybierz dogodne dla siebie miejsce 
+Wprowadź dane osoby, dla której kupujesz bilet – klikając opcje „Koszyk” zostaniesz przekierowany do wprowadzenia danych (numer PESEL), niezbędnych do zakupu biletu
+Pod wprowadzonym nr PESEL zaznacz metodę dostarczenia biletu – po uzupełnieniu danych wybieramy nośnik biletu, na podstawie którego będziemy wchodzić na stadion (Bilet sms/wallet/wydruk pdf lub nowa karta kibica). Typ biletu (normalny, ulgowy, niepełnosprawny) zostaje automatycznie przypisany.
+Przejdź do płatności – klikając „Podsumowanie” zostajesz przekierowany do realizacji płatności (do wyboru dowolna dla siebie metoda??)
+Jak status transakcji będzie „zrealizowany” kliknij opcję pobierz lub wyślij na telefon (dowolny nośnik)
+help_outline
+Jestem obcokrajowcem i nie mam numeru PESEL, czy mogę kupić bilet online?
+          Tak, osoba nie posiadająca polskiego obywatelstwa może zakupić bilet online. Zakupu można dokonać po założeniu konta kibica lub za pośrednictwem innej osoby posiadającej konto kibica.
+help_outline
+Co zrobić, gdy w trakcie transakcji zawiesi mi się komputer lub połączenie sieciowe zostanie przerwane?
+Możesz wrócić do rozpoczętej transakcji. Na jej ukończenie masz 15 minut. Po tym czasie rezerwacja miejsca zostanie zwolniona.
+help_outline
+Zapomniałem swojego biletu, czy mogę wejść na Stadion?
+Duplikat biletu możesz wydrukować w Punkcie Obsługi Kibica na Stadionie Legii Warszawa przy Łazienkowskiej 3 (obok recepcji głównej)
+Możesz zalogować się do systemu biletowego i wysłać bilet smsem lub do aplikacji wallet na swój numer telefonu.
+help_outline
+Omyłkowo wybrałem niewłaściwe miejsce podczas kupowania biletu. Czy mogę zmienić miejsce?
+Tak, zmiana miejsca jest możliwa po zalogowaniu do systemu biletowego w historii transakcji.
+Zmiana możliwa jest również w Punkcie Obsługi Kibica na Stadionie Legii przy Łazienkowskiej 3.
+W przypadku zmiany strefy cenowej z tańszej na droższą system automatycznie naliczy różnicę w cenie
+help_outline
+Czy mogę kupić bilet dla znajomego ze swojego konta kibica?
+Tak, można to zrobić zarówno online, jak i stacjonarnie w Punkcie Obsługi Kibica. W obu przypadkach należy podać nr PESEL, imię oraz nazwisko znajomego.
+help_outline
+Ile biletów maksymalnie może kupić kibic w jednej transakcji?
+W jednej transakcji można  dokonać zakupu maksymalnie 6 biletów.
+                        © 2026
+Deutsch
+                                    /
+English
+                                    /
+Polski
+                                    /
+Українська

@@ -1,0 +1,128 @@
+https://bilety.wisla-plock.pl/CMS?page=faq
+
+FAQ
+Polski
+arrow_drop_down
+English
+Polski
+FAQ - Wisła Płock
+Rejestracja i logowanie
+help_outline
+Jak założyć konto?
+Po naciśnięciu przycisku ZAŁÓŻ KONTO w prawym górnym rogu wpisujemy swój numer PESEL, a w przypadku obcokrajowców inny numer identyfikacyjny lub numer dokumentu tożsamości. Następnie klikamy "Dalej", uzupełniamy wszystkie pola oraz zaznaczamy przyciski wyboru oznaczone gwiazdką. Na końcu klikamy przycisk ZAŁÓŻ KONTO. Na nasz adres e-mail zostanie wysłana wiadomość z linkiem aktywacyjnym, który zakończy proces aktywacji konta. W przypadku braku otrzymania linku aktywacyjnego prosimy o kontakt mailowy: 
+bilety@wisla-plock.pl
+help_outline
+Jak się zalogować?
+W prawym rogu klikamy w przycisk LOGOWANIE. Wpisujemy swój adres email oraz hasło i wciskamy przycisk ZALOGUJ.
+help_outline
+Jak zmienić dane w systemie?
+Danych osobowych takich jak IMIĘ, NAZWISKO oraz PESEL nie da się zmienić samodzielnie. W takim przypadku skontaktuj się z nami mailowo: 
+bilety@wisla-plock.pl
+. Zmiana hasła i adresu e-mail odbywa się poprzez kliknięcie na swoje imię i nazwisko w prawym górnym rogu. Następnie należy kliknąć w OPCJE, a potem w EDYTUJ DANE lub ZMIANA HASŁA.
+help_outline
+Jak odzyskać swoje konto?
+W celu odzyskania konta kliknij przycisk LOGOWANIE, a następnie NIE PAMIĘTAM HASŁA i podaj swój adres e-mail przypisany do konta.
+help_outline
+Czy rejestracja jest konieczna?
+Tak, bez rejestracji konta nie ma możliwości zakupu biletów drogą internetową.
+Zakup biletu
+help_outline
+Jak kupić bilet?
+Po zalogowaniu się do systemu wybierz interesujące Cię wydarzenie, sektor i konkretne miejsce. Uzupełnij dane wszystkich osób, dla których kupujesz bilety. Jeżeli po wpisaniu numeru PESEL imię i nazwisko nie uzupełni się automatycznie, skorzystaj z przycisku UZUPEŁNIJ DANE UŻYTKOWNIKA. System sam wybierze odpowiedni rodzaj biletu. Następnie przejdź do podsumowania i opłać transakcję.
+help_outline
+Jak uzyskać bilet ulgowy?
+Bilet ulgowy obowiązuje po okazaniu i wprowadzeniu legitymacji do systemu. Udaj się do Wisła Płock FanShop albo do kasy biletowej z ważną legitymacją. Możesz też wysłać skan dwóch stron legitymacji na e-mail: 
+bilety@wisla-plock.pl
+. Zniżka obowiązuje do końca ważności legitymacji zarówno przy zakupie biletów drogą stacjonarną, jak i internetową. Bilety ulgowe przeznaczone są dla: dla uczniów i studentów do 26. roku życia, kobiet, emerytów, rencistów, weteranów wojennych, osób niepełnosprawnych i ich opiekunów. Bilety dla dzieci do 13 roku życia wyszukiwane są w systemie po numerze PESEL i nie potrzebne jest okazywanie ważnej legitymacji.  
+help_outline
+Jak kupić bilet dla obcokrajowca?
+Po wybraniu odpowiedniego miejsca na stadionie bilet dla osoby zza granicy można kupić wpisując numer dokumentu. Następnie po kliknięciu przycisku UZUPEŁNIJ DANE UŻYTKOWNIKA wpisujemy Imię i Nazwisko oraz zaznaczamy checkbox OBCOKRAJOWIEC.
+help_outline
+Jak mogę przepisać bilet na inną osobę?
+Po zalogowaniu się rozwiń zakładkę MOJE KONTO w prawym górnym rogu, a następnie kliknij NADCHODZĄCE WYDARZENIA. Wybierz konkretny mecz i kliknij w okienko PRZEJDŹ DO BILETU, a następnie PRZEKAŻ BILET. Uzupełnij dane osoby, na którą przepisujesz bilet. W przypadku przekazywania wejściówki z osoby, która ma tańsze bilety, na osobę, która ma droższe, system naliczy dopłatę.
+help_outline
+Jak mogę zmienić miejsce?
+Po zalogowaniu się rozwiń zakładkę MOJE KONTO w prawym górnym rogu, a następnie kliknij NADCHODZĄCE WYDARZENIA. Wybierz konkretny mecz i kliknij w okienko PRZEJDŹ DO BILETU, a następnie ZMIEŃ MIEJSCE. Wybierz odpowiedni sektor oraz miejsce. W przypadku zamiany sektora z tańszego na droższy system naliczy dopłatę.
+help_outline
+Czy mogę zwrócić bilet?
+Nie przysługuje prawo zwrotu biletu z przyczyn leżących po stronie klienta.
+help_outline
+Gdzie znajdę zakupiony bilet?
+Bilet zostanie wysłany na adres e-mail przypisany do konta. Może pojawić się w folderze SPAM. W przypadku dużego zainteresowania wydarzeniem wejściówki mogą pojawić się ze sporym opóźnieniem. Bilety dostępne są także na koncie biletowym. Po rozwinięciu zakładki MOJE KONTO w prawym górnym rogu kliknij przycisk NADCHODZĄCE WYDARZENIA. Przy odpowiednim meczu można pobrać bilet lub wyświetlić jego wersję mobilną.
+help_outline
+W jakiej formie muszę mieć bilet?
+Bilet można okazać w formie wydrukowanej lub mobilnej na telefonie poprzez pobranie biletu, otworzenie odpowiedniego linku lub usługi SMS.
+help_outline
+Jak wysłać bilet SMS?
+Po zalogowaniu się rozwiń zakładkę MOJE KONTO w prawym górnym rogu, kliknij NADCHODZĄCE WYDARZENIA, wybierz mecz i kliknij PRZEJDŹ DO BILETU, a następnie BILET MOBILNY. Wpisz numer telefonu bez numeru kierunkowego i naciśnij WYŚLIJ SMS. Na numer przyjdzie link, po kliknięciu którego pojawi się kod kreskowy do zeskanowania na bramkach wejściowych. Przesłanie biletu SMS-em możliwe jest tylko do rozpoczęcia spotkania.
+help_outline
+Czy do biletu potrzebna jest karta kibica?
+Nie potrzebujesz karty kibica, by kupić bilet i wejść na mecz.
+Zakup karnetu
+help_outline
+Jak kupić karnet?
+Po zalogowaniu się do systemu wybierz interesujące Cię wydarzenie, sektor i konkretne miejsce. Uzupełnij dane wszystkich osób, dla których kupujesz karnety. Jeżeli po wpisaniu numeru PESEL imię i nazwisko nie uzupełni się automatycznie, skorzystaj z przycisku UZUPEŁNIJ DANE UŻYTKOWNIKA. Następnie wybierz odpowiedni rodzaj karnetu oraz przejdź do podsumowania i opłać transakcję.
+help_outline
+Co daje karnet?
+Karnet upoważnia do udziału we wszystkich meczach danego sezonu lub rundy oraz Pucharu Polski. Daje także 10% rabatu na zakupy w Wisła Płock FanShop oraz rezerwację miejsca w następnym sezonie przez określony czas.
+help_outline
+Co potrzebne jest do zeskanowania karnetu wirtualnego?
+Wejście na mecz z karnetem wirtualnym odbywa się poprzez pokazanie kodu kreskowego na dane spotkanie. Zaloguj się na swoje konto internetowe, rozwiń zakładkę MOJE KONTO w prawym górnym rogu i kliknij NADCHODZĄCE WYDARZENIA. Przy odpowiednim meczu kliknij ikonkę widoku mobilnego. Pojawi się kod kreskowy do zeskanowania.
+help_outline
+Jak zmienić miejsce na karnecie?
+Nie ma możliwości zmiany miejsca na cały sezon. Kibic może dokonać zamiany przed każdym meczem. Rozwiń zakładkę MOJE KONTO w prawym górnym rogu, kliknij NADCHODZĄCE WYDARZENIA, przejdź do odpowiedniego karnetu i kliknij ZMIEŃ MIEJSCE przy danym wydarzeniu. Wybierz miejsce i przejdź do podsumowania. Zmiana miejsca może wiązać się z dodatkowymi opłatami w przypadku zmiany sektora z tańszego na droższy.
+help_outline
+Czy można przepisać karnet na inną osobę?
+Karnetu nie można przepisać na inną osobę. Można przepisać jedynie wejściówkę na pojedyncze spotkanie. Rozwiń zakładkę MOJE KONTO w prawym górnym rogu, kliknij NADCHODZĄCE WYDARZENIA, przejdź do odpowiedniego karnetu i kliknij PRZEKAŻ BILET. Wpisz dane osoby i przejdź do podsumowania. Zmiana danych może wiązać się z dodatkowymi opłatami w przypadku przekazania biletu z ulgą na bilet normalny.
+help_outline
+Czy można zmienić karnet wirtualny na fizyczny?
+Rodzaj karnetu wybierany jest podczas zakupu i nie ma możliwości jego zmiany po zakończeniu transakcji.
+help_outline
+Czy można zwrócić karnet?
+Nie przysługuje prawo zwrotu karnetu z przyczyn leżących po stronie klienta.
+help_outline
+Co zrobić gdy zgubię karnet?
+Gdy zgubisz karnet, udaj się do naszego punktu sprzedaży po duplikat. Może obowiązywać dodatkowa opłata za ponowne wyrobienie karty.
+help_outline
+Czy do karnetu potrzebna jest karta kibica?
+Nie potrzebujesz karty kibica, by kupić karnet i wejść na mecz.
+Wejście na mecz
+help_outline
+Ile czasu przed meczem otwierane są bramki wejściowe?
+Bramki wejściowe otwierane są zawsze półtorej godziny przed rozpoczęciem spotkania.
+help_outline
+Czy mogę wejść na mecz mając bilet w telefonie?
+Możesz wejść na mecz mając bilet w telefonie. Warto jednak pamiętać, że screeny kodów często nie są wystarczającej jakości, co może spowodować problemy z ich sczytywaniem
+help_outline
+Co zrobić gdy mam problem z przejściem przez bramki wejściowe?
+          1) Upewnij się, że korzystasz z kodu kreskowego na poprawne wydarzenie.
+          2) Upewnij się, że nikomu nie przekazywałeś biletu w systemie ani nie wysyłałeś go komuś, kto mógłby próbować go wykorzystać.
+          3) Zwiększ jasność urządzenia do maksimum.
+          4) Upewnij się, że ekran nie jest zabrudzony ani uszkodzony.
+          5) W przypadku biletu stacjonarnego upewnij się, że kod kreskowy jest poprawnie wydrukowany.
+          W przypadku braku rozwiązania problemu udaj się do Wisła Płock FanShop.
+Dodatkowe informacje
+help_outline
+Gdzie znajdę terminarz Ekstraklasy?
+Terminarz Ekstraklasy znajduje się na jej oficjalnej stronie: 
+Kliknij tutaj
+help_outline
+Czy idąc na mecz muszę mieć przy sobie dokument tożsamości?
+Tak. Wejście na stadion możliwe jest wyłącznie po okazaniu dokumentu tożsamości.
+help_outline
+Czy dziecko potrzebuje mieć swój bilet/karnet na mecz?
+Tak, każda osoba musi posiadać swoją wejściówkę.
+help_outline
+Potrzebuję faktury. Jak mogę ją dostać?
+Poinformuj kasjera przed zakupem wejściówek, że potrzebujesz faktury. Jeśli kupujesz bilety online, skontaktuj się z nami mailowo: 
+bilety@wisla-plock.pl
+help_outline
+Potrzebujesz pomocy?
+Skontaktuj się z nami mailowo: 
+bilety@wisla-plock.pl
+ albo udaj się do Wisła Płock FanShop.
+Warunki Serwisu
+                        © 2026
+English
+                                    /
+Polski

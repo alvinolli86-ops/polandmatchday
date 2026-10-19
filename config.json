@@ -1,0 +1,10 @@
+{
+ "site_name": "Poland Matchday",
+ "base_url": "https://alvinolli86-ops.github.io/polandmatchday",
+ "base_path": "/polandmatchday/",
+ "tagline": "Polish football for visitors & expats — in English",
+ "affiliates": {
+  "getyourguide_partner_id": "GYG_PARTNER_ID_PLACEHOLDER",
+  "booking_aid": "BOOKING_AID_PLACEHOLDER"
+ }
+}
