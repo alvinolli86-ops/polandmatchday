@@ -7,62 +7,315 @@
   "unverified": "We have not found an official statement yet."
  },
  "clubs": [
-  {"slug":"legia-warszawa","name":"Legia Warszawa","en":"Legia Warsaw","city":"warsaw","ticket_url":"https://bilety.legia.com/",
-   "passport":"yes","evidence":"FAQ: 'I am a foreigner without a PESEL – can I buy online? Yes … after creating a fan account (konto kibica) or via another person who has one.' A Fan Card (Karta Kibica) is not required.",
-   "source":"https://bilety.legia.com/CMS?page=faq2",
-   "avoid":{"text":"South stand 'Żyleta' is the ultras' stand – expect to stand and chant all match; neutrals are advised to sit elsewhere. Big games (e.g. vs Lech) sell out fast.","source":"https://www.reddit.com/r/warsaw/comments/1v5mp5e/tickets_for_legia/","type":"community tip (Reddit), not official"}},
-  {"slug":"lech-poznan","name":"Lech Poznań","en":"Lech Poznań","city":"poznan","ticket_url":"https://bilety.lechpoznan.pl/",
-   "passport":"yes","evidence":"FAQ: foreigners enter a passport or other ID number in the 'PESEL/other number' field when registering; also works when buying without logging in. Buying without a Fan Card is possible at the ticket point/stadium box office.",
-   "source":"https://bilety.lechpoznan.pl/CMS?page=faq"},
-  {"slug":"widzew-lodz","name":"Widzew Łódź","en":"Widzew Łódź","city":"lodz","ticket_url":"https://bilety.widzew.com/",
-   "passport":"yes","evidence":"'How to buy a ticket' page: 'Can a person without a PESEL attend? Yes – during the ticket purchase you can choose a passport number instead of PESEL.'",
-   "source":"https://bilety.widzew.com/jak-kupic-bilet"},
-  {"slug":"motor-lublin","name":"Motor Lublin","en":"Motor Lublin","city":null,"ticket_url":"https://bilety.motorlublin.eu/",
-   "passport":"yes","evidence":"Ticket sales regulations §: 'People without a PESEL can buy a ticket at club box offices, authorised points and via the online sales system, entering a passport number or other valid ID instead of PESEL.'",
-   "source":"https://bilety.motorlublin.eu/documents/d/guest/regulamin-bilety-1"},
-  {"slug":"zaglebie-lubin","name":"Zagłębie Lubin","en":"Zagłębie Lubin","city":null,"ticket_url":"https://www.zaglebie.com/Bilety",
-   "passport":"accepted","evidence":"2026/27 sales regulations: for people without Polish citizenship and PESEL, the series/number of an ID document (e.g. passport) and date of birth are required. Online channel not spelled out.",
-   "source":"https://www.zaglebie.com/var/assets/aktualnosci/2026/6/REGULAMIN%20SPRZEDAZY%20BILETOW%20I%20KARNETOW%20%20%20%20%2026-27.pdf"},
-  {"slug":"wisla-krakow","name":"Wisła Kraków","en":"Wisła Kraków","city":"krakow","ticket_url":"https://bilety.wislakrakow.com/",
-   "passport":"yes","evidence":"FAQ: 'I am a foreigner without a PESEL – how can I buy a ticket?' Enter a passport or other valid ID number in the 'PESEL/other number' field when creating an account; also possible when buying without logging in.",
-   "source":"https://bilety.wislakrakow.com/CMS?page=faq"},
-  {"slug":"rakow-czestochowa","name":"Raków Częstochowa","en":"Raków Częstochowa","city":null,"ticket_url":"https://bilety.rakow.com/",
-   "passport":"unclear","evidence":"2026/27 sales regulations require name + PESEL and showing ID; the ID list mentions passports/residence documents only for foreigners with longer-than-tourist stay permits. FAQ also says PESEL is required. Short-stay visitors: contact the club.",
-   "source":"https://static-fr.roboticket.com/Content/RKS/Images/Layouts/Regulamin%20sprzeda%C5%BCy%202026_2027.pdf"},
-  {"slug":"korona-kielce","name":"Korona Kielce","en":"Korona Kielce","city":null,"ticket_url":"https://bilety.korona-kielce.pl/",
-   "passport":"yes","evidence":"Sales regulations 2026/27, pt 9: 'To buy tickets in the System for people without Polish citizenship and PESEL, the series and number of an ID document (e.g. passport) and date of birth are required.' (The 'System' is the online ticket system.)",
-   "source":"https://bilety.korona-kielce.pl/documents/d/korona-kielce-bilety/regulamin-sprzedazy-biletow-i-karnetow-sezon-26-27-od-16-06-2026-1"},
-  {"slug":"gks-katowice","name":"GKS Katowice","en":"GKS Katowice","city":"katowice","ticket_url":"https://bilety.gkskatowice.eu/",
-   "passport":"accepted","evidence":"FAQ: 'How to buy tickets for foreigners? A foreigner must have a valid ID … for foreigners an ID document number plus date of birth is needed instead of PESEL.' Channel not spelled out.",
-   "source":"https://bilety.gkskatowice.eu/CMS?page=FAQ"},
-  {"slug":"radomiak-radom","name":"Radomiak Radom","en":"Radomiak Radom","city":null,"ticket_url":"https://bilety.rksradomiak.pl/",
-   "passport":"accepted","evidence":"Sales regulations §2.3: buyer gives name, surname, PESEL, 'or, if none was issued, the type, series and number of an ID document'. Online channel not spelled out.",
-   "source":"https://bilety.rksradomiak.pl/regulamin-sprzedazy-biletow",
-   "price":{"text":"Single tickets 2026/27: 35–65 zł standard (25–55 zł concession); +10 zł for Premium games (Lech, Legia, Widzew); +5 zł on matchday; VIP Gold 300 zł.","source":"https://bilety.rksradomiak.pl/cennik","type":"official"}},
-  {"slug":"piast-gliwice","name":"Piast Gliwice","en":"Piast Gliwice","city":"katowice","ticket_url":"https://bilety.piast-gliwice.eu/",
-   "passport":"yes","evidence":"FAQ: 'Can a person without a PESEL attend? Yes – during the ticket purchase you can choose a passport number instead of PESEL.'",
-   "source":"https://bilety.piast-gliwice.eu/faq"},
-  {"slug":"cracovia","name":"Cracovia","en":"Cracovia (Kraków)","city":"krakow","ticket_url":"https://bilety.cracovia.pl/",
-   "passport":"yes","evidence":"Ticket regulations §4.1 (online sales): register an account; up to 6 tickets per match giving name and PESEL '(for foreigners, another identity document)'. Season tickets need a Fan Card.",
-   "source":"https://cdn.sportigio.com/spaces/507/uploads/NETKDpKlc6XhaUWQweGlrtMm7VqOMqzy2UIwmaub.pdf"},
-  {"slug":"jagiellonia-bialystok","name":"Jagiellonia Białystok","en":"Jagiellonia Białystok","city":null,"ticket_url":"https://bilety.jagiellonia.pl/",
-   "passport":"accepted","evidence":"Only the 2025 SEASON-TICKET regulations were found: foreigners give type, series and number of their ID document instead of PESEL when registering in the online sales system. Single-ticket rules not yet checked.",
-   "source":"https://static-fr.roboticket.com/Content/JAGA/Images/Layouts/reg_sprzed_karnetow-2025.pdf"},
-  {"slug":"wisla-plock","name":"Wisła Płock","en":"Wisła Płock","city":null,"ticket_url":"https://bilety.wisla-plock.pl/",
-   "passport":"yes","evidence":"FAQ: 'How to buy a ticket for a foreigner?' After choosing a seat, enter the document number, click FILL IN USER DATA, enter name and tick the FOREIGNER checkbox. Account registration also accepts an ID number.",
-   "source":"https://bilety.wisla-plock.pl/CMS?page=faq"},
-  {"slug":"slask-wroclaw","name":"Śląsk Wrocław","en":"Śląsk Wrocław","city":"wroclaw","ticket_url":"https://bilety.slaskwroclaw.pl/",
-   "passport":"yes","evidence":"English FAQ: 'I am a foreign national and do not have a PESEL number – how can I buy a ticket? … enter your passport number or another valid identity document number … When purchasing without logging in, you can also enter your identification number.'",
-   "source":"https://bilety.slaskwroclaw.pl/CMS?page=FAQ-en"},
-  {"slug":"gornik-zabrze","name":"Górnik Zabrze","en":"Górnik Zabrze","city":"katowice","ticket_url":"https://bilety.gornikzabrze.pl/",
-   "passport":"yes","evidence":"FAQ: people without a PESEL register with the ID they have: enter the document number in the PESEL field, click FILL IN DATA, tick 'Foreigner'. A Fan Card is not required.",
-   "source":"https://bilety.gornikzabrze.pl/CMS?page=FAQ"},
-  {"slug":"pogon-szczecin","name":"Pogoń Szczecin","en":"Pogoń Szczecin","city":"szczecin","ticket_url":"https://bilety.pogonszczecin.pl/",
-   "passport":"yes","evidence":"Q&A: 'Can I buy a ticket for a foreigner (no PESEL)? Yes – enter the ID card/passport number in the PESEL field and tick the foreigner option.' Matchday sales open ~10–18 days before each match.",
-   "source":"https://bilety.pogonszczecin.pl/CMS?page=qa"},
-  {"slug":"wieczysta-krakow","name":"Wieczysta Kraków","en":"Wieczysta Kraków","city":"krakow","ticket_url":"https://bilety.kswieczysta.com/",
-   "passport":"accepted","evidence":"Sales regulations: if the ticket holder has no PESEL, the type, series and number of an ID document (passport, ID card, residence document) is given. Online channel not spelled out. Home games are at the Reymana stadium (shared with Wisła Kraków).",
-   "source":"https://static-fr.roboticket.com/Content/Wieczysta/Images/Layouts/REGULAMIN%20SPRZEDA%C5%BBY%20BILET%C3%93W%20NA%20MECZE%20KS_compressed.pdf",
-   "price":{"text":"2026/27: 25 zł standard, 10 zł concession (35/20 zł for selected big games); only sector E (~8,900 seats) + VIP open. Single-ticket sales open 14 days before each match.","source":"https://gazetakrakowska.pl/mecze-wieczystej-krakow-w-ekstraklasie-dla-kibicow-juz-nie-sa-za-darmo-oto-ceny-biletow-i-karnetow-nawet-4-tysiace-zlotych/ar/c2p2-29166731","type":"press report (Gazeta Krakowska), not official"}}
+  {
+   "slug": "legia-warszawa",
+   "name": "Legia Warszawa",
+   "en": "Legia Warsaw",
+   "city": "warsaw",
+   "ticket_url": "https://bilety.legia.com/",
+   "passport": "yes",
+   "evidence": "FAQ: 'I am a foreigner without a PESEL – can I buy online? Yes … after creating a fan account (konto kibica) or via another person who has one.' A Fan Card (Karta Kibica) is not required.",
+   "source": "https://bilety.legia.com/CMS?page=faq2",
+   "avoid": {
+    "text": "South stand 'Żyleta' is the ultras' stand – expect to stand and chant all match; neutrals are advised to sit elsewhere. Big games (e.g. vs Lech) sell out fast.",
+    "source": "https://www.reddit.com/r/warsaw/comments/1v5mp5e/tickets_for_legia/",
+    "type": "community tip (Reddit), not official"
+   },
+   "transport": {
+    "text": "Legia's own match guides say Metro Politechnika and Metro Centrum Nauki Kopernik are a few stops from the stadium (ul. Łazienkowska 3) and list nearby buses, with current routes on wtp.waw.pl. One club note gave about 15 minutes on foot from Plac Na Rozdrożu through Park Agrykola, and about 5 minutes from the Torwar stop via ul. Czerniakowska. Bus numbers differ between club articles, and roadworks have changed access. The club does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://legia.com/articles/utrudnienia-w-dojezdzie-na-stadion-legii",
+    "type": "official club notes"
+   }
+  },
+  {
+   "slug": "lech-poznan",
+   "name": "Lech Poznań",
+   "en": "Lech Poznań",
+   "city": "poznan",
+   "ticket_url": "https://bilety.lechpoznan.pl/",
+   "passport": "yes",
+   "evidence": "FAQ: foreigners enter a passport or other ID number in the 'PESEL/other number' field when registering; also works when buying without logging in. Buying without a Fan Card is possible at the ticket point/stadium box office.",
+   "source": "https://bilety.lechpoznan.pl/CMS?page=faq",
+   "price": {
+    "text": "2026/27 league list on the official ticket shop: category 1 (most league matches) full price 80 zł on Anioły & Czapczyka (stands I and III) and 55 zł on Białasa & Kocioł (stands II and IV); reduced 64/44 zł; child 40/27 zł. Category 2 (at least 7 matches) 120/90 zł full price. Lech–Legia 200/160 zł full price. Reduced (−20%) is pupils and students aged 13–26 and seniors over 65; child is under 13; under-5s with a guardian are free on a standard seat. The same page says the price for a given match is republished when sales open. The Korona Kielce match page adds 10 zł from 00:01 on matchday (80/55 zł becomes 90/65 zł).",
+    "source": "https://bilety.lechpoznan.pl/CMS?page=karnety-lecha",
+    "type": "official ticket shop, 2026/27"
+   },
+   "transport": {
+    "text": "The club's matchday page: trams 1, 6, 13 and 15 and buses 145, 163, 191 and 193 stop at Stadion Miejski, with extra trams and buses before and after the match. A match ticket or season ticket is valid as a free ZTM ride on matchday, in every ZTM zone, for up to 3 hours before kickoff and 2 hours after. The club puts the drive from the centre at 4 km (Grunwaldzka from Rondo Kaponiera). A later club note during track works listed different tram lines, so check ztm.poznan.pl before you go.",
+    "source": "https://www.lechpoznan.pl/dzien-meczowy,26.html",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "widzew-lodz",
+   "name": "Widzew Łódź",
+   "en": "Widzew Łódź",
+   "city": "lodz",
+   "ticket_url": "https://bilety.widzew.com/",
+   "passport": "yes",
+   "evidence": "'How to buy a ticket' page: 'Can a person without a PESEL attend? Yes – during the ticket purchase you can choose a passport number instead of PESEL.'",
+   "source": "https://bilety.widzew.com/jak-kupic-bilet",
+   "transport": {
+    "text": "In a match note the club says the stadium is served by MPK trams 8, 9, 10A and 10B and buses 64A, 64B, 75A, 75B, 80A and 80B, and that ŁKA trains stop at Łódź Niciarniana. That note is for one fixture. The club does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://widzew.com/aktualnosci/item/WIDPIA-Sprawdz-najwazniejsze-informacje-organizacyjne/",
+    "type": "official club match note"
+   }
+  },
+  {
+   "slug": "motor-lublin",
+   "name": "Motor Lublin",
+   "en": "Motor Lublin",
+   "city": null,
+   "ticket_url": "https://bilety.motorlublin.eu/",
+   "passport": "yes",
+   "evidence": "Ticket sales regulations §: 'People without a PESEL can buy a ticket at club box offices, authorised points and via the online sales system, entering a passport number or other valid ID instead of PESEL.'",
+   "source": "https://bilety.motorlublin.eu/documents/d/guest/regulamin-bilety-1",
+   "price": {
+    "text": "Price graphic on the official cennik page (the graphic does not print a season; last checked Oct 2026). Full price by zone: A 57, B 62, C 69, D 75, E 85, F 99 zł. Concession: 45 / 50 / 55 / 60 / 68 / 80 zł. Child: 29 / 31 / 35 / 38 / 43 / 50 zł. Premium matches add 10 zł in every category. Matchday adds 5 zł. Check the graphic before you go.",
+    "source": "https://bilety.motorlublin.eu/cennik",
+    "type": "official price graphic"
+   },
+   "transport": {
+    "text": "Club travel page: stops Arena Lublin, Kawia, Dworzec Lublin, Spółdzielcza and Targi Lublin. Buses 4, 5, 6, 13, 20, 22, 24, 30, 34, 35, 45, 52, 74 and night bus N3; trolleybuses 151, 153, 154, 155 and 161. The main bus station and Lublin Główny station are close. Times are on mpk.lublin.pl. The club does not say a match ticket includes public transport.",
+    "source": "https://motorlublin.eu/dojazd-na-mecz-i-parkingi",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "zaglebie-lubin",
+   "name": "Zagłębie Lubin",
+   "en": "Zagłębie Lubin",
+   "city": null,
+   "ticket_url": "https://www.zaglebie.com/Bilety",
+   "passport": "accepted",
+   "evidence": "2026/27 sales regulations: for people without Polish citizenship and PESEL, the series/number of an ID document (e.g. passport) and date of birth are required. Online channel not spelled out.",
+   "source": "https://www.zaglebie.com/var/assets/aktualnosci/2026/6/REGULAMIN%20SPRZEDAZY%20BILETOW%20I%20KARNETOW%20%20%20%20%2026-27.pdf",
+   "transport": {
+    "text": "The club's fan guide for KGHM Zagłębie Arena (ul. Marii Skłodowskiej-Curie 98) lists city buses 2, 5, 6 and 7 and 100, 103, 104, 105 and 113. Match notes have also promised extra buses after specific games. The club does not publish a walking time from the centre, and does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://www.zaglebie.com/Kibice",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "wisla-krakow",
+   "name": "Wisła Kraków",
+   "en": "Wisła Kraków",
+   "city": "krakow",
+   "ticket_url": "https://bilety.wislakrakow.com/",
+   "passport": "yes",
+   "evidence": "FAQ: 'I am a foreigner without a PESEL – how can I buy a ticket?' Enter a passport or other valid ID number in the 'PESEL/other number' field when creating an account; also possible when buying without logging in.",
+   "source": "https://bilety.wislakrakow.com/CMS?page=faq",
+   "price": {
+    "text": "2026/27 on the club's English tickets page. Regular match, standard price: zone 1 80 zł, zone 2 66 zł, zone 3 55 zł, sector X 55 zł, family sector 55 zł. TOP match: 95 / 79 / 66 / 66 / 66 zł. Reduced covers ages 65+, women, and under-26s; child is under 15. Matchday adds 5 zł; buying at the fan-service point adds another 5 zł; a 2 zł service fee is added per transaction. No more than two children under 6 may enter free on a guardian's seat.",
+    "source": "https://wislakrakow.com/en/tickets",
+    "type": "official club page, 2026/27"
+   },
+   "transport": {
+    "text": "Wisła's 'road to the stadium' page: tram 14 from Teatr Słowackiego (by the main station) to Reymana; tram 8 from Rondo Matecznego; tram 1 from Plac Wszystkich Świętych to Reymana; airport bus 300 to Muzeum Narodowe, then about 15 minutes on foot along al. 3 Maja. The stadium operator's page instead lists trams 1 and 20 to Reymana (al. 3 Maja) and buses to Kawiory. Lines differ, so check mpk.krakow.pl. The club does not say a match ticket includes public transport.",
+    "source": "https://wislakrakow.com/kibic/droga-na-stadion",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "rakow-czestochowa",
+   "name": "Raków Częstochowa",
+   "en": "Raków Częstochowa",
+   "city": null,
+   "ticket_url": "https://bilety.rakow.com/",
+   "passport": "unclear",
+   "evidence": "2026/27 FAQ: both the box office and the online shop ask for first name, surname and a PESEL. A Fan Card needs an identity document that shows a PESEL (10 zł if you are not buying a season ticket; a duplicate is 10 zł; free when bought with a season ticket). No passport alternative is published. Short-stay visitors should email bilety@rakow.com or try a club shop before travelling. Buy online at bilety.rakow.com, at Fan Store Stadion, Galeria Jurajska, the stadium box office, or Medalik (stand B / Młyn only).",
+   "source": "https://bilety.rakow.com/CMS?page=faq",
+   "price": {
+    "text": "Single-match prices are not printed as text on the official cennik page (last checked Oct 2026). The linked graphic on that page is a spring 2026 season-ticket (karnet) list, not a match-ticket list, so it is not quoted here. Check the cennik page or email bilety@rakow.com before you go.",
+    "source": "https://bilety.rakow.com/CMS?page=Cennik+i+punkty",
+    "type": "official cennik page — match prices not in the HTML"
+   },
+   "transport": {
+    "text": "Club 'how to get there' page: the ground is at ul. Limanowskiego 83. Tram 3 and buses 12, 19, 31, 32, 35 and 80 stop at STADION RAKÓW. The club does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://rakow.com/jade-na-mecz-134",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "korona-kielce",
+   "name": "Korona Kielce",
+   "en": "Korona Kielce",
+   "city": null,
+   "ticket_url": "https://bilety.korona-kielce.pl/",
+   "passport": "yes",
+   "evidence": "Sales regulations 2026/27, pt 9: 'To buy tickets in the System for people without Polish citizenship and PESEL, the series and number of an ID document (e.g. passport) and date of birth are required.' (The 'System' is the online ticket system.)",
+   "source": "https://bilety.korona-kielce.pl/documents/d/korona-kielce-bilety/regulamin-sprzedazy-biletow-i-karnetow-sezon-26-27-od-16-06-2026-1",
+   "price": {
+    "text": "Price graphic on the official cennik page (no season printed on the graphic; last checked Oct 2026). Full price: category C 55–68 zł, B 65–78 zł, A 75–88 zł. Concession and child columns are on the same graphic. Check it before you go.",
+    "source": "https://bilety.korona-kielce.pl/cennik",
+    "type": "official price graphic"
+   },
+   "transport": {
+    "text": "Club stadium guide (ul. Ściegiennego 8): buses 2, 27, 29, 30, 34, 103 and Z stop at Ściegiennego stadion or Ściegiennego / I LO Żeromskiego; buses 4, 27, 44 and 54 stop at Legionów stadion. The club does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://www.korona-kielce.pl/mapa-stadionu",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "gks-katowice",
+   "name": "GKS Katowice",
+   "en": "GKS Katowice",
+   "city": "katowice",
+   "ticket_url": "https://bilety.gkskatowice.eu/",
+   "passport": "accepted",
+   "evidence": "FAQ, 'How do I buy tickets for foreigners?': a foreigner must have a valid photo ID; to buy without the document in hand, the name and the ID-document number are required. A separate answer, about making a Fan Card for a foreigner, says an ID-document number plus date of birth is used instead of a PESEL. The online registration answer still says to enter a PESEL, and the FAQ does not explicitly say the online shop accepts a passport in that field. A one-off ticket does not require a Fan Card; a season ticket or package does. Online purchase requires an account.",
+   "source": "https://bilety.gkskatowice.eu/CMS?page=FAQ",
+   "transport": {
+    "text": "Club travel page: Arena Katowice is at ul. Nowa Bukowa 1. On matchdays two free buses run to the Katowice Arena stop — GKS 1 from Centrum Przesiadkowe Brynów and GKS 2 from Plac Andrzeja — from 2.5 hours before kickoff until 2 hours after, including the return. Everyday lines 70 and Z-38 also serve Katowice Arena. Cars approach only from ul. Bocheńskiego. A paid car park needs a parking ticket bought the same way as a match ticket.",
+    "source": "https://www.gkskatowice.eu/dojazd-na-arene",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "radomiak-radom",
+   "name": "Radomiak Radom",
+   "en": "Radomiak Radom",
+   "city": null,
+   "ticket_url": "https://bilety.rksradomiak.pl/",
+   "passport": "accepted",
+   "evidence": "Sales regulations §2.3: buyer gives name, surname, PESEL, 'or, if none was issued, the type, series and number of an ID document'. Online channel not spelled out.",
+   "source": "https://bilety.rksradomiak.pl/regulamin-sprzedazy-biletow",
+   "price": {
+    "text": "Single tickets 2026/27: 35–65 zł standard and 25–55 zł concession, in four categories (35/25, 45/35, 55/45, 65/55 zł). Premium matches (Lech, Legia, Widzew) add 10 zł, and VIP Gold adds 100 zł (VIP Gold is 300 zł). Matchday adds 5 zł (VIP Gold adds 50 zł). Concession is for women, seniors 65+ and children up to 15.",
+    "source": "https://bilety.rksradomiak.pl/cennik",
+    "type": "official"
+   },
+   "transport": {
+    "text": "For the Zagłębie Lubin match the club said holders of a Radomiak ticket or season ticket could ride city buses free from 09:45 to 20:45, and that buses 9, 17, 18, 21 and 26 stop at Struga/Zbrowskiego beside the ground (ul. Struga 63). That window was for a 14:45 kickoff. Treat it as a match note and check before you go.",
+    "source": "https://rksradomiak.pl/artykul-6511-informacje_organizacyjne_przed_meczem_z_zaglebiem.html",
+    "type": "official club match note"
+   }
+  },
+  {
+   "slug": "piast-gliwice",
+   "name": "Piast Gliwice",
+   "en": "Piast Gliwice",
+   "city": "katowice",
+   "ticket_url": "https://bilety.piast-gliwice.eu/",
+   "passport": "yes",
+   "evidence": "FAQ: 'Can a person without a PESEL attend? Yes – during the ticket purchase you can choose a passport number instead of PESEL.'",
+   "source": "https://bilety.piast-gliwice.eu/faq",
+   "price": {
+    "text": "The official cennik page shows two graphics, both labelled 2025/2026, and does not say which matches each one covers. One lists full price at 30–70 zł by sector group; the other lists full price at 40–80 zł. A 2026/27 single-match list was not in the page HTML. Check before you go.",
+    "source": "https://bilety.piast-gliwice.eu/cennik",
+    "type": "official price graphics, labelled 2025/2026"
+   },
+   "transport": {
+    "text": "The club's English stadium page (ul. Okrzei 20) lists buses A4, 6, 57, 59, 80, 156, 187, 194, 250, 259, 617, 676, 840 and 850 to the ground. Gates open 1.5 hours before kickoff. Club car parks need a permit; the page says street spaces on Poniatowskiego, Okrzei and Lipowa are free. It does not say a match ticket includes public transport. Check ZTM before you go.",
+    "source": "https://bilety.piast-gliwice.eu/en/information",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "cracovia",
+   "name": "Cracovia",
+   "en": "Cracovia (Kraków)",
+   "city": "krakow",
+   "ticket_url": "https://bilety.cracovia.pl/",
+   "passport": "yes",
+   "evidence": "Ticket regulations §4.1 (online sales): register an account; up to 6 tickets per match giving name and PESEL '(for foreigners, another identity document)'. Season tickets need a Fan Card.",
+   "source": "https://cdn.sportigio.com/spaces/507/uploads/NETKDpKlc6XhaUWQweGlrtMm7VqOMqzy2UIwmaub.pdf",
+   "transport": {
+    "text": "The club's matchday page lists many buses to Muzeum Narodowe (including 124, 134, 144, 152, 164, 173, 179, 192, 194 and 300) and buses 134 and 307 to Cracovia Stadion, plus airport bus 300. From the main station it lists buses 124 and 424 from Teatr Słowackiego and bus 192 from Dworzec Główny Wschód. Recent match notes also listed trams 8 and 14 to Muzeum Narodowe or Oleandry; the standing page currently shows a replacement bus instead of those trams. The ground is by Błonia, close to the centre. Check mpk.krakow.pl. The club does not say a match ticket includes public transport.",
+    "source": "https://www.cracovia.pl/dzien-meczowy",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "jagiellonia-bialystok",
+   "name": "Jagiellonia Białystok",
+   "en": "Jagiellonia Białystok",
+   "city": null,
+   "ticket_url": "https://bilety.jagiellonia.pl/",
+   "passport": "accepted",
+   "evidence": "Only the 2025 SEASON-TICKET regulations were found: foreigners give type, series and number of their ID document instead of PESEL when registering in the online sales system. Single-ticket rules not yet checked.",
+   "source": "https://static-fr.roboticket.com/Content/JAGA/Images/Layouts/reg_sprzed_karnetow-2025.pdf",
+   "transport": {
+    "text": "No standing tram or bus list was found on the club's ticket site (last checked Oct 2026). The ticket office contact address published there is ul. Jurowiecka 21, 15-101 Białystok. Check local buses before you go.",
+    "source": "https://bilety.jagiellonia.pl/",
+    "type": "official ticket site — routes not published"
+   }
+  },
+  {
+   "slug": "wisla-plock",
+   "name": "Wisła Płock",
+   "en": "Wisła Płock",
+   "city": null,
+   "ticket_url": "https://bilety.wisla-plock.pl/",
+   "passport": "yes",
+   "evidence": "FAQ: 'How to buy a ticket for a foreigner?' After choosing a seat, enter the document number, click FILL IN USER DATA, enter name and tick the FOREIGNER checkbox. Account registration also accepts an ID number.",
+   "source": "https://bilety.wisla-plock.pl/CMS?page=faq",
+   "transport": {
+    "text": "For the 2026/27 opener the club listed city buses to Siennickiego (lines 3, 7, 20, 22, 24, 31, 62, N1), Orlen Arena 01 and 02 (3, 20, 22, 24, N1) and Orlen Arena 03 and 04 (7, 32, 33, 35). The same note said free city transport was not yet in force for that Widzew match. Check before you go.",
+    "source": "https://wisla-plock.pl/aktualnosci/wplwid-najwazniejsze-informacje-przed-przyjsciem-na-stadion/",
+    "type": "official club match note"
+   }
+  },
+  {
+   "slug": "slask-wroclaw",
+   "name": "Śląsk Wrocław",
+   "en": "Śląsk Wrocław",
+   "city": "wroclaw",
+   "ticket_url": "https://bilety.slaskwroclaw.pl/",
+   "passport": "yes",
+   "evidence": "English FAQ: 'I am a foreign national and do not have a PESEL number – how can I buy a ticket? … enter your passport number or another valid identity document number … When purchasing without logging in, you can also enter your identification number.'",
+   "source": "https://bilety.slaskwroclaw.pl/CMS?page=FAQ-en",
+   "transport": {
+    "text": "The ticket shop's travel page: trams 18 and 21 to Tarczyński Arena (Królewiecka); trams 3, 10 and 20 to Tarczyński Arena (Lotnicza); buses 101, 102, 103, 104, 123 and 127 (Królewiecka) and 152 (Pilczyce). Regional trains from Wrocław Główny stop at Wrocław Stadion (Lotnicza side). The club's stadium page lists a slightly different set, including tram 31. Address on the ticket page: Aleja Śląska 1. The club does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://bilety.slaskwroclaw.pl/CMS?page=dojazd",
+    "type": "official ticket shop"
+   }
+  },
+  {
+   "slug": "gornik-zabrze",
+   "name": "Górnik Zabrze",
+   "en": "Górnik Zabrze",
+   "city": "katowice",
+   "ticket_url": "https://bilety.gornikzabrze.pl/",
+   "passport": "yes",
+   "evidence": "FAQ: people without a PESEL register with the ID they have: enter the document number in the PESEL field, click FILL IN DATA, tick 'Foreigner'. A Fan Card is not required.",
+   "source": "https://bilety.gornikzabrze.pl/CMS?page=FAQ",
+   "transport": {
+    "text": "The ticket-shop guide: buses 32 and 932 run to the stadium from Zabrze or Gliwice centre (932 on weekdays only) and bus 720 from Zabrze only. From the Zabrze Goethego interchange the club says about 20 minutes. Full ZTM times are on the operator site. The club does not say a match ticket includes public transport. Check before you go.",
+    "source": "https://bilety.gornikzabrze.pl/CMS?page=poradnik",
+    "type": "official ticket shop"
+   }
+  },
+  {
+   "slug": "pogon-szczecin",
+   "name": "Pogoń Szczecin",
+   "en": "Pogoń Szczecin",
+   "city": "szczecin",
+   "ticket_url": "https://bilety.pogonszczecin.pl/",
+   "passport": "yes",
+   "evidence": "Q&A: 'Can I buy a ticket for a foreigner (no PESEL)? Yes – enter the ID card/passport number in the PESEL field and tick the foreigner option.' Matchday sales open ~10–18 days before each match.",
+   "source": "https://bilety.pogonszczecin.pl/CMS?page=qa",
+   "transport": {
+    "text": "Club guide for a first visit: trams 4, 5 and 7 to Karłowicza (ul. Mickiewicza); bus 86 to Witkiewicza Szkoła; buses 75 and 67 to Witkiewicza or Osiedle Przyjaźni; night buses 521 and 527. A walk from Plac Rodła is about 40 minutes (about 3 km) — the club's own figure. Matchday public transport is free from 12:00 with a match ticket. Parking is 20 zł, bought with the match ticket, entry from ul. Witkiewicza. The same page still points at 2025/26 season tickets, so check ZDiTM before you go.",
+    "source": "https://pogonszczecin.pl/pierwszy-raz-na-stadionie",
+    "type": "official club page"
+   }
+  },
+  {
+   "slug": "wieczysta-krakow",
+   "name": "Wieczysta Kraków",
+   "en": "Wieczysta Kraków",
+   "city": "krakow",
+   "ticket_url": "https://bilety.kswieczysta.com/",
+   "passport": "accepted",
+   "evidence": "Sales regulations: if the ticket holder has no PESEL, the type, series and number of an ID document (passport, ID card, residence document) is given. Online channel not spelled out. Home games are at the Reymana stadium (shared with Wisła Kraków).",
+   "source": "https://static-fr.roboticket.com/Content/Wieczysta/Images/Layouts/REGULAMIN%20SPRZEDA%C5%BBY%20BILET%C3%93W%20NA%20MECZE%20KS_compressed.pdf",
+   "transport": {
+    "text": "Home games are at the same ground as Wisła Kraków (Synerise Arena / Reymana, Reymonta 20). Use Wisła's road-to-the-stadium page and the stadium operator's dojazd page: tram options they publish include 14, 8 and 1 (club) or 1 and 20 (stadium site) to the Reymana stop. Airport bus 300 to Muzeum Narodowe, then about 15 minutes on foot along al. 3 Maja. Lines differ between the two pages. Check mpk.krakow.pl. Neither page says a Wieczysta ticket includes public transport.",
+    "source": "https://stadionkrakow.pl/dojazd/",
+    "type": "stadium operator and Wisła Kraków"
+   }
+  }
  ]
 }

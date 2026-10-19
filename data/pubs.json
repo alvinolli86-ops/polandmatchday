@@ -1,11 +1,110 @@
-{"checked":"2026-10-19","pubs":[
- {"name":"The Exchange Bar & Restaurant","city":"warsaw","address":"Rondo 1, Rondo ONZ 1, 00-124 Warszawa","phone":"+48 531 300 581",
-  "url":"https://the-exchange.pl/live-sports/","shows":"Premier League, Champions League, La Liga, other European leagues, rugby, F1, NBA, NFL (per own site)",
-  "screens":"7 large-screen TVs in a dedicated sports zone","english_commentary":"unverified","booking":"Table booking by email/phone; match requests accepted","hours":"unverified","featured":false},
- {"name":"English Football Club (EFC) Kraków","city":"krakow","address":"Mikołajska 5, 31-027 Kraków","phone":"+48 12 421 01 49",
-  "url":"https://efckrakow.pl/en/home-2/","shows":"League and championship games, 'especially the English Premier League' (per own site)",
-  "screens":"Three rooms (count of screens unverified)","english_commentary":"unverified","booking":"unverified","hours":"unverified","featured":false},
- {"name":"Legia Sports Bar & Rest","city":"warsaw","address":"ul. Łazienkowska 3, 00-449 Warsaw (at Legia's stadium)","phone":"unverified",
-  "url":"https://sportsbar.legia.com/en/","shows":"Every Legia match and 'all the major sporting events from Poland and around the world' (PL/CL not named explicitly)",
-  "screens":"Large LED screen + 11 × 55-inch TVs (per own site)","english_commentary":"unverified","booking":"unverified","hours":"unverified","featured":false}
-]}
+{
+ "checked": "2026-10-19",
+ "pubs": [
+  {
+   "name": "The Exchange Bar & Restaurant",
+   "city": "warsaw",
+   "address": "Rondo 1, Rondo ONZ 1, 00-124 Warszawa",
+   "phone": "+48 531 300 581",
+   "url": "https://the-exchange.pl/",
+   "shows": "Premier League, La Liga, Champions League, international rugby and other major sport (per the venue's homepage)",
+   "screens": "The homepage says 8 large screens; a later answer on the same page says 7 large-screen TVs",
+   "english_commentary": "unverified",
+   "booking": "Reserve a table on the site; groups over 8 by email hello@the-exchange.pl or phone",
+   "hours": "Mon 12:00–22:00, Tue–Thu 12:00–23:00, Fri 12:00–00:00, Sat 13:00–00:00, Sun 14:00–22:00 (homepage)",
+   "featured": false
+  },
+  {
+   "name": "Nines Sports Bar",
+   "city": "warsaw",
+   "address": "Warzelnia / Browary Warszawskie, Haberbuscha i Schielego 6, 00-844 Warsaw",
+   "phone": "unverified",
+   "url": "https://nines.com.pl/en/sports-bar/",
+   "shows": "Sports broadcasts on four independent feeds. The page does not name the Premier League or Champions League",
+   "screens": "20 screens on level −1, around a central bar (per own site). The site says the bar was created by Robert Lewandowski",
+   "english_commentary": "unverified",
+   "booking": "unverified",
+   "hours": "Mon 12:00–21:00, Tue–Wed 12:00–22:00, Thu–Fri 12:00–23:00, Sat 13:00–23:00, Sun 13:00–22:00",
+   "featured": false
+  },
+  {
+   "name": "Legia Sports Bar & Rest",
+   "city": "warsaw",
+   "address": "ul. Łazienkowska 3, 00-449 Warsaw (at Legia's stadium)",
+   "phone": "+48 666 000 000",
+   "url": "https://sportsbar.legia.com/en/",
+   "shows": "Every Legia match and major events. The published schedule (checked Oct 2026) includes Premier League fixtures as well as Ekstraklasa",
+   "screens": "Largest LED screen in Warsaw plus 11 × 55-inch TVs (per own site)",
+   "english_commentary": "unverified",
+   "booking": "sportsbar@legia.pl — the site says to book a table for a listed match",
+   "hours": "Open daily from 12:00 until the end of the last broadcast",
+   "featured": false
+  },
+  {
+   "name": "English Football Club (EFC) Kraków",
+   "city": "krakow",
+   "address": "Mikołajska 5, Kraków (the site prints both 31-027 and 33-332)",
+   "phone": "+48 12 421 01 49",
+   "url": "https://efckrakow.pl/en/home-2/",
+   "shows": "League and championship games, 'especially the English Premier League' (per own site)",
+   "screens": "Three rooms (screen count not stated)",
+   "english_commentary": "unverified",
+   "booking": "unverified",
+   "hours": "Mon–Thu 12:00–01:00, Fri–Sun 11:00–01:00",
+   "featured": false
+  },
+  {
+   "name": "Winners Steakhouse / The Winners Pub",
+   "city": "wroclaw",
+   "address": "ul. Pawła Włodkowica 5, 50-072 Wrocław",
+   "phone": "+48 519 541 894",
+   "url": "https://thewinnerspub.pl/sport/",
+   "shows": "Champions League, Premier League (the site spells it 'Premiere League'), La Liga, Serie A, Bundesliga, rugby, boxing, volleyball, basketball",
+   "screens": "10 × 4K UHD TVs and one 120-inch projection screen (per own site)",
+   "english_commentary": "unverified",
+   "booking": "manager@thewinnerspub.pl",
+   "hours": "Every day 12:00–24:00 (the page also lists Monday 12:00–24:00)",
+   "featured": false
+  },
+  {
+   "name": "Alibi",
+   "city": "poznan",
+   "address": "Al. Niepodległości 8A, 60-101 Poznań",
+   "phone": "+48 501 535 536",
+   "url": "https://alibiclubpoznan.pl/wydarzenia-sportowe/",
+   "shows": "The schedule page lists Ekstraklasa, Champions League and Nations League. It says to call and check a specific match. Premier League is not named",
+   "screens": "4 telebims, 250 seats (per own site)",
+   "english_commentary": "unverified",
+   "booking": "Reservations: +48 501 535 536, alibipoznan@onet.eu",
+   "hours": "unverified",
+   "featured": false
+  },
+  {
+   "name": "Grass British Sports Pub",
+   "city": "gdansk",
+   "address": "121/122 ul. Szeroka, Old Town, Gdańsk",
+   "phone": "unverified",
+   "url": "https://www.grassgdansk.com/",
+   "shows": "English, Scottish and Irish football, and the Champions League (per own site)",
+   "screens": "unverified",
+   "english_commentary": "unverified",
+   "booking": "piotrzagorski@grassgdansk.com",
+   "hours": "unverified",
+   "featured": false
+  },
+  {
+   "name": "Football Pub",
+   "city": "lodz",
+   "address": "Roosevelta 12b, 90-062 Łódź",
+   "phone": "unverified",
+   "url": "https://lodz.travel/turystyka/gdzie-zjesc/puby-i-bary-w-lodzi/football-pub/",
+   "shows": "The city tourism page describes a football pub (opened 1995) with Widzew and ŁKS scarves side by side. It does not list which competitions are shown",
+   "screens": "unverified",
+   "english_commentary": "unverified",
+   "booking": "unverified",
+   "hours": "unverified",
+   "source_note": "Łódź official tourism portal (lodz.travel), not the pub's own site. A phone number on that page sits next to the tourism-office address, so it is not listed here.",
+   "featured": false
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "checked": "2026-10-19",
+ "clubs": [
+  {
+   "slug": "lks-lodz",
+   "name": "ŁKS Łódź",
+   "city": "lodz",
+   "passport": "yes",
+   "buy": "https://lkslodz.pl/bilety/faq/",
+   "source": "https://lkslodz.pl/bilety/faq/",
+   "text": "Official FAQ: when you create an account, enter a passport or other valid ID number in the 'PESEL/other number' field. The same works when buying without logging in. The how-to also says a foreigner can enter a passport number for each person in the basket. A plastic Fan Card is not required for a single ticket (print at home or use a mobile ticket). It is required only when a season ticket is loaded onto the card. The card costs 10 zł. Photo ID is still checked at the gate. Buying with no online account is only at U2 ŁKS Store or the stadium box office."
+  },
+  {
+   "slug": "arka-gdynia",
+   "name": "Arka Gdynia",
+   "city": "gdansk",
+   "passport": "yes",
+   "buy": "https://bilety.arka.gdynia.pl/",
+   "source": "https://bilety.arka.gdynia.pl/CMS?page=faq_bilety",
+   "text": "Official ticket FAQ: enter a PESEL, or for a foreigner another ID number such as a passport, for every person in the order. Buying online for yourself needs a fan account, or a friend with an account who has your name and PESEL/ID number. The 2025/26 sales regulations (PDF on arka.gdynia.pl) also list a passport among identity documents. A Fan Card is not described as required for a one-off online ticket. Check the shop before you go — the regulations PDF is labelled 2025/26."
+  },
+  {
+   "slug": "warta-poznan",
+   "name": "Warta Poznań",
+   "city": "poznan",
+   "passport": "yes",
+   "buy": "https://bilety.wartapoznan.pl/",
+   "source": "https://bilety.wartapoznan.pl/CMS?page=FAQ",
+   "text": "Official FAQ: a foreigner can open an account by entering a passport or other ID in the field 'PESEL for a Polish citizen or document number for a person from abroad'. Buying without logging in accepts an ID number that is not a PESEL. A separate answer says someone without Polish citizenship can buy online after creating a fan account, or through someone who has one, using 'Fill in user data' and ticking 'Foreigner'."
+  },
+  {
+   "slug": "lechia-gdansk",
+   "name": "Lechia Gdańsk",
+   "city": "gdansk",
+   "passport": "accepted",
+   "buy": "https://bilety.lechia.pl/",
+   "source": "https://lechia.net/lechia/bilety/kup-bilet-on-line",
+   "text": "The club's own online how-to (lechia.net, dated 5 September 2019) says a foreigner enters an identity-document number in the 'PESEL / other number' field and ticks 'I do not have a PESEL'. Buying for someone else uses the same document number. We have not found a newer page that repeats this, and a later regulations extract still describes a ticket as carrying a PESEL. Check before you go. Shop: bilety.lechia.pl (bilety@lechia.pl, phone 533 024 369, Mon–Fri 9:00–17:00)."
+  },
+  {
+   "slug": "ruch-chorzow",
+   "name": "Ruch Chorzów",
+   "city": "katowice",
+   "passport": "unclear",
+   "buy": "https://bilety.ksruch.com/",
+   "source": "https://bilety.ksruch.com/documents/d/bilety-ruch-chorzów/2025-06-23-regulamin-sprzedazy-biletow-ruch-1-",
+   "text": "Sales regulations in force from 27 June 2025 define a ticket as carrying a name, surname and PESEL, and a Fan Card as an ID that can carry an electronic ticket. The text we read does not describe a passport substitute. Buy at bilety.ksruch.com. Fan points: ul. Cicha 6 (Mon–Fri 8:00–16:00) and ul. Jagiellońska 3/U3 (Mon–Fri 10:00–18:00, Sat 10:00–14:00), except match days. If you have no PESEL, check with the club before you go. Home games are at Superauto.pl Stadion Śląski, ul. Katowicka 10, Chorzów."
+  }
+ ]
+}
