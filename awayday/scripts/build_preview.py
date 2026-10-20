@@ -89,7 +89,15 @@ def main():
     out = {"generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "fares_fetched": fares.get("fetched"),
            "ecb_pln_per_eur": rate, "ecb_date": rate_date, "weekends": fx["weekends"],
            "trips": trips, "unreachable": unreachable, "unmapped": unmapped}
-    json.dump(out, open(f"{BASE}/data/trips.json", "w"), ensure_ascii=False, indent=1)
+    path = f"{BASE}/data/trips.json"
+    if os.path.exists(path):
+        prev = json.load(open(path))
+        old_n = len(prev.get("trips") or [])
+        fx_errors = any((info or {}).get("errors") for info in (fx.get("leagues") or {}).values())
+        if old_n and len(trips) < old_n * 0.6 and fx_errors:
+            print(f"refusing to shrink trips {old_n} -> {len(trips)}; keeping last trips.json", file=sys.stderr)
+            sys.exit(1)
+    json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
     render(out)
     print(len(trips), "reachable,", sum(1 for t in trips if t["cheapest"]), "with a cached fare,", len(unreachable), "no direct route", file=sys.stderr)
 

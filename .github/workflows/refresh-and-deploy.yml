@@ -43,18 +43,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Refresh fixtures
-        run: python scripts/fetch_fixtures.py || echo "fetch failed - building with last committed data"
-
+      # Away Day uses the same free TheSportsDB key as the Poland fetch.
+      # Run it first so a rate limit does not wipe the home-page list.
       # TheSportsDB is about 2–3 minutes. Fares, when the token is set, are
       # about 5 minutes at 6 requests/second. 12 minutes leaves the whole job
       # under the 15-minute budget; a timeout or a missing token still builds.
+      # A partial fetch keeps the last committed JSON.
       - name: Refresh Away Day trips
         continue-on-error: true
         timeout-minutes: 12
         env:
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
         run: bash awayday/run_all.sh
+
+      - name: Refresh fixtures
+        run: python scripts/fetch_fixtures.py || echo "fetch failed - building with last committed data"
 
       - name: Commit refreshed fixture data
         # A push made with GITHUB_TOKEN does not start another workflow run.

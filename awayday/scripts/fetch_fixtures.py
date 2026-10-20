@@ -2,7 +2,7 @@
 Primary: TheSportsDB v1 free test key '123' (eventsnextleague -> current round, eventsround -> full round, UTC timestamps).
 Cross-check: openfootball/football.json (CC0/public domain; local kickoff times) where the league exists.
 Nothing is invented: missing/placeholder times are flagged TBC, disagreements flagged."""
-import json, os, sys, time, urllib.request, datetime as dt, unicodedata, re
+import json, os, sys, time, urllib.request, urllib.error, datetime as dt, unicodedata, re
 from zoneinfo import ZoneInfo
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KEY = "123"; PL = ZoneInfo("Europe/Warsaw")
@@ -17,12 +17,15 @@ LEAGUES = [  # (TheSportsDB id, name, country tz, openfootball code)
  (4340,"Danish Superliga","Europe/Copenhagen",None)]
 SEASON = "2026-2027"
 
-def get(url, tries=3):
+def get(url, tries=4):
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "AwayDayPrototype/0.1"})
             return json.load(urllib.request.urlopen(req, timeout=30))
-        except Exception as e:
+        except urllib.error.HTTPError as e:
+            if i == tries - 1: raise
+            time.sleep(15 if e.code == 429 else 5)
+        except Exception:
             if i == tries - 1: raise
             time.sleep(5)
 
@@ -123,7 +126,19 @@ def main():
         out["leagues"][lname] = info
         print(lname, info, file=sys.stderr)
     out["matches"].sort(key=lambda m: m["kickoff_utc"])
-    json.dump(out, open(f"{BASE}/data/fixtures.json", "w"), ensure_ascii=False, indent=1)
+    path = f"{BASE}/data/fixtures.json"
+    if os.path.exists(path):
+        prev = json.load(open(path))
+        dropped = []
+        for name, info in out["leagues"].items():
+            old_n = ((prev.get("leagues") or {}).get(name) or {}).get("matches") or 0
+            if info["errors"] and info["matches"] < old_n:
+                dropped.append(f"{name} {info['matches']}/{old_n}")
+        prev_n = len(prev.get("matches") or [])
+        if dropped or (prev_n and len(out["matches"]) < 0.6 * prev_n and any(i["errors"] for i in out["leagues"].values())):
+            print("incomplete TheSportsDB fetch; keeping last committed fixtures:", "; ".join(dropped) or f"{len(out['matches'])}/{prev_n}", file=sys.stderr)
+            sys.exit(1)
+    json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
 
 if __name__ == "__main__":
     recheck() if "--recheck" in sys.argv else main()
