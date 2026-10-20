@@ -6587,6 +6587,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Spartak Trnava": {
+  "league": "Slovak First Football League",
+  "venue": "Anton Malatinský Stadium",
+  "wikidata": "Q209895",
+  "wikidata_name": "Sparta Rotterdam",
+  "stadium_wikidata": "Sparta Stadion Het Kasteel",
+  "lat": 51.919444,
+  "lon": 4.433333,
+  "nearest_airports": [
+   {
+    "iata": "RTM",
+    "name": "Rotterdam The Hague Airport",
+    "city": "Rotterdam",
+    "km": 4
+   },
+   {
+    "iata": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "km": 49
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 81
+   },
+   {
+    "iata": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "km": 83
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Sporting CP": {
   "league": "Primeira Liga",
   "venue": "Estádio José Alvalade",
