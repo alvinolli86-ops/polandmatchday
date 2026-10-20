@@ -135,7 +135,17 @@ def page(path, title, desc, body, prefix=None):
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:type" content="website">
 <meta property="og:url" content="{canon}"><meta property="og:site_name" content="{E(CFG['site_name'])}"><meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}">
-<link rel="stylesheet" href="{url('style.css')}"></head><body>
+<link rel="stylesheet" href="{url('style.css')}">
+<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+  (function () {{
+      var script = document.createElement("script");
+      script.async = 1;
+      script.setAttribute("data-cmp-ab","2");
+      script.src = 'https://emrldco.com/NTg3OTky.js?t=587992';
+      document.head.appendChild(script);
+  }})();
+</script>
+</head><body>
 <header><div class="wrap"><div class="top"><a class="logo" href="{url()}">⚽ Poland <span>Matchday</span></a><nav>{nav}</nav></div>{body[0]}</div></header>
 <main class="wrap">{body[1]}</main>
 <footer><div class="wrap"><p><a href="{url('about/')}">About</a> · <a href="{url('get-featured/')}">Get your pub featured</a> · <a href="{url('newsletter/')}">Newsletter</a> · <a href="{E(subscribe_url())}">Subscribe free</a></p>
