@@ -192,14 +192,14 @@
   "qid": "Q1543",
   "name": "AC Milan",
   "aliases": [
+   "Milan",
+   "ACM",
+   "A.C. Milan",
    "A.C.M.",
    "A.C.Milan",
    "ACMilan",
    "Association Football Milan",
-   "Associazione Calcio Milan",
-   "Milan",
-   "ACM",
-   "A.C. Milan"
+   "Associazione Calcio Milan"
   ],
   "venues": [
    {
@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
-   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola"
+   "Florentia Viola",
+   "Fiorentina"
   ],
   "venues": [
    {
@@ -1143,14 +1143,14 @@
   "qid": "Q19593",
   "name": "Celtic F.C.",
   "aliases": [
-   "Celtic",
-   "CFC",
-   "The Celts",
-   "The Hoops",
    "Celtic Football Club",
    "Celtic plc",
    "The Bhoys",
-   "The Celtic Football Club"
+   "The Celtic Football Club",
+   "Celtic",
+   "CFC",
+   "The Celts",
+   "The Hoops"
   ],
   "venues": [
    {
@@ -2078,11 +2078,11 @@
   "qid": "Q994811",
   "name": "FC Red Bull Salzburg",
   "aliases": [
-   "Salzburg",
    "Red Bull",
    "Red Bull Salzburg",
    "FCRBS",
-   "Football Club Red Bull Salzburg"
+   "Football Club Red Bull Salzburg",
+   "Salzburg"
   ],
   "venues": [
    {
@@ -2703,12 +2703,12 @@
   "qid": "Q659780",
   "name": "Grazer AK",
   "aliases": [
+   "GAK",
+   "GAK 1902",
    "Grazer A.K.",
    "Grazer AK 1902",
    "Grazer AK FuÃŸball",
-   "Grazer Athletik-Klub",
-   "GAK",
-   "GAK 1902"
+   "Grazer Athletik-Klub"
   ],
   "venues": [
    {
@@ -2720,6 +2720,32 @@
   ],
   "leagues": [
    "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q51974",
+  "name": "Hamburger SV",
+  "aliases": [
+   "Hamburg",
+   "Hamburger",
+   "HSV",
+   "H.S.V.",
+   "Hamburg Sport Club",
+   "Hamburg SV",
+   "Hamburger S.V.",
+   "Hamburger Sport-Verein",
+   "HamburgerSV"
+  ],
+  "venues": [
+   {
+    "name": "Volksparkstadion",
+    "lat": 53.586944,
+    "lon": 9.898611,
+    "admin": "Altona"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
   ]
  },
  {
@@ -2742,32 +2768,6 @@
   ],
   "leagues": [
    "2. Bundesliga"
-  ]
- },
- {
-  "qid": "Q51974",
-  "name": "Hamburger SV",
-  "aliases": [
-   "H.S.V.",
-   "Hamburg Sport Club",
-   "Hamburg SV",
-   "Hamburger S.V.",
-   "Hamburger Sport-Verein",
-   "HamburgerSV",
-   "Hamburg",
-   "Hamburger",
-   "HSV"
-  ],
-  "venues": [
-   {
-    "name": "Volksparkstadion",
-    "lat": 53.586944,
-    "lon": 9.898611,
-    "admin": "Altona"
-   }
-  ],
-  "leagues": [
-   "Bundesliga"
   ]
  },
  {
@@ -2900,8 +2900,6 @@
   "qid": "Q631",
   "name": "Inter Milan",
   "aliases": [
-   "Inter Club",
-   "Inter FC",
    "Inter",
    "IM",
    "F.C.I.M.",
@@ -2921,7 +2919,9 @@
    "Inter of Milan",
    "Inter soccer club",
    "Internazionale Milano",
-   "The Inter"
+   "The Inter",
+   "Inter Club",
+   "Inter FC"
   ],
   "venues": [
    {
@@ -2939,14 +2939,14 @@
   "qid": "Q9653",
   "name": "Ipswich Town F.C.",
   "aliases": [
+   "The Tractor Boys",
    "Ipswich",
    "Town",
    "The Blues",
    "ITFC",
    "Ipswich Town",
    "Ipswich Town FC",
-   "Ipswich Town Football Club",
-   "The Tractor Boys"
+   "Ipswich Town Football Club"
   ],
   "venues": [
    {
@@ -2964,13 +2964,13 @@
   "qid": "Q1422",
   "name": "Juventus FC",
   "aliases": [
-   "J.F.C.",
-   "Juventus F.C.",
-   "Juventus of Turin",
    "Juventus Turin",
    "JuventusF.C.",
    "JuventusFC",
-   "JuventusFootballClub"
+   "JuventusFootballClub",
+   "J.F.C.",
+   "Juventus F.C.",
+   "Juventus of Turin"
   ],
   "venues": [
    {
@@ -3289,10 +3289,10 @@
   "qid": "Q1130849",
   "name": "Liverpool F.C.",
   "aliases": [
-   "LiverpoolFC",
    "Liverpool",
    "L.F.C.",
-   "LiverpoolF.C."
+   "LiverpoolF.C.",
+   "LiverpoolFC"
   ],
   "venues": [
    {
@@ -3441,11 +3441,11 @@
   "qid": "Q18661",
   "name": "Middlesbrough F.C.",
   "aliases": [
+   "MFC",
+   "Middlesbrough",
    "The Boro",
    "Middlesbrough FC",
-   "Middlesbrough Football Club",
-   "MFC",
-   "Middlesbrough"
+   "Middlesbrough Football Club"
   ],
   "venues": [
    {
@@ -3999,12 +3999,12 @@
   "qid": "Q126334",
   "name": "RC Strasbourg Alsace",
   "aliases": [
-   "Racing",
-   "Strasbourg",
-   "Racing Club de Strasbourg",
    "Racing Club de Strasbourg Alsace",
    "RCSA",
-   "Racing Strasbourg"
+   "Racing Strasbourg",
+   "Racing",
+   "Strasbourg",
+   "Racing Club de Strasbourg"
   ],
   "venues": [
    {
@@ -4629,6 +4629,7 @@
   "qid": "Q2609",
   "name": "SS Lazio",
   "aliases": [
+   "SSLazio",
    "SSL",
    "S.S. Lazio",
    "Società Sportiva Lazio",
@@ -4639,8 +4640,7 @@
    "S.S.Lazio",
    "Societa Sportiva Lazio",
    "Sport Society Lazio",
-   "Sports Society Lazio",
-   "SSLazio"
+   "Sports Society Lazio"
   ],
   "venues": [
    {
@@ -4857,8 +4857,8 @@
   "qid": "Q723489",
   "name": "Silkeborg IF",
   "aliases": [
-   "Silkeborg Idrætsforening",
-   "Silkeborg"
+   "Silkeborg",
+   "Silkeborg Idrætsforening"
   ],
   "venues": [
    {
@@ -4958,10 +4958,10 @@
   "qid": "Q75729",
   "name": "Sporting CP",
   "aliases": [
+   "SCP",
    "Sporting Club Portugal",
    "Sporting Lisbon",
-   "Sporting Portugal",
-   "SCP"
+   "Sporting Portugal"
   ],
   "venues": [
    {
