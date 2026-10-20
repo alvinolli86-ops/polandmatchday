@@ -1,0 +1,10 @@
+{
+ "Académico de Viseu": {"city": "Viseu", "nearest_airports": [{"iata": "OPO", "name": "Porto Airport", "city": "Porto", "km": 95}], "note": "approx straight-line km, hand-compiled"},
+ "Alverca": {"city": "Alverca do Ribatejo", "nearest_airports": [{"iata": "LIS", "name": "Lisbon Humberto Delgado Airport", "city": "Lisbon", "km": 20}], "note": "approx, hand-compiled"},
+ "Artis Brno": {"city": "Brno", "nearest_airports": [{"iata": "BRQ", "name": "Brno-Turany Airport", "city": "Brno", "km": 10}, {"iata": "VIE", "name": "Vienna International Airport", "city": "Vienna", "km": 120}], "note": "approx, hand-compiled"},
+ "Casa Pia": {"city": "Rio Maior (temporary home ground per TheSportsDB venue)", "nearest_airports": [{"iata": "LIS", "name": "Lisbon Humberto Delgado Airport", "city": "Lisbon", "km": 75}], "note": "approx, hand-compiled; verify where Casa Pia plays"},
+ "Lommel": {"city": "Lommel", "nearest_airports": [{"iata": "EIN", "name": "Eindhoven Airport", "city": "Eindhoven", "km": 35}, {"iata": "BRU", "name": "Brussels Airport", "city": "Brussels", "km": 80}], "note": "approx, hand-compiled"},
+ "Nice": {"city": "Nice", "nearest_airports": [{"iata": "NCE", "name": "Nice Côte d'Azur Airport", "city": "Nice", "km": 4}], "note": "approx, hand-compiled"},
+ "RAAL La Louvière": {"city": "La Louvière", "nearest_airports": [{"iata": "CRL", "name": "Brussels South Charleroi Airport", "city": "Charleroi", "km": 20}, {"iata": "BRU", "name": "Brussels Airport", "city": "Brussels", "km": 60}], "note": "approx, hand-compiled"},
+ "SCR Altach": {"city": "Altach", "nearest_airports": [{"iata": "ACH", "name": "St. Gallen-Altenrhein Airport", "city": "Altenrhein", "km": 20}, {"iata": "FDH", "name": "Friedrichshafen Airport", "city": "Friedrichshafen", "km": 45}, {"iata": "ZRH", "name": "Zurich Airport", "city": "Zurich", "km": 95}], "note": "approx, hand-compiled"}
+}

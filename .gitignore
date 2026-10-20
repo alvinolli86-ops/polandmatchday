@@ -10,3 +10,9 @@ venv/
 
 # OS / editor
 .DS_Store
+
+# Away Day scratch (downloaded in CI; not a source)
+awayday/raw/ourairports.csv
+awayday/raw/unmatched_clubs.json
+awayday/raw/*.log
+awayday/preview/

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the static site into ./site from ./data. Usage: python3 scripts/build.py"""
-import json, shutil, html, datetime as dt, re
+import json, shutil, html, datetime as dt, re, sys
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from urllib.parse import quote_plus, urlparse
@@ -8,6 +8,8 @@ from collections import Counter, defaultdict
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "site"
+sys.path.insert(0, str(ROOT / "awayday" / "scripts"))
+from build_preview import inner_html, MAX_KM
 WAW = ZoneInfo("Europe/Warsaw")
 CFG = json.load(open(ROOT / "config.json"))
 
@@ -124,16 +126,37 @@ table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;ove
 form label{display:block;margin:10px 0 4px;font-weight:600}form input,form textarea,form select{width:100%;padding:9px;border:1px solid #c9d6ce;border-radius:8px;font:inherit}
 footer{background:#0a2a20;color:#b9cfc4;padding:20px 0;font-size:.85rem}footer a{color:#e8f5ee}
 .empty{color:var(--muted);font-style:italic}.warnbox{background:#fff1ee;border-left:4px solid var(--warn);padding:8px 12px;border-radius:6px}
+.wrap.wide{max-width:1150px}
+.how{background:#fff3cd;color:#664d03;border-radius:12px;padding:12px 14px;margin:0 0 12px}
+.how h2{border:0;padding:0;margin:0 0 6px;font-size:1.05rem;color:#664d03}
+.aday h2{border-left:0;padding-left:0}
+.aday h3{font-size:1.05rem;color:#0b5a3a;margin:8px 0}
+.aday .sm{font-size:.78rem;color:var(--muted)}
+.aday .eur{color:var(--muted);font-size:.78rem;font-weight:400}
+.aday .nf{color:#9aa4ad;font-size:.82rem}
+.aday .lg{font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;color:#0b7a55;font-weight:600}
+.aday td.n{color:#8a96a0;font-weight:600;width:2rem}
+.aday td.p a{color:#0b6b3a;text-decoration:none;font-size:1.05rem}
+.aday .b{display:inline-block;font-size:.7rem;padding:1px 7px;border-radius:9px;margin-top:2px;font-weight:600}
+.aday .b.ok{background:#d1f2e0;color:#0b5a3a}.aday .b.mid{background:#e8ecf0;color:#3d4a55}.aday .b.warn{background:#fde2e1;color:#8a1c17}
+.aday .filter{margin:8px 0}.aday .filter select,.aday .filter input{width:auto;font:inherit;padding:6px}
+.aday .filter label{display:inline;font-weight:600}
 @media(min-width:700px){.hero h1{font-size:2.1rem}.match{grid-template-columns:1.4fr 1fr auto;align-items:center}}
 """
 
-def page(path, title, desc, body, prefix=None):
-    nav = "".join(f"<a href='{url(h)}'>{t}</a>" for h, t in [("", "This weekend"), ("clubs/", "Clubs"), ("cities/", "Cities"), ("tickets-for-foreigners/", "Tickets for foreigners"), ("where-to-watch/", "Where to watch"), ("newsletter/", "Newsletter")])
+def page(path, title, desc, body, prefix=None, wide=False, site_name=None, footer=None):
+    nav = "".join(f"<a href='{url(h)}'>{t}</a>" for h, t in [("", "Away days"), ("matches-in-poland/", "Matches in Poland"), ("clubs/", "Clubs"), ("cities/", "Cities"), ("tickets-for-foreigners/", "Tickets for foreigners"), ("where-to-watch/", "Where to watch"), ("newsletter/", "Newsletter")])
     canon = CFG["base_url"].rstrip("/") + "/" + path
+    site = site_name or CFG["site_name"]
+    wrap = "wrap wide" if wide else "wrap"
+    if footer is None:
+        footer = f"""<p><a href="{url('about/')}">About</a> · <a href="{url('matches-in-poland/')}">Matches in Poland</a> · <a href="{url('get-featured/')}">Get your pub featured</a> · <a href="{url('newsletter/')}">Newsletter</a> · <a href="{E(subscribe_url())}">Subscribe free</a></p>
+<p>Poland fixtures: Ekstraklasa from <a href="https://ekstraklasa.org/terminarz/">ekstraklasa.org</a> (official); 1. Liga from <a href="https://www.thesportsdb.com/">TheSportsDB</a> (community data). Last refresh: {E(EK['fetched'])} (Polish time). All times Europe/Warsaw. Always confirm with the club before travelling.</p>
+<p>Unofficial fan guide. Not affiliated with Ekstraklasa S.A. or any club.</p>"""
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:type" content="website">
-<meta property="og:url" content="{canon}"><meta property="og:site_name" content="{E(CFG['site_name'])}"><meta property="og:locale" content="en_GB">
+<meta property="og:url" content="{canon}"><meta property="og:site_name" content="{E(site)}"><meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}">
 <link rel="stylesheet" href="{url('style.css')}">
 <script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
@@ -146,11 +169,9 @@ def page(path, title, desc, body, prefix=None):
   }})();
 </script>
 </head><body>
-<header><div class="wrap"><div class="top"><a class="logo" href="{url()}">⚽ Poland <span>Matchday</span></a><nav>{nav}</nav></div>{body[0]}</div></header>
-<main class="wrap">{body[1]}</main>
-<footer><div class="wrap"><p><a href="{url('about/')}">About</a> · <a href="{url('get-featured/')}">Get your pub featured</a> · <a href="{url('newsletter/')}">Newsletter</a> · <a href="{E(subscribe_url())}">Subscribe free</a></p>
-<p>Fixtures: Ekstraklasa from <a href="https://ekstraklasa.org/terminarz/">ekstraklasa.org</a> (official); 1. Liga from <a href="https://www.thesportsdb.com/">TheSportsDB</a> (community data). Last refresh: {E(EK['fetched'])} (Polish time). All times Europe/Warsaw. Always confirm with the club before travelling.</p>
-<p>Unofficial fan guide. Not affiliated with Ekstraklasa S.A. or any club.</p></div></footer></body></html>"""
+<header><div class="{wrap}"><div class="top"><a class="logo" href="{url()}">Away <span>Day</span></a><nav>{nav}</nav></div>{body[0]}</div></header>
+<main class="{wrap}">{body[1]}</main>
+<footer><div class="{wrap}">{footer}</div></footer></body></html>"""
     f = OUT / path / "index.html" if not path.endswith(".html") else OUT / path
     f.parent.mkdir(parents=True, exist_ok=True)
     f.write_text(doc, encoding="utf-8")
@@ -179,7 +200,57 @@ def build():
     (OUT / "style.css").write_text(CSS)
     urls = []
 
-    # HOME
+    # HOME — Away Day from Poland
+    away_title = "Away Day from Poland – cheapest football weekends with direct flights"
+    away_desc = "Cheapest football weekends abroad from Polish airports. Each weekend: a top 15 of cached direct return fares, then every match you can fly to. Prices are not live — check before you book."
+    trips_path = ROOT / "awayday" / "data" / "trips.json"
+    routes_path = ROOT / "awayday" / "data" / "routes_from_poland.json"
+    if trips_path.exists():
+        away = json.loads(trips_path.read_text())
+        updated = away.get("fares_fetched")
+        if updated:
+            try:
+                stamp = dt.datetime.fromisoformat(updated).strftime("%d %b %Y, %H:%M UTC")
+            except ValueError:
+                stamp = updated + " UTC"
+            updated_line = f"Prices last updated {stamp}."
+        else:
+            updated_line = "Prices last updated: not yet. Showing no cached fares until a fetch succeeds."
+        rate = away.get("ecb_pln_per_eur")
+        eur_note = f" Euro amounts use the ECB rate of {rate} PLN per euro ({away.get('ecb_date')})." if rate else ""
+        wiki_links = ""
+        if routes_path.exists():
+            routes = json.loads(routes_path.read_text())
+            bits = []
+            for code, ap in routes.get("airports", {}).items():
+                slug = ap.get("wikipedia_page", "").replace(" ", "_")
+                if slug:
+                    bits.append(f'<a href="https://en.wikipedia.org/wiki/{quote_plus(slug).replace("+", "_")}">{E(code)}</a>')
+            if bits:
+                wiki_links = " Airport pages used: " + ", ".join(bits) + "."
+        note = f"""<div class="how"><h2>How it works</h2>
+<p>Direct return flights from a Polish airport to an airport within {MAX_KM} km of the stadium. You fly out the day before the match, or on match day only when the cached flight lands at least 3 hours before kickoff, and you fly back the next day.</p>
+<p><strong>Prices are cached</strong>, not a live search. They are fares Aviasales users found recently. {E(updated_line)} Check the price on Aviasales before you book. A cabin bag is usually extra.{E(eur_note)} Routes come from Wikipedia and can be out of date. Kickoffs come from TheSportsDB and are cross-checked against openfootball where that league exists.</p>
+<p class="small">Watching in Poland instead? <a href="{url('matches-in-poland/')}">Matches in Poland</a>.</p></div>"""
+        lists = f'<div class="aday">{inner_html(away)}</div>'
+        unreachable = len(away.get("unreachable") or [])
+        foot = f"""<p><a href="{url('about/')}">About</a> · <a href="{url('matches-in-poland/')}">Matches in Poland</a> · <a href="{url('newsletter/')}">Newsletter</a> · <a href="{E(subscribe_url())}">Subscribe free</a></p>
+<p>{unreachable} more weekend matches have no direct route from Poland to an airport within {MAX_KM} km. {E(updated_line)}</p>
+<p>Fares: <a href="https://support.travelpayouts.com/hc/en-us/articles/203956163-Aviasales-Data-API">Travelpayouts Aviasales Data API</a> (cached prices, not live). Flight links are Aviasales affiliate links. Fixtures: <a href="https://www.thesportsdb.com/">TheSportsDB</a> and <a href="https://github.com/openfootball/football.json">openfootball/football.json</a> (CC0). Stadium coordinates: <a href="https://www.wikidata.org/">Wikidata</a> (CC0). Airports: <a href="https://ourairports.com/">OurAirports</a> (public domain).</p>
+<p>Routes are adapted from the English Wikipedia “Airlines and destinations” sections by Wikipedia contributors, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. We turned those lists into airport pairs and dropped charter-only routes.{wiki_links}</p>
+<p>Unofficial. Not affiliated with any club, league, airline, or Aviasales.</p>"""
+    else:
+        note = "<p class='empty'>Trip data is not available yet.</p>"
+        lists = ""
+        foot = None
+    nl = f"""<h2>Get the weekend list</h2><div class='card'><p>A short email when the next cheap football weekends are up. Free. This opens the newsletter subscribe page with your email filled in. Nothing is stored on this site.</p>
+{newsletter_form('away-nl-email')}</div>"""
+    page("", away_title, away_desc,
+         (hero("Away Day from Poland", "The cheapest football weekends abroad, with direct flights from Polish airports."), note + lists + nl),
+         "", wide=True, site_name="Away Day from Poland", footer=foot)
+    urls.append("")
+
+    # MATCHES IN POLAND (former home page; same fixtures, tickets and bars)
     s, e = weekend_window(NOW)
     wk = [m for m in ALL if (d := mdt(m)) and s <= d < e]
     nxt = [m for m in ALL if (d := mdt(m)) and e <= d < e + dt.timedelta(days=10)]
@@ -189,11 +260,12 @@ def build():
     body += f"""<h2>New to Polish football?</h2><div class='grid'>
 <div class='card'><strong>Can I buy online with a passport?</strong><p class='small'>Mostly yes. See the <a href='{url("tickets-for-foreigners/")}'>club-by-club table</a> with official sources.</p></div>
 <div class='card'><strong>Watching the Premier League?</strong><p class='small'>English-friendly <a href='{url("where-to-watch/")}'>sports bars</a> in Warsaw, Kraków, Wrocław, Poznań, Gdańsk, Łódź, Gliwice, Białystok and Lublin.</p></div>
+<div class='card'><strong>Flying out instead?</strong><p class='small'>The <a href='{url()}'>Away Day</a> home page lists the cheapest weekends abroad with a direct flight.</p></div>
 <div class='card'><strong>Get the weekly email</strong><p class='small'>The best matches to see in Poland, every Thursday.</p>{newsletter_form('home-nl-email')}</div></div>"""
-    page("", "Football in Poland this weekend – Ekstraklasa & 1. Liga fixtures in English | Poland Matchday",
+    page("matches-in-poland/", "Football in Poland this weekend – Ekstraklasa & 1. Liga fixtures in English | Poland Matchday",
          "This weekend's Ekstraklasa and 1. Liga matches with kickoff times in Polish time, ticket rules for foreigners and where to watch. In English.",
-         (hero("Football in Poland this weekend", "Ekstraklasa & 1. Liga fixtures, tickets for foreigners and where to watch – in English."), body), "")
-    urls.append("")
+         (hero("Football in Poland this weekend", "Ekstraklasa & 1. Liga fixtures, tickets for foreigners and where to watch – in English."), body), "../")
+    urls.append("matches-in-poland/")
 
     # TICKETS FOR FOREIGNERS
     cnt = Counter(c["passport"] for c in CLUBS["clubs"])
@@ -361,7 +433,8 @@ def build():
     # ABOUT
     body = f"""<div class='card'><p>Poland Matchday is an independent, English-language guide for visitors and expats who want to see live football in Poland – or find a bar showing the Premier League.</p>
 <p><strong>How we source data:</strong> Ekstraklasa fixtures come from the official <a href='https://ekstraklasa.org/terminarz/'>ekstraklasa.org</a> fixture pages and refresh automatically. 1. Liga fixtures come from <a href='https://www.thesportsdb.com/'>TheSportsDB</a>, a community database, so please confirm them. Ticket rules come only from clubs' own ticket pages and regulations, each linked with the date we checked it. Where we couldn't confirm something we say <em>unverified</em> rather than guess.</p>
-<p><strong>Affiliate disclosure:</strong> some links (GetYourGuide, Booking.com) may earn us a commission at no cost to you.</p>
+<p>The home page, <a href="{url()}">Away Day from Poland</a>, lists cheap football weekends abroad with direct flights from Polish airports. Those flight links go to Aviasales and include our Travelpayouts partner marker. Fares on that page are cached, not live.</p>
+<p><strong>Affiliate disclosure:</strong> Aviasales flight links on the home page are affiliate links. GetYourGuide and Booking.com links on the Poland pages still use placeholder partner ids and are not live affiliate links.</p>
 <p>Not affiliated with Ekstraklasa S.A., PZPN or any club. Spotted an error? Corrections form coming soon.</p></div>"""
     page("about/", "About Poland Matchday", "Who we are and how Poland Matchday sources fixtures and ticket rules.", (hero("About Poland Matchday", "Independent. In English. Sourced."), body), "../")
     urls.append("about/")

@@ -1,0 +1,5825 @@
+[
+ {
+  "qid": "Q162251",
+  "name": "1. FC Heidenheim 1846",
+  "aliases": [
+   "Heidenheim",
+   "FCH"
+  ],
+  "venues": [
+   {
+    "name": "Voith-Arena",
+    "lat": 48.6685,
+    "lon": 10.1393,
+    "admin": "Heidenheim an der Brenz"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q8466",
+  "name": "1. FC Kaiserslautern",
+  "aliases": [
+   "Kaiserslautern",
+   "FCK",
+   "1. FCK"
+  ],
+  "venues": [
+   {
+    "name": "Fritz Walter Stadium",
+    "lat": 49.434444,
+    "lon": 7.775833,
+    "admin": "Kaiserslautern"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q104770",
+  "name": "1. FC Köln",
+  "aliases": [
+   "1. FC Cologne",
+   "1. Fußball-Club Köln 01/07 e. V.",
+   "F.C. Koln",
+   "F.C. Köln",
+   "FC Koln",
+   "FC Köln",
+   "FCKoln"
+  ],
+  "venues": [
+   {
+    "name": "RheinEnergie Stadion",
+    "lat": 50.933611,
+    "lon": 6.875,
+    "admin": "Müngersdorf"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q155730",
+  "name": "1. FC Magdeburg",
+  "aliases": [
+   "1. FCM",
+   "Der Club",
+   "Die Blau-Weißen",
+   "F.C. Magdeburg"
+  ],
+  "venues": [
+   {
+    "name": "Avnet Arena",
+    "lat": 52.125556,
+    "lon": 11.670833,
+    "admin": "Magdeburg"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q15786",
+  "name": "1. FC Nürnberg",
+  "aliases": [
+   "1. FC Nurnberg",
+   "1. FCN"
+  ],
+  "venues": [
+   {
+    "name": "Max-Morlock-Stadion",
+    "lat": 49.426240624,
+    "lon": 11.125617009,
+    "admin": "Nuremberg"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q847499",
+  "name": "1. FC Slovácko",
+  "aliases": [
+   "1. FC Synot",
+   "1.FC SLOVÁCKO",
+   "1.FC SLOVÁCKO, a.s."
+  ],
+  "venues": [
+   {
+    "name": "Městský fotbalový stadion Miroslava Valenty",
+    "lat": 49.0655,
+    "lon": 17.4714,
+    "admin": "Uherské Hradiště"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q141971",
+  "name": "1. FC Union Berlin",
+  "aliases": [
+   "FC Berlin",
+   "Union Berlin",
+   "1. Fußballclub Union Berlin",
+   "Berlin FC",
+   "Die Eisernen",
+   "FC Union Berlin",
+   "The Iron Ones"
+  ],
+  "venues": [
+   {
+    "name": "Stadion An der Alten Försterei",
+    "lat": 52.457222,
+    "lon": 13.568056,
+    "admin": "Treptow-Köpenick"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q105254",
+  "name": "1. FSV Mainz 05",
+  "aliases": [
+   "Mainz",
+   "1. Fußball- und Sportverein Mainz 05 e. V.",
+   "Die Nullfünfer",
+   "Mainz 05",
+   "The Zero-Fivers",
+   "FSV Mainz"
+  ],
+  "venues": [
+   {
+    "name": "Mewa Arena",
+    "lat": 49.984167,
+    "lon": 8.224167,
+    "admin": "Mainz"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q289286",
+  "name": "AC Horsens",
+  "aliases": [
+   "Horsens fS",
+   "Horsens FS"
+  ],
+  "venues": [
+   {
+    "name": "CASA Arena Horsens",
+    "lat": 55.8716,
+    "lon": 9.8576,
+    "admin": "Horsens Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q1543",
+  "name": "AC Milan",
+  "aliases": [
+   "A.C.M.",
+   "A.C.Milan",
+   "ACMilan",
+   "Association Football Milan",
+   "Associazione Calcio Milan",
+   "Milan",
+   "ACM",
+   "A.C. Milan"
+  ],
+  "venues": [
+   {
+    "name": "Giuseppe Meazza Stadium",
+    "lat": 45.478055555,
+    "lon": 9.123888888,
+    "admin": "Milan"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q289482",
+  "name": "AC Monza",
+  "aliases": [
+   "Monza",
+   "ACM",
+   "A.C.M.",
+   "A C Monza Brianza 1912",
+   "A. C. Monza Brianza 1912",
+   "A.C. Monza",
+   "A.C. Monza Brianza",
+   "A.C. Monza Brianza 1912",
+   "AC Monza Brianza 1912",
+   "ACMonza",
+   "Associazione Calcio Monza",
+   "Associazione Calcio Monza Brianza 1912",
+   "Biancorossi",
+   "Monza Calcio",
+   "S.S. Monza",
+   "S.S. Monza 1912 Srl",
+   "Società Sportiva Monza 1912",
+   "Società Sportiva Monza 1912 Srl"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Brianteo",
+    "lat": 45.582778,
+    "lon": 9.308056,
+    "admin": "Monza"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q193481",
+  "name": "AC Sparta Prague",
+  "aliases": [
+   "ACS",
+   "A.C. Sparta Prague",
+   "A.C.S.",
+   "ACSparta",
+   "Athletic Club Sparta Prague",
+   "Sparta Prague",
+   "SpartaPrague"
+  ],
+  "venues": [
+   {
+    "name": "Letná Stadium",
+    "lat": 50.099716,
+    "lon": 14.416122,
+    "admin": "Bubeneč"
+   },
+   {
+    "name": "Letná Stadium",
+    "lat": 50.099716,
+    "lon": 14.416122,
+    "admin": "Prague 7"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q2052",
+  "name": "ACF Fiorentina",
+  "aliases": [
+   "Fiorentina",
+   "A.C. Fiorentina",
+   "A.C.F.Fiorentina",
+   "AC Fiorentina",
+   "Associazione Calcio Fiorentina",
+   "Florentia Viola"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Artemio Franchi",
+    "lat": 43.780822,
+    "lon": 11.282258,
+    "admin": "Florence"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q24904",
+  "name": "ADO Den Haag",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "WerkTalent Stadion",
+    "lat": 52.062778,
+    "lon": 4.383056,
+    "admin": "The Hague"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q81888",
+  "name": "AFC Ajax",
+  "aliases": [
+   "Ajax",
+   "Ajax Amsterdam",
+   "Amsterdamsche Football Club Ajax"
+  ],
+  "venues": [
+   {
+    "name": "Johan Cruyff Arena",
+    "lat": 52.314166666,
+    "lon": 4.941944444,
+    "admin": "Amsterdam"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q19568",
+  "name": "AFC Bournemouth",
+  "aliases": [
+   "Bournemouth",
+   "Boscombe",
+   "The Cherries",
+   "A.F.C. Bournemouth",
+   "AFCB",
+   "Boscombe F.C.",
+   "Boscombe FC",
+   "Boscombe Football Club",
+   "Bournemouth and Boscombe Athletic",
+   "Bournemouth and Boscombe Athletic F.C.",
+   "Bournemouth and Boscombe Athletic FC",
+   "Bournemouth and Boscombe Athletic Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Dean Court",
+    "lat": 50.735278,
+    "lon": -1.838333,
+    "admin": "Bournemouth"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q182876",
+  "name": "AJ Auxerre",
+  "aliases": [
+   "Auxerre",
+   "AJA",
+   "Association de la Jeunesse auxerroise",
+   "Association de la Jeunesse Auxerroise",
+   "Les Icaunais"
+  ],
+  "venues": [
+   {
+    "name": "Stade de l'Abbé-Deschamps",
+    "lat": 47.78672,
+    "lon": 3.58871,
+    "admin": "Auxerre"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q180305",
+  "name": "AS Monaco FC",
+  "aliases": [
+   "Monaco",
+   "ASMFC",
+   "AS Monaco",
+   "A.S. Monaco",
+   "A.S. Monaco F.C.",
+   "A.S.M.F.C.",
+   "AS Monaco F.C.",
+   "AS Monaco Football Club",
+   "ASMonaco",
+   "Association Sportive de Monaco Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stade Louis II",
+    "lat": 43.727778,
+    "lon": 7.415556,
+    "admin": "Fontvieille"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q2739",
+  "name": "AS Roma",
+  "aliases": [
+   "ASR",
+   "A.S. Roma",
+   "A.S. Rome",
+   "A.S.R",
+   "A.S.R 1927",
+   "A.S.Roma",
+   "A.S.Rome",
+   "ASR 1927",
+   "ASRoma",
+   "Associazione Sportiva Roma",
+   "La Roma",
+   "Rome Sport Association",
+   "The Wolfs"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Olimpico",
+    "lat": 41.933888888,
+    "lon": 12.454722222,
+    "admin": "Rome"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q191264",
+  "name": "AZ Alkmaar",
+  "aliases": [
+   "AZ",
+   "AZ '67",
+   "Alkmaar Zaanstreek",
+   "The Cheese Farmers"
+  ],
+  "venues": [
+   {
+    "name": "AFAS Stadion",
+    "lat": 52.6125,
+    "lon": 4.741667,
+    "admin": "Alkmaar"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q301431",
+  "name": "Aarhus Gymnastikforening",
+  "aliases": [
+   "Aarhus GF",
+   "Aarhus Gymnastik Forening",
+   "AGF Aarhus",
+   "AGF Arhus",
+   "AGF Århus",
+   "Århus GF"
+  ],
+  "venues": [
+   {
+    "name": "Ceres Park & Arena",
+    "lat": 56.131944,
+    "lon": 10.196389,
+    "admin": "Aarhus Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q187326",
+  "name": "Aberdeen F.C.",
+  "aliases": [
+   "Aberdeen",
+   "AFC",
+   "Aberdeen FC",
+   "Aberdeen Football Club",
+   "The Dons"
+  ],
+  "venues": [
+   {
+    "name": "Pittodrie Stadium",
+    "lat": 57.159166666,
+    "lon": -2.088888888,
+    "admin": "Aberdeen City"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q845137",
+  "name": "Angers SCO",
+  "aliases": [
+   "Angers",
+   "SCO",
+   "Angers Sporting Club de l'Ouest",
+   "SCO of Angers"
+  ],
+  "venues": [
+   {
+    "name": "Stade Raymond Kopa",
+    "lat": 47.45905,
+    "lon": -0.53163,
+    "admin": "Angers"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q105844",
+  "name": "Arminia Bielefeld",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Bielefelder Alm",
+    "lat": 52.031389,
+    "lon": 8.516944,
+    "admin": "Bielefeld"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q9617",
+  "name": "Arsenal F.C.",
+  "aliases": [
+   "AFC",
+   "A.F.C.",
+   "The Arsenal",
+   "Arsenal Football Club",
+   "The Ars",
+   "The Arsenal F.C.",
+   "The Arsenal FC",
+   "Arsenal London"
+  ],
+  "venues": [
+   {
+    "name": "Emirates Stadium",
+    "lat": 51.555,
+    "lon": -0.108333333,
+    "admin": "London Borough of Islington"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q18711",
+  "name": "Aston Villa F.C.",
+  "aliases": [
+   "Villa",
+   "The Villa",
+   "Aston Villa",
+   "Aston Villa FC",
+   "Aston Villa Football Club",
+   "AVFC",
+   "The Villans"
+  ],
+  "venues": [
+   {
+    "name": "Villa Park",
+    "lat": 52.509166666,
+    "lon": -1.884722222,
+    "admin": "Birmingham"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q1886",
+  "name": "Atalanta BC",
+  "aliases": [
+   "Atalanta",
+   "Atalanta B.C.",
+   "Atalanta Bergamasca Calcio",
+   "Atalanta Bergamo",
+   "AtalantaB.C.",
+   "AtalantaBC"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Atleti Azzurri d'Italia",
+    "lat": 45.708889,
+    "lon": 9.680833,
+    "admin": "Bergamo"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q8687",
+  "name": "Athletic Club",
+  "aliases": [
+   "Athletic",
+   "Athletic Bilbao",
+   "Athletic Club de Bilbao"
+  ],
+  "venues": [
+   {
+    "name": "San Mamés Stadium",
+    "lat": 43.264205,
+    "lon": -2.949369,
+    "admin": "Bilbao"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q8701",
+  "name": "Atlético Madrid",
+  "aliases": [
+   "ATM",
+   "Atletico de Madrid",
+   "Atletico",
+   "Atlético",
+   "Atl. de Madrid",
+   "Atleti de Madrid",
+   "Atletico of Madrid",
+   "AtléticoDeMadrid",
+   "ATM Football Club",
+   "Club Atlético de Madrid",
+   "Club Atlético de Madrid, SAD",
+   "El Atleti",
+   "The Atletico"
+  ],
+  "venues": [
+   {
+    "name": "Metropolitano Stadium",
+    "lat": 40.436111,
+    "lon": -3.599444,
+    "admin": "Madrid"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q190526",
+  "name": "BSC Young Boys",
+  "aliases": [
+   "B.S.C. Y.B.",
+   "B.S.C. Young Boys",
+   "B.S.C.Y.B.",
+   "Berner Sport Club Young Boys",
+   "BSC YB",
+   "BSCYB",
+   "Young Boys"
+  ],
+  "venues": [
+   {
+    "name": "Stadion Wankdorf",
+    "lat": 46.962778,
+    "lon": 7.465,
+    "admin": "Bern"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q104761",
+  "name": "Bayer 04 Leverkusen",
+  "aliases": [
+   "Leverkusen",
+   "Bayer",
+   "Bayer 04 Football",
+   "Bayer 04 Leverkusen Fußball GmbH",
+   "Bayer 04 Leverkusen Fußball GmbH Soccer",
+   "Bayer Leverkusen",
+   "Die Werkself",
+   "The Company XI"
+  ],
+  "venues": [
+   {
+    "name": "BayArena",
+    "lat": 51.038255555,
+    "lon": 7.002205555,
+    "admin": "Leverkusen"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q19444",
+  "name": "Birmingham City F.C.",
+  "aliases": [
+   "City",
+   "Birmingham",
+   "Blues",
+   "BCFC",
+   "Birmingham City",
+   "Birmingham City FC",
+   "Birmingham City Football Club"
+  ],
+  "venues": [
+   {
+    "name": "St Andrew's",
+    "lat": 52.475702777,
+    "lon": -1.868188888,
+    "admin": "Birmingham"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q19446",
+  "name": "Blackburn Rovers F.C.",
+  "aliases": [
+   "Blackburn",
+   "Rovers",
+   "Blackburn Rovers",
+   "Blackburn Rovers FC",
+   "Blackburn Rovers Football Club",
+   "BRFC"
+  ],
+  "venues": [
+   {
+    "name": "Ewood Park",
+    "lat": 53.728611111,
+    "lon": -2.489166666,
+    "admin": "Blackburn"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q849221",
+  "name": "Bohemians 1905",
+  "aliases": [
+   "Bohemka",
+   "FC Bohemians Praha",
+   "The Kangaroos",
+   "Bohemians Prague",
+   "Bohemians Prague 1905",
+   "Bohemians Praha 1905"
+  ],
+  "venues": [
+   {
+    "name": "Ďolíček",
+    "lat": 50.066667,
+    "lon": 14.454167,
+    "admin": "Vršovice"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q1893",
+  "name": "Bologna F.C. 1909",
+  "aliases": [
+   "Bologna",
+   "BFC1909",
+   "Bologna FC 1909",
+   "Bologna Football Club",
+   "Bologna Football Club 1909",
+   "BolognaFC1909"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Renato Dall'Ara",
+    "lat": 44.4922,
+    "lon": 11.3098,
+    "admin": "Bologna"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q19451",
+  "name": "Bolton Wanderers F.C.",
+  "aliases": [
+   "Bolton",
+   "Wanderers",
+   "Bolton Wanderers",
+   "Bolton Wanderers FC",
+   "Bolton Wanderers Football Club",
+   "BWFC",
+   "The Trotters"
+  ],
+  "venues": [
+   {
+    "name": "Toughsheet Community Stadium",
+    "lat": 53.580555555,
+    "lon": -2.535555555,
+    "admin": "Horwich"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q41420",
+  "name": "Borussia Dortmund",
+  "aliases": [
+   "Dortmund",
+   "BVB",
+   "Ballspielverein Borussia 09 e.V. Dortmund",
+   "Die Borussen",
+   "Die Schwarzgelben",
+   "The Black and Yellows"
+  ],
+  "venues": [
+   {
+    "name": "Westfalenstadion",
+    "lat": 51.4925,
+    "lon": 7.451667,
+    "admin": "Dortmund"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q101959",
+  "name": "Borussia Mönchengladbach",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "ista-Borussia-Park",
+    "lat": 51.174583333,
+    "lon": 6.385463888,
+    "admin": "Mönchengladbach"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q19571",
+  "name": "Brentford F.C.",
+  "aliases": [
+   "Brentford",
+   "BFC",
+   "The Bees",
+   "Brentford FC",
+   "Brentford Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Griffin Park",
+    "lat": 51.488167,
+    "lon": -0.302639,
+    "admin": "Brentford"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q19453",
+  "name": "Brighton & Hove Albion F.C.",
+  "aliases": [
+   "BHA",
+   "Brighton",
+   "Albion",
+   "Brighton and Hove",
+   "BHAFC",
+   "Brighton & Hove",
+   "Brighton & Hove Albion",
+   "Brighton & Hove Albion FC",
+   "Brighton & Hove Albion Football Club",
+   "Brighton and Hove Albion",
+   "Brighton and Hove Albion F.C.",
+   "Brighton and Hove Albion FC",
+   "Brighton and Hove Albion Football Club",
+   "Brighton F.C.",
+   "Brighton FC",
+   "The Seagulls"
+  ],
+  "venues": [
+   {
+    "name": "Brighton Community Stadium",
+    "lat": 50.861822222,
+    "lon": -0.083277777,
+    "admin": "Moulsecoomb and Bevendean"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q19456",
+  "name": "Bristol City F.C.",
+  "aliases": [
+   "City",
+   "The Robins",
+   "BCFC",
+   "Bristol City",
+   "Bristol City FC",
+   "Bristol City Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Ashton Gate Stadium",
+    "lat": 51.44,
+    "lon": -2.620278,
+    "admin": "City of Bristol"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q211906",
+  "name": "Brøndby IF",
+  "aliases": [
+   "BIF",
+   "Brondby Idraetsforening",
+   "Brondby IF",
+   "Brøndbyernes Idrætsforening"
+  ],
+  "venues": [
+   {
+    "name": "Brøndby Stadium",
+    "lat": 55.648853,
+    "lon": 12.418358,
+    "admin": "Brøndby Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q19458",
+  "name": "Burnley F.C.",
+  "aliases": [
+   "Burnley",
+   "BFC",
+   "Burnley FC",
+   "Burnley Football Club",
+   "The Clarets"
+  ],
+  "venues": [
+   {
+    "name": "Turf Moor",
+    "lat": 53.789064,
+    "lon": -2.230225,
+    "admin": "Burnley"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q216459",
+  "name": "C.D. Nacional",
+  "aliases": [
+   "Nacional",
+   "CD Nacional",
+   "Clube Desportivo Nacional",
+   "Nacional da Madeira"
+  ],
+  "venues": [
+   {
+    "name": "Estádio da Madeira",
+    "lat": 32.670625,
+    "lon": -16.883525,
+    "admin": "Madeira"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q740637",
+  "name": "C.D. Santa Clara",
+  "aliases": [
+   "CD Santa Clara",
+   "Santa Clara Azores"
+  ],
+  "venues": [
+   {
+    "name": "Estádio de São Miguel",
+    "lat": 37.763708,
+    "lon": -25.622589,
+    "admin": "Ponta Delgada"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q838134",
+  "name": "C.F. Estrela da Amadora",
+  "aliases": [
+   "CF Estrela Amadora",
+   "CF Estrela da Amadora",
+   "Club Football Estrela da Amadora",
+   "Estrela Amadora",
+   "Estrela da Amadora",
+   "Estrela"
+  ],
+  "venues": [
+   {
+    "name": "Estádio José Gomes",
+    "lat": 38.752036,
+    "lon": -9.227967,
+    "admin": "Amadora"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q216503",
+  "name": "C.S. Marítimo",
+  "aliases": [
+   "Maritimo",
+   "C.S. Maritimo",
+   "CS Maritimo",
+   "CS Marítimo",
+   "Marítimo"
+  ],
+  "venues": [
+   {
+    "name": "Estádio do Marítimo",
+    "lat": 32.645561,
+    "lon": -16.928331,
+    "admin": "Madeira"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q1023227",
+  "name": "CD Tondela",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Estádio João Cardoso",
+    "lat": 40.512,
+    "lon": -8.08282,
+    "admin": "Tondela"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q1900",
+  "name": "Cagliari Calcio",
+  "aliases": [
+   "Cagliari"
+  ],
+  "venues": [
+   {
+    "name": "Unipol Domus",
+    "lat": 39.199694444,
+    "lon": 9.137416666,
+    "admin": "Cagliari"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q18662",
+  "name": "Cardiff City F.C.",
+  "aliases": [
+   "Cardiff",
+   "City",
+   "CCFC",
+   "The Bluebirds",
+   "Cardiff City FC",
+   "Cardiff City",
+   "Cardiff City Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Cardiff City Stadium",
+    "lat": 51.472778,
+    "lon": -3.203056,
+    "admin": "Cardiff"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q19593",
+  "name": "Celtic F.C.",
+  "aliases": [
+   "Celtic",
+   "CFC",
+   "The Celts",
+   "The Hoops",
+   "Celtic Football Club",
+   "Celtic plc",
+   "The Bhoys",
+   "The Celtic Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Celtic Park",
+    "lat": 55.849711111,
+    "lon": -4.205588888,
+    "admin": "Glasgow City"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q364698",
+  "name": "Cercle Brugge K.S.V.",
+  "aliases": [
+   "Cercle Brugge",
+   "Cercle Brugge KSV"
+  ],
+  "venues": [
+   {
+    "name": "Jan Breydel Stadium",
+    "lat": 51.193269,
+    "lon": 3.181311,
+    "admin": "Bruges"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q19462",
+  "name": "Charlton Athletic F.C.",
+  "aliases": [
+   "Athletic",
+   "Charlton",
+   "CAFC",
+   "Charlton Athletic",
+   "Charlton Athletic FC",
+   "Charlton Athletic Football Club",
+   "The Addicks"
+  ],
+  "venues": [
+   {
+    "name": "The Valley",
+    "lat": 51.487489,
+    "lon": 0.035632,
+    "admin": "Charlton"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q9616",
+  "name": "Chelsea F.C.",
+  "aliases": [
+   "Chelsea",
+   "CFC",
+   "The Blues",
+   "Chelsea FC",
+   "Chelsea Football Club",
+   "The Pensioners"
+  ],
+  "venues": [
+   {
+    "name": "Stamford Bridge",
+    "lat": 51.481666666,
+    "lon": -0.191111111,
+    "admin": "Fulham"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q10286",
+  "name": "Club Atlético Osasuna",
+  "aliases": [
+   "CA Osasuna"
+  ],
+  "venues": [
+   {
+    "name": "El Sadar Stadium",
+    "lat": 42.796667,
+    "lon": -1.636944,
+    "admin": "Pamplona"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q190916",
+  "name": "Club Brugge K.V.",
+  "aliases": [
+   "Club Bruges",
+   "Club Bruges KV",
+   "Club Brugge",
+   "Club Brugge KV"
+  ],
+  "venues": [
+   {
+    "name": "Jan Breydel Stadium",
+    "lat": 51.193269,
+    "lon": 3.181311,
+    "admin": "Bruges"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q1023163",
+  "name": "Clube Desportivo das Aves",
+  "aliases": [
+   "Aves",
+   "C.D. Aves",
+   "Desportivo das Aves"
+  ],
+  "venues": [
+   {
+    "name": "Estádio do CD das Aves",
+    "lat": 41.366932,
+    "lon": -8.411789,
+    "admin": "Vila das Aves"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q1120838",
+  "name": "Como 1907",
+  "aliases": [
+   "Como",
+   "Calcio Como",
+   "Como Calcio",
+   "F.C. Como"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Giuseppe Sinigaglia",
+    "lat": 45.81388889,
+    "lon": 9.07222222,
+    "admin": "Como"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q19580",
+  "name": "Coventry City F.C.",
+  "aliases": [
+   "Coventry",
+   "City",
+   "CCFC",
+   "Sky Blues",
+   "Coventry City",
+   "Coventry City FC",
+   "Coventry City Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Coventry Building Society Arena",
+    "lat": 52.448056,
+    "lon": -1.495556,
+    "admin": "Coventry"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q19467",
+  "name": "Crystal Palace F.C.",
+  "aliases": [
+   "Palace",
+   "Crystal Palace",
+   "The Eagles",
+   "CPFC",
+   "Crystal Palace Football Club",
+   "Crystal Palace FC",
+   "The Glaziers"
+  ],
+  "venues": [
+   {
+    "name": "Selhurst Park",
+    "lat": 51.398333333,
+    "lon": -0.085555555,
+    "admin": "South Norwood"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q223620",
+  "name": "Deportivo Alavés",
+  "aliases": [
+   "Alavés",
+   "Alaves",
+   "Alaves Football",
+   "Alaves Soccer",
+   "Deportivo Alaves",
+   "Deportivo Alaves Soccer"
+  ],
+  "venues": [
+   {
+    "name": "Mendizorrotza Stadium",
+    "lat": 42.837111,
+    "lon": -2.688044,
+    "admin": "Vitoria-Gasteiz"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q8760",
+  "name": "Deportivo de A Coruña",
+  "aliases": [
+   "Depor",
+   "Deportivo",
+   "Club Deportivo de la Sala Calvet, Turcos",
+   "Dépor",
+   "R.C. Deportivo de La Coruña",
+   "Real Club Deportivo de La Coruña",
+   "Real Club Deportivo de La Coruña S.A.D.",
+   "Real Club Deportivo de A Coruña"
+  ],
+  "venues": [
+   {
+    "name": "Estadio Municipal de Abanca Riazor",
+    "lat": 43.368667,
+    "lon": -8.417372,
+    "admin": "A Coruña"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q19470",
+  "name": "Derby County F.C.",
+  "aliases": [
+   "Derby",
+   "DCFC",
+   "The Rams",
+   "County",
+   "Derby County",
+   "Derby County FC"
+  ],
+  "venues": [
+   {
+    "name": "Pride Park Stadium",
+    "lat": 52.915,
+    "lon": -1.447222222,
+    "admin": "Derby"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q335483",
+  "name": "Dundee F.C.",
+  "aliases": [
+   "Dundee",
+   "DFC",
+   "Dundee FC",
+   "Dundee Football Club",
+   "The Dee"
+  ],
+  "venues": [
+   {
+    "name": "Dens Park",
+    "lat": 56.475264,
+    "lon": -2.973194,
+    "admin": "Dundee City"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q192873",
+  "name": "Dundee United F.C.",
+  "aliases": [
+   "United",
+   "The Terrors",
+   "DUFC",
+   "Dundee Hibernian",
+   "Dundee United",
+   "Dundee United FC",
+   "Dundee United Football Club",
+   "The Tangerines"
+  ],
+  "venues": [
+   {
+    "name": "Tannadice Park",
+    "lat": 56.474703,
+    "lon": -2.968961,
+    "admin": "Dundee City"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q141931",
+  "name": "Dynamo Dresden",
+  "aliases": [
+   "SG Dynamo Dresden"
+  ],
+  "venues": [
+   {
+    "name": "Rudolf-Harbig-Stadion",
+    "lat": 51.040278,
+    "lon": 13.747778,
+    "admin": "Dresden"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q501693",
+  "name": "ES Troyes AC",
+  "aliases": [
+   "ES Troyes",
+   "ESTAC",
+   "Troyes AC"
+  ],
+  "venues": [
+   {
+    "name": "Stade de l'Aube",
+    "lat": 48.30616,
+    "lon": 4.0982,
+    "admin": "Troyes"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q154053",
+  "name": "Eintracht Braunschweig",
+  "aliases": [
+   "Braunschweiger Turn- und Sportverein Eintracht von 1895"
+  ],
+  "venues": [
+   {
+    "name": "Eintracht-Stadion",
+    "lat": 52.29,
+    "lon": 10.521389,
+    "admin": "Brunswick"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q38245",
+  "name": "Eintracht Frankfurt",
+  "aliases": [
+   "Frankfurt",
+   "Eintracht",
+   "The Eagles",
+   "Die Adler",
+   "Eintracht Frankfurt e. V."
+  ],
+  "venues": [
+   {
+    "name": "Waldstadion",
+    "lat": 50.068611,
+    "lon": 8.645278,
+    "admin": "Frankfurt-Süd"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q10512",
+  "name": "Elche CF",
+  "aliases": [
+   "Elche Club de Fútbol, S.A.D."
+  ],
+  "venues": [
+   {
+    "name": "Estadio Manuel Martínez Valero",
+    "lat": 38.266944,
+    "lon": -0.663333,
+    "admin": "Q10509"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q5794",
+  "name": "Everton F.C.",
+  "aliases": [
+   "Everton",
+   "The Blues",
+   "EFC",
+   "Everton FC",
+   "Everton Football Club",
+   "The Toffees"
+  ],
+  "venues": [
+   {
+    "name": "Hill Dickinson Stadium",
+    "lat": 53.425,
+    "lon": -3.002777777,
+    "admin": "City of Liverpool"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q370712",
+  "name": "Excelsior Rotterdam",
+  "aliases": [
+   "SBV Excelsior",
+   "SBV Excelsior Rotterdam"
+  ],
+  "venues": [
+   {
+    "name": "Stadion Woudestein",
+    "lat": 51.916944,
+    "lon": 4.520556,
+    "admin": "Rotterdam"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q1386869",
+  "name": "F.C. Arouca",
+  "aliases": [
+   "FC Arouca",
+   "Futebol Clube de Arouca"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Municipal de Arouca",
+    "lat": 40.92833333,
+    "lon": -8.24861111,
+    "admin": "Arouca"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q696525",
+  "name": "F.C. Blau-Weiß Linz",
+  "aliases": [
+   "Blau-WeiÃŸ Linz",
+   "BW Linz",
+   "FC Blau-WeiÃŸ Linz",
+   "FC Blau-Weiß Linz",
+   "FC BW Linz"
+  ],
+  "venues": [
+   {
+    "name": "Hofmann Personal Stadion",
+    "lat": 48.3163,
+    "lon": 14.2983,
+    "admin": "Linz"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q188430",
+  "name": "F.C. Copenhagen",
+  "aliases": [
+   "FC Copenhagen",
+   "FC København",
+   "Football Club Copenhagen",
+   "FCK"
+  ],
+  "venues": [
+   {
+    "name": "Parken Stadium",
+    "lat": 55.702469,
+    "lon": 12.572203,
+    "admin": "Copenhagen Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q1387110",
+  "name": "F.C. Felgueiras",
+  "aliases": [
+   "FC Felgueiras"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Dr. Machado de Matos",
+    "lat": 41.356,
+    "lon": -8.190722222,
+    "admin": null
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q48911",
+  "name": "F.C. Lorient",
+  "aliases": [
+   "FC Lorient",
+   "Football Club Lorient-Bretagne Sud"
+  ],
+  "venues": [
+   {
+    "name": "Stade du Moustoir",
+    "lat": 47.74869,
+    "lon": -3.36929,
+    "admin": "Lorient"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q1387471",
+  "name": "F.C. Penafiel",
+  "aliases": [
+   "Futebol Clube Penafiel"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Municipal 25 de Abril",
+    "lat": 41.2117,
+    "lon": -8.277919,
+    "admin": "Penafiel"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q1065328",
+  "name": "F.C. Verbroedering Dender Eendracht Hekelgem",
+  "aliases": [
+   "F.C.V. Dender E.H.",
+   "FCV Dender EH"
+  ],
+  "venues": [
+   {
+    "name": "Florent Beeckmanstadion",
+    "lat": 50.883889,
+    "lon": 4.070833,
+    "admin": "Denderleeuw"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q97905916",
+  "name": "FC Augsburg",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "WWK Arena",
+    "lat": 48.3233205,
+    "lon": 10.8859261,
+    "admin": "Augsburg"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q329471",
+  "name": "FC Baník Ostrava",
+  "aliases": [
+   "FC Banik Ostrava"
+  ],
+  "venues": [
+   {
+    "name": "Bazaly",
+    "lat": 49.845111,
+    "lon": 18.299392,
+    "admin": "Slezská Ostrava"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q7156",
+  "name": "FC Barcelona",
+  "aliases": [
+   "Barcelona FC",
+   "Barcelona Football Club",
+   "F.C.Barcelona",
+   "FC Barcelona Football",
+   "FCBarcelona",
+   "Football Club Barcelona",
+   "Football Club of Barcelona",
+   "F.C. Barcelona",
+   "Fútbol Club Barcelona",
+   "F.C.B."
+  ],
+  "venues": [
+   {
+    "name": "Camp Nou",
+    "lat": 41.380833333,
+    "lon": 2.122777777,
+    "admin": "La Maternitat i Sant Ramon"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q189671",
+  "name": "FC Basel",
+  "aliases": [
+   "FCB",
+   "F.C.B.",
+   "FC Basel 1893",
+   "FCB 1893",
+   "FCB1893",
+   "Football Club Basel",
+   "Football Club Basel 1893"
+  ],
+  "venues": [
+   {
+    "name": "St. Jakob-Park",
+    "lat": 47.541389,
+    "lon": 7.62,
+    "admin": "Basel"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q15789",
+  "name": "FC Bayern Munich",
+  "aliases": [
+   "Munich",
+   "Bayern",
+   "FCBM",
+   "FC Bayern München",
+   "Bayern Muenchen",
+   "Bayern Munchen",
+   "Bayern München",
+   "Bayern Munich",
+   "Bayern of Munich",
+   "Die Bayernf",
+   "F.C. Bayern Munich",
+   "FC Bayern Muenchen",
+   "FC Bayern Munchen",
+   "FC Hollywood",
+   "FCB Munich",
+   "FCBM 1900",
+   "Bavaria Munich",
+   "FC Bavaria Munich"
+  ],
+  "venues": [
+   {
+    "name": "Allianz Arena",
+    "lat": 48.218775,
+    "lon": 11.624752777,
+    "admin": "Schwabing-Freimann"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q107818",
+  "name": "FC Energie Cottbus",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "LEAG Energie Stadion",
+    "lat": 51.751389,
+    "lon": 14.345556,
+    "admin": "Cottbus"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q1387105",
+  "name": "FC Famalicão",
+  "aliases": [
+   "F.C. Famalicao",
+   "F.C. Famalicão",
+   "FC Famalicao"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Municipal 22 de Junho",
+    "lat": 41.40127778,
+    "lon": -8.52242222,
+    "admin": "Vila Nova de Famalicão"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q24711",
+  "name": "FC Groningen",
+  "aliases": [
+   "Football Club Groningen"
+  ],
+  "venues": [
+   {
+    "name": "Euroborg",
+    "lat": 53.206111111,
+    "lon": 6.591388888,
+    "admin": "Groningen"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q581423",
+  "name": "FC Hradec Králové",
+  "aliases": [
+   "FC Hradec Kralove"
+  ],
+  "venues": [
+   {
+    "name": "Malšovická aréna",
+    "lat": 50.2064,
+    "lon": 15.8454,
+    "admin": "Malšovice"
+   },
+   {
+    "name": "Malšovická aréna",
+    "lat": 50.2064,
+    "lon": 15.8454,
+    "admin": "Hradec Králové"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q309456",
+  "name": "FC Lausanne-Sport",
+  "aliases": [
+   "F.C. Lausanne-Sport",
+   "Lausanne-Sport"
+  ],
+  "venues": [
+   {
+    "name": "Stade Olympique de la Pontaise",
+    "lat": 46.534,
+    "lon": 6.625,
+    "admin": "Canton of Vaud"
+   },
+   {
+    "name": "Stade Olympique de la Pontaise",
+    "lat": 46.534,
+    "lon": 6.625,
+    "admin": "Lausanne"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q633521",
+  "name": "FC Lugano",
+  "aliases": [
+   "F.C. Lugano",
+   "Football Club Lugano",
+   "Lugano Football Club"
+  ],
+  "venues": [
+   {
+    "name": "AIL Arena",
+    "lat": 46.0230878,
+    "lon": 8.9601204,
+    "admin": "Canton of Ticino"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q223262",
+  "name": "FC Luzern",
+  "aliases": [
+   "F.C. Luzern",
+   "Fussball Club Luzern"
+  ],
+  "venues": [
+   {
+    "name": "thermoplan arena",
+    "lat": 47.033264,
+    "lon": 8.305187,
+    "admin": "Canton of Lucerne"
+   },
+   {
+    "name": "thermoplan arena",
+    "lat": 47.033264,
+    "lon": 8.305187,
+    "admin": "Lucerne"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q618520",
+  "name": "FC Midtjylland",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "MCH Arena",
+    "lat": 56.11666667,
+    "lon": 8.95166667,
+    "admin": "Herning Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q210025",
+  "name": "FC Nordsjælland",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Right to Dream Park",
+    "lat": 55.815847,
+    "lon": 12.353289,
+    "admin": "Furesø Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q128446",
+  "name": "FC Porto",
+  "aliases": [
+   "FCP",
+   "Porto",
+   "F.C. Porto",
+   "Futebol Clube do Porto",
+   "F.C.P.",
+   "F.C.Porto",
+   "FCPorto"
+  ],
+  "venues": [
+   {
+    "name": "Estádio do Dragão",
+    "lat": 41.161758,
+    "lon": -8.583933,
+    "admin": "Campanhã"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q994811",
+  "name": "FC Red Bull Salzburg",
+  "aliases": [
+   "Salzburg",
+   "Red Bull",
+   "Red Bull Salzburg",
+   "FCRBS",
+   "Football Club Red Bull Salzburg"
+  ],
+  "venues": [
+   {
+    "name": "Red Bull Arena",
+    "lat": 47.81625,
+    "lon": 12.998222222,
+    "admin": "Wals-Siezenheim"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q321061",
+  "name": "FC Sion",
+  "aliases": [
+   "F.C. Sion",
+   "FCSion",
+   "Football Club of Sion",
+   "Football Club Sion"
+  ],
+  "venues": [
+   {
+    "name": "Stade de Tourbillon",
+    "lat": 46.233333,
+    "lon": 7.376389,
+    "admin": "Canton of Valais"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q221671",
+  "name": "FC Slovan Liberec",
+  "aliases": [
+   "FC SLOVAN LIBEREC"
+  ],
+  "venues": [
+   {
+    "name": "Stadion u Nisy",
+    "lat": 50.776214,
+    "lon": 15.049972,
+    "admin": "Liberec"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q659212",
+  "name": "FC St. Gallen",
+  "aliases": [
+   "F.C. St. Gallen",
+   "F.C. St. Gallen 1879",
+   "FC St. Gallen 1879",
+   "Fussballclub St. Gallen 1879"
+  ],
+  "venues": [
+   {
+    "name": "kybunpark",
+    "lat": 47.408333,
+    "lon": 9.306389,
+    "admin": "Canton of St. Gallen"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q6463",
+  "name": "FC St. Pauli",
+  "aliases": [
+   "St. Pauli",
+   "Die Kiezkicker",
+   "FCSP",
+   "Football Club St. Pauli"
+  ],
+  "venues": [
+   {
+    "name": "Millerntor-Stadion",
+    "lat": 53.554444,
+    "lon": 9.967778,
+    "admin": "Hamburg-Mitte"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q464775",
+  "name": "FC Thun",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Visana Stadion",
+    "lat": 46.744817,
+    "lon": 7.606075,
+    "admin": "Canton of Berne"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q534448",
+  "name": "FC Torinese",
+  "aliases": [
+   "Torinese",
+   "FBC Torinese",
+   "FC Torinese 1894",
+   "Foot-Ball Club Torinese"
+  ],
+  "venues": [
+   {
+    "name": "Velodrome Humbert I",
+    "lat": 45.0569,
+    "lon": 7.66028,
+    "admin": "Turin"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q19603",
+  "name": "FC Twente",
+  "aliases": [
+   "Football Club Twente",
+   "Twente Enschede"
+  ],
+  "venues": [
+   {
+    "name": "De Grolsch Veste",
+    "lat": 52.236666666,
+    "lon": 6.8375,
+    "admin": "Enschede"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q24680",
+  "name": "FC Utrecht",
+  "aliases": [
+   "Football Club Utrecht"
+  ],
+  "venues": [
+   {
+    "name": "Stadion Galgenwaard",
+    "lat": 52.078333333,
+    "lon": 5.145833333,
+    "admin": "Utrecht"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q216773",
+  "name": "FC Vaduz",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Rheinpark Stadion",
+    "lat": 47.140277777,
+    "lon": 9.510277777,
+    "admin": "Vaduz"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q206838",
+  "name": "FC Viktoria Plzeň",
+  "aliases": [
+   "Viktoria Plzen"
+  ],
+  "venues": [
+   {
+    "name": "Doosan Arena",
+    "lat": 49.75,
+    "lon": 13.385556,
+    "admin": "Východní Předměstí"
+   },
+   {
+    "name": "Doosan Arena",
+    "lat": 49.75,
+    "lon": 13.385556,
+    "admin": "Plzeň"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q738060",
+  "name": "FC Volendam",
+  "aliases": [
+   "Football Club Volendam"
+  ],
+  "venues": [
+   {
+    "name": "Kras Stadion",
+    "lat": 52.494444,
+    "lon": 5.066389,
+    "admin": "Edam-Volendam"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q187091",
+  "name": "FC Wil 1900",
+  "aliases": [
+   "FC Wil",
+   "Fussbal Club Wil"
+  ],
+  "venues": [
+   {
+    "name": "Lidl Arena",
+    "lat": 47.458456,
+    "lon": 9.036692,
+    "admin": "Canton of St. Gallen"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q724832",
+  "name": "FC Zbrojovka Brno",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Městský fotbalový stadion Srbská",
+    "lat": 49.227162,
+    "lon": 16.586276,
+    "admin": "Královo Pole"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q39183",
+  "name": "FC Zlín",
+  "aliases": [
+   "FC Fastav Zlin",
+   "FC Fastav Zlín",
+   "FC Trinity Zlín"
+  ],
+  "venues": [
+   {
+    "name": "Letná Stadion",
+    "lat": 49.231311,
+    "lon": 17.669425,
+    "admin": "Zlín"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q206692",
+  "name": "FC Zürich",
+  "aliases": [
+   "F.C. Zurich",
+   "F.C. Zürich",
+   "FC Zurich"
+  ],
+  "venues": [
+   {
+    "name": "Letzigrund",
+    "lat": 47.382791,
+    "lon": 8.503801,
+    "admin": "Canton of Zurich"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q131209",
+  "name": "FK Austria Wien",
+  "aliases": [
+   "Austria Vienna",
+   "Fußballklub Austria Wien"
+  ],
+  "venues": [
+   {
+    "name": "Generali Arena",
+    "lat": 48.162306,
+    "lon": 16.386694,
+    "admin": "Vienna"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q425599",
+  "name": "FK Jablonec",
+  "aliases": [
+   "Jablonec"
+  ],
+  "venues": [
+   {
+    "name": "Chance Arena",
+    "lat": 50.714964,
+    "lon": 15.162225,
+    "admin": "Jablonec nad Nisou"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q328332",
+  "name": "FK Mladá Boleslav",
+  "aliases": [
+   "FK Mlada Boleslav"
+  ],
+  "venues": [
+   {
+    "name": "Městský stadion",
+    "lat": 50.427083,
+    "lon": 14.914783,
+    "admin": "Mladá Boleslav II"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q3038689",
+  "name": "FK Pardubice",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Pod Vinicí",
+    "lat": 50.029661,
+    "lon": 15.781801,
+    "admin": "Q113127001"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q738886",
+  "name": "FK Teplice",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Na Stínadlech",
+    "lat": 50.640075,
+    "lon": 13.817936,
+    "admin": "Teplice"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q219241",
+  "name": "Falkirk F.C.",
+  "aliases": [
+   "Falkirk",
+   "FFC",
+   "Falkirk FC",
+   "Falkirk Football Club",
+   "The Bairns"
+  ],
+  "venues": [
+   {
+    "name": "Brockville Park",
+    "lat": 56.003442,
+    "lon": -3.789306,
+    "admin": "Falkirk"
+   },
+   {
+    "name": "Falkirk Stadium",
+    "lat": 56.005136,
+    "lon": -3.754269,
+    "admin": "Falkirk"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q134241",
+  "name": "Feyenoord Rotterdam",
+  "aliases": [
+   "Feyenoord",
+   "FeyenoordRotterdam"
+  ],
+  "venues": [
+   {
+    "name": "De Kuip",
+    "lat": 51.893894444,
+    "lon": 4.523252777,
+    "admin": "Rotterdam"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q854167",
+  "name": "Fortuna Sittard",
+  "aliases": [
+   "Fortuna Geleen"
+  ],
+  "venues": [
+   {
+    "name": "Fortuna Sittard Stadion",
+    "lat": 50.991944,
+    "lon": 5.843611,
+    "admin": "Sittard-Geleen"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q845043",
+  "name": "Frosinone Calcio",
+  "aliases": [
+   "Frosinone 1928",
+   "Frosinone FC",
+   "Frosinone Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Benito Stirpe Stadium",
+    "lat": 41.63426,
+    "lon": 13.321866,
+    "admin": "Frosinone"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q18708",
+  "name": "Fulham F.C.",
+  "aliases": [
+   "The Cottagers",
+   "Fulham",
+   "FFC",
+   "Fulham FC",
+   "Fulham Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Craven Cottage",
+    "lat": 51.475,
+    "lon": -0.221666666,
+    "admin": "Fulham"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q634829",
+  "name": "G.D. Estoril Praia",
+  "aliases": [
+   "Estoril",
+   "Estoril Praia",
+   "Grupo Desportivo Estoril Praia"
+  ],
+  "venues": [
+   {
+    "name": "Estádio António Coimbra da Mota",
+    "lat": 38.716,
+    "lon": -9.406,
+    "admin": "Cascais e Estoril"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q2074",
+  "name": "Genoa CFC",
+  "aliases": [
+   "Genoa",
+   "Genoa C.F.C.",
+   "Genoa Cricket and Football Club s.p.a"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Luigi Ferraris",
+    "lat": 44.416431,
+    "lon": 8.952428,
+    "admin": "Genoa"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q8806",
+  "name": "Getafe CF",
+  "aliases": [
+   "Getafe",
+   "Getafe C.F.",
+   "Getafe Club de Futbol",
+   "Getafe Club de Fútbol",
+   "Getafe Club de Fútbol Team",
+   "Getafe Club of Football",
+   "Getafe Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Estadio Coliseum",
+    "lat": 40.325556,
+    "lon": -3.714722,
+    "admin": "Getafe"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q926438",
+  "name": "Gil Vicente F.C.",
+  "aliases": [
+   "Gil Vicente FC",
+   "Gil Vicente Futebol Clube"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Cidade de Barcelos",
+    "lat": 41.551111111,
+    "lon": -8.622777777,
+    "admin": "Freguesia de Vila Boa"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q749589",
+  "name": "Go Ahead Eagles",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "De Adelaarshorst",
+    "lat": 52.260278,
+    "lon": 6.1725,
+    "admin": "Deventer"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q201360",
+  "name": "Grasshopper Club Zürich",
+  "aliases": [
+   "GC",
+   "Grasshoppers",
+   "Grasshopper Club Zurich",
+   "Grasshoppers Zurich",
+   "Grasshoppers Zürich"
+  ],
+  "venues": [
+   {
+    "name": "Letzigrund",
+    "lat": 47.382791,
+    "lon": 8.503801,
+    "admin": "Canton of Zurich"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q659780",
+  "name": "Grazer AK",
+  "aliases": [
+   "Grazer A.K.",
+   "Grazer AK 1902",
+   "Grazer AK FuÃŸball",
+   "Grazer Athletik-Klub",
+   "GAK",
+   "GAK 1902"
+  ],
+  "venues": [
+   {
+    "name": "Merkur Arena",
+    "lat": 47.046111,
+    "lon": 15.454444,
+    "admin": "Liebenau"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q97905930",
+  "name": "Hamburger SV",
+  "aliases": [
+   "Hamburg",
+   "Hamburger",
+   "HSV",
+   "Hamburg SV",
+   "Hamburger Sport-Verein"
+  ],
+  "venues": [
+   {
+    "name": "Volksparkstadion",
+    "lat": 53.586944,
+    "lon": 9.898611,
+    "admin": "Altona"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q51974",
+  "name": "Hamburger SV",
+  "aliases": [
+   "H.S.V.",
+   "Hamburg Sport Club",
+   "Hamburg SV",
+   "Hamburger S.V.",
+   "Hamburger Sport-Verein",
+   "HamburgerSV",
+   "Hamburg",
+   "Hamburger",
+   "HSV"
+  ],
+  "venues": [
+   {
+    "name": "Volksparkstadion",
+    "lat": 53.586944,
+    "lon": 9.898611,
+    "admin": "Altona"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q33748",
+  "name": "Hannover 96",
+  "aliases": [
+   "Hannoveraner",
+   "H96",
+   "Hannoverscher Sport-Verein von 1896 e.V."
+  ],
+  "venues": [
+   {
+    "name": "Niedersachsenstadion",
+    "lat": 52.36,
+    "lon": 9.731111,
+    "admin": "Mitte"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q202093",
+  "name": "Heart of Midlothian F.C.",
+  "aliases": [
+   "Hearts",
+   "Heart of Midlothian Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Tynecastle Park",
+    "lat": 55.939055555,
+    "lon": -3.232444444,
+    "admin": "City of Edinburgh"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q102720",
+  "name": "Hertha BSC",
+  "aliases": [
+   "Hertha",
+   "Hertha Berlin",
+   "Hertha Berliner Sport-Club",
+   "Hertha, Berliner Sport-Club e. V"
+  ],
+  "venues": [
+   {
+    "name": "Berlin Olympic Stadium",
+    "lat": 52.514722222,
+    "lon": 13.239444444,
+    "admin": "Charlottenburg-Wilmersdorf"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q192597",
+  "name": "Hibernian F.C.",
+  "aliases": [
+   "HFC",
+   "Hibernian",
+   "Hibees",
+   "Hibernian FC",
+   "Hibernian Football Club",
+   "Hibs"
+  ],
+  "venues": [
+   {
+    "name": "Easter Road",
+    "lat": 55.961666666,
+    "lon": -3.165555555,
+    "admin": "City of Edinburgh"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q157828",
+  "name": "Holstein Kiel",
+  "aliases": [
+   "The Storks",
+   "Die Störche"
+  ],
+  "venues": [
+   {
+    "name": "Holstein-Stadion",
+    "lat": 54.349167,
+    "lon": 10.123611,
+    "admin": "Kiel"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q19477",
+  "name": "Hull City A.F.C.",
+  "aliases": [
+   "City",
+   "Hull",
+   "The Tigers",
+   "HCAFC",
+   "Hull City",
+   "Hull City AFC",
+   "Hull City Association Football Club"
+  ],
+  "venues": [
+   {
+    "name": "MKM Stadium",
+    "lat": 53.746111111,
+    "lon": -0.367777777,
+    "admin": "Kingston upon Hull"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q631",
+  "name": "Inter Milan",
+  "aliases": [
+   "Inter Club",
+   "Inter FC",
+   "Inter",
+   "IM",
+   "F.C.I.M.",
+   "FCIM",
+   "FC Inter",
+   "Internazionale",
+   "Inter Football Club",
+   "F.C. Inter",
+   "F.C. Inter Milan",
+   "FC Internazionale Milano",
+   "FCInter",
+   "Football Club Inter",
+   "Football Club Inter Milan",
+   "Football Club Internazionale Milano",
+   "I M",
+   "Inter Milano",
+   "Inter of Milan",
+   "Inter soccer club",
+   "Internazionale Milano",
+   "The Inter"
+  ],
+  "venues": [
+   {
+    "name": "Giuseppe Meazza Stadium",
+    "lat": 45.478055555,
+    "lon": 9.123888888,
+    "admin": "Milan"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q9653",
+  "name": "Ipswich Town F.C.",
+  "aliases": [
+   "Ipswich",
+   "Town",
+   "The Blues",
+   "ITFC",
+   "Ipswich Town",
+   "Ipswich Town FC",
+   "Ipswich Town Football Club",
+   "The Tractor Boys"
+  ],
+  "venues": [
+   {
+    "name": "Portman Road",
+    "lat": 52.055,
+    "lon": 1.145277777,
+    "admin": "Ipswich"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q1422",
+  "name": "Juventus FC",
+  "aliases": [
+   "J.F.C.",
+   "Juventus F.C.",
+   "Juventus of Turin",
+   "Juventus Turin",
+   "JuventusF.C.",
+   "JuventusFC",
+   "JuventusFootballClub"
+  ],
+  "venues": [
+   {
+    "name": "Juventus Stadium",
+    "lat": 45.109594,
+    "lon": 7.641247,
+    "admin": "Turin"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q216032",
+  "name": "K.R.C. Genk",
+  "aliases": [
+   "Koninklijke Racing Club Genk",
+   "KRC Genk"
+  ],
+  "venues": [
+   {
+    "name": "Cegeka Arena",
+    "lat": 51.005,
+    "lon": 5.533333,
+    "admin": "Genk"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q618620",
+  "name": "K.V. Kortrijk",
+  "aliases": [
+   "Koninklijke Voetbalclub Kortrijk",
+   "KV Kortrijk"
+  ],
+  "venues": [
+   {
+    "name": "Guldensporen Stadion",
+    "lat": 50.830278,
+    "lon": 3.248889,
+    "admin": "Kortrijk"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q849544",
+  "name": "K.V.C. Westerlo",
+  "aliases": [
+   "Westerlo",
+   "Koninklijke Voetbal Club Westerlo",
+   "KVC Westerlo"
+  ],
+  "venues": [
+   {
+    "name": "Het Kuipje",
+    "lat": 51.094722,
+    "lon": 4.928333,
+    "admin": "Westerlo"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q18232",
+  "name": "KAA Gent",
+  "aliases": [
+   "Ghent",
+   "Gent",
+   "K.A.A. Gent",
+   "Koninklijke Atletiek Associatie Gent"
+  ],
+  "venues": [
+   {
+    "name": "Jules Ottenstadion",
+    "lat": 51.031389,
+    "lon": 3.766111,
+    "admin": "Ghent"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q113000",
+  "name": "KV Mechelen",
+  "aliases": [
+   "K.V. Mechelen",
+   "Y.R. K.V. Mechelen",
+   "YR KV Mechelen"
+  ],
+  "venues": [
+   {
+    "name": "AFAS Stadion KV Mechelen",
+    "lat": 51.037222,
+    "lon": 4.486389,
+    "admin": "Mechelen"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q105853",
+  "name": "Karlsruher SC",
+  "aliases": [
+   "KSC"
+  ],
+  "venues": [
+   {
+    "name": "Wildparkstadion",
+    "lat": 49.02,
+    "lon": 8.413055555,
+    "admin": "Karlsruhe"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q210961",
+  "name": "Kilmarnock F.C.",
+  "aliases": [
+   "Kilmarnock",
+   "KFC",
+   "Killie",
+   "Kilmarnock Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Rugby Park",
+    "lat": 55.604225,
+    "lon": -4.508122,
+    "admin": "East Ayrshire"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q392310",
+  "name": "LASK Linz",
+  "aliases": [
+   "L.A.S.K. Linz",
+   "LASK",
+   "Linzer ASK",
+   "Linzer Athletik-Sport-Klub"
+  ],
+  "venues": [
+   {
+    "name": "Linzer Stadion",
+    "lat": 48.293333,
+    "lon": 14.276389,
+    "admin": "Linz"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q328658",
+  "name": "Le Havre AC",
+  "aliases": [
+   "Le Havre",
+   "HAC",
+   "Le Havre Athletic Club",
+   "Les Ciel et Marine"
+  ],
+  "venues": [
+   {
+    "name": "Stade Océane",
+    "lat": 49.4988,
+    "lon": 0.1697,
+    "admin": "Le Havre"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q210864",
+  "name": "Le Mans F.C.",
+  "aliases": [
+   "Le Mans FC",
+   "Le Mans Football Club",
+   "Le Mans U.C. 72",
+   "Le MUC"
+  ],
+  "venues": [
+   {
+    "name": "stade Marie-Marvingt",
+    "lat": 47.95958,
+    "lon": 0.22129,
+    "admin": "Le Mans"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q1128631",
+  "name": "Leeds United F.C.",
+  "aliases": [
+   "Leeds",
+   "United",
+   "L.U.F.C.",
+   "Leeds United",
+   "Leeds United A.F.C.",
+   "Leeds United AFC",
+   "Leeds United Association Football Club",
+   "Leeds United FC",
+   "Leeds United Football Club",
+   "Leeds Utd",
+   "LeedsUnited",
+   "LUFC",
+   "The Peacocks"
+  ],
+  "venues": [
+   {
+    "name": "Elland Road",
+    "lat": 53.777777777,
+    "lon": -1.572222222,
+    "admin": "Leeds"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q8823",
+  "name": "Levante UD",
+  "aliases": [
+   "Levante",
+   "Levante FC",
+   "Levante Football Club",
+   "Levante Sports Union",
+   "Levante U.D.",
+   "Levante UD Football",
+   "Levante Union Deportiva",
+   "Levante Unión Deportiva"
+  ],
+  "venues": [
+   {
+    "name": "Estadi Ciutat de València",
+    "lat": 39.494722,
+    "lon": -0.364167,
+    "admin": "Valencia"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q19516",
+  "name": "Lille OSC",
+  "aliases": [
+   "Lille",
+   "Lille Olympique Sporting Club",
+   "LOSC"
+  ],
+  "venues": [
+   {
+    "name": "Pierre Mauroy Stadium",
+    "lat": 50.611962,
+    "lon": 3.130631,
+    "admin": "Villeneuve-d'Ascq"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q18519",
+  "name": "Lincoln City F.C.",
+  "aliases": [
+   "Lincoln",
+   "City",
+   "LCFC",
+   "Lincoln City",
+   "L.C.F.C.",
+   "Lincoln City FC",
+   "Lincoln City Football Club",
+   "The Imps"
+  ],
+  "venues": [
+   {
+    "name": "Sincil Bank",
+    "lat": 53.218289,
+    "lon": -0.540811,
+    "admin": "Lincoln"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q1130849",
+  "name": "Liverpool F.C.",
+  "aliases": [
+   "LiverpoolFC",
+   "Liverpool",
+   "L.F.C.",
+   "LiverpoolF.C."
+  ],
+  "venues": [
+   {
+    "name": "Anfield",
+    "lat": 53.430833333,
+    "lon": -2.960833333,
+    "admin": "Liverpool"
+   },
+   {
+    "name": "Anfield",
+    "lat": 53.430833333,
+    "lon": -2.960833333,
+    "admin": "Anfield"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q867921",
+  "name": "Livingston F.C.",
+  "aliases": [
+   "Livingston",
+   "LFC",
+   "Livi",
+   "The Lions",
+   "Livingston FC",
+   "Livingston Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Almondvale Stadium",
+    "lat": 55.886167,
+    "lon": -3.522872,
+    "admin": "West Lothian"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q635654",
+  "name": "Lyngby Boldklub",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Lyngby Stadion",
+    "lat": 55.7811,
+    "lon": 12.5058,
+    "admin": "Lyngby-Taarbæk Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q1881407",
+  "name": "MFK Karviná",
+  "aliases": [
+   "MFK Karvina",
+   "MFK OKD Karvina",
+   "MFK OKD Karviná"
+  ],
+  "venues": [
+   {
+    "name": "Městský stadion",
+    "lat": 49.8453,
+    "lon": 18.5613,
+    "admin": "Karviná"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q50602",
+  "name": "Manchester City F.C.",
+  "aliases": [
+   "City",
+   "The Blues",
+   "The Citizens",
+   "Citizens",
+   "Man City",
+   "Sky Blues",
+   "The Sky Blues",
+   "Manchester City",
+   "Manchester City F.C. Soccer",
+   "Manchester City FC",
+   "Manchester City Football Club",
+   "MCFC"
+  ],
+  "venues": [
+   {
+    "name": "Etihad Stadium",
+    "lat": 53.483055555,
+    "lon": -2.200277777,
+    "admin": "Manchester"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q18656",
+  "name": "Manchester United F.C.",
+  "aliases": [
+   "Manchester United",
+   "Red Devils",
+   "MUFC",
+   "Man U",
+   "Man United",
+   "Man Utd",
+   "Manchester United FC",
+   "Manchester United Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Old Trafford",
+    "lat": 53.463055555,
+    "lon": -2.291388888,
+    "admin": "Trafford"
+   },
+   {
+    "name": "Old Trafford",
+    "lat": 53.463055555,
+    "lon": -2.291388888,
+    "admin": "Manchester"
+   },
+   {
+    "name": "Old Trafford",
+    "lat": 53.463055555,
+    "lon": -2.291388888,
+    "admin": "England"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q18661",
+  "name": "Middlesbrough F.C.",
+  "aliases": [
+   "The Boro",
+   "Middlesbrough FC",
+   "Middlesbrough Football Club",
+   "MFC",
+   "Middlesbrough"
+  ],
+  "venues": [
+   {
+    "name": "Riverside Stadium",
+    "lat": 54.578333333,
+    "lon": -1.216944444,
+    "admin": "Middlesbrough"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q19487",
+  "name": "Millwall F.C.",
+  "aliases": [
+   "MFC",
+   "The Lions",
+   "Millwall",
+   "Millwall FC",
+   "Millwall Football Club"
+  ],
+  "venues": [
+   {
+    "name": "The Den",
+    "lat": 51.485833,
+    "lon": -0.050833,
+    "admin": "Bermondsey"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q1346314",
+  "name": "Moreirense F.C.",
+  "aliases": [
+   "Moreirense",
+   "Moreirense FC",
+   "Moreirense Futebol Clube"
+  ],
+  "venues": [
+   {
+    "name": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+    "lat": 41.378089,
+    "lon": -8.354761,
+    "admin": "Moreira de Cónegos"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q216523",
+  "name": "Motherwell F.C.",
+  "aliases": [
+   "Well",
+   "MFC",
+   "Motherwell"
+  ],
+  "venues": [
+   {
+    "name": "Fir Park",
+    "lat": 55.779947,
+    "lon": -3.980078,
+    "admin": "North Lanarkshire"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q8857",
+  "name": "Málaga CF",
+  "aliases": [
+   "MCF",
+   "M.C.F.",
+   "Malaga C.F.",
+   "Málaga C.F.",
+   "Malaga CF",
+   "Málaga Club of Football",
+   "Malaga Football Club",
+   "MálagaCF"
+  ],
+  "venues": [
+   {
+    "name": "La Rosaleda Stadium",
+    "lat": 36.734092,
+    "lon": -4.426422,
+    "admin": "La Rosaleda"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q318348",
+  "name": "N.E.C.",
+  "aliases": [
+   "NEC",
+   "NEC Nijmegen",
+   "Nijmegen Eendracht Combinatie"
+  ],
+  "venues": [
+   {
+    "name": "Stadion de Goffert",
+    "lat": 51.8225,
+    "lon": 5.836667,
+    "admin": "Nijmegen"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q18716",
+  "name": "Newcastle United F.C.",
+  "aliases": [
+   "Newcastle",
+   "The Magpies",
+   "Newcastle United",
+   "Newcastle United FC",
+   "Newcastle United Football Club",
+   "NUFC"
+  ],
+  "venues": [
+   {
+    "name": "St James’ Park",
+    "lat": 54.975555555,
+    "lon": -1.621666666,
+    "admin": "Newcastle upon Tyne"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q18721",
+  "name": "Norwich City F.C.",
+  "aliases": [
+   "City",
+   "Norwich",
+   "NCFC",
+   "Norwich City",
+   "Norwich City FC",
+   "Norwich City Football Club",
+   "The Canaries"
+  ],
+  "venues": [
+   {
+    "name": "Carrow Road",
+    "lat": 52.622222222,
+    "lon": 1.309166666,
+    "admin": "Norwich"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q19490",
+  "name": "Nottingham Forest F.C.",
+  "aliases": [
+   "Forest",
+   "The Reds",
+   "NFFC",
+   "Nottingham Forest",
+   "Nottingham Forest FC",
+   "Nottingham Forest Football Club",
+   "Nottm Forest",
+   "Tricky Trees"
+  ],
+  "venues": [
+   {
+    "name": "City Ground",
+    "lat": 52.94,
+    "lon": -1.132778,
+    "admin": "Rushcliffe"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q185163",
+  "name": "OGC Nice",
+  "aliases": [
+   "Olympique Gymnaste Club Nice Côte d'Azur"
+  ],
+  "venues": [
+   {
+    "name": "Allianz Riviera",
+    "lat": 43.70513,
+    "lon": 7.19262,
+    "admin": "Nice"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q211912",
+  "name": "Odense Boldklub",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Odense Stadium",
+    "lat": 55.397771,
+    "lon": 10.350055,
+    "admin": "Odense Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q704",
+  "name": "Olympique Lyonnais",
+  "aliases": [
+   "Lyon",
+   "OL",
+   "O.L.",
+   "O. Lyon",
+   "O. Lyonnais"
+  ],
+  "venues": [
+   {
+    "name": "Parc Olympique Lyonnais",
+    "lat": 45.765224,
+    "lon": 4.982131,
+    "admin": "Décines-Charpieu"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q132885",
+  "name": "Olympique de Marseille",
+  "aliases": [
+   "Marseille",
+   "OM",
+   "O Marseille",
+   "Olympic Marseille",
+   "Olympic of Marseille",
+   "Olympique Marseille"
+  ],
+  "venues": [
+   {
+    "name": "Stade Vélodrome",
+    "lat": 43.269241,
+    "lon": 5.394907,
+    "admin": "8th arrondissement of Marseille"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q916199",
+  "name": "Oud-Heverlee Leuven",
+  "aliases": [
+   "OH Leuven"
+  ],
+  "venues": [
+   {
+    "name": "Den Dreef",
+    "lat": 50.868333,
+    "lon": 4.694167,
+    "admin": "Leuven"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q269151",
+  "name": "PEC Zwolle",
+  "aliases": [
+   "PEC",
+   "FC Zwolle",
+   "PEC Zwolle '82",
+   "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle"
+  ],
+  "venues": [
+   {
+    "name": "MAC³PARK stadion",
+    "lat": 52.517292,
+    "lon": 6.121911,
+    "admin": "Zwolle"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q11938",
+  "name": "PSV Eindhoven",
+  "aliases": [
+   "Eindhoven Football Club",
+   "Philips Sport Vereniging",
+   "PSV"
+  ],
+  "venues": [
+   {
+    "name": "Philips Stadion",
+    "lat": 51.4417,
+    "lon": 5.4674,
+    "admin": "Eindhoven"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q1051013",
+  "name": "Paris FC",
+  "aliases": [
+   "Paris F.C.",
+   "Paris Football Club",
+   "PFC"
+  ],
+  "venues": [
+   {
+    "name": "Stade Charléty",
+    "lat": 48.81716,
+    "lon": 2.34511,
+    "admin": "13th arrondissement of Paris"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q483020",
+  "name": "Paris Saint-Germain FC",
+  "aliases": [
+   "Paris",
+   "PSGFC"
+  ],
+  "venues": [
+   {
+    "name": "Parc des Princes",
+    "lat": 48.84145,
+    "lon": 2.25305,
+    "admin": "16th arrondissement of Paris"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q2693",
+  "name": "Parma Calcio 1913",
+  "aliases": [
+   "Parma",
+   "AC Parma",
+   "Crociati",
+   "Parma A.C.",
+   "Parma Associazione Calcio",
+   "Parma Associazione Sportiva",
+   "Parma F.C.",
+   "Parma FC",
+   "Parma Foot Ball Club",
+   "Parma Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Ennio Tardini",
+    "lat": 44.794916666,
+    "lon": 10.338444444,
+    "admin": "Parma"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q19604",
+  "name": "Portsmouth F.C.",
+  "aliases": [
+   "Portsmouth",
+   "PFC",
+   "Pompey",
+   "Portsmouth FC",
+   "Portsmouth Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Fratton Park",
+    "lat": 50.796388888,
+    "lon": -1.063888888,
+    "admin": "Portsmouth"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q19612",
+  "name": "Preston North End F.C.",
+  "aliases": [
+   "Preston",
+   "The Lilywhites",
+   "PNEFC",
+   "Preston North End",
+   "Preston North End FC",
+   "Preston North End Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Deepdale",
+    "lat": 53.772222222,
+    "lon": -2.688055555,
+    "admin": "Preston"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q18723",
+  "name": "Queens Park Rangers F.C.",
+  "aliases": [
+   "The Hoops",
+   "QPRFC",
+   "Queens Park Rangers",
+   "Queens Park Rangers FC",
+   "Queens Park Rangers Football Club",
+   "The Rs"
+  ],
+  "venues": [
+   {
+    "name": "Kiyan Prince Foundation Stadium",
+    "lat": 51.509166666,
+    "lon": -0.232222222,
+    "admin": "London"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q191843",
+  "name": "R.C. Lens",
+  "aliases": [
+   "Lens",
+   "Racing Club de Lens",
+   "RC Lens"
+  ],
+  "venues": [
+   {
+    "name": "Stade Bollaert-Delelis",
+    "lat": 50.4329,
+    "lon": 2.81491,
+    "admin": "Lens"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q187528",
+  "name": "R.S.C. Anderlecht",
+  "aliases": [
+   "Anderlecht",
+   "Royal Sporting Club Anderlecht",
+   "RSC Anderlecht",
+   "RSCA"
+  ],
+  "venues": [
+   {
+    "name": "Lotto Park",
+    "lat": 50.834167,
+    "lon": 4.298333,
+    "admin": "Anderlecht"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q702455",
+  "name": "RB Leipzig",
+  "aliases": [
+   "Die Roten Bullen",
+   "RasenBallsport Leipzig e.V.",
+   "The Red Bulls"
+  ],
+  "venues": [
+   {
+    "name": "Red Bull Arena",
+    "lat": 51.345833,
+    "lon": 12.348056,
+    "admin": "Leipzig"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q8749",
+  "name": "RC Celta de Vigo",
+  "aliases": [
+   "Celta",
+   "RCCV",
+   "Celta Vigo",
+   "R.C. Celta de Vigo",
+   "RC Celta",
+   "Real Club Celta",
+   "Real Club Celta S.A.D."
+  ],
+  "venues": [
+   {
+    "name": "Abanca Balaídos Stadium",
+    "lat": 42.211861,
+    "lon": -8.740328,
+    "admin": "Vigo"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q126334",
+  "name": "RC Strasbourg Alsace",
+  "aliases": [
+   "Racing",
+   "Strasbourg",
+   "Racing Club de Strasbourg",
+   "Racing Club de Strasbourg Alsace",
+   "RCSA",
+   "Racing Strasbourg"
+  ],
+  "venues": [
+   {
+    "name": "Stade de la Meinau",
+    "lat": 48.55942,
+    "lon": 7.75738,
+    "admin": "Strasbourg"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q8780",
+  "name": "RCD Espanyol de Barcelona",
+  "aliases": [
+   "Espanyol",
+   "RCDE",
+   "Espanyol of Barcelona",
+   "R.C.D. Espanyol",
+   "R.C.D. Espanyol de Barcelona",
+   "R.C.D. Espanyol of Barcelona",
+   "RCD Espanyol",
+   "RCD Espanyol of Barcelona",
+   "Reial Club Deportiu Espanyol de Barcelona",
+   "Espanyol Barcelona"
+  ],
+  "venues": [
+   {
+    "name": "Estadi de Sarrià",
+    "lat": 41.393055555,
+    "lon": 2.133333333,
+    "admin": "Sarrià-Sant Gervasi"
+   },
+   {
+    "name": "RCDE Stadium",
+    "lat": 41.347861,
+    "lon": 2.075667,
+    "admin": "El Prat de Llobregat"
+   },
+   {
+    "name": "RCDE Stadium",
+    "lat": 41.347861,
+    "lon": 2.075667,
+    "admin": "Cornellà de Llobregat"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q12236",
+  "name": "Racing de Santander",
+  "aliases": [
+   "Racing Club de Santander",
+   "Racing Santander",
+   "Real Racing Club",
+   "Real Racing Club de Santander",
+   "Real Racing Club de Santander, S.A.D.",
+   "Real Santander SD"
+  ],
+  "venues": [
+   {
+    "name": "Campos de Sport de El Sardinero",
+    "lat": 43.476389,
+    "lon": -3.793333,
+    "admin": "Santander"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q729560",
+  "name": "Randers FC",
+  "aliases": [
+   "Randers Football Club"
+  ],
+  "venues": [
+   {
+    "name": "AutoC Park Randers",
+    "lat": 56.46583333,
+    "lon": 10.01027778,
+    "admin": "Randers Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q19597",
+  "name": "Rangers F.C.",
+  "aliases": [
+   "RFC",
+   "Rangers",
+   "Glasgow Rangers",
+   "Rangers FC",
+   "Rangers Football Club",
+   "The Gers"
+  ],
+  "venues": [
+   {
+    "name": "Ibrox Stadium",
+    "lat": 55.853055555,
+    "lon": -4.309166666,
+    "admin": "Glasgow City"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q10300",
+  "name": "Rayo Vallecano",
+  "aliases": [
+   "Rayo",
+   "Rayo Football",
+   "Rayo Vallecano de Madrid",
+   "Rayo Vellecano Football",
+   "Rayo Vellecano Soccer Club",
+   "Vallecano"
+  ],
+  "venues": [
+   {
+    "name": "Campo de Fútbol de Vallecas",
+    "lat": 40.391944,
+    "lon": -3.658961,
+    "admin": "Vallecas"
+   },
+   {
+    "name": "Campo de Fútbol de Vallecas",
+    "lat": 40.391944,
+    "lon": -3.658961,
+    "admin": "Madrid"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q8723",
+  "name": "Real Betis Balompié",
+  "aliases": [
+   "Betis",
+   "balompédicos",
+   "Beticos, verdiblancos",
+   "Real Betis",
+   "Real Betis Balompié S.A.D.",
+   "Real Betis football",
+   "Real Betis Soccer"
+  ],
+  "venues": [
+   {
+    "name": "Estadio Benito Villamarín",
+    "lat": 37.356403,
+    "lon": -5.981611,
+    "admin": "Seville"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q8682",
+  "name": "Real Madrid Club de Fútbol",
+  "aliases": [
+   "RMCF",
+   "Real Madrid",
+   "Madrid FC",
+   "Real Madrid C.F.",
+   "Madrid Football Club",
+   "Real FC",
+   "Real Football Club",
+   "Real Madrid Club of Football",
+   "Real Madrid Football Club",
+   "Royal Madrid",
+   "Royal Madrid Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Bernabéu",
+    "lat": 40.45306,
+    "lon": -3.68835,
+    "admin": "Chamartín"
+   },
+   {
+    "name": "Bernabéu",
+    "lat": 40.45306,
+    "lon": -3.68835,
+    "admin": "Madrid"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q10315",
+  "name": "Real Sociedad",
+  "aliases": [
+   "Donostia Football Club",
+   "Real Sociedad de Futbol",
+   "Real Sociedad de Fútbol",
+   "Real Sociedad de Fútbol, S.A.D.",
+   "San Sebastian Foot-Ball Club",
+   "San Sebastián Foot-Ball Club"
+  ],
+  "venues": [
+   {
+    "name": "Anoeta Stadium",
+    "lat": 43.301378,
+    "lon": -1.973617,
+    "admin": "San Sebastián"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q622432",
+  "name": "Rio Ave F.C.",
+  "aliases": [
+   "Rio Ave FC"
+  ],
+  "venues": [
+   {
+    "name": "Estádio do Rio Ave FC",
+    "lat": 41.362756,
+    "lon": -8.740186,
+    "admin": "Vila do Conde"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q732002",
+  "name": "Royal Antwerp F.C.",
+  "aliases": [
+   "Antwerp F.C.",
+   "Antwerp FC",
+   "Royal Antwerp FC",
+   "Royal Antwerp"
+  ],
+  "venues": [
+   {
+    "name": "Stadion Broodstraat",
+    "lat": 51.2327,
+    "lon": 4.471575,
+    "admin": "Antwerp"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q19585",
+  "name": "Royal Charleroi S.C.",
+  "aliases": [
+   "R. Charleroi S.C.",
+   "Royal Charleroi SC"
+  ],
+  "venues": [
+   {
+    "name": "Stade du Pays de Charleroi",
+    "lat": 50.414609,
+    "lon": 4.453787,
+    "admin": "Q81046"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q196160",
+  "name": "Royale Union Saint-Gilloise",
+  "aliases": [
+   "R. Union Saint-Gilloise",
+   "R. Union St.-Gilloise",
+   "Royale Union St.-Gilloise",
+   "Union Saint-Gilloise",
+   "Union St.-Gilloise"
+  ],
+  "venues": [
+   {
+    "name": "Joseph Marien Stadium",
+    "lat": 50.8178,
+    "lon": 4.32917,
+    "admin": "Forest"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q688300",
+  "name": "S.C. Beira-Mar",
+  "aliases": [
+   "Beira-Mar Aveiro",
+   "SC Beira Mar",
+   "SC Beira-Mar",
+   "Sport Clube Beira-Mar",
+   "Beira-Mar"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Municipal de Aveiro – Mário Duarte",
+    "lat": 40.6475,
+    "lon": -8.593611,
+    "admin": "Esgueira"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q75684",
+  "name": "S.C. Braga",
+  "aliases": [
+   "SC Braga",
+   "Sp. Braga",
+   "Sporting Braga",
+   "Sporting Clube de Braga",
+   "Sporting de Braga"
+  ],
+  "venues": [
+   {
+    "name": "Estádio Municipal de Braga",
+    "lat": 41.5624,
+    "lon": -8.4308,
+    "admin": "Real, Dume e Semelhe"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q131499",
+  "name": "S.L. Benfica",
+  "aliases": [
+   "Benfica",
+   "SLB",
+   "SL Benfica",
+   "Sport Lisboa e Benfica"
+  ],
+  "venues": [
+   {
+    "name": "Estádio da Luz",
+    "lat": 38.752777777,
+    "lon": -9.184722222,
+    "admin": "São Domingos de Benfica"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q376635",
+  "name": "S.V. Zulte Waregem",
+  "aliases": [
+   "Essevee",
+   "Sportvereniging Zulte Waregem",
+   "SV Zulte Waregem",
+   "Zulte Waregem"
+  ],
+  "venues": [
+   {
+    "name": "Regenboogstadion",
+    "lat": 50.883056,
+    "lon": 3.428889,
+    "admin": "Waregem"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q696507",
+  "name": "SC Austria Lustenau",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Reichshofstadion",
+    "lat": 47.4211,
+    "lon": 9.65278,
+    "admin": "Vorarlberg"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q875120",
+  "name": "SC Cambuur",
+  "aliases": [
+   "SC Cambuur Leeuwarden"
+  ],
+  "venues": [
+   {
+    "name": "Cambuur Stadion",
+    "lat": 53.205278,
+    "lon": 5.814722,
+    "admin": "Leeuwarden"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q106394",
+  "name": "SC Freiburg",
+  "aliases": [
+   "Die Breisgau-Brasilianer",
+   "S.C. Freiburg",
+   "Sport Club Freiburg",
+   "Sport-Club Freiburg e.V.",
+   "The Breisgau Brazilians"
+  ],
+  "venues": [
+   {
+    "name": "Europa-Park-Stadion",
+    "lat": 48.021536,
+    "lon": 7.830006,
+    "admin": "Freiburg im Breisgau"
+   },
+   {
+    "name": "Dreisamstadion",
+    "lat": 47.988889,
+    "lon": 7.893056,
+    "admin": "Freiburg im Breisgau"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q200321",
+  "name": "SC Heerenveen",
+  "aliases": [
+   "Sportclub Heerenveen"
+  ],
+  "venues": [
+   {
+    "name": "Abe Lenstra Stadion",
+    "lat": 52.958611,
+    "lon": 5.936111,
+    "admin": "Heerenveen"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q160532",
+  "name": "SC Paderborn 07",
+  "aliases": [
+   "Die Ostwestfalen",
+   "Paderborn 07",
+   "SCP 07",
+   "Sport-Club Paderborn 07 e.V."
+  ],
+  "venues": [
+   {
+    "name": "Home Deluxe Arena",
+    "lat": 51.731389,
+    "lon": 8.710833,
+    "admin": "Paderborn"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q670438",
+  "name": "SC Rheindorf Altach",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Stadion Schnabelholz",
+    "lat": 47.3536,
+    "lon": 9.6372,
+    "admin": "Altach"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q1071713",
+  "name": "SC Telstar",
+  "aliases": [
+   "SCT",
+   "Sportclub Telstar",
+   "Telstar Vrouwen",
+   "Witte Leeuwen"
+  ],
+  "venues": [
+   {
+    "name": "BUKO Stadion",
+    "lat": 52.455,
+    "lon": 4.635,
+    "admin": "Velsen"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q131215",
+  "name": "SK Rapid Wien",
+  "aliases": [
+   "Rapid Vienna",
+   "Rapid Wien",
+   "Sportklub Rapid Wien"
+  ],
+  "venues": [
+   {
+    "name": "Allianz Stadion",
+    "lat": 48.1981,
+    "lon": 16.2653,
+    "admin": "Hütteldorf"
+   },
+   {
+    "name": "Allianz Stadion",
+    "lat": 48.1981,
+    "lon": 16.2653,
+    "admin": "Penzing"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q385518",
+  "name": "SK Sigma Olomouc",
+  "aliases": [
+   "Sportovni Klub Sigma Olomouc",
+   "Sportovní Klub Sigma Olomouc"
+  ],
+  "venues": [
+   {
+    "name": "Andrův stadion",
+    "lat": 49.6,
+    "lon": 17.248333,
+    "admin": "Olomouc"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q194393",
+  "name": "SK Slavia Prague",
+  "aliases": [
+   "S.K. Slavia Prague",
+   "Slavia Prague",
+   "Slavia Prague FC",
+   "Slavia Prague Football",
+   "Slavia Praha",
+   "SlaviaPrague"
+  ],
+  "venues": [
+   {
+    "name": "Fortuna Arena",
+    "lat": 50.0675,
+    "lon": 14.4715,
+    "admin": "Prague 10"
+   },
+   {
+    "name": "Fortuna Arena",
+    "lat": 50.0675,
+    "lon": 14.4715,
+    "admin": "Vršovice"
+   }
+  ],
+  "leagues": [
+   "Czech First League"
+  ]
+ },
+ {
+  "qid": "Q124007617",
+  "name": "SK Sturm Graz",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Merkur Arena",
+    "lat": 47.046111,
+    "lon": 15.454444,
+    "admin": "Liebenau"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q2609",
+  "name": "SS Lazio",
+  "aliases": [
+   "SSL",
+   "S.S. Lazio",
+   "Società Sportiva Lazio",
+   "Lazio Calcio",
+   "Lazio Sport Society",
+   "Lazio Sports Society",
+   "S.S.L.",
+   "S.S.Lazio",
+   "Societa Sportiva Lazio",
+   "Sport Society Lazio",
+   "Sports Society Lazio",
+   "SSLazio"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Olimpico",
+    "lat": 41.933888888,
+    "lon": 12.454722222,
+    "admin": "Rome"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q2641",
+  "name": "SSC Napoli",
+  "aliases": [
+   "Napoli",
+   "SSCN",
+   "S.S.C. Napoli",
+   "S.S.C.N.",
+   "Societa Sportiva Calcio Napoli",
+   "Società Sportiva Calcio Napoli",
+   "SSC Naples"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Diego Armando Maradona",
+    "lat": 40.827967,
+    "lon": 14.193008,
+    "admin": "Naples"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q479351",
+  "name": "SV Darmstadt 98",
+  "aliases": [
+   "S.V. Darmstadt 98"
+  ],
+  "venues": [
+   {
+    "name": "Stadion am Böllenfalltor",
+    "lat": 49.857778,
+    "lon": 8.672222,
+    "admin": "Darmstadt"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q692691",
+  "name": "SV Elversberg",
+  "aliases": [
+   "SV 07 Elversberg",
+   "Elversberg"
+  ],
+  "venues": [
+   {
+    "name": "Waldstadion an der Kaiserlinde",
+    "lat": 49.3186,
+    "lon": 7.12167,
+    "admin": "Spiesen-Elversberg"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q457460",
+  "name": "SV Ried",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "BWT X Upper Austrian Arena",
+    "lat": 48.207778,
+    "lon": 13.478333,
+    "admin": "Q267791"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q51976",
+  "name": "SV Werder Bremen",
+  "aliases": [
+   "Werder",
+   "Werder Bremen",
+   "Die Grün-Weißen",
+   "Die Werderaner",
+   "The Green-Whites"
+  ],
+  "venues": [
+   {
+    "name": "Weserstadion",
+    "lat": 53.066389,
+    "lon": 8.8375,
+    "admin": "Östliche Vorstadt"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q32494",
+  "name": "Schalke 04",
+  "aliases": [
+   "FC Schalke 04",
+   "S04",
+   "F.C. Schalke 04",
+   "FC Gelsenkirchen-Schalke 04",
+   "Schalke 0",
+   "Schalke04"
+  ],
+  "venues": [
+   {
+    "name": "Arena AufSchalke",
+    "lat": 51.554502777,
+    "lon": 7.067588888,
+    "admin": "Gelsenkirchen-Nord"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q219235",
+  "name": "Servette FC",
+  "aliases": [
+   "Servette",
+   "Servette F.C.",
+   "Servette Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stade de Genève",
+    "lat": 46.177778,
+    "lon": 6.1275,
+    "admin": "Canton of Geneva"
+   },
+   {
+    "name": "Stade de Genève",
+    "lat": 46.177778,
+    "lon": 6.1275,
+    "admin": "Geneva"
+   }
+  ],
+  "leagues": [
+   "Swiss Super League"
+  ]
+ },
+ {
+  "qid": "Q10329",
+  "name": "Sevilla FC",
+  "aliases": [
+   "S.F.C.",
+   "Sevilla",
+   "Sevilla F.C.",
+   "Sevilla Football Club",
+   "Sevilla Futbol Club",
+   "Sevilla Fútbol Club",
+   "SevillaF.C.",
+   "SevillaFC",
+   "SFC"
+  ],
+  "venues": [
+   {
+    "name": "Ramón Sánchez Pizjuán Stadium",
+    "lat": 37.383878,
+    "lon": -5.970467,
+    "admin": "Seville"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q19607",
+  "name": "Sheffield United F.C.",
+  "aliases": [
+   "United",
+   "The Blades",
+   "SUFC",
+   "Sheff Utd",
+   "Sheff. Utd.",
+   "Sheffield United",
+   "Sheffield United FC",
+   "Sheffield United Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Bramall Lane",
+    "lat": 53.370277777,
+    "lon": -1.470833333,
+    "admin": "Sheffield"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q723489",
+  "name": "Silkeborg IF",
+  "aliases": [
+   "Silkeborg Idrætsforening",
+   "Silkeborg"
+  ],
+  "venues": [
+   {
+    "name": "JYSK Park",
+    "lat": 56.1842,
+    "lon": 9.5751,
+    "admin": "Silkeborg Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q138248",
+  "name": "Sint-Truidense V.V.",
+  "aliases": [
+   "K Sint-Truidense VV",
+   "K. Sint-Truidense V.V.",
+   "Sint-Truidense VV"
+  ],
+  "venues": [
+   {
+    "name": "Stayen",
+    "lat": 50.813611,
+    "lon": 5.165278,
+    "admin": "Sint-Truiden"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q18732",
+  "name": "Southampton F.C.",
+  "aliases": [
+   "Southampton",
+   "S.F.C.",
+   "SFC",
+   "Southampton FC",
+   "Southampton Football Club",
+   "SouthamptonFC"
+  ],
+  "venues": [
+   {
+    "name": "St Mary's Stadium",
+    "lat": 50.90583333,
+    "lon": -1.39111111,
+    "admin": "Southampton"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q153539",
+  "name": "SpVgg Greuther Fürth",
+  "aliases": [
+   "SGF",
+   "Greuther",
+   "Greuther Furth",
+   "Greuther Fürth"
+  ],
+  "venues": [
+   {
+    "name": "Trolli Arena",
+    "lat": 49.486944,
+    "lon": 10.999167,
+    "admin": "Fürth"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q209895",
+  "name": "Sparta Rotterdam",
+  "aliases": [
+   "Sparta"
+  ],
+  "venues": [
+   {
+    "name": "Sparta Stadion Het Kasteel",
+    "lat": 51.919444,
+    "lon": 4.433333,
+    "admin": "Rotterdam"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q75729",
+  "name": "Sporting CP",
+  "aliases": [
+   "Sporting Club Portugal",
+   "Sporting Lisbon",
+   "Sporting Portugal",
+   "SCP"
+  ],
+  "venues": [
+   {
+    "name": "Estádio José Alvalade",
+    "lat": 38.761194444,
+    "lon": -9.160783333,
+    "admin": "Lumiar"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q509170",
+  "name": "Sportkring Beveren",
+  "aliases": [
+   "SK Beveren",
+   "S.K. Beveren"
+  ],
+  "venues": [
+   {
+    "name": "Freethiel Stadion",
+    "lat": 51.214139,
+    "lon": 4.243931,
+    "admin": "Beveren"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q268776",
+  "name": "St Johnstone F.C.",
+  "aliases": [
+   "The Saints",
+   "SJFC",
+   "St Johnstone",
+   "St Johnstone Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Recreation Grounds",
+    "lat": 56.402,
+    "lon": -3.461,
+    "admin": "Perth and Kinross"
+   },
+   {
+    "name": "Muirton Park",
+    "lat": 56.40615556,
+    "lon": -3.44614722,
+    "admin": "Perth and Kinross"
+   },
+   {
+    "name": "McDiarmid Park",
+    "lat": 56.409686,
+    "lon": -3.476928,
+    "admin": "Perth and Kinross"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q319136",
+  "name": "St. Mirren F.C.",
+  "aliases": [
+   "St Mirren",
+   "Saint Mirren Football Club",
+   "St. Mirren Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Westmarch",
+    "lat": 55.8528,
+    "lon": -4.42861,
+    "admin": "Renfrewshire"
+   },
+   {
+    "name": "St. Mirren Park",
+    "lat": 55.850556,
+    "lon": -4.443889,
+    "admin": "Renfrewshire"
+   },
+   {
+    "name": "Love Street",
+    "lat": 55.85305556,
+    "lon": -4.42861111,
+    "admin": "Renfrewshire"
+   }
+  ],
+  "leagues": [
+   "Scottish Premiership"
+  ]
+ },
+ {
+  "qid": "Q218372",
+  "name": "Stade Brestois 29",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Stade Francis-Le Blé",
+    "lat": 48.40293,
+    "lon": -4.46148,
+    "admin": "Brest"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q19509",
+  "name": "Stade Rennais F.C.",
+  "aliases": [
+   "Rennes",
+   "SRFC",
+   "Rennais",
+   "Stade Rennais",
+   "Stade Rennais FC",
+   "Stade Rennais Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Roazhon Park",
+    "lat": 48.10743,
+    "lon": -1.71282,
+    "admin": "Rennes"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q190561",
+  "name": "Standard Liège",
+  "aliases": [
+   "Standard Liege",
+   "Royal Standard Club de Liege",
+   "Royal Standard Club de Liège"
+  ],
+  "venues": [
+   {
+    "name": "Stade Maurice Dufrasne",
+    "lat": 50.609908,
+    "lon": 5.543344,
+    "admin": "Liège"
+   }
+  ],
+  "leagues": [
+   "Belgian Pro League"
+  ]
+ },
+ {
+  "qid": "Q18736",
+  "name": "Stoke City F.C.",
+  "aliases": [
+   "City",
+   "Stoke",
+   "The Potters",
+   "SCFC",
+   "Stoke City",
+   "Stoke City FC",
+   "Stoke City Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Britannia Stadium",
+    "lat": 52.988333333,
+    "lon": -2.175555555,
+    "admin": "City of Stoke-on-Trent"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q18739",
+  "name": "Sunderland A.F.C.",
+  "aliases": [
+   "Sunderland",
+   "SAFC",
+   "Sunderland AFC",
+   "Sunderland Association Football Club",
+   "The Black Cats"
+  ],
+  "venues": [
+   {
+    "name": "Stadium of Light",
+    "lat": 54.914429068,
+    "lon": -1.388172971,
+    "admin": "Sunderland"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q18659",
+  "name": "Swansea City A.F.C.",
+  "aliases": [
+   "City",
+   "Swansea",
+   "The Jacks",
+   "The Swans",
+   "SCAFC",
+   "Swansea City",
+   "Swansea City AFC",
+   "Swansea City Association Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Liberty Stadium",
+    "lat": 51.6422,
+    "lon": -3.9351,
+    "admin": "Swansea"
+   },
+   {
+    "name": "Liberty Stadium",
+    "lat": 51.6422,
+    "lon": -3.9351,
+    "admin": "Wales"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q3511548",
+  "name": "Sønderjyske Fodbold",
+  "aliases": [
+   "SønderjyskE",
+   "Haderslev FK"
+  ],
+  "venues": [
+   {
+    "name": "Sydbank Park",
+    "lat": 55.261359,
+    "lon": 9.487791,
+    "admin": "Haderslev Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q22707",
+  "name": "TSG 1899 Hoffenheim",
+  "aliases": [
+   "Hoffenheim",
+   "1899 Hoffenheim",
+   "1899 Hoffenheim II",
+   "Die Kraichgauer",
+   "TSG Hoffenheim",
+   "TSG Hoffenheim II",
+   "Turn- und Sportgemeinschaft 1899 Hoffenheim e.V."
+  ],
+  "venues": [
+   {
+    "name": "SNP Arena",
+    "lat": 49.239,
+    "lon": 8.888278,
+    "admin": "Sinsheim"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q699746",
+  "name": "TSV Hartberg",
+  "aliases": [
+   "Hartberg"
+  ],
+  "venues": [
+   {
+    "name": "Stadion Hartberg",
+    "lat": 47.281,
+    "lon": 15.9772,
+    "admin": "Hartberg"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q2768",
+  "name": "Torino FC",
+  "aliases": [
+   "Torino",
+   "Torino F.C.",
+   "Torino Football Club",
+   "TorinoF.C.",
+   "TorinoFC",
+   "Turin F.C.",
+   "Turin FC",
+   "Turin Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Olimpico Grande Torino",
+    "lat": 45.041667,
+    "lon": 7.65,
+    "admin": "Turin"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q18741",
+  "name": "Tottenham Hotspur F.C.",
+  "aliases": [
+   "Hotspur",
+   "Tottenham",
+   "The Lilywhites",
+   "Tottenham Hotspur",
+   "THFC",
+   "Spurs",
+   "Tottenham Hotspur FC",
+   "Tottenham Hotspur Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Tottenham Hotspur Stadium",
+    "lat": 51.604444444,
+    "lon": -0.066388888,
+    "admin": "Tottenham"
+   }
+  ],
+  "leagues": [
+   "EPL"
+  ]
+ },
+ {
+  "qid": "Q19518",
+  "name": "Toulouse FC",
+  "aliases": [
+   "TFC",
+   "Toulouse",
+   "Toulouse F.C.",
+   "Toulouse Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stadium Municipal",
+    "lat": 43.583296,
+    "lon": 1.434055,
+    "admin": "Toulouse"
+   }
+  ],
+  "leagues": [
+   "Ligue 1"
+  ]
+ },
+ {
+  "qid": "Q13391",
+  "name": "US Lecce",
+  "aliases": [
+   "Lecce",
+   "Lecce Sports Union",
+   "U.S. Lecce",
+   "U.S.L.",
+   "U.S.Lecce",
+   "Unione Sportiva Lecce",
+   "USLecce"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Via del Mare",
+    "lat": 40.365278,
+    "lon": 18.208889,
+    "admin": "Lecce"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q8603",
+  "name": "US Sassuolo Calcio",
+  "aliases": [
+   "Sassuolo",
+   "Sassuolo Calcio",
+   "U.S. Sassuolo Calcio",
+   "Unione Sportiva Sassuolo Calcio"
+  ],
+  "venues": [
+   {
+    "name": "Mapei Stadium - Città del Tricolore",
+    "lat": 44.714722,
+    "lon": 10.649722,
+    "admin": "Reggio Emilia"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q2798",
+  "name": "Udinese Calcio",
+  "aliases": [
+   "First Bianconeri of Italy",
+   "Udinese FC",
+   "Udinese Football",
+   "Udinese Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Friuli",
+    "lat": 46.081603,
+    "lon": 13.200136,
+    "admin": "Udine"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q731715",
+  "name": "VSE St. Pölten",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Voith-Platz",
+    "lat": 48.1924,
+    "lon": 15.6267,
+    "admin": "St. Pölten"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q784572",
+  "name": "VV DOS",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Stadion Galgenwaard",
+    "lat": 52.078333333,
+    "lon": 5.145833333,
+    "admin": "Utrecht"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q10333",
+  "name": "Valencia CF",
+  "aliases": [
+   "Valencia",
+   "V.C.F.",
+   "Valencia C.F.",
+   "Valencia Club de Futbol",
+   "Valencia Club de Fútbol",
+   "Valencia Club de Fútbol team",
+   "Valencia Club of Football",
+   "Valencia Football Club",
+   "ValenciaC.F.",
+   "ValenciaCF",
+   "VCF"
+  ],
+  "venues": [
+   {
+    "name": "Mestalla Stadium",
+    "lat": 39.474722,
+    "lon": -0.358333,
+    "admin": "Q12231035"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q737936",
+  "name": "Vejle Boldklub",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Vejle Stadion",
+    "lat": 55.71372,
+    "lon": 9.5562,
+    "admin": "Vejle Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q501245",
+  "name": "Venezia F.C.",
+  "aliases": [
+   "VFC",
+   "Arancioneroverdi",
+   "Venezia FC",
+   "Venezia Football Club",
+   "VeneziaMestre",
+   "VeneziaMestre FC",
+   "Venice FC",
+   "Venice Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Stadio Pierluigi Penzo",
+    "lat": 45.427761,
+    "lon": 12.363731,
+    "admin": "Venice"
+   }
+  ],
+  "leagues": [
+   "Serie A"
+  ]
+ },
+ {
+  "qid": "Q4512",
+  "name": "VfB Stuttgart",
+  "aliases": [
+   "Die Schwaben",
+   "The Swabians",
+   "Verein für Bewegungsspiele Stuttgart 1893 e. V."
+  ],
+  "venues": [
+   {
+    "name": "MHPArena",
+    "lat": 48.792222,
+    "lon": 9.231944,
+    "admin": "Bad Cannstatt"
+   }
+  ],
+  "leagues": [
+   "Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q105861",
+  "name": "VfL Bochum",
+  "aliases": [
+   "Die Unabsteigbaren",
+   "The Unrelegatables",
+   "VfL Bochum 1848"
+  ],
+  "venues": [
+   {
+    "name": "Ruhrstadion",
+    "lat": 51.489944,
+    "lon": 7.236489,
+    "admin": "Bochum"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q160530",
+  "name": "VfL Osnabrück",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Stadion an der Bremer Brücke",
+    "lat": 52.280833,
+    "lon": 8.071111,
+    "admin": "Osnabrück"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q101859",
+  "name": "VfL Wolfsburg",
+  "aliases": [
+   "Wolfsburg",
+   "Die Wölfe",
+   "The Wolves"
+  ],
+  "venues": [
+   {
+    "name": "Volkswagen Arena",
+    "lat": 52.431944,
+    "lon": 10.803889,
+    "admin": "Wolfsburg"
+   }
+  ],
+  "leagues": [
+   "2. Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q837956",
+  "name": "Viborg FF",
+  "aliases": [
+   "VFF",
+   "Viborg Fodsports Forening"
+  ],
+  "venues": [
+   {
+    "name": "Evergi Viborg Arena",
+    "lat": 56.455897,
+    "lon": 9.402064,
+    "admin": "Viborg Municipality"
+   }
+  ],
+  "leagues": [
+   "Danish Superliga"
+  ]
+ },
+ {
+  "qid": "Q12297",
+  "name": "Villarreal CF",
+  "aliases": [
+   "VCF",
+   "Villarreal",
+   "Villarreal 1923",
+   "Villarreal C.F.",
+   "Villarreal CF 1923",
+   "Villarreal Club de Futbol",
+   "Villarreal Club de Fútbol 1923",
+   "Villarreal Club de Fútbol, S.A.D.",
+   "Villarreal Club Football",
+   "Villarreal Club of Football"
+  ],
+  "venues": [
+   {
+    "name": "Estadio de la Cerámica",
+    "lat": 39.944167,
+    "lon": -0.103611,
+    "admin": "Villarreal"
+   }
+  ],
+  "leagues": [
+   "La Liga"
+  ]
+ },
+ {
+  "qid": "Q223450",
+  "name": "Vitória S.C.",
+  "aliases": [
+   "Vitória SC",
+   "Vitoria de Guimaraes",
+   "Vitoria Guimaraes SC",
+   "Vitória Guimarães SC",
+   "Vitoria S.C.",
+   "Vitoria SC",
+   "Vitória de Guimarães"
+  ],
+  "venues": [
+   {
+    "name": "Estádio D. Afonso Henriques",
+    "lat": 41.445833333,
+    "lon": -8.300972222,
+    "admin": "Guimarães"
+   }
+  ],
+  "leagues": [
+   "Primeira Liga"
+  ]
+ },
+ {
+  "qid": "Q686659",
+  "name": "WSG Tirol",
+  "aliases": [
+   "Wattens",
+   "WSG Swarovski Tirol",
+   "WSG Wattens"
+  ],
+  "venues": [
+   {
+    "name": "Tivoli Stadion Tirol",
+    "lat": 47.255972,
+    "lon": 11.410789,
+    "admin": "Innsbruck"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q2714",
+  "name": "Watford F.C.",
+  "aliases": [
+   "WFC",
+   "Watford",
+   "The Hornets",
+   "W.F.C.",
+   "Watford FC",
+   "Watford Football Club",
+   "WatfordFC",
+   "WatfordFootballClub"
+  ],
+  "venues": [
+   {
+    "name": "Vicarage Road",
+    "lat": 51.649928,
+    "lon": -0.401606,
+    "admin": "Watford"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q18744",
+  "name": "West Bromwich Albion F.C.",
+  "aliases": [
+   "The Albion",
+   "The Baggies",
+   "The Throstles",
+   "WBAFC",
+   "West Brom",
+   "West Bromwich Albion",
+   "West Bromwich Albion FC",
+   "West Bromwich Albion Football Club"
+  ],
+  "venues": [
+   {
+    "name": "The Hawthorns",
+    "lat": 52.509166666,
+    "lon": -1.963888888,
+    "admin": "West Bromwich"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q18747",
+  "name": "West Ham United F.C.",
+  "aliases": [
+   "United",
+   "WHU",
+   "The Hammers",
+   "The Irons",
+   "West Ham",
+   "West Ham United",
+   "West Ham United FC",
+   "West Ham United Football Club",
+   "WHUFC"
+  ],
+  "venues": [
+   {
+    "name": "London Stadium",
+    "lat": 51.538611111,
+    "lon": -0.016388888,
+    "admin": "Stratford"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q332664",
+  "name": "Willem II",
+  "aliases": [
+   "Willem II Tilburg"
+  ],
+  "venues": [
+   {
+    "name": "Koning Willem II Stadion",
+    "lat": 51.542778,
+    "lon": 5.066944,
+    "admin": "Tilburg"
+   }
+  ],
+  "leagues": [
+   "Eredivisie"
+  ]
+ },
+ {
+  "qid": "Q694484",
+  "name": "Wolfsberger AC",
+  "aliases": [],
+  "venues": [
+   {
+    "name": "Lavanttal-Arena",
+    "lat": 46.8253,
+    "lon": 14.8514,
+    "admin": "Wolfsberg"
+   }
+  ],
+  "leagues": [
+   "Austrian Bundesliga"
+  ]
+ },
+ {
+  "qid": "Q19500",
+  "name": "Wolverhampton Wanderers F.C.",
+  "aliases": [
+   "Wolverhampton FC Wolves",
+   "Wolverhampton Wanderers",
+   "Wolverhampton Wanderers FC",
+   "Wolverhampton Wanderers Football Club",
+   "Wolverhampton Wolves",
+   "Wolverhampton Wolves FC",
+   "Wolves",
+   "Wolverhampton",
+   "Wanderers",
+   "WWFC"
+  ],
+  "venues": [
+   {
+    "name": "Molineux Stadium",
+    "lat": 52.590277777,
+    "lon": -2.130277777,
+    "admin": "Wolverhampton"
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ },
+ {
+  "qid": "Q18529",
+  "name": "Wrexham A.F.C.",
+  "aliases": [
+   "WFC",
+   "Wrexham",
+   "The Dragons",
+   "WAFC",
+   "Wrexham AFC",
+   "Wrexham Association Football Club",
+   "Wrexham FC",
+   "Wrexham Football Club"
+  ],
+  "venues": [
+   {
+    "name": "Racecourse Ground",
+    "lat": 53.051944,
+    "lon": -3.003611,
+    "admin": null
+   }
+  ],
+  "leagues": [
+   "Championship"
+  ]
+ }
+]

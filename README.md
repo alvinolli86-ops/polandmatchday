@@ -16,6 +16,7 @@ English-language guide to football in Poland for visitors & expats. Plain HTML +
 - `data/fixtures_1liga.json` – TheSportsDB free test key "123" (community data, times in UTC → converted).
 - `config.json` – `base_url` (canonical tags and sitemap) and `base_path` (internal links and assets). Live site: https://alvinolli86-ops.github.io/polandmatchday. Affiliate IDs are placeholders: GYG_PARTNER_ID_PLACEHOLDER, BOOKING_AID_PLACEHOLDER.
 - `.github/workflows/refresh-and-deploy.yml` – twice-daily fixture refresh plus GitHub Pages deploy on push to `main`. Pages source must be GitHub Actions.
+- `awayday/` – Away Day from Poland (the home page): cheapest football weekends abroad with direct flights from Polish airports. `awayday/data/fares.json` is the committed seed. The workflow runs `awayday/run_all.sh` and reads `secrets.TRAVELPAYOUTS_TOKEN`. If that secret is missing, the fetch is skipped and the site keeps the last committed fares, with the date from `fares.json`. The token is never written to the repo. Add it at Settings → Secrets and variables → Actions → New repository secret, name `TRAVELPAYOUTS_TOKEN`. Flight links use `affiliates.travelpayouts_marker` (`792630`) as the Aviasales `marker` query parameter. GetYourGuide and Booking.com ids on the Poland pages are still placeholders.
 
 ## Known gaps
 - Stands to avoid, transport notes and prices are only filled where a source was found; everything else says "not yet verified".
