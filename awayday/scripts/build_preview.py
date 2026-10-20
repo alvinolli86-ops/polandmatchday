@@ -97,7 +97,9 @@ def main():
         if old_n and len(trips) < old_n * 0.6 and fx_errors:
             print(f"refusing to shrink trips {old_n} -> {len(trips)}; keeping last trips.json", file=sys.stderr)
             sys.exit(1)
-    json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
+    tmp = path + ".tmp"
+    json.dump(out, open(tmp, "w"), ensure_ascii=False, indent=1)
+    os.replace(tmp, path)
     render(out)
     print(len(trips), "reachable,", sum(1 for t in trips if t["cheapest"]), "with a cached fare,", len(unreachable), "no direct route", file=sys.stderr)
 

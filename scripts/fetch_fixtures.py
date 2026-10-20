@@ -7,7 +7,7 @@ Ekstraklasa: official public fixture pages on ekstraklasa.org (/terminarz/<seaso
              Community-maintained data -> shown with a "confirm with club" note.
 Usage: python3 scripts/fetch_fixtures.py   (writes data/fixtures_*.json)
 """
-import json, re, sys, time, datetime as dt
+import json, os, re, sys, time, datetime as dt
 from pathlib import Path
 from zoneinfo import ZoneInfo
 import requests
@@ -120,13 +120,19 @@ def fetch_ekstraklasa():
 
 def fetch_1liga():
     allm, errors = [], 0
+    streak = 0
     for r in range(1, ROUNDS + 1):
         url = f"https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4661&r={r}&s={SEASON}"
         try:
             ev = get_json(url).get("events") or []
+            streak = 0
         except Exception as e:
             errors += 1
+            streak += 1
             print(f"1. Liga round {r}: ERROR {e}", file=sys.stderr); ev = []
+            if streak >= 3:
+                print("1. Liga: stopping after 3 consecutive failures; keeping last committed file", file=sys.stderr)
+                break
         for e in ev:
             ts, t = e.get("strTimestamp"), e.get("strTime")
             kickoff, confirmed = None, False
@@ -156,7 +162,9 @@ def write_league(path, payload, matches, errors, label):
     if errors or not matches:
         print(f"{label}: incomplete ({errors} failed rounds, {len(matches)} matches); keeping last committed file", file=sys.stderr)
         return False
-    json.dump(payload, open(path, "w"), ensure_ascii=False, indent=1)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    json.dump(payload, open(tmp, "w"), ensure_ascii=False, indent=1)
+    os.replace(tmp, path)
     return True
 
 if __name__ == "__main__":

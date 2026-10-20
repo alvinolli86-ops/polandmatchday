@@ -51,12 +51,14 @@ jobs:
       # A partial fetch keeps the last committed JSON.
       - name: Refresh Away Day trips
         continue-on-error: true
-        timeout-minutes: 12
+        timeout-minutes: 11
         env:
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
         run: bash awayday/run_all.sh
 
       - name: Refresh fixtures
+        continue-on-error: true
+        timeout-minutes: 3
         run: python scripts/fetch_fixtures.py || echo "fetch failed - building with last committed data"
 
       - name: Commit refreshed fixture data

@@ -17,17 +17,18 @@ LEAGUES = [  # (TheSportsDB id, name, country tz, openfootball code)
  (4340,"Danish Superliga","Europe/Copenhagen",None)]
 SEASON = "2026-2027"
 
-def get(url, tries=4):
+def get(url, tries=2):
+    """One retry. A 429 must not burn the whole job; an incomplete run keeps the last file."""
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "AwayDayPrototype/0.1"})
             return json.load(urllib.request.urlopen(req, timeout=30))
         except urllib.error.HTTPError as e:
             if i == tries - 1: raise
-            time.sleep(15 if e.code == 429 else 5)
+            time.sleep(8 if e.code == 429 else 3)
         except Exception:
             if i == tries - 1: raise
-            time.sleep(5)
+            time.sleep(3)
 
 def key(s):
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
@@ -138,7 +139,9 @@ def main():
         if dropped or (prev_n and len(out["matches"]) < 0.6 * prev_n and any(i["errors"] for i in out["leagues"].values())):
             print("incomplete TheSportsDB fetch; keeping last committed fixtures:", "; ".join(dropped) or f"{len(out['matches'])}/{prev_n}", file=sys.stderr)
             sys.exit(1)
-    json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
+    tmp = path + ".tmp"
+    json.dump(out, open(tmp, "w"), ensure_ascii=False, indent=1)
+    os.replace(tmp, path)
 
 if __name__ == "__main__":
     recheck() if "--recheck" in sys.argv else main()
