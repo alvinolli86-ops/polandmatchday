@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-20T08:21:44+00:00",
+ "fetched": "2026-10-20T10:00:00+00:00",
  "provider": "Travelpayouts Aviasales Data API v3 prices_for_dates (market=pl, currency=pln, direct only)",
  "quotes": {
   "BZG|ALC|2026-10-31|2026-11-02": {
@@ -8091,15 +8091,15 @@
   },
   "WAW|LIS|2026-10-23|2026-10-25": {
    "status": "cached",
-   "price": 2096,
+   "price": 2166,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1593",
    "departure_at": "2026-10-23T20:50:00+02:00",
    "return_at": "2026-10-25T15:10:00Z",
    "duration_to": 260,
-   "found_on": "2026-10-19",
-   "link": "https://www.aviasales.com/search/WAW2310LIS25101?t=W617927886001792800600000260WAWLIS17929410001792959300000245LISWAW_0dd7d6f273c53af0b364d105649b4593_44493&search_date=19102026&expected_price_uuid=01a15607-8a73-8030-ac1b-c6506d4b0c5b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=buT3bNbTNG-sW0gavqvifA&expected_price_source=share&expected_price_currency=pln&expected_price=2096",
+   "found_on": "2026-10-20",
+   "link": "https://www.aviasales.com/search/WAW2310LIS25101?t=W617927886001792800600000260WAWLIS17929410001792959300000245LISWAW_0dd7d6f273c53af0b364d105649b4593_45903&search_date=20102026&expected_price_uuid=01a158a2-0262-8031-6c19-7cf5c0a2bfa7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=buT3bNbTNG-sW0gavqvifA&expected_price_source=share&expected_price_currency=pln&expected_price=2166",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|LIS|2026-10-24|2026-10-25": {
@@ -8496,10 +8496,17 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WAW|MUC|2026-10-30|2026-11-01": {
-   "status": "no_recent_fare",
-   "price": null,
-   "currency": null,
-   "note": "No cached direct fare for these exact dates."
+   "status": "cached",
+   "price": 1243,
+   "currency": "PLN",
+   "airline": "LH",
+   "flight_number": "1617",
+   "departure_at": "2026-10-30T06:05:00+01:00",
+   "return_at": "2026-11-01T11:20:00+01:00",
+   "duration_to": 95,
+   "found_on": "2026-10-20",
+   "link": "https://www.aviasales.com/search/WAW3010MUC01111?t=LH17933403001793346000000095WAWMUC17935320001793537400000090MUCWAW_e18a148a629a1bab86a1b6b76b72cca8_26550&search_date=20102026&expected_price_uuid=01a158a6-fc00-8031-6ae0-f572a603c139&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DV_aSX10e9WqAqn1WYf1vQ&expected_price_source=share&expected_price_currency=pln&expected_price=1243",
+   "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|MUC|2026-10-31|2026-11-01": {
    "status": "no_recent_fare",
