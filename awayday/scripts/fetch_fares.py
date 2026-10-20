@@ -19,6 +19,9 @@ def run(q): return q, prov.quote(*q)
 with ThreadPoolExecutor(4) as ex: res = list(ex.map(run, qs))
 out = {"fetched": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "provider": "Travelpayouts Aviasales Data API v3 prices_for_dates (market=pl, currency=pln, direct only)",
        "quotes": {"|".join(q): r for q, r in res}}
-json.dump(out, open(f"{BASE}/data/fares.json", "w"), ensure_ascii=False, indent=1)
+path = f"{BASE}/data/fares.json"
+tmp = path + ".tmp"
+json.dump(out, open(tmp, "w"), ensure_ascii=False, indent=1)
+os.replace(tmp, path)
 from collections import Counter
 print(Counter(r["status"] for _, r in res), file=sys.stderr)
