@@ -150,12 +150,12 @@
   "qid": "Q105254",
   "name": "1. FSV Mainz 05",
   "aliases": [
-   "FSV Mainz",
    "Mainz",
    "1. Fußball- und Sportverein Mainz 05 e. V.",
    "Die Nullfünfer",
    "Mainz 05",
-   "The Zero-Fivers"
+   "The Zero-Fivers",
+   "FSV Mainz"
   ],
   "venues": [
    {
@@ -192,14 +192,14 @@
   "qid": "Q1543",
   "name": "AC Milan",
   "aliases": [
-   "Milan",
-   "ACM",
-   "A.C. Milan",
    "A.C.M.",
    "A.C.Milan",
    "ACMilan",
    "Association Football Milan",
-   "Associazione Calcio Milan"
+   "Associazione Calcio Milan",
+   "Milan",
+   "ACM",
+   "A.C. Milan"
   ],
   "venues": [
    {
@@ -252,13 +252,13 @@
   "qid": "Q193481",
   "name": "AC Sparta Prague",
   "aliases": [
-   "ACS",
    "A.C. Sparta Prague",
    "A.C.S.",
    "ACSparta",
    "Athletic Club Sparta Prague",
    "Sparta Prague",
-   "SpartaPrague"
+   "SpartaPrague",
+   "ACS"
   ],
   "venues": [
    {
@@ -1385,14 +1385,14 @@
   "qid": "Q8760",
   "name": "Deportivo de A Coruña",
   "aliases": [
+   "Depor",
+   "Deportivo",
    "Club Deportivo de la Sala Calvet, Turcos",
    "Dépor",
    "R.C. Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña S.A.D.",
-   "Real Club Deportivo de A Coruña",
-   "Depor",
-   "Deportivo"
+   "Real Club Deportivo de A Coruña"
   ],
   "venues": [
    {
@@ -1839,8 +1839,6 @@
   "qid": "Q15789",
   "name": "FC Bayern Munich",
   "aliases": [
-   "Bavaria Munich",
-   "FC Bavaria Munich",
    "Munich",
    "Bayern",
    "FCBM",
@@ -1856,7 +1854,9 @@
    "FC Bayern Munchen",
    "FC Hollywood",
    "FCB Munich",
-   "FCBM 1900"
+   "FCBM 1900",
+   "Bavaria Munich",
+   "FC Bavaria Munich"
   ],
   "venues": [
    {
@@ -2078,11 +2078,11 @@
   "qid": "Q994811",
   "name": "FC Red Bull Salzburg",
   "aliases": [
-   "Salzburg",
    "Red Bull",
    "Red Bull Salzburg",
    "FCRBS",
-   "Football Club Red Bull Salzburg"
+   "Football Club Red Bull Salzburg",
+   "Salzburg"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
-   "GC",
-   "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich"
+   "Grasshoppers Zürich",
+   "GC",
+   "Grasshoppers"
   ],
   "venues": [
    {
@@ -2703,12 +2703,12 @@
   "qid": "Q659780",
   "name": "Grazer AK",
   "aliases": [
-   "GAK",
-   "GAK 1902",
    "Grazer A.K.",
    "Grazer AK 1902",
    "Grazer AK FuÃŸball",
-   "Grazer Athletik-Klub"
+   "Grazer Athletik-Klub",
+   "GAK",
+   "GAK 1902"
   ],
   "venues": [
    {
@@ -2726,15 +2726,15 @@
   "qid": "Q51974",
   "name": "Hamburger SV",
   "aliases": [
+   "Hamburg",
+   "Hamburger",
+   "HSV",
    "H.S.V.",
    "Hamburg Sport Club",
    "Hamburg SV",
    "Hamburger S.V.",
    "Hamburger Sport-Verein",
-   "HamburgerSV",
-   "Hamburg",
-   "Hamburger",
-   "HSV"
+   "HamburgerSV"
   ],
   "venues": [
    {
@@ -2900,8 +2900,6 @@
   "qid": "Q631",
   "name": "Inter Milan",
   "aliases": [
-   "Inter Club",
-   "Inter FC",
    "Inter",
    "IM",
    "F.C.I.M.",
@@ -2921,7 +2919,9 @@
    "Inter of Milan",
    "Inter soccer club",
    "Internazionale Milano",
-   "The Inter"
+   "The Inter",
+   "Inter Club",
+   "Inter FC"
   ],
   "venues": [
    {
@@ -2939,14 +2939,14 @@
   "qid": "Q9653",
   "name": "Ipswich Town F.C.",
   "aliases": [
-   "The Tractor Boys",
    "Ipswich",
    "Town",
    "The Blues",
    "ITFC",
    "Ipswich Town",
    "Ipswich Town FC",
-   "Ipswich Town Football Club"
+   "Ipswich Town Football Club",
+   "The Tractor Boys"
   ],
   "venues": [
    {
@@ -3289,10 +3289,10 @@
   "qid": "Q1130849",
   "name": "Liverpool F.C.",
   "aliases": [
-   "LiverpoolFC",
    "Liverpool",
    "L.F.C.",
-   "LiverpoolF.C."
+   "LiverpoolF.C.",
+   "LiverpoolFC"
   ],
   "venues": [
    {
@@ -3441,11 +3441,11 @@
   "qid": "Q18661",
   "name": "Middlesbrough F.C.",
   "aliases": [
+   "MFC",
+   "Middlesbrough",
    "The Boro",
    "Middlesbrough FC",
-   "Middlesbrough Football Club",
-   "MFC",
-   "Middlesbrough"
+   "Middlesbrough Football Club"
   ],
   "venues": [
    {
@@ -4154,13 +4154,13 @@
   "qid": "Q8723",
   "name": "Real Betis Balompié",
   "aliases": [
-   "Betis",
    "balompédicos",
    "Beticos, verdiblancos",
    "Real Betis",
    "Real Betis Balompié S.A.D.",
    "Real Betis football",
-   "Real Betis Soccer"
+   "Real Betis Soccer",
+   "Betis"
   ],
   "venues": [
    {
@@ -4178,7 +4178,6 @@
   "qid": "Q8682",
   "name": "Real Madrid Club de Fútbol",
   "aliases": [
-   "RMCF",
    "Real Madrid",
    "Madrid FC",
    "Real Madrid C.F.",
@@ -4188,7 +4187,8 @@
    "Real Madrid Club of Football",
    "Real Madrid Football Club",
    "Royal Madrid",
-   "Royal Madrid Football Club"
+   "Royal Madrid Football Club",
+   "RMCF"
   ],
   "venues": [
    {
@@ -4629,6 +4629,7 @@
   "qid": "Q2609",
   "name": "SS Lazio",
   "aliases": [
+   "SSLazio",
    "SSL",
    "S.S. Lazio",
    "Società Sportiva Lazio",
@@ -4639,8 +4640,7 @@
    "S.S.Lazio",
    "Societa Sportiva Lazio",
    "Sport Society Lazio",
-   "Sports Society Lazio",
-   "SSLazio"
+   "Sports Society Lazio"
   ],
   "venues": [
    {
@@ -4757,12 +4757,12 @@
   "qid": "Q32494",
   "name": "Schalke 04",
   "aliases": [
+   "FC Schalke 04",
+   "S04",
    "F.C. Schalke 04",
    "FC Gelsenkirchen-Schalke 04",
    "Schalke 0",
-   "Schalke04",
-   "FC Schalke 04",
-   "S04"
+   "Schalke04"
   ],
   "venues": [
    {
@@ -4857,8 +4857,8 @@
   "qid": "Q723489",
   "name": "Silkeborg IF",
   "aliases": [
-   "Silkeborg Idrætsforening",
-   "Silkeborg"
+   "Silkeborg",
+   "Silkeborg Idrætsforening"
   ],
   "venues": [
    {
@@ -4958,10 +4958,10 @@
   "qid": "Q75729",
   "name": "Sporting CP",
   "aliases": [
+   "SCP",
    "Sporting Club Portugal",
    "Sporting Lisbon",
-   "Sporting Portugal",
-   "SCP"
+   "Sporting Portugal"
   ],
   "venues": [
    {
@@ -5102,9 +5102,9 @@
   "qid": "Q190561",
   "name": "Standard Liège",
   "aliases": [
-   "Royal Standard Club de Liège",
    "Standard Liege",
-   "Royal Standard Club de Liege"
+   "Royal Standard Club de Liege",
+   "Royal Standard Club de Liège"
   ],
   "venues": [
    {
