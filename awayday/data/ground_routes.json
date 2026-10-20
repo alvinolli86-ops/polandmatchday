@@ -1,0 +1,162 @@
+{
+  "checked": "2026-10-20",
+  "max_hours": 8,
+  "note": "Hand-maintained. A route is shown only when a source gives a direct journey (no change of train) and a typical time of about 8 hours or less. No fares are stored. Booking links are the operators' own pages, with no affiliate id.",
+  "routes": [
+    {
+      "from": "Warsaw",
+      "to": "Berlin",
+      "mode": "train",
+      "direct": true,
+      "typical_minutes": 330,
+      "typical_label": "about 5 h 30 min",
+      "operators": [
+        {"name": "PKP Intercity", "url": "https://www.intercity.pl/en/"},
+        {"name": "DB", "url": "https://int.bahn.de/en"}
+      ],
+      "sources": [
+        {
+          "fact": "Seat61's 2026 Berlin–Warsaw page: EuroCity Berlin-Warszawa Express, Berlin Hbf to Warsaw Centralna, around 5 h 30 min. The same page's Poznań columns are the source for the Poznań time.",
+          "url": "https://www.seat61.com/trains-and-routes/berlin-to-warsaw-by-train.htm"
+        },
+        {
+          "fact": "Wikipedia, Berlin-Warszawa-Express: EuroCity run by DB and PKP Intercity via Poznań. The infobox says average journey time 5 h 24 min; the lead sentence says 4 h 50 min. The card uses the 2026 Seat61 figure.",
+          "url": "https://en.wikipedia.org/wiki/Berlin-Warszawa-Express"
+        }
+      ]
+    },
+    {
+      "from": "Poznań",
+      "to": "Berlin",
+      "mode": "train",
+      "direct": true,
+      "typical_minutes": 170,
+      "typical_label": "about 2 h 50 min",
+      "operators": [
+        {"name": "PKP Intercity", "url": "https://www.intercity.pl/en/"},
+        {"name": "DB", "url": "https://int.bahn.de/en"}
+      ],
+      "sources": [
+        {
+          "fact": "Seat61 2026 timetable pairs on the Berlin-Warszawa Express: Poznań departures 07:30, 09:30, 11:30, 13:30, 15:30, 17:30 and 19:30 arrive in Berlin about 2 h 47 to 2 h 50 later.",
+          "url": "https://www.seat61.com/trains-and-routes/berlin-to-warsaw-by-train.htm"
+        }
+      ]
+    },
+    {
+      "from": "Kraków",
+      "to": "Leipzig",
+      "mode": "train",
+      "direct": true,
+      "typical_minutes": 420,
+      "typical_label": "about 7 h",
+      "operators": [
+        {"name": "PKP Intercity", "url": "https://www.intercity.pl/en/"},
+        {"name": "DB", "url": "https://int.bahn.de/en"}
+      ],
+      "sources": [
+        {
+          "fact": "City of Kraków, 2026 timetable note: a new EuroCity run by DB and PKP Intercity, four times a day on Leipzig–Wrocław–Kraków, two of them continuing to Przemyśl. Kraków–Leipzig is about 7 hours.",
+          "url": "https://krakow.pl/getHtml?dok_id=319347"
+        }
+      ]
+    },
+    {
+      "from": "Katowice",
+      "to": "Vienna",
+      "mode": "train",
+      "direct": true,
+      "typical_minutes": 337,
+      "typical_label": "about 5 h 37 min",
+      "operators": [
+        {"name": "PKP Intercity", "url": "https://www.intercity.pl/en/"},
+        {"name": "ÖBB", "url": "https://www.oebb.at/en/"}
+      ],
+      "sources": [
+        {
+          "fact": "Správa železnic 2026 long-distance timetable: IC Moravia, Katowice 04:50 via Bohumín and Ostrava to Wien Westbf 10:27 (5 h 37 min), no change of train.",
+          "url": "https://www.spravazeleznic.cz/documents/50004227/184412001/d%C3%A1lkov%C3%A1+doprava.pdf/0a2b731b-4f4a-4275-89c2-67ed69a58703"
+        },
+        {
+          "fact": "ÖBB Sparschiene Poland: four direct daytime connections from Vienna to Katowice, three to Warsaw, and one each to Kraków, Przemyśl and Wrocław. The page does not give journey times. PKP runs a night train to Kraków and Warsaw.",
+          "url": "https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene/sparschiene-europa/polen"
+        }
+      ]
+    },
+    {
+      "from": "Kraków",
+      "to": "Prague",
+      "mode": "train",
+      "direct": true,
+      "typical_minutes": 341,
+      "typical_label": "5 h 41 min",
+      "operators": [
+        {"name": "Leo Express", "url": "https://www.leoexpress.com/en/where-we-go/connections/krakow-prague"},
+        {"name": "PKP Intercity", "url": "https://www.intercity.pl/en/"},
+        {"name": "České dráhy", "url": "https://www.cd.cz/en/"}
+      ],
+      "sources": [
+        {
+          "fact": "Leo Express route page, checked 2026-10-20: Kraków–Prague 5 h 41 min, without transfer. The page also says tickets from 7.5 EUR. That is a live from-price, so the site does not print it.",
+          "url": "https://www.leoexpress.com/en/where-we-go/connections/krakow-prague"
+        },
+        {
+          "fact": "Správa železnic 2026 timetable: direct coaches Kraków Główny 15:51 via Bohumín to Praha hl.n. 21:52 (6 h 1 min), and IC Cracovia runs Przemyśl–Kraków–Bohumín–Ostrava–Olomouc–Praha.",
+          "url": "https://www.spravazeleznic.cz/documents/50004227/184412001/d%C3%A1lkov%C3%A1+doprava.pdf/0a2b731b-4f4a-4275-89c2-67ed69a58703"
+        }
+      ]
+    },
+    {
+      "from": "Kraków",
+      "to": "Bratislava",
+      "mode": "train",
+      "direct": true,
+      "typical_minutes": 461,
+      "typical_label": "7 h 41 min",
+      "operators_confirmed": false,
+      "operators": [
+        {"name": "ZSSK", "url": "https://www.zssk.sk/en/"},
+        {"name": "PKP Intercity", "url": "https://www.intercity.pl/en/"}
+      ],
+      "sources": [
+        {
+          "fact": "slovakia.travel: from Kraków an express once a day, 410 km, 7 hours 41 minutes, via the Czech Republic. The page does not name the operator. It says to search Slovakrail (ZSSK). Warsaw–Bratislava on the same page is 7–9 hours, so it is not listed.",
+          "url": "https://slovakia.travel/en/travel-essentials/transport/getting-here/by-train"
+        }
+      ]
+    }
+  ],
+  "clubs": [
+    {"team": "Hertha", "city": "Berlin"},
+    {"team": "Union Berlin", "city": "Berlin"},
+    {"team": "RB Leipzig", "city": "Leipzig"},
+    {"team": "Rapid Vienna", "city": "Vienna"},
+    {"team": "Austria Vienna", "city": "Vienna"},
+    {"team": "Slavia Prague", "city": "Prague"},
+    {"team": "Sparta Prague", "city": "Prague"},
+    {"team": "Baník Ostrava", "city": "Ostrava"},
+    {"team": "Zbrojovka Brno", "city": "Brno"},
+    {"team": "Artis Brno", "city": "Brno"},
+    {"team": "Sigma Olomouc", "city": "Olomouc"},
+    {"team": "Viktoria Plzeň", "city": "Plzeň"},
+    {"team": "Slovan Bratislava", "city": "Bratislava"},
+    {"team": "Košice", "city": "Košice"},
+    {"team": "Žilina", "city": "Žilina"},
+    {"team": "Dynamo Dresden", "city": "Dresden"}
+  ],
+  "not_listed": [
+    {"to": "Ostrava", "why": "IC Moravia and the Prague trains call at Ostrava, and a PKP Katowice consist sheet names Ostrava hlavní nádraží, but neither source gives a Katowice–Ostrava duration."},
+    {"to": "Brno", "why": "The 2026 Polish through trains in the Správa železnic list go via Ostrava and then Olomouc or Břeclav, not Brno. No direct Poland–Brno time was found."},
+    {"to": "Plzeň", "why": "Plzeň is west of Prague. The through trains from Poland in that timetable end in Prague."},
+    {"to": "Olomouc", "why": "IC Silesia runs Warsaw–Katowice–Ostrava–Olomouc–Prague, but the extract has no Katowice or Olomouc clock. Warsaw–Prague on that train is 8 h 47 min, over the limit."},
+    {"to": "Vienna from Warsaw", "why": "The same timetable shows Warsaw Wschodnia 05:41 to Wien Westbf 14:27, and 13:41 to 22:27, both 8 h 46 min."},
+    {"to": "Vienna from Kraków", "why": "ÖBB says there is one direct daytime Vienna–Kraków train, and does not give the journey time."},
+    {"to": "Berlin from Wrocław, Katowice or Kraków", "why": "Wikipedia's Wawel article lists Berlin–Wrocław–Katowice–Kraków as one EuroCity route and does not give a journey time."},
+    {"to": "Leipzig from Wrocław", "why": "The City of Kraków says the EuroCity is Leipzig–Wrocław–Kraków and times only the Kraków end (about 7 h)."},
+    {"to": "Bratislava from Warsaw", "why": "slovakia.travel gives 7–9 hours, which is not reliably under 8."},
+    {"to": "Žilina and Košice", "why": "slovakia.travel says the only direct Poland–Slovakia passenger train is Zwardoń–Žilina, not from Katowice, Kraków or Warsaw. Košice is not given as a direct ride from Poland."},
+    {"to": "Dresden", "why": "No published Wrocław–Dresden duration was confirmed. Dynamo Dresden's next home game in TheSportsDB is Wednesday 28 Oct 2026, outside the Fri–Mon window."},
+    {"to": "Vilnius", "why": "LTG Link says the Warsaw–Vilnius trains change at Mockava and take about 7 h 30 min. Not a direct train, so the Lithuanian league was not added."},
+    {"to": "Gdańsk to Berlin", "why": "Seat61 shows one direct EuroCity to Gdańsk and does not give a journey time that is clearly under 8 hours."}
+  ]
+}

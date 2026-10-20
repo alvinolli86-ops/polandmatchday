@@ -140,6 +140,8 @@ footer{background:#0a2a20;color:#b9cfc4;padding:20px 0;font-size:.85rem}footer a
 .aday .b{display:inline-block;font-size:.7rem;padding:1px 7px;border-radius:9px;margin-top:2px;font-weight:600}
 .aday .b.ok{background:#d1f2e0;color:#0b5a3a}.aday .b.mid{background:#e8ecf0;color:#3d4a55}.aday .b.warn{background:#fde2e1;color:#8a1c17}
 .aday .filter{margin:8px 0}.aday .filter select,.aday .filter input{width:auto;font:inherit;padding:6px}
+.aday ul.routes{margin:6px 0 0;padding-left:18px}.aday ul.routes li{margin:4px 0}
+.aday ul.routes{margin:6px 0 0;padding-left:18px}.aday ul.routes li{margin:4px 0}
 .aday .filter label{display:inline;font-weight:600}
 @media(min-width:700px){.hero h1{font-size:2.1rem}.match{grid-template-columns:1.4fr 1fr auto;align-items:center}}
 """
@@ -231,6 +233,7 @@ def build():
         note = f"""<div class="how"><h2>How it works</h2>
 <p>Direct return flights from a Polish airport to an airport within {MAX_KM} km of the stadium. You fly out the day before the match, or on match day only when the cached flight lands at least 3 hours before kickoff, and you fly back the next day.</p>
 <p><strong>Prices are cached</strong>, not a live search. They are fares Aviasales users found recently. {E(updated_line)} Check the price on Aviasales before you book. A cabin bag is usually extra.{E(eur_note)} Routes come from Wikipedia and can be out of date. Kickoffs come from TheSportsDB and are cross-checked against openfootball where that league exists.</p>
+<p>Each weekend also lists <strong>No flight needed</strong> trips: a direct train from a Polish city in about 8 hours or less. That time is a typical published journey, not a live departure, and the page does not show a train fare.</p>
 <p class="small">Watching in Poland instead? <a href="{url('matches-in-poland/')}">Matches in Poland</a>.</p></div>"""
         lists = f'<div class="aday">{inner_html(away)}</div>'
         unreachable = len(away.get("unreachable") or [])
@@ -238,6 +241,7 @@ def build():
 <p>{unreachable} more weekend matches have no direct route from Poland to an airport within {MAX_KM} km. {E(updated_line)}</p>
 <p>Fares: <a href="https://support.travelpayouts.com/hc/en-us/articles/203956163-Aviasales-Data-API">Travelpayouts Aviasales Data API</a> (cached prices, not live). Flight links are Aviasales affiliate links. Fixtures: <a href="https://www.thesportsdb.com/">TheSportsDB</a> and <a href="https://github.com/openfootball/football.json">openfootball/football.json</a> (CC0). Stadium coordinates: <a href="https://www.wikidata.org/">Wikidata</a> (CC0). Airports: <a href="https://ourairports.com/">OurAirports</a> (public domain).</p>
 <p>Routes are adapted from the English Wikipedia “Airlines and destinations” sections by Wikipedia contributors, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. We turned those lists into airport pairs and dropped charter-only routes.{wiki_links}</p>
+<p>Ground trips use hand-checked typical times from the source linked on each card, including <a href="https://www.spravazeleznic.cz/">Správa železnic</a>, <a href="https://www.seat61.com/trains-and-routes/berlin-to-warsaw-by-train.htm">Seat61</a>, <a href="https://en.wikipedia.org/wiki/Berlin-Warszawa-Express">Wikipedia</a>, <a href="https://krakow.pl/getHtml?dok_id=319347">the City of Kraków</a>, <a href="https://www.leoexpress.com/en/where-we-go/connections/krakow-prague">Leo Express</a> and <a href="https://slovakia.travel/en/travel-essentials/transport/getting-here/by-train">slovakia.travel</a>. Checked 20 Oct 2026. Not a live timetable.</p>
 <p>Unofficial. Not affiliated with any club, league, airline, or Aviasales.</p>"""
     else:
         note = "<p class='empty'>Trip data is not available yet.</p>"

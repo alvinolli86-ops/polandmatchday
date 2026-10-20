@@ -13,6 +13,7 @@ LEAGUES = [  # (TheSportsDB id, name, country tz, openfootball code)
  (4334,"Ligue 1","Europe/Paris","fr.1"), (4337,"Eredivisie","Europe/Amsterdam","nl.1"),
  (4344,"Primeira Liga","Europe/Lisbon","pt.1"), (4330,"Scottish Premiership","Europe/London",None),
  (4621,"Austrian Bundesliga","Europe/Vienna",None), (4631,"Czech First League","Europe/Prague",None),
+ (4672,"Slovak First Football League","Europe/Bratislava",None),
  (4338,"Belgian Pro League","Europe/Brussels",None), (4675,"Swiss Super League","Europe/Zurich",None),
  (4340,"Danish Superliga","Europe/Copenhagen",None)]
 SEASON = "2026-2027"

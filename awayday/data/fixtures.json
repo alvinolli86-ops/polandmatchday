@@ -210,6 +210,17 @@
    "crosschecked": 0,
    "conflicts": 0,
    "errors": []
+  },
+  "Slovak First Football League": {
+   "thesportsdb_id": 4672,
+   "rounds_fetched": [
+    12,
+    13
+   ],
+   "matches": 12,
+   "crosschecked": 0,
+   "conflicts": 0,
+   "errors": []
   }
  },
  "matches": [
@@ -662,6 +673,34 @@
    "crosscheck": "agrees (date+time)"
   },
   {
+   "league": "Slovak First Football League",
+   "home": "Slovan Bratislava",
+   "away": "Dukla Banská Bystrica",
+   "venue": "Tehelné pole",
+   "kickoff_utc": "2026-10-24T13:30:00+00:00",
+   "kickoff_local": "Sat 24 Oct 15:30",
+   "kickoff_pl": "Sat 24 Oct 15:30",
+   "date_local": "2026-10-24",
+   "round": "12",
+   "thesportsdb_event": "2488547",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "Zemplín Michalovce",
+   "away": "Železiarne Podbrezová",
+   "venue": "Mestský futbalový štadión Michalovce",
+   "kickoff_utc": "2026-10-24T13:30:00+00:00",
+   "kickoff_local": "Sat 24 Oct 15:30",
+   "kickoff_pl": "Sat 24 Oct 15:30",
+   "date_local": "2026-10-24",
+   "round": "12",
+   "thesportsdb_event": "2488549",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Premier League",
    "home": "Arsenal",
    "away": "Everton",
@@ -1012,6 +1051,20 @@
    "crosscheck": null
   },
   {
+   "league": "Slovak First Football League",
+   "home": "Skalica",
+   "away": "Spartak Trnava",
+   "venue": "Mestský štadión Skalica",
+   "kickoff_utc": "2026-10-24T16:00:00+00:00",
+   "kickoff_local": "Sat 24 Oct 18:00",
+   "kickoff_pl": "Sat 24 Oct 18:00",
+   "date_local": "2026-10-24",
+   "round": "12",
+   "thesportsdb_event": "2488552",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Belgian Pro League",
    "home": "Oud-Heverlee Leuven",
    "away": "Lommel",
@@ -1080,6 +1133,20 @@
    "thesportsdb_event": "2489149",
    "flags": [],
    "crosscheck": "agrees (date+time)"
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "DAC 1904 Dunajská Streda",
+   "away": "Ružomberok",
+   "venue": "MOL Aréna",
+   "kickoff_utc": "2026-10-24T17:00:00+00:00",
+   "kickoff_local": "Sat 24 Oct 19:00",
+   "kickoff_pl": "Sat 24 Oct 19:00",
+   "date_local": "2026-10-24",
+   "round": "12",
+   "thesportsdb_event": "2488548",
+   "flags": [],
+   "crosscheck": null
   },
   {
    "league": "Austrian Bundesliga",
@@ -1586,6 +1653,20 @@
    "crosscheck": "agrees (date+time)"
   },
   {
+   "league": "Slovak First Football League",
+   "home": "Komárno",
+   "away": "Trenčín",
+   "venue": "ViOn Aréna",
+   "kickoff_utc": "2026-10-25T14:30:00+00:00",
+   "kickoff_local": "Sun 25 Oct 15:30",
+   "kickoff_pl": "Sun 25 Oct 15:30",
+   "date_local": "2026-10-25",
+   "round": "12",
+   "thesportsdb_event": "2488551",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Belgian Pro League",
    "home": "Club Brugge",
    "away": "Sint-Truiden",
@@ -1820,6 +1901,20 @@
    "date_local": "2026-10-25",
    "round": "12",
    "thesportsdb_event": "2481862",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "Košice",
+   "away": "Žilina",
+   "venue": "Košická futbalová aréna",
+   "kickoff_utc": "2026-10-25T17:00:00+00:00",
+   "kickoff_local": "Sun 25 Oct 18:00",
+   "kickoff_pl": "Sun 25 Oct 18:00",
+   "date_local": "2026-10-25",
+   "round": "12",
+   "thesportsdb_event": "2488550",
    "flags": [],
    "crosscheck": null
   },
@@ -2636,6 +2731,48 @@
    "crosscheck": "agrees (date+time)"
   },
   {
+   "league": "Slovak First Football League",
+   "home": "Trenčín",
+   "away": "Košice",
+   "venue": "Štadión na Sihoti",
+   "kickoff_utc": "2026-10-31T14:30:00+00:00",
+   "kickoff_local": "Sat 31 Oct 15:30",
+   "kickoff_pl": "Sat 31 Oct 15:30",
+   "date_local": "2026-10-31",
+   "round": "13",
+   "thesportsdb_event": "2488553",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "Spartak Trnava",
+   "away": "Komárno",
+   "venue": "Anton Malatinský Stadium",
+   "kickoff_utc": "2026-10-31T14:30:00+00:00",
+   "kickoff_local": "Sat 31 Oct 15:30",
+   "kickoff_pl": "Sat 31 Oct 15:30",
+   "date_local": "2026-10-31",
+   "round": "13",
+   "thesportsdb_event": "2488554",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "Žilina",
+   "away": "Zemplín Michalovce",
+   "venue": "Štadión Pod Dubňom",
+   "kickoff_utc": "2026-10-31T14:30:00+00:00",
+   "kickoff_local": "Sat 31 Oct 15:30",
+   "kickoff_pl": "Sat 31 Oct 15:30",
+   "date_local": "2026-10-31",
+   "round": "13",
+   "thesportsdb_event": "2488557",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Premier League",
    "home": "Bournemouth",
    "away": "Leeds United",
@@ -3040,6 +3177,20 @@
    "date_local": "2026-10-31",
    "round": "12",
    "thesportsdb_event": "2493396",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "Železiarne Podbrezová",
+   "away": "Slovan Bratislava",
+   "venue": "ZELPO Aréna",
+   "kickoff_utc": "2026-10-31T17:00:00+00:00",
+   "kickoff_local": "Sat 31 Oct 18:00",
+   "kickoff_pl": "Sat 31 Oct 18:00",
+   "date_local": "2026-10-31",
+   "round": "13",
+   "thesportsdb_event": "2488555",
    "flags": [],
    "crosscheck": null
   },
@@ -3604,6 +3755,20 @@
    "crosscheck": "agrees (date+time)"
   },
   {
+   "league": "Slovak First Football League",
+   "home": "Ružomberok",
+   "away": "Skalica",
+   "venue": "Štadión pod Čebraťom",
+   "kickoff_utc": "2026-11-01T14:30:00+00:00",
+   "kickoff_local": "Sun 01 Nov 15:30",
+   "kickoff_pl": "Sun 01 Nov 15:30",
+   "date_local": "2026-11-01",
+   "round": "13",
+   "thesportsdb_event": "2488556",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Belgian Pro League",
    "home": "Sint-Truiden",
    "away": "Oud-Heverlee Leuven",
@@ -3796,6 +3961,20 @@
    "date_local": "2026-11-01",
    "round": "13",
    "thesportsdb_event": "2481867",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Slovak First Football League",
+   "home": "Dukla Banská Bystrica",
+   "away": "DAC 1904 Dunajská Streda",
+   "venue": "Štadión SNP Štiavničky",
+   "kickoff_utc": "2026-11-01T17:00:00+00:00",
+   "kickoff_local": "Sun 01 Nov 18:00",
+   "kickoff_pl": "Sun 01 Nov 18:00",
+   "date_local": "2026-11-01",
+   "round": "13",
+   "thesportsdb_event": "2488558",
    "flags": [],
    "crosscheck": null
   },

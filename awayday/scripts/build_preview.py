@@ -3,6 +3,7 @@ written by fetch_fares.py) -> data/trips.json + preview/index.html. Never calls 
 import json, os, re, html, sys, urllib.request, datetime as dt
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fares import search_link, with_marker
+from ground import ground_html
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAX_KM = 100            # straight-line stadium -> airport limit
 MATCHDAY_BUFFER_H = 3   # match-day outbound must land >= 3h before kickoff
@@ -188,6 +189,7 @@ def inner_html(out):
         npriced = sum(1 for t in ts if t["cheapest"])
         secs.append(f'''<section><h2>Weekend {wi+1}: {fmt(a)} – {fmt(b)}</h2>
 <h3>Top {min(TOP_N, len(top) or TOP_N)} cheapest football trips from Poland</h3>{top_html}
+{ground_html(a, b)}
 <details><summary>All {len(ts)} matches with a direct flight from Poland ({npriced} with a cached fare)</summary>{"".join(cards)}</details></section>''')
     opts = "".join(f'<option value="{k}">{k} – {E(v)}</option>' for k, v in PL_NAMES.items())
     return f'''<div class="filter"><label>Full lists, flying from: <select id="o"><option value="">Any Polish airport</option>{opts}</select></label>
