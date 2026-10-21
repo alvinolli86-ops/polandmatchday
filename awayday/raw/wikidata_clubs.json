@@ -1385,14 +1385,14 @@
   "qid": "Q8760",
   "name": "Deportivo de A Coruña",
   "aliases": [
-   "Depor",
-   "Deportivo",
    "Club Deportivo de la Sala Calvet, Turcos",
    "Dépor",
    "R.C. Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña S.A.D.",
-   "Real Club Deportivo de A Coruña"
+   "Real Club Deportivo de A Coruña",
+   "Depor",
+   "Deportivo"
   ],
   "venues": [
    {
@@ -2078,11 +2078,11 @@
   "qid": "Q994811",
   "name": "FC Red Bull Salzburg",
   "aliases": [
+   "Salzburg",
    "Red Bull",
    "Red Bull Salzburg",
    "FCRBS",
-   "Football Club Red Bull Salzburg",
-   "Salzburg"
+   "Football Club Red Bull Salzburg"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
+   "GC",
+   "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich",
-   "GC",
-   "Grasshoppers"
+   "Grasshoppers Zürich"
   ],
   "venues": [
    {
@@ -2703,12 +2703,12 @@
   "qid": "Q659780",
   "name": "Grazer AK",
   "aliases": [
+   "GAK",
+   "GAK 1902",
    "Grazer A.K.",
    "Grazer AK 1902",
    "Grazer AK FuÃŸball",
-   "Grazer Athletik-Klub",
-   "GAK",
-   "GAK 1902"
+   "Grazer Athletik-Klub"
   ],
   "venues": [
    {
@@ -2726,15 +2726,15 @@
   "qid": "Q51974",
   "name": "Hamburger SV",
   "aliases": [
-   "Hamburg",
-   "Hamburger",
-   "HSV",
    "H.S.V.",
    "Hamburg Sport Club",
    "Hamburg SV",
    "Hamburger S.V.",
    "Hamburger Sport-Verein",
-   "HamburgerSV"
+   "HamburgerSV",
+   "Hamburg",
+   "Hamburger",
+   "HSV"
   ],
   "venues": [
    {
@@ -2939,14 +2939,14 @@
   "qid": "Q9653",
   "name": "Ipswich Town F.C.",
   "aliases": [
+   "The Tractor Boys",
    "Ipswich",
    "Town",
    "The Blues",
    "ITFC",
    "Ipswich Town",
    "Ipswich Town FC",
-   "Ipswich Town Football Club",
-   "The Tractor Boys"
+   "Ipswich Town Football Club"
   ],
   "venues": [
    {
@@ -3441,11 +3441,11 @@
   "qid": "Q18661",
   "name": "Middlesbrough F.C.",
   "aliases": [
-   "MFC",
-   "Middlesbrough",
    "The Boro",
    "Middlesbrough FC",
-   "Middlesbrough Football Club"
+   "Middlesbrough Football Club",
+   "MFC",
+   "Middlesbrough"
   ],
   "venues": [
    {
@@ -3525,14 +3525,14 @@
   "qid": "Q8857",
   "name": "Málaga CF",
   "aliases": [
+   "MCF",
    "M.C.F.",
    "Malaga C.F.",
    "Málaga C.F.",
    "Malaga CF",
    "Málaga Club of Football",
    "Malaga Football Club",
-   "MálagaCF",
-   "MCF"
+   "MálagaCF"
   ],
   "venues": [
    {
@@ -3739,10 +3739,10 @@
   "qid": "Q269151",
   "name": "PEC Zwolle",
   "aliases": [
-   "PEC Zwolle '82",
-   "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
    "PEC",
-   "FC Zwolle"
+   "FC Zwolle",
+   "PEC Zwolle '82",
+   "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle"
   ],
   "venues": [
    {
@@ -3999,12 +3999,12 @@
   "qid": "Q126334",
   "name": "RC Strasbourg Alsace",
   "aliases": [
-   "Racing",
-   "Strasbourg",
-   "Racing Club de Strasbourg",
    "Racing Club de Strasbourg Alsace",
    "RCSA",
-   "Racing Strasbourg"
+   "Racing Strasbourg",
+   "Racing",
+   "Strasbourg",
+   "Racing Club de Strasbourg"
   ],
   "venues": [
    {
@@ -4154,13 +4154,13 @@
   "qid": "Q8723",
   "name": "Real Betis Balompié",
   "aliases": [
+   "Betis",
    "balompédicos",
    "Beticos, verdiblancos",
    "Real Betis",
    "Real Betis Balompié S.A.D.",
    "Real Betis football",
-   "Real Betis Soccer",
-   "Betis"
+   "Real Betis Soccer"
   ],
   "venues": [
    {
@@ -5260,14 +5260,14 @@
   "qid": "Q2768",
   "name": "Torino FC",
   "aliases": [
+   "Torino",
    "Torino F.C.",
    "Torino Football Club",
    "TorinoF.C.",
    "TorinoFC",
    "Turin F.C.",
    "Turin FC",
-   "Turin Football Club",
-   "Torino"
+   "Turin Football Club"
   ],
   "venues": [
    {
@@ -5774,16 +5774,16 @@
   "qid": "Q19500",
   "name": "Wolverhampton Wanderers F.C.",
   "aliases": [
-   "Wolves",
-   "Wolverhampton",
-   "Wanderers",
-   "WWFC",
    "Wolverhampton FC Wolves",
    "Wolverhampton Wanderers",
    "Wolverhampton Wanderers FC",
    "Wolverhampton Wanderers Football Club",
    "Wolverhampton Wolves",
-   "Wolverhampton Wolves FC"
+   "Wolverhampton Wolves FC",
+   "Wolves",
+   "Wolverhampton",
+   "Wanderers",
+   "WWFC"
   ],
   "venues": [
    {
