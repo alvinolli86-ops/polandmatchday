@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
-   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola"
+   "Florentia Viola",
+   "Fiorentina"
   ],
   "venues": [
    {
@@ -957,10 +957,10 @@
   "qid": "Q211906",
   "name": "Brøndby IF",
   "aliases": [
+   "BIF",
    "Brondby Idraetsforening",
    "Brondby IF",
-   "Brøndbyernes Idrætsforening",
-   "BIF"
+   "Brøndbyernes Idrætsforening"
   ],
   "venues": [
    {
@@ -1040,12 +1040,12 @@
   "qid": "Q838134",
   "name": "C.F. Estrela da Amadora",
   "aliases": [
-   "Estrela",
    "CF Estrela Amadora",
    "CF Estrela da Amadora",
    "Club Football Estrela da Amadora",
    "Estrela Amadora",
-   "Estrela da Amadora"
+   "Estrela da Amadora",
+   "Estrela"
   ],
   "venues": [
    {
@@ -1143,14 +1143,14 @@
   "qid": "Q19593",
   "name": "Celtic F.C.",
   "aliases": [
-   "Celtic Football Club",
-   "Celtic plc",
-   "The Bhoys",
-   "The Celtic Football Club",
    "Celtic",
    "CFC",
    "The Celts",
-   "The Hoops"
+   "The Hoops",
+   "Celtic Football Club",
+   "Celtic plc",
+   "The Bhoys",
+   "The Celtic Football Club"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
+   "GC",
+   "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich",
-   "GC",
-   "Grasshoppers"
+   "Grasshoppers Zürich"
   ],
   "venues": [
    {
@@ -2703,12 +2703,12 @@
   "qid": "Q659780",
   "name": "Grazer AK",
   "aliases": [
+   "GAK",
+   "GAK 1902",
    "Grazer A.K.",
    "Grazer AK 1902",
    "Grazer AK FuÃŸball",
-   "Grazer Athletik-Klub",
-   "GAK",
-   "GAK 1902"
+   "Grazer Athletik-Klub"
   ],
   "venues": [
    {
@@ -2964,13 +2964,13 @@
   "qid": "Q1422",
   "name": "Juventus FC",
   "aliases": [
+   "J.F.C.",
+   "Juventus F.C.",
+   "Juventus of Turin",
    "Juventus Turin",
    "JuventusF.C.",
    "JuventusFC",
-   "JuventusFootballClub",
-   "J.F.C.",
-   "Juventus F.C.",
-   "Juventus of Turin"
+   "JuventusFootballClub"
   ],
   "venues": [
    {
@@ -3375,6 +3375,10 @@
   "qid": "Q50602",
   "name": "Manchester City F.C.",
   "aliases": [
+   "Manchester City F.C. Soccer",
+   "Manchester City FC",
+   "Manchester City Football Club",
+   "MCFC",
    "City",
    "The Blues",
    "The Citizens",
@@ -3382,11 +3386,7 @@
    "Man City",
    "Sky Blues",
    "The Sky Blues",
-   "Manchester City",
-   "Manchester City F.C. Soccer",
-   "Manchester City FC",
-   "Manchester City Football Club",
-   "MCFC"
+   "Manchester City"
   ],
   "venues": [
    {
@@ -3525,14 +3525,14 @@
   "qid": "Q8857",
   "name": "Málaga CF",
   "aliases": [
+   "MCF",
    "M.C.F.",
    "Malaga C.F.",
    "Málaga C.F.",
    "Malaga CF",
    "Málaga Club of Football",
    "Malaga Football Club",
-   "MálagaCF",
-   "MCF"
+   "MálagaCF"
   ],
   "venues": [
    {
@@ -4315,11 +4315,11 @@
   "qid": "Q688300",
   "name": "S.C. Beira-Mar",
   "aliases": [
+   "Beira-Mar",
    "Beira-Mar Aveiro",
    "SC Beira Mar",
    "SC Beira-Mar",
-   "Sport Clube Beira-Mar",
-   "Beira-Mar"
+   "Sport Clube Beira-Mar"
   ],
   "venues": [
    {
@@ -4481,10 +4481,10 @@
   "qid": "Q160532",
   "name": "SC Paderborn 07",
   "aliases": [
-   "Die Ostwestfalen",
-   "Paderborn 07",
    "SCP 07",
-   "Sport-Club Paderborn 07 e.V."
+   "Sport-Club Paderborn 07 e.V.",
+   "Die Ostwestfalen",
+   "Paderborn 07"
   ],
   "venues": [
    {
@@ -4958,10 +4958,10 @@
   "qid": "Q75729",
   "name": "Sporting CP",
   "aliases": [
+   "SCP",
    "Sporting Club Portugal",
    "Sporting Lisbon",
-   "Sporting Portugal",
-   "SCP"
+   "Sporting Portugal"
   ],
   "venues": [
    {
@@ -5260,14 +5260,14 @@
   "qid": "Q2768",
   "name": "Torino FC",
   "aliases": [
-   "Torino",
    "Torino F.C.",
    "Torino Football Club",
    "TorinoF.C.",
    "TorinoFC",
    "Turin F.C.",
    "Turin FC",
-   "Turin Football Club"
+   "Turin Football Club",
+   "Torino"
   ],
   "venues": [
    {
@@ -5689,14 +5689,14 @@
   "qid": "Q18744",
   "name": "West Bromwich Albion F.C.",
   "aliases": [
-   "The Albion",
    "The Baggies",
    "The Throstles",
    "WBAFC",
    "West Brom",
    "West Bromwich Albion",
    "West Bromwich Albion FC",
-   "West Bromwich Albion Football Club"
+   "West Bromwich Albion Football Club",
+   "The Albion"
   ],
   "venues": [
    {
