@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-23T06:47+02:00",
+ "fetched": "2026-10-23T18:51+02:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1493,13 +1493,13 @@
    "round": 12,
    "home": "Motor Lublin",
    "away": "Zagłębie Lubin",
-   "date": "2026-10-23",
-   "kickoff": "2026-10-23T18:00:00+02:00",
-   "time_confirmed": true,
-   "venue": "Lublin, Motor Lublin Arena",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.motorlublin.eu/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/6b497895-2249-4414-8db9-7bc2972955c6/motor-lublin-zaglebie-lubin/"
   },
   {
