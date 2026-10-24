@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-23T18:51+02:00",
+ "fetched": "2026-10-24T06:48+02:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1493,12 +1493,12 @@
    "round": 12,
    "home": "Motor Lublin",
    "away": "Zagłębie Lubin",
-   "date": null,
-   "kickoff": null,
-   "time_confirmed": false,
+   "date": "2026-10-23",
+   "kickoff": "2026-10-23T18:00:00+02:00",
+   "time_confirmed": true,
    "venue": null,
-   "finished": false,
-   "score": null,
+   "finished": true,
+   "score": "2–2",
    "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/6b497895-2249-4414-8db9-7bc2972955c6/motor-lublin-zaglebie-lubin/"
   },
@@ -1511,10 +1511,10 @@
    "date": "2026-10-23",
    "kickoff": "2026-10-23T20:30:00+02:00",
    "time_confirmed": true,
-   "venue": "Łódź, Stadion Miejski Widzewa",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.widzew.com/",
+   "venue": null,
+   "finished": true,
+   "score": "1–1",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/8e76e65d-9825-45f9-8bd1-427fc6074a40/widzew-lodz-gornik-zabrze/"
   },
   {
