@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-24T06:48+02:00",
+ "fetched": "2026-10-24T18:44+02:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1526,10 +1526,10 @@
    "date": "2026-10-24",
    "kickoff": "2026-10-24T12:15:00+02:00",
    "time_confirmed": true,
-   "venue": "Gliwice, Stadion Miejski w Gliwicach im. Piotra Wieczorka",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.piast-gliwice.eu/",
+   "venue": null,
+   "finished": true,
+   "score": "3–1",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/341b0114-539b-44f5-9047-ca0f24420107/piast-gliwice-cracovia/"
   },
   {
@@ -1541,10 +1541,10 @@
    "date": "2026-10-24",
    "kickoff": "2026-10-24T14:45:00+02:00",
    "time_confirmed": true,
-   "venue": "Kielce, EXBUD Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.korona-kielce.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "1–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/efd811c9-3341-42cf-9f95-a36a4d871c08/korona-kielce-gks-katowice/"
   },
   {
@@ -1553,13 +1553,13 @@
    "round": 12,
    "home": "Pogoń Szczecin",
    "away": "Radomiak Radom",
-   "date": "2026-10-24",
-   "kickoff": "2026-10-24T17:30:00+02:00",
-   "time_confirmed": true,
-   "venue": "Szczecin, Stadion Miejski im. Floriana Krygiera",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.pogonszczecin.pl/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/405bd504-7ce1-4ccb-b317-ae4446b9967e/pogon-szczecin-radomiak-radom/"
   },
   {
