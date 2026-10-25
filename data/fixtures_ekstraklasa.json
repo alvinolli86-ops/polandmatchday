@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-25T05:44+01:00",
+ "fetched": "2026-10-25T17:49+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1586,10 +1586,10 @@
    "date": "2026-10-25",
    "kickoff": "2026-10-25T12:15:00+01:00",
    "time_confirmed": true,
-   "venue": "Wrocław, Tarczyński Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.slaskwroclaw.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "2–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/6bf139a0-2114-48af-81ba-b4755714599f/slask-wroclaw-wieczysta-krakow/"
   },
   {
@@ -1601,10 +1601,10 @@
    "date": "2026-10-25",
    "kickoff": "2026-10-25T14:45:00+01:00",
    "time_confirmed": true,
-   "venue": "Białystok, Chorten Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.jagiellonia.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "1–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/82ca9316-4d68-4ee2-a62c-34b634556e00/jagiellonia-bialystok-wisla-plock/"
   },
   {
@@ -1613,13 +1613,13 @@
    "round": 12,
    "home": "Legia Warszawa",
    "away": "Lech Poznań",
-   "date": "2026-10-25",
-   "kickoff": "2026-10-25T17:30:00+01:00",
-   "time_confirmed": true,
-   "venue": "Warszawa, Stadion Miejski Legii Warszawa im. Marszałka J. Piłsudskiego",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.legia.com/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/72289ea6-f744-4e8b-8919-76212264610a/legia-warszawa-lech-poznan/"
   },
   {
