@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-24T18:44+02:00",
+ "fetched": "2026-10-25T05:44+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1553,12 +1553,12 @@
    "round": 12,
    "home": "Pogoń Szczecin",
    "away": "Radomiak Radom",
-   "date": null,
-   "kickoff": null,
-   "time_confirmed": false,
+   "date": "2026-10-24",
+   "kickoff": "2026-10-24T17:30:00+02:00",
+   "time_confirmed": true,
    "venue": null,
-   "finished": false,
-   "score": null,
+   "finished": true,
+   "score": "4–3",
    "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/405bd504-7ce1-4ccb-b317-ae4446b9967e/pogon-szczecin-radomiak-radom/"
   },
@@ -1571,10 +1571,10 @@
    "date": "2026-10-24",
    "kickoff": "2026-10-24T20:15:00+02:00",
    "time_confirmed": true,
-   "venue": "Kraków, Synerise Arena - Stadion Miejski im. Henryka Reymana",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.wislakrakow.com/",
+   "venue": null,
+   "finished": true,
+   "score": "2–1",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/e568cd83-5f01-40f7-a2ae-073c5a5810b8/wisla-krakow-rakow-czestochowa/"
   },
   {
