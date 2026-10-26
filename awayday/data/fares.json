@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-25T16:43:00+00:00",
+ "fetched": "2026-10-26T04:46:07+00:00",
  "provider": "Travelpayouts Aviasales Data API v3 prices_for_dates (market=pl, currency=pln, direct only)",
  "quotes": {
   "BZG|ALC|2026-10-31|2026-11-02": {
@@ -406,15 +406,15 @@
   },
   "GDN|BGY|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 540,
+   "price": 660,
    "currency": "PLN",
    "airline": "FR",
    "flight_number": "3279",
    "departure_at": "2026-10-31T08:40:00+01:00",
    "return_at": "2026-11-01T12:25:00+01:00",
    "duration_to": 130,
-   "found_on": "2026-10-22",
-   "link": "https://www.aviasales.com/search/GDN3110BGY01111?t=FR17934360001793443800000130GDNBGY17935359001793543400000125BGYGDN_53ab30843609a88225bdc46e5426bc19_11214&search_date=22102026&expected_price_uuid=01a1633b-19ea-8030-ee33-fb930bb9ac0f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=a1OgiAt2lS1YNXjHykFwug&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/GDN3110BGY01111?t=FR17934360001793443800000130GDNBGY17935359001793543400000125BGYGDN_53ab30843609a88225bdc46e5426bc19_13501&search_date=25102026&expected_price_uuid=01a174f3-f134-8030-afb2-ebaa857c2805&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=a1OgiAt2lS1YNXjHykFwug&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=660",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "GDN|BGY|2026-10-31|2026-11-02": {
@@ -1315,15 +1315,15 @@
   },
   "GDN|MXP|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 420,
+   "price": 379,
    "currency": "PLN",
    "airline": "FR",
    "flight_number": "3116",
    "departure_at": "2026-10-31T17:30:00+01:00",
-   "return_at": "2026-11-01T21:15:00+01:00",
+   "return_at": "2026-11-01T09:20:00+01:00",
    "duration_to": 130,
-   "found_on": "2026-10-22",
-   "link": "https://www.aviasales.com/search/GDN3110MXP01111?t=W617934678001793475600000130GDNMXP17935677001793575800000135MXPGDN_90e9896da73beb793c4b31d4a8bfaacd_8720&search_date=22102026&expected_price_uuid=01a1633b-19ea-8030-ee33-fb930bb9ac0f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hX85orUE4KV2BQpV9wL9pA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=420",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/GDN3110MXP01111?t=FR17934678001793475600000130GDNMXP17935248001793532600000130MXPGDN_746e5c0fe7e17599c96a01b23f26d21f_7751&search_date=25102026&expected_price_uuid=01a174f3-f134-8030-afb2-ebaa857c2805&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PGN1mDCFFKGNGtmtNLZcHg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=379",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "GDN|MXP|2026-10-31|2026-11-02": {
@@ -1672,17 +1672,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "KRK|AMS|2026-10-30|2026-11-01": {
-   "status": "cached",
-   "price": 989,
-   "currency": "PLN",
-   "airline": "KL",
-   "flight_number": "1322",
-   "departure_at": "2026-10-30T06:00:00+01:00",
-   "return_at": "2026-11-01T21:00:00+01:00",
-   "duration_to": 125,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/KRK3010AMS01111?t=KL17933400001793347500000125KRKAMS17935668001793574000000120AMSKRK_d7b0f750263b5bd7fdfc6b0c79cb57ad_21393&search_date=18102026&expected_price_uuid=01a14feb-7b28-8031-25ff-710836d9ffac&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bnZ8IMVjKYV2TAq6_denrA&expected_price_source=share&expected_price_currency=pln&expected_price=989",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "KRK|AMS|2026-10-31|2026-11-01": {
    "status": "no_recent_fare",
@@ -2872,10 +2865,17 @@
    "note": "No cached direct fare for these exact dates."
   },
   "KRK|LIS|2026-10-30|2026-10-31": {
-   "status": "no_recent_fare",
-   "price": null,
-   "currency": null,
-   "note": "No cached direct fare for these exact dates."
+   "status": "cached",
+   "price": 1372,
+   "currency": "PLN",
+   "airline": "FR",
+   "flight_number": "4023",
+   "departure_at": "2026-10-30T14:35:00+01:00",
+   "return_at": "2026-10-31T17:05:00Z",
+   "duration_to": 250,
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/KRK3010LIS31101?t=FR17933709001793382300000250KRKLIS17934663001793484000000235LISKRK_0f73a26463e95de8dcb4be07f3d7a042_28068&search_date=25102026&expected_price_uuid=01a174ff-9225-8031-26ba-d470015b3972&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=u5rYJunD3aTPP2h0r_v-6A&expected_price_source=share&expected_price_currency=pln&expected_price=1372",
+   "note": "Cached fare found by Aviasales users, not live."
   },
   "KRK|LIS|2026-11-01|2026-11-03": {
    "status": "no_recent_fare",
@@ -3034,17 +3034,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "KRK|MAD|2026-10-30|2026-11-01": {
-   "status": "cached",
-   "price": 1064,
-   "currency": "PLN",
-   "airline": "FR",
-   "flight_number": "5515",
-   "departure_at": "2026-10-30T05:45:00+01:00",
-   "return_at": "2026-11-01T17:00:00+01:00",
-   "duration_to": 215,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/KRK3010MAD01111?t=FR17933391001793352000000215KRKMAD17935524001793564700000205MADKRK_bf42664b7bbec0f3b09715fefcdb0f98_23033&search_date=18102026&expected_price_uuid=01a14fc8-6c25-8030-6e88-b5c9fdce8918&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BLOrMYOHw_ntic41Ji5JVA&expected_price_source=share&expected_price_currency=pln&expected_price=1064",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "KRK|MAD|2026-10-31|2026-11-01": {
    "status": "no_recent_fare",
@@ -3770,17 +3763,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "KRK|ZRH|2026-10-30|2026-11-01": {
-   "status": "cached",
-   "price": 1843,
-   "currency": "PLN",
-   "airline": "LX",
-   "flight_number": "5061",
-   "departure_at": "2026-10-30T14:40:00+01:00",
-   "return_at": "2026-11-01T12:10:00+01:00",
-   "duration_to": 105,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/KRK3010ZRH01111?t=LX17933712001793377500000105KRKZRH17935350001793541300000105ZRHKRK_7fd71d188b9a931969729e51e4962438_39890&search_date=18102026&expected_price_uuid=01a14fea-5f45-8031-6a19-040c3a3d0a84&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TpNRR2gb5YUILozPbh2jig&expected_price_source=share&expected_price_currency=pln&expected_price=1843",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "KRK|ZRH|2026-10-31|2026-11-01": {
    "status": "no_recent_fare",
@@ -5372,7 +5358,7 @@
   },
   "POZ|CPH|2026-10-26|2026-10-27": {
    "status": "cached",
-   "price": 2115,
+   "price": 2112,
    "currency": "PLN",
    "airline": "RR",
    "flight_number": "8522",
@@ -5380,7 +5366,7 @@
    "return_at": "2026-10-27T23:00:00+01:00",
    "duration_to": 75,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/POZ2610CPH27101?t=SK17930427001793047200000075POZCPH17931420001793146800000080CPHPOZ_f4f482f66dc0a925a58a8961022d60e7_43299&search_date=25102026&expected_price_uuid=01a1729c-2c93-8030-22b2-819464cecad6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2n7ED3ZGelHVwUzV_TvA4A&expected_price_source=share&expected_price_currency=pln&expected_price=2115",
+   "link": "https://www.aviasales.com/search/POZ2610CPH27101?t=SK17930427001793047200000075POZCPH17931420001793146800000080CPHPOZ_f4f482f66dc0a925a58a8961022d60e7_43299&search_date=25102026&expected_price_uuid=01a1729c-2c93-8030-22b2-819464cecad6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2n7ED3ZGelHVwUzV_TvA4A&expected_price_source=share&expected_price_currency=pln&expected_price=2112",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "POZ|CPH|2026-10-29|2026-10-31": {
@@ -6623,28 +6609,28 @@
   },
   "WAW|BCN|2026-10-30|2026-11-01": {
    "status": "cached",
-   "price": 921,
+   "price": 935,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1477",
    "departure_at": "2026-10-30T15:05:00+01:00",
-   "return_at": "2026-11-01T15:25:00+01:00",
+   "return_at": "2026-11-01T10:15:00+01:00",
    "duration_to": 190,
-   "found_on": "2026-10-24",
-   "link": "https://www.aviasales.com/search/WAW3010BCN01111?t=W617933727001793384100000190WAWBCN17935467001793558100000190BCNWMI_8ff4d3f19a859c0fe865cd8f78bd884c_18827&search_date=24102026&expected_price_uuid=01a16da1-1081-8031-65d8-b25efe482181&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QhEviz9Ukl4Cj3P-557dxQ&expected_price_source=share&expected_price_currency=pln&expected_price=921",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WAW3010BCN01111?t=W617933727001793384100000190WAWBCN17935281001793539500000190BCNWAW_bfbebfcbc3f3b3321298eafc063d4cde_19169&search_date=25102026&expected_price_uuid=01a174ba-cc55-8030-e1f9-75423c63fc16&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3UINe9rS6pOy4IBRDjUXZQ&expected_price_source=share&expected_price_currency=pln&expected_price=935",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BCN|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 503,
+   "price": 771,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1477",
    "departure_at": "2026-10-31T15:05:00+01:00",
-   "return_at": "2026-11-01T10:00:00+01:00",
+   "return_at": "2026-11-01T15:25:00+01:00",
    "duration_to": 190,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110BCN01111?t=W617934591001793470500000190WAWBCN17935272001793538000000180BCNWMI_ca19e54e882a0e59798a70da9ef1d036_10929&search_date=18102026&expected_price_uuid=01a15130-c803-8030-2fe8-98936adc86a6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PD2_CKcO6Mpa-e7HZJc3_g&expected_price_source=share&expected_price_currency=pln&expected_price=503",
+   "found_on": "2026-10-23",
+   "link": "https://www.aviasales.com/search/WAW3110BCN01111?t=W617934591001793470500000190WAWBCN17935467001793558100000190BCNWMI_61570dd8802ed793c3de5f40bb8a50d1_15819&search_date=23102026&expected_price_uuid=01a16ab4-2f66-8030-254d-bc633c449c0f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ckJqtWyhjpOzFHZIxxXnPg&expected_price_source=share&expected_price_currency=pln&expected_price=771",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BER|2026-10-23|2026-10-25": {
@@ -6734,17 +6720,10 @@
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BGY|2026-10-31|2026-11-02": {
-   "status": "cached",
-   "price": 313,
-   "currency": "PLN",
-   "airline": "W6",
-   "flight_number": "1433",
-   "departure_at": "2026-10-31T17:45:00+01:00",
-   "return_at": "2026-11-02T15:05:00+01:00",
-   "duration_to": 130,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110BGY02111?t=W617934687001793476500000130WAWBGY17936319001793638800000115BGYWMI_8fdb89bad49d56eddd87a23e6756e116_6780&search_date=18102026&expected_price_uuid=01a1506d-1449-8030-e761-6a0d721234d0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=e39YmbLsxzM9Zbk9rXzD1Q&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=313",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WAW|BGY|2026-11-01|2026-11-02": {
    "status": "cached",
@@ -6774,7 +6753,7 @@
   },
   "WAW|BGY|2026-11-02|2026-11-03": {
    "status": "cached",
-   "price": 409,
+   "price": 439,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1431",
@@ -6782,7 +6761,7 @@
    "return_at": "2026-11-03T08:20:00+01:00",
    "duration_to": 130,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW0211BGY03111?t=W617935977001793605500000130WAWBGY17936940001793701200000120BGYWAW_adf4e27bdea0fbbca571f4593be17920_8500&search_date=25102026&expected_price_uuid=01a17328-6c8d-8030-e981-6da7f2bd2ea0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PvSzJ767vntoc2EupyvaQg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=409",
+   "link": "https://www.aviasales.com/search/WAW0211BGY03111?t=W617935977001793605500000130WAWBGY17936940001793701200000120BGYWAW_adf4e27bdea0fbbca571f4593be17920_8993&search_date=25102026&expected_price_uuid=01a174bf-5a06-8030-e1a4-fd5d14b252a5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PvSzJ767vntoc2EupyvaQg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=439",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BIO|2026-10-22|2026-10-24": {
@@ -6975,7 +6954,7 @@
   },
   "WAW|BRU|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 1248,
+   "price": 1246,
    "currency": "PLN",
    "airline": "LO",
    "flight_number": "235",
@@ -6983,12 +6962,12 @@
    "return_at": "2026-11-01T16:20:00+01:00",
    "duration_to": 135,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW3110BRU01111?t=LO17934312001793439300000135WAWBRU17935500001793557200000120CRLWAW_63fc9aabad0962ae332381129305551b_25955&search_date=25102026&expected_price_uuid=01a172fd-7bb0-8030-ac29-4d9efd8efd60&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7GV4blk3QMHWUWAKeedIPg&expected_price_source=share&expected_price_currency=pln&expected_price=1248",
+   "link": "https://www.aviasales.com/search/WAW3110BRU01111?t=LO17934312001793439300000135WAWBRU17935500001793557200000120CRLWAW_63fc9aabad0962ae332381129305551b_25955&search_date=25102026&expected_price_uuid=01a172fd-7bb0-8030-ac29-4d9efd8efd60&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7GV4blk3QMHWUWAKeedIPg&expected_price_source=share&expected_price_currency=pln&expected_price=1246",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BRU|2026-10-31|2026-11-02": {
    "status": "cached",
-   "price": 1118,
+   "price": 1117,
    "currency": "PLN",
    "airline": "LO",
    "flight_number": "235",
@@ -6996,12 +6975,12 @@
    "return_at": "2026-11-02T07:50:00+01:00",
    "duration_to": 135,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW3110BRU02111?t=LO17934312001793439300000135WAWBRU17936058001793613000000120BRUWAW_28c9d3cc44134a2803ecc74f10b891b0_23261&search_date=25102026&expected_price_uuid=01a172f8-4402-8030-2ca2-9e0c6e89ef11&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=AK0EECekrnl1PtUXlRsL_A&expected_price_source=share&expected_price_currency=pln&expected_price=1118",
+   "link": "https://www.aviasales.com/search/WAW3110BRU02111?t=LO17934312001793439300000135WAWBRU17936058001793613000000120BRUWAW_28c9d3cc44134a2803ecc74f10b891b0_23261&search_date=25102026&expected_price_uuid=01a172f8-4402-8030-2ca2-9e0c6e89ef11&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=AK0EECekrnl1PtUXlRsL_A&expected_price_source=share&expected_price_currency=pln&expected_price=1117",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BRU|2026-11-01|2026-11-02": {
    "status": "cached",
-   "price": 1150,
+   "price": 1148,
    "currency": "PLN",
    "airline": "LO",
    "flight_number": "235",
@@ -7009,7 +6988,7 @@
    "return_at": "2026-11-02T18:25:00+01:00",
    "duration_to": 135,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW0111BRU02111?t=LO17935176001793525700000135WAWBRU17936439001793651100000120CRLWAW_34a89958a46d88913dc2a63de1f8f792_23914&search_date=25102026&expected_price_uuid=01a172fb-f86b-8030-ec04-6bc484c55594&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=r9Dw4oHHjQjwccSS-C3Jww&expected_price_source=share&expected_price_currency=pln&expected_price=1150",
+   "link": "https://www.aviasales.com/search/WAW0111BRU02111?t=LO17935176001793525700000135WAWBRU17936439001793651100000120CRLWAW_34a89958a46d88913dc2a63de1f8f792_23914&search_date=25102026&expected_price_uuid=01a172fb-f86b-8030-ec04-6bc484c55594&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=r9Dw4oHHjQjwccSS-C3Jww&expected_price_source=share&expected_price_currency=pln&expected_price=1148",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BSL|2026-10-23|2026-10-25": {
@@ -7148,7 +7127,7 @@
   },
   "WAW|CPH|2026-10-29|2026-10-31": {
    "status": "cached",
-   "price": 1277,
+   "price": 1275,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1367",
@@ -7156,7 +7135,7 @@
    "return_at": "2026-10-31T10:25:00+01:00",
    "duration_to": 95,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW2910CPH31101?t=W617932824001793288100000095WAWCPH17934423001793447100000080CPHWAW_ed6b85f505938e396f8e437039154053_26553&search_date=25102026&expected_price_uuid=01a173b8-4d96-8030-2687-0b4be63b2509&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=46PfCqbLxbUNMF_kR24t8Q&expected_price_source=share&expected_price_currency=pln&expected_price=1277",
+   "link": "https://www.aviasales.com/search/WAW2910CPH31101?t=W617932824001793288100000095WAWCPH17934423001793447100000080CPHWAW_ed6b85f505938e396f8e437039154053_26553&search_date=25102026&expected_price_uuid=01a173b8-4d96-8030-2687-0b4be63b2509&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=46PfCqbLxbUNMF_kR24t8Q&expected_price_source=share&expected_price_currency=pln&expected_price=1275",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|CPH|2026-10-30|2026-10-31": {
@@ -7235,7 +7214,7 @@
   },
   "WAW|CRL|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 706,
+   "price": 705,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1381",
@@ -7243,7 +7222,7 @@
    "return_at": "2026-11-01T16:20:00+01:00",
    "duration_to": 135,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW3110CRL01111?t=W617934267001793434800000135WAWCRL17935500001793557200000120CRLWAW_9a335ce4281c0b891087c4edd2fa5210_14692&search_date=25102026&expected_price_uuid=01a172fd-7bb0-8030-ac29-4d9efd8efd60&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8HiZeJpNnnFTqbhGxQMZbQ&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=706",
+   "link": "https://www.aviasales.com/search/WAW3110CRL01111?t=W617934267001793434800000135WAWCRL17935500001793557200000120CRLWAW_9a335ce4281c0b891087c4edd2fa5210_14692&search_date=25102026&expected_price_uuid=01a172fd-7bb0-8030-ac29-4d9efd8efd60&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8HiZeJpNnnFTqbhGxQMZbQ&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=705",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|CRL|2026-10-31|2026-11-02": {
@@ -7261,7 +7240,7 @@
   },
   "WAW|CRL|2026-11-01|2026-11-02": {
    "status": "cached",
-   "price": 675,
+   "price": 674,
    "currency": "PLN",
    "airline": "FR",
    "flight_number": "5749",
@@ -7269,7 +7248,7 @@
    "return_at": "2026-11-02T18:25:00+01:00",
    "duration_to": 125,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WAW0111CRL02111?t=FR17935590001793566500000125WAWCRL17936439001793651100000120CRLWAW_3402dce5ce136d529526921b3f624a15_14039&search_date=25102026&expected_price_uuid=01a172fb-f86b-8030-ec04-6bc484c55594&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7osXLPip-yWtRJPbgR41Cg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=675",
+   "link": "https://www.aviasales.com/search/WAW0111CRL02111?t=FR17935590001793566500000125WAWCRL17936439001793651100000120CRLWAW_3402dce5ce136d529526921b3f624a15_14039&search_date=25102026&expected_price_uuid=01a172fb-f86b-8030-ec04-6bc484c55594&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7osXLPip-yWtRJPbgR41Cg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=674",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|DTM|2026-10-22|2026-10-24": {
@@ -7327,17 +7306,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WAW|DTM|2026-10-31|2026-11-01": {
-   "status": "cached",
-   "price": 634,
-   "currency": "PLN",
-   "airline": "W6",
-   "flight_number": "1361",
-   "departure_at": "2026-10-31T06:45:00+01:00",
-   "return_at": "2026-11-01T18:10:00+01:00",
-   "duration_to": 115,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110DTM01111?t=W617934291001793436000000115WAWDTM17935566001793562900000105DTMWAW_e3a389d58da607195b71af8890332a47_13764&search_date=18102026&expected_price_uuid=01a15134-fc5c-8030-6ac3-f3bf759cd9f7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4JSvltLCiIzBPBJTygbmjA&expected_price_source=share&expected_price_currency=pln&expected_price=634",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WAW|DUS|2026-10-22|2026-10-24": {
    "status": "no_recent_fare",
@@ -7562,15 +7534,15 @@
   },
   "WAW|FRA|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 1185,
+   "price": 1288,
    "currency": "PLN",
    "airline": "LH",
-   "flight_number": "1345",
-   "departure_at": "2026-10-31T14:35:00+01:00",
-   "return_at": "2026-11-01T12:15:00+01:00",
+   "flight_number": "4891",
+   "departure_at": "2026-10-31T09:20:00+01:00",
+   "return_at": "2026-11-01T16:00:00+01:00",
    "duration_to": 110,
-   "found_on": "2026-10-24",
-   "link": "https://www.aviasales.com/search/WAW3110FRA01111?t=LH17934573001793463900000110WAWFRA17935353001793541300000100FRAWAW_66823a08531fcda75c9ae745439378a0_24218&search_date=24102026&expected_price_uuid=01a16db7-6094-8030-e1a7-7742ed884032&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ofZekvClz-0FKO0DVtuSMA&expected_price_source=share&expected_price_currency=pln&expected_price=1185",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WAW3110FRA01111?t=LH17934384001793445000000110WAWFRA17935488001793554800000100FRAWAW_65662b148aa2989bbadc0d0083135555_26353&search_date=25102026&expected_price_uuid=01a174cd-63d8-8031-619a-93795fbfc962&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qlniVlCGI-cXsMDT5xRivQ&expected_price_source=share&expected_price_currency=pln&expected_price=1288",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|FRA|2026-10-31|2026-11-02": {
@@ -7840,15 +7812,15 @@
   },
   "WAW|LHR|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 1383,
+   "price": 1882,
    "currency": "PLN",
    "airline": "LO",
    "flight_number": "281",
    "departure_at": "2026-10-31T07:35:00+01:00",
-   "return_at": "2026-11-01T18:20:00Z",
+   "return_at": "2026-11-01T10:35:00Z",
    "duration_to": 180,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110LHR01111?t=LO17934321001793439300000180WAWLHR17935572001793570400000160LHRWAW_eaee1a37696c8a03b89a7de6c54a2e85_30038&search_date=18102026&expected_price_uuid=01a15130-c804-8031-6391-10397249464b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=eyWOg0bA78SYSphiS5m1hA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=1383",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WAW3110LHR01111?t=LO17934321001793439300000180WAWLHR17935293001793541900000150LHRWAW_f961464eb9efc9ab40b154e8ce118feb_39195&search_date=25102026&expected_price_uuid=01a17445-ff65-8030-a616-2e0989429eba&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=zEGFHiMdC2s9kKG7qq2s3Q&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=1882",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|LIS|2026-10-23|2026-10-25": {
@@ -7882,10 +7854,17 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WAW|LIS|2026-10-30|2026-10-31": {
-   "status": "no_recent_fare",
-   "price": null,
-   "currency": null,
-   "note": "No cached direct fare for these exact dates."
+   "status": "cached",
+   "price": 1662,
+   "currency": "PLN",
+   "airline": "TP",
+   "flight_number": "1207",
+   "departure_at": "2026-10-30T17:55:00+01:00",
+   "return_at": "2026-10-31T19:10:00Z",
+   "duration_to": 265,
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WAW3010LIS31101?t=TP17933829001793395200000265WAWLIS17934738001793492100000245LISWMI_70165b8405e97b69434b7369616f858a_34002&search_date=25102026&expected_price_uuid=01a174fe-f2a1-8031-6cf0-dec7a8b4d2ad&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oY1Lj5KyMYcGW8S0rOA6CQ&expected_price_source=share&expected_price_currency=pln&expected_price=1662",
+   "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|LIS|2026-11-01|2026-11-03": {
    "status": "cached",
@@ -8055,15 +8034,15 @@
   },
   "WAW|LTN|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 635,
+   "price": 767,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1301",
    "departure_at": "2026-10-31T06:00:00+01:00",
    "return_at": "2026-11-01T08:30:00Z",
    "duration_to": 160,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110LTN01111?t=W617934264001793432400000160WAWLTN17935218001793534100000145LTNWAW_fa0c92c607bfeee33711d173b0e59d0b_13786&search_date=18102026&expected_price_uuid=01a15130-c804-8031-6391-10397249464b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m94ZLncyvQec0rtzjJ0Z_g&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=635",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WAW3110LTN01111?t=W617934264001793432400000160WAWLTN17935218001793534100000145LTNWAW_fa0c92c607bfeee33711d173b0e59d0b_15963&search_date=25102026&expected_price_uuid=01a17445-ff65-8030-a616-2e0989429eba&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=m94ZLncyvQec0rtzjJ0Z_g&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=767",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|LUX|2026-10-29|2026-10-31": {
@@ -8121,17 +8100,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WAW|MAD|2026-10-31|2026-11-01": {
-   "status": "cached",
-   "price": 561,
-   "currency": "PLN",
-   "airline": "W6",
-   "flight_number": "1473",
-   "departure_at": "2026-10-31T14:05:00+01:00",
-   "return_at": "2026-11-01T12:40:00+01:00",
-   "duration_to": 230,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110MAD01111?t=W617934555001793469300000230WAWMAD17935368001793549400000210MADWMI_b39b50421a1568d85a54800c77c9c6e0_12184&search_date=18102026&expected_price_uuid=01a15130-c863-8030-a0b3-a0a190745849&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WI1byThSAaFNcfneg1iecA&expected_price_source=share&expected_price_currency=pln&expected_price=561",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WAW|MAD|2026-10-31|2026-11-02": {
    "status": "cached",
@@ -8313,17 +8285,10 @@
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|MXP|2026-10-31|2026-11-02": {
-   "status": "cached",
-   "price": 817,
-   "currency": "PLN",
-   "airline": "LO",
-   "flight_number": "317",
-   "departure_at": "2026-10-31T07:30:00+01:00",
-   "return_at": "2026-11-02T19:50:00+01:00",
-   "duration_to": 135,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WAW3110MXP02111?t=LO17934318001793439900000135WAWMXP17936490001793656500000125MXPWAW_5406286cc840a51af52e330c3cd2ec51_17679&search_date=18102026&expected_price_uuid=01a1506d-1449-8030-e761-6a0d721234d0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=WZQKLZh7aUPRStEFARVLaA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=817",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WAW|MXP|2026-11-01|2026-11-02": {
    "status": "cached",
@@ -8571,10 +8536,17 @@
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|PRG|2026-10-31|2026-11-02": {
-   "status": "no_recent_fare",
-   "price": null,
-   "currency": null,
-   "note": "No cached direct fare for these exact dates."
+   "status": "cached",
+   "price": 1283,
+   "currency": "PLN",
+   "airline": "LO",
+   "flight_number": "521",
+   "departure_at": "2026-10-31T16:00:00+01:00",
+   "return_at": "2026-11-02T19:40:00+01:00",
+   "duration_to": 75,
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WAW3110PRG02111?t=LO17934624001793466900000075WAWPRG17936484001793652900000075PRGWAW_052b6b5c5f09d1fbf295556cd8c405df_26257&search_date=25102026&expected_price_uuid=01a1750c-7349-8030-aa01-a3fe1a29db76&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=Hea6K3SkLCflOef96yB8vg&expected_price_source=share&expected_price_currency=pln&expected_price=1283",
+   "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|PRG|2026-11-01|2026-11-02": {
    "status": "no_recent_fare",
@@ -8890,28 +8862,28 @@
   },
   "WMI|BCN|2026-10-30|2026-11-01": {
    "status": "cached",
-   "price": 830,
+   "price": 902,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1411",
    "departure_at": "2026-10-30T11:30:00+01:00",
-   "return_at": "2026-11-01T15:25:00+01:00",
+   "return_at": "2026-11-01T17:35:00+01:00",
    "duration_to": 190,
-   "found_on": "2026-10-24",
-   "link": "https://www.aviasales.com/search/WMI3010BCN01111?t=W617933598001793371200000190WMIBCN17935467001793558100000190BCNWMI_bca76bf5ddd3ffc864b4cee479105df5_16971&search_date=24102026&expected_price_uuid=01a16da1-1081-8031-65d8-b25efe482181&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=k2UrrHD0y-RmZPy_tjeHsg&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=pln&expected_price=830",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WMI3010BCN01111?t=W617933598001793371200000190WMIBCN17935545001793565300000180BCNWMI_0b9ca0ebb0da30efeb2083679d02c875_18488&search_date=25102026&expected_price_uuid=01a174ba-cc55-8030-e1f9-75423c63fc16&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=y3Q-RksOcr3AJlyDLaRavw&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=pln&expected_price=902",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WMI|BCN|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 436,
+   "price": 673,
    "currency": "PLN",
    "airline": "FR",
    "flight_number": "4083",
    "departure_at": "2026-10-31T15:30:00+01:00",
-   "return_at": "2026-11-01T10:00:00+01:00",
+   "return_at": "2026-11-01T15:25:00+01:00",
    "duration_to": 185,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WMI3110BCN01111?t=FR17934606001793471700000185WMIBCN17935272001793538000000180BCNWMI_4f05221f1ec639aaff6ca42ca8931159_9479&search_date=18102026&expected_price_uuid=01a15130-c803-8030-2fe8-98936adc86a6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lZK7_iu07yVGoVDeNXmReA&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=pln&expected_price=436",
+   "found_on": "2026-10-23",
+   "link": "https://www.aviasales.com/search/WMI3110BCN01111?t=W617934606001793471700000185WMIBCN17935467001793558100000190BCNWMI_6cc2a89d48848f773bccd742b4adf91c_13817&search_date=23102026&expected_price_uuid=01a16ab4-2f66-8030-254d-bc633c449c0f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ZMC8MEaze2sb8rFiaMdZnA&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=pln&expected_price=673",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WMI|BDS|2026-10-24|2026-10-26": {
@@ -8989,17 +8961,10 @@
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WMI|BGY|2026-10-31|2026-11-02": {
-   "status": "cached",
-   "price": 286,
-   "currency": "PLN",
-   "airline": "FR",
-   "flight_number": "3340",
-   "departure_at": "2026-10-31T19:20:00+01:00",
-   "return_at": "2026-11-02T15:05:00+01:00",
-   "duration_to": 125,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WMI3110BGY02111?t=FR17934744001793481900000125WMIBGY17936319001793638800000115BGYWMI_61d7d99e8ede8d0fcd548de489b51fc6_6179&search_date=18102026&expected_price_uuid=01a1506d-1449-8030-e761-6a0d721234d0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4ULt4HYjFK4SS5nNyR0Zfw&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=286",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WMI|BGY|2026-11-01|2026-11-02": {
    "status": "cached",
@@ -9029,15 +8994,15 @@
   },
   "WMI|BGY|2026-11-02|2026-11-03": {
    "status": "cached",
-   "price": 281,
+   "price": 274,
    "currency": "PLN",
-   "airline": "MW",
-   "flight_number": "1904",
-   "departure_at": "2026-11-02T17:25:00+01:00",
-   "return_at": "2026-11-03T19:05:00+01:00",
+   "airline": "FR",
+   "flight_number": "3340",
+   "departure_at": "2026-11-02T06:35:00+01:00",
+   "return_at": "2026-11-03T11:05:00+01:00",
    "duration_to": 125,
    "found_on": "2026-10-25",
-   "link": "https://www.aviasales.com/search/WMI0211BGY03111?t=FR17936403001793647800000125WMIBGY17937327001793739600000115BGYWMI_f4a618c79b6c99245fbbc4de2f9e8d50_5853&search_date=25102026&expected_price_uuid=01a17328-6c8d-8030-e981-6da7f2bd2ea0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=qdlSUcKHfYF-PnsMB2XKRA&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=281",
+   "link": "https://www.aviasales.com/search/WMI0211BGY03111?t=FR17936013001793608800000125WMIBGY17937039001793710800000115BGYWMI_3c303256af7c4c4c81ec382d080f0a93_5607&search_date=25102026&expected_price_uuid=01a174bf-5a06-8030-e1a4-fd5d14b252a5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9syJmsxjzychGEFrUXJb0Q&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=274",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WMI|BHX|2026-10-23|2026-10-25": {
@@ -9514,17 +9479,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WMI|MAD|2026-10-31|2026-11-01": {
-   "status": "cached",
-   "price": 325,
-   "currency": "PLN",
-   "airline": "FR",
-   "flight_number": "1063",
-   "departure_at": "2026-10-31T17:25:00+01:00",
-   "return_at": "2026-11-01T12:40:00+01:00",
-   "duration_to": 225,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WMI3110MAD01111?t=FR17934675001793481000000225WMIMAD17935368001793549400000210MADWMI_28c937e8f53f78d207d93d3ce5868d7a_7056&search_date=18102026&expected_price_uuid=01a15130-c863-8030-a0b3-a0a190745849&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AjGt65--HETFhXFLnHBICg&origin_airports=0&destination_airports=1&expected_price_source=share&expected_price_currency=pln&expected_price=325",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WMI|MAD|2026-10-31|2026-11-02": {
    "status": "cached",
@@ -9639,17 +9597,10 @@
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WMI|MXP|2026-10-31|2026-11-02": {
-   "status": "cached",
-   "price": 290,
-   "currency": "PLN",
-   "airline": "FR",
-   "flight_number": "5820",
-   "departure_at": "2026-10-31T14:15:00+01:00",
-   "return_at": "2026-11-02T08:55:00+01:00",
-   "duration_to": 130,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WMI3110MXP02111?t=FR17934561001793463900000130WMIMXP17936097001793617200000125MXPWMI_94f20e516df867090ba8f879e8eb098f_6265&search_date=18102026&expected_price_uuid=01a1506d-1449-8030-e761-6a0d721234d0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GPjmv4L2hptiaf7sNPa61Q&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=290",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WMI|MXP|2026-11-01|2026-11-02": {
    "status": "cached",
@@ -9775,15 +9726,15 @@
   },
   "WMI|STN|2026-10-31|2026-11-01": {
    "status": "cached",
-   "price": 648,
+   "price": 1019,
    "currency": "PLN",
    "airline": "FR",
    "flight_number": "1022",
    "departure_at": "2026-10-31T10:10:00+01:00",
-   "return_at": "2026-11-01T14:10:00Z",
+   "return_at": "2026-11-01T18:55:00Z",
    "duration_to": 150,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WMI3110STN01111?t=FR17934414001793446800000150WMISTN17935422001793553900000135STNWMI_b9c631a1c353f9d6d3e6465a80d92663_14067&search_date=18102026&expected_price_uuid=01a15130-c804-8031-6391-10397249464b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QGCrh-zRkDtGiblrM4flHQ&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=647",
+   "found_on": "2026-10-25",
+   "link": "https://www.aviasales.com/search/WMI3110STN01111?t=FR17934414001793446800000150WMISTN17935593001793571000000135STNWMI_4bb3d340c872c8cd729bcb4df85b688b_21211&search_date=25102026&expected_price_uuid=01a17445-ff65-8030-a616-2e0989429eba&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-ck-HhLtxbbCfUmD0wTygA&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=1019",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WMI|TSF|2026-10-24|2026-10-26": {
@@ -9854,17 +9805,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WRO|ALC|2026-10-31|2026-11-02": {
-   "status": "cached",
-   "price": 766,
-   "currency": "PLN",
-   "airline": "FR",
-   "flight_number": "9876",
-   "departure_at": "2026-10-31T17:40:00+01:00",
-   "return_at": "2026-11-02T10:15:00+01:00",
-   "duration_to": 195,
-   "found_on": "2026-10-18",
-   "link": "https://www.aviasales.com/search/WRO3110ALC02111?t=FR17934684001793480100000195WROALC17936145001793625900000190ALCWRO_76c7b51b4fbc10dfb4214b35eb0c3af9_16575&search_date=18102026&expected_price_uuid=01a14feb-8719-8030-a45e-865c73c3d957&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=o0W_E4z6xItKJUxWwWJ5Fw&expected_price_source=share&expected_price_currency=pln&expected_price=766",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WRO|ALC|2026-11-01|2026-11-02": {
    "status": "no_recent_fare",
