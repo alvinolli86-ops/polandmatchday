@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30T06:03+01:00",
+ "fetched": "2026-10-30T18:03+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1628,13 +1628,13 @@
    "round": 13,
    "home": "Cracovia",
    "away": "Motor Lublin",
-   "date": "2026-10-30",
-   "kickoff": "2026-10-30T18:00:00+01:00",
-   "time_confirmed": true,
-   "venue": "Kraków, Stadion Cracovii im. Józefa Piłsudskiego",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.cracovia.pl/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/57f602e6-9024-4a23-b944-7aadb9f12e15/cracovia-motor-lublin/"
   },
   {
