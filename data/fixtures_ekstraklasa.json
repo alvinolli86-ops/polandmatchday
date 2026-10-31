@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-31T06:00+01:00",
+ "fetched": "2026-10-31T17:53+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1661,10 +1661,10 @@
    "date": "2026-10-31",
    "kickoff": "2026-10-31T12:15:00+01:00",
    "time_confirmed": true,
-   "venue": "Płock, Orlen Stadion",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.wisla-plock.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "2–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/78c0970a-099e-43d4-b6b9-a7ac69a02a3b/wisla-plock-piast-gliwice/"
   },
   {
@@ -1676,10 +1676,10 @@
    "date": "2026-10-31",
    "kickoff": "2026-10-31T14:45:00+01:00",
    "time_confirmed": true,
-   "venue": "Kraków, Synerise Arena - Stadion Miejski im. Henryka Reymana",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.kswieczysta.com/",
+   "venue": null,
+   "finished": true,
+   "score": "1–3",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/0e3f3ebd-022e-4342-adb0-b440e5c294df/wieczysta-krakow-jagiellonia-bialystok/"
   },
   {
@@ -1688,13 +1688,13 @@
    "round": 13,
    "home": "Lech Poznań",
    "away": "Wisła Kraków",
-   "date": "2026-10-31",
-   "kickoff": "2026-10-31T17:30:00+01:00",
-   "time_confirmed": true,
-   "venue": "Poznań, Enea Stadion",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.lechpoznan.pl/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/de39766a-9b0c-4b73-a64a-a2f2fd9325fc/lech-poznan-wisla-krakow/"
   },
   {
