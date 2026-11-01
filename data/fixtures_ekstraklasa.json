@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-31T17:53+01:00",
+ "fetched": "2026-11-01T06:05+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1688,12 +1688,12 @@
    "round": 13,
    "home": "Lech Poznań",
    "away": "Wisła Kraków",
-   "date": null,
-   "kickoff": null,
-   "time_confirmed": false,
+   "date": "2026-10-31",
+   "kickoff": "2026-10-31T17:30:00+01:00",
+   "time_confirmed": true,
    "venue": null,
-   "finished": false,
-   "score": null,
+   "finished": true,
+   "score": "3–1",
    "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/de39766a-9b0c-4b73-a64a-a2f2fd9325fc/lech-poznan-wisla-krakow/"
   },
@@ -1706,10 +1706,10 @@
    "date": "2026-10-31",
    "kickoff": "2026-10-31T20:15:00+01:00",
    "time_confirmed": true,
-   "venue": "Katowice, Arena Katowice",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.gkskatowice.eu/",
+   "venue": null,
+   "finished": true,
+   "score": "3–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/42b84d2c-ed49-43ec-8baa-da622df92125/gks-katowice-widzew-lodz/"
   },
   {
