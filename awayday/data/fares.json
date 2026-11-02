@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-02T05:09:26+00:00",
+ "fetched": "2026-11-02T17:12:36+00:00",
  "provider": "Travelpayouts Aviasales Data API v3 prices_for_dates (market=pl, currency=pln, direct only)",
  "quotes": {
   "BZG|ALC|2026-10-31|2026-11-02": {
@@ -6549,17 +6549,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WAW|BGY|2026-11-02|2026-11-03": {
-   "status": "cached",
-   "price": 607,
-   "currency": "PLN",
-   "airline": "W6",
-   "flight_number": "1433",
-   "departure_at": "2026-11-02T17:45:00+01:00",
-   "return_at": "2026-11-03T08:20:00+01:00",
-   "duration_to": 130,
-   "found_on": "2026-11-01",
-   "link": "https://www.aviasales.com/search/WAW0211BGY03111?t=W617936415001793649300000130WAWBGY17936940001793701200000120BGYWAW_547c0b8c8fb191e52b3e04130a769c74_12344&search_date=01112026&expected_price_uuid=01a197f1-5dc6-8030-e446-ea52fb5bd7ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dKombZ0Fa38Zi4n6UTM1MA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=607",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WAW|BIO|2026-10-22|2026-10-24": {
    "status": "no_recent_fare",
