@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01T16:47:07+00:00",
+ "fetched": "2026-11-02T05:09:26+00:00",
  "provider": "Travelpayouts Aviasales Data API v3 prices_for_dates (market=pl, currency=pln, direct only)",
  "quotes": {
   "BZG|ALC|2026-10-31|2026-11-02": {
@@ -6550,7 +6550,7 @@
   },
   "WAW|BGY|2026-11-02|2026-11-03": {
    "status": "cached",
-   "price": 603,
+   "price": 607,
    "currency": "PLN",
    "airline": "W6",
    "flight_number": "1433",
@@ -6558,7 +6558,7 @@
    "return_at": "2026-11-03T08:20:00+01:00",
    "duration_to": 130,
    "found_on": "2026-11-01",
-   "link": "https://www.aviasales.com/search/WAW0211BGY03111?t=W617936415001793649300000130WAWBGY17936940001793701200000120BGYWAW_547c0b8c8fb191e52b3e04130a769c74_12344&search_date=01112026&expected_price_uuid=01a197f1-5dc6-8030-e446-ea52fb5bd7ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dKombZ0Fa38Zi4n6UTM1MA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=603",
+   "link": "https://www.aviasales.com/search/WAW0211BGY03111?t=W617936415001793649300000130WAWBGY17936940001793701200000120BGYWAW_547c0b8c8fb191e52b3e04130a769c74_12344&search_date=01112026&expected_price_uuid=01a197f1-5dc6-8030-e446-ea52fb5bd7ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dKombZ0Fa38Zi4n6UTM1MA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=607",
    "note": "Cached fare found by Aviasales users, not live."
   },
   "WAW|BIO|2026-10-22|2026-10-24": {
@@ -6892,17 +6892,10 @@
    "note": "No cached direct fare for these exact dates."
   },
   "WAW|CPH|2026-11-01|2026-11-02": {
-   "status": "cached",
-   "price": 2404,
-   "currency": "PLN",
-   "airline": "SK",
-   "flight_number": "2752",
-   "departure_at": "2026-11-01T19:45:00+01:00",
-   "return_at": "2026-11-02T08:15:00+01:00",
-   "duration_to": 85,
-   "found_on": "2026-10-27",
-   "link": "https://www.aviasales.com/search/WAW0111CPH02111?t=SK17935623001793567400000085WAWCPH17936073001793612100000080CPHWAW_0811092838ac0df8d9d224f3bcd252d2_48965&search_date=27102026&expected_price_uuid=01a17e28-9e0a-8030-2e36-8e3ec02cd229&static_fare_key=TY%7CP1%7CH0%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=c6sQGxX9IHhANmA0PwdmFw&expected_price_source=share&expected_price_currency=pln&expected_price=2404",
-   "note": "Cached fare found by Aviasales users, not live."
+   "status": "no_recent_fare",
+   "price": null,
+   "currency": null,
+   "note": "No cached direct fare for these exact dates."
   },
   "WAW|CRL|2026-10-23|2026-10-25": {
    "status": "no_recent_fare",
