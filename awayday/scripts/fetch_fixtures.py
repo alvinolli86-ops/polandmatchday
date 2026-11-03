@@ -18,17 +18,27 @@ LEAGUES = [  # (TheSportsDB id, name, country tz, openfootball code)
  (4340,"Danish Superliga","Europe/Copenhagen",None)]
 SEASON = "2026-2027"
 
-def get(url, tries=2):
-    """One retry. A 429 must not burn the whole job; an incomplete run keeps the last file."""
+_cool_until = 0.0
+
+def get(url, tries=4):
+    """Retry a 429 after a shared cooldown. The free key is often saturated."""
+    global _cool_until
     for i in range(tries):
+        wait = _cool_until - time.time()
+        if wait > 0:
+            time.sleep(wait)
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "AwayDayPrototype/0.1"})
             return json.load(urllib.request.urlopen(req, timeout=30))
         except urllib.error.HTTPError as e:
-            if i == tries - 1: raise
-            time.sleep(8 if e.code == 429 else 3)
+            if e.code == 429:
+                _cool_until = time.time() + 20
+            if i == tries - 1:
+                raise
+            time.sleep(20 if e.code == 429 else 3)
         except Exception:
-            if i == tries - 1: raise
+            if i == tries - 1:
+                raise
             time.sleep(3)
 
 def key(s):
@@ -71,13 +81,40 @@ def recheck():
     json.dump(out, open(f"{BASE}/data/fixtures.json", "w"), ensure_ascii=False, indent=1)
 
 def window(today):
-    # next two Fri-Mon weekends
-    fri = today + dt.timedelta(days=(4 - today.weekday()) % 7)
-    return [(fri + dt.timedelta(days=7*i), fri + dt.timedelta(days=7*i + 3)) for i in range(2)]
+    """The Fri–Mon block that still has today in it, plus the next one.
+
+    Tuesday–Thursday look ahead to the coming Friday. Monday stays with the
+    weekend that ends today. Matches before today are dropped by the caller.
+    """
+    wd = today.weekday()  # Mon=0
+    if wd >= 4:  # Fri, Sat, Sun
+        fri = today - dt.timedelta(days=wd - 4)
+    elif wd == 0:  # Monday
+        fri = today - dt.timedelta(days=3)
+    else:
+        fri = today + dt.timedelta(days=4 - wd)
+    return [(fri + dt.timedelta(days=7 * i), fri + dt.timedelta(days=7 * i + 3)) for i in range(2)]
+
+def in_window(date_str, start, end, today):
+    d = dt.date.fromisoformat(str(date_str)[:10])
+    return start <= d <= end and d >= today
+
+def fri_mon(d):
+    """Fri–Mon block containing this date, or None for Tue–Thu."""
+    wd = d.weekday()
+    if wd >= 4:
+        fri = d - dt.timedelta(days=wd - 4)
+    elif wd == 0:
+        fri = d - dt.timedelta(days=3)
+    else:
+        return None
+    return fri, fri + dt.timedelta(days=3)
 
 def main():
     today = dt.date.today()
-    weekends = window(today); start, end = weekends[0][0], weekends[-1][1]
+    # Look far enough to skip an empty international weekend, then keep two blocks.
+    horizon = today + dt.timedelta(days=42)
+    weekends = window(today); start, end = weekends[0][0], horizon
     out = {"generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
            "window": [str(start), str(end)], "weekends": [[str(a), str(b)] for a, b in weekends],
            "sources": {"primary": "TheSportsDB v1 free key 123", "crosscheck": "openfootball/football.json"},
@@ -98,8 +135,8 @@ def main():
                 except Exception as ex:
                     info["errors"].append(f"round {r}: {ex}"); continue
                 info["rounds_fetched"].append(r); evs += e
-                if e and max(x["dateEvent"] for x in e) < str(start): continue
-                if e and min(x["dateEvent"] for x in e) > str(end): break
+                if e and max(x["dateEvent"] for x in e) < str(today): continue
+                if e and min(x["dateEvent"] for x in e) > str(horizon): break
         ofb_matches = []
         if ofb:
             try:
@@ -114,7 +151,7 @@ def main():
             if not ts: continue
             utc = dt.datetime.fromisoformat(ts).replace(tzinfo=dt.timezone.utc)
             local = utc.astimezone(ZoneInfo(tz)); pl = utc.astimezone(PL)
-            if not (str(start) <= str(local.date()) <= str(end)): continue
+            if local.date() < today or local.date() > horizon or not fri_mon(local.date()): continue
             status = e.get("strStatus") or ""
             flags = []
             if (e.get("strPostponed") or "no").lower() != "no" or status in ("PST", "Postponed", "CANC"): flags.append("postponed/cancelled")
@@ -127,19 +164,45 @@ def main():
             out["matches"].append(m); info["matches"] += 1
         out["leagues"][lname] = info
         print(lname, info, file=sys.stderr)
-    out["matches"].sort(key=lambda m: m["kickoff_utc"])
     path = f"{BASE}/data/fixtures.json"
+    # A failed league may keep previous matches that are still on a future weekend.
     if os.path.exists(path):
         prev = json.load(open(path))
-        dropped = []
+        have = {m["league"] for m in out["matches"]}
+        for name, info in list(out["leagues"].items()):
+            if not (info["errors"] and info["matches"] == 0):
+                continue
+            kept = []
+            for m in prev.get("matches") or []:
+                if m.get("league") != name:
+                    continue
+                d = dt.date.fromisoformat(m["date_local"])
+                if d >= today and fri_mon(d):
+                    kept.append(m)
+            if kept:
+                out["matches"].extend(kept)
+                info["kept_previous"] = len(kept)
+                print(f"{name}: fetch failed; kept {len(kept)} future matches", file=sys.stderr)
+    blocks = []
+    for m in sorted(out["matches"], key=lambda m: m["date_local"]):
+        block = fri_mon(dt.date.fromisoformat(m["date_local"]))
+        if block and block not in blocks:
+            blocks.append(block)
+    blocks = blocks[:2]
+    if blocks:
+        out["weekends"] = [[str(a), str(b)] for a, b in blocks]
+        out["window"] = [str(blocks[0][0]), str(blocks[-1][1])]
+        def in_blocks(date_str):
+            block = fri_mon(dt.date.fromisoformat(date_str))
+            return bool(block) and [str(block[0]), str(block[1])] in out["weekends"]
+        out["matches"] = [m for m in out["matches"] if in_blocks(m["date_local"])]
         for name, info in out["leagues"].items():
-            old_n = ((prev.get("leagues") or {}).get(name) or {}).get("matches") or 0
-            if info["errors"] and info["matches"] < old_n:
-                dropped.append(f"{name} {info['matches']}/{old_n}")
-        prev_n = len(prev.get("matches") or [])
-        if dropped or (prev_n and len(out["matches"]) < 0.6 * prev_n and any(i["errors"] for i in out["leagues"].values())):
-            print("incomplete TheSportsDB fetch; keeping last committed fixtures:", "; ".join(dropped) or f"{len(out['matches'])}/{prev_n}", file=sys.stderr)
-            sys.exit(1)
+            info["matches"] = sum(1 for m in out["matches"] if m["league"] == name)
+    out["matches"].sort(key=lambda m: m["kickoff_utc"])
+    print(f"weekends {out['weekends']}: {len(out['matches'])} matches", file=sys.stderr)
+    if not out["matches"] and out["leagues"] and all(i.get("errors") for i in out["leagues"].values()):
+        print("every league failed and nothing in the new window could be kept; leaving the previous fixtures file", file=sys.stderr)
+        sys.exit(1)
     tmp = path + ".tmp"
     json.dump(out, open(tmp, "w"), ensure_ascii=False, indent=1)
     os.replace(tmp, path)

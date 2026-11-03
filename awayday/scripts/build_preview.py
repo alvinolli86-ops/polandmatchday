@@ -44,6 +44,30 @@ def ecb_pln_per_eur():
     except Exception:
         return None, None
 
+def pick_fare(Q, origin, dest, match_day, kickoff_utc):
+    """Exact trip first (out on D-1 or D, back on D+1). Else ±1 day, still direct.
+
+    Outbound never moves to the day after the match. A match-day flight still
+    has to land at least 3 hours before kickoff.
+    """
+    found = []
+    for od in (-1, 0, -2):
+        out = match_day + dt.timedelta(days=od)
+        for rd in (1, 2):
+            ret = match_day + dt.timedelta(days=rd)
+            q = Q.get(f"{origin}|{dest}|{out.isoformat()}|{ret.isoformat()}")
+            if not q or q.get("status") != "cached":
+                continue
+            if out == match_day and not feasible_matchday(q, kickoff_utc):
+                continue
+            slip = (0 if od in (-1, 0) else 1) + (0 if rd == 1 else 1)
+            kind = "match day" if out == match_day else ("day before" if od == -1 else "flexible")
+            found.append((slip, q["price"], {**q, "out_date": out.isoformat(), "ret_date": ret.isoformat(), "out_kind": kind}))
+    if not found:
+        return None
+    found.sort(key=lambda item: (item[0], item[1]))
+    return found[0][2]
+
 def feasible_matchday(q, kickoff_utc):
     """Match-day outbound only counts if it lands MATCHDAY_BUFFER_H before kickoff (needs departure time + duration)."""
     if not q.get("departure_at") or not q.get("duration_to"): return False
@@ -72,13 +96,7 @@ def main():
                 if not dest or dest.get("charter_only"): continue
                 als = active_airlines(dest, d - dt.timedelta(days=1), ret)
                 if not als: continue
-                opts = []
-                for dep, kind in ((d - dt.timedelta(days=1), "day before"), (d, "match day")):
-                    q = Q.get(f"{o}|{ap['iata']}|{dep}|{ret}")
-                    if not q or q.get("status") != "cached": continue
-                    if kind == "match day" and not feasible_matchday(q, m["kickoff_utc"]): continue
-                    opts.append({**q, "out_date": str(dep), "ret_date": str(ret), "out_kind": kind})
-                best = min(opts, key=lambda q: q["price"]) if opts else None
+                best = pick_fare(Q, o, ap["iata"], d, m["kickoff_utc"])
                 legs.append({"origin": o, "dest": ap["iata"], "dest_name": ap["name"], "km_to_stadium": ap["km"],
                              "airlines": [clean(a) for a in als], "seasonal_flag": dest["seasonal_only"], "fare": best,
                              "checked": any(f"{o}|{ap['iata']}|{dep}|{ret}" in Q for dep in (d - dt.timedelta(days=1), d)),
@@ -96,7 +114,8 @@ def main():
         prev = json.load(open(path))
         old_n = len(prev.get("trips") or [])
         fx_errors = any((info or {}).get("errors") for info in (fx.get("leagues") or {}).values())
-        if old_n and len(trips) < old_n * 0.6 and fx_errors:
+        same_window = prev.get("weekends") == fx.get("weekends")
+        if same_window and old_n and len(trips) < old_n * 0.6 and fx_errors:
             print(f"refusing to shrink trips {old_n} -> {len(trips)}; keeping last trips.json", file=sys.stderr)
             sys.exit(1)
     tmp = path + ".tmp"

@@ -27,10 +27,13 @@ class TravelpayoutsProvider:
             wait = self._last + self._gap - time.time()
             if wait > 0: time.sleep(wait)
             self._last = time.time()
-    def raw(self, origin, dest, depart, ret):
+    def raw(self, origin, dest, depart, ret, limit=30):
         q = {"origin": origin, "destination": dest, "departure_at": depart, "return_at": ret,
              "one_way": "false", "direct": "true", "sorting": "price", "currency": self.currency,
-             "market": self.market, "limit": 30}
+             "market": self.market, "limit": limit}
+        return self._fetch(q)
+
+    def _fetch(self, q):
         for attempt in range(4):
             self._throttle()
             req = urllib.request.Request(self.URL + "?" + urllib.parse.urlencode(q), headers={"X-Access-Token": self._t})
@@ -65,6 +68,54 @@ class TravelpayoutsProvider:
                 "duration_to": r.get("duration_to"), "found_on": found,
                 "link": "https://www.aviasales.com" + r["link"] if r.get("link") else None,
                 "note": "Cached fare found by Aviasales users, not live."}
+
+    def month_offers(self, origin, dest, depart_month, return_month):
+        """Cheapest direct round trips in a month. departure_at accepts YYYY-MM.
+
+        Used when an exact date has nothing in the cache. Callers keep an offer
+        only when its dates sit within a day of the match trip.
+        """
+        d = self.raw(origin, dest, depart_month, return_month, limit=200)
+        if not d.get("success", True) and d.get("error"):
+            return []
+        offers = []
+        for r in d.get("data") or []:
+            if r.get("origin_airport") != origin or r.get("destination_airport") != dest:
+                continue
+            if r.get("transfers", 0) != 0 or r.get("return_transfers", 0) != 0:
+                continue
+            dates = link_dates(r.get("link"))
+            if not dates:
+                continue
+            out_d = _ddmm(dates[0], depart_month)
+            ret_d = _ddmm(dates[1], return_month)
+            if not out_d or not ret_d or ret_d <= out_d:
+                continue
+            m = re.search(r"search_date=(\d{2})(\d{2})(\d{4})", r.get("link") or "")
+            found = f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else None
+            offers.append({
+                "status": "cached", "price": r["price"],
+                "currency": (d.get("currency") or self.currency).upper(),
+                "airline": r.get("airline"), "flight_number": r.get("flight_number"),
+                "departure_at": r.get("departure_at"), "return_at": r.get("return_at"),
+                "duration_to": r.get("duration_to"), "found_on": found,
+                "link": "https://www.aviasales.com" + r["link"] if r.get("link") else None,
+                "out_date": out_d.isoformat(), "ret_date": ret_d.isoformat(),
+                "note": "Cached fare for a nearby date. The exact match-day pair had nothing in the cache.",
+            })
+        return offers
+
+def _ddmm(ddmm, month_hint):
+    """ddmm from an Aviasales path, year taken from the YYYY-MM we queried."""
+    try:
+        year = int(str(month_hint)[:4])
+        hint_m = int(str(month_hint)[5:7])
+        day, mon = int(ddmm[:2]), int(ddmm[2:4])
+        if mon + 6 < hint_m:
+            year += 1
+        return dt.date(year, mon, day)
+    except ValueError:
+        return None
 
 def get_provider():
     tok = os.environ.get("TRAVELPAYOUTS_TOKEN")
