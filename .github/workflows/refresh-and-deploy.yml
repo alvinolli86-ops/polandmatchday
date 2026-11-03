@@ -43,15 +43,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # Fixtures first, then fares, so a slow fare fetch cannot freeze the
-      # weekend window. 14 minutes covers a rate-limited TheSportsDB retry
-      # plus the fare calls. A killed step still keeps files already written.
-      - name: Refresh Away Day trips
+      # Separate steps so a slow fixture fetch cannot skip the fare update.
+      # A killed fixture step leaves the last file, which already drops past dates.
+      - name: Refresh Away Day fixtures
         continue-on-error: true
-        timeout-minutes: 14
+        timeout-minutes: 8
+        run: bash awayday/run_all.sh fixtures
+
+      - name: Refresh Away Day fares
+        continue-on-error: true
+        timeout-minutes: 8
         env:
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
-        run: bash awayday/run_all.sh
+        run: bash awayday/run_all.sh fares
 
       - name: Refresh fixtures
         continue-on-error: true

@@ -20,22 +20,22 @@ SEASON = "2026-2027"
 
 _cool_until = 0.0
 
-def get(url, tries=4):
-    """Retry a 429 after a shared cooldown. The free key is often saturated."""
+def get(url, tries=2):
+    """One retry after a short cooldown. A saturated key must not eat the whole job."""
     global _cool_until
     for i in range(tries):
         wait = _cool_until - time.time()
         if wait > 0:
-            time.sleep(wait)
+            time.sleep(min(wait, 12))
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "AwayDayPrototype/0.1"})
             return json.load(urllib.request.urlopen(req, timeout=30))
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                _cool_until = time.time() + 20
+                _cool_until = time.time() + 12
             if i == tries - 1:
                 raise
-            time.sleep(20 if e.code == 429 else 3)
+            time.sleep(12 if e.code == 429 else 3)
         except Exception:
             if i == tries - 1:
                 raise
@@ -126,17 +126,29 @@ def main():
             r0 = int(nxt[0]["intRound"]) if nxt and nxt[0].get("intRound") else None
         except Exception as e:
             info["errors"].append(f"next: {e}"); r0 = None
-        evs = []
+        evs, blocks = [], []
         if r0:
-            for r in range(r0, r0 + 16):
+            for r in range(r0, r0 + 8):
                 time.sleep(2.2)  # free key ~30 req/min
                 try:
                     e = (get(f"https://www.thesportsdb.com/api/v1/json/{KEY}/eventsround.php?id={lid}&r={r}&s={SEASON}") or {}).get("events") or []
                 except Exception as ex:
                     info["errors"].append(f"round {r}: {ex}"); continue
                 info["rounds_fetched"].append(r); evs += e
-                if e and max(x["dateEvent"] for x in e) < str(today): continue
-                if e and min(x["dateEvent"] for x in e) > str(horizon): break
+                dates = [dt.date.fromisoformat(x["dateEvent"]) for x in e if x.get("dateEvent")]
+                if not dates:
+                    continue
+                if max(dates) < today:
+                    continue
+                for d in dates:
+                    block = fri_mon(d)
+                    if block and d >= today and block not in blocks:
+                        blocks.append(block)
+                # Stop once the next round starts after the second match weekend.
+                if len(blocks) >= 2 and min(dates) > blocks[1][1]:
+                    break
+                if min(dates) > horizon:
+                    break
         ofb_matches = []
         if ofb:
             try:

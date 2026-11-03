@@ -6,7 +6,9 @@
 # Fixtures run before fares. The old order priced the previous fortnight
 # first, then often died on a TheSportsDB 429 and kept those past dates.
 cd "$(dirname "$0")"
+phase="${1:-all}"
 mkdir -p raw
+run_fixtures() {
 if [ ! -s raw/ourairports.csv ]; then
   curl -fsSL -o raw/ourairports.csv https://davidmegginson.github.io/ourairports-data/airports.csv \
     || echo "ourairports download failed; keeping the last committed routes and airports"
@@ -16,11 +18,19 @@ python3 scripts/fetch_clubs_wikidata.py || echo "wikidata fetch failed; keeping 
 python3 scripts/fetch_fixtures.py || echo "fixture fetch failed; keeping last fixtures that still fall in the new window"
 python3 scripts/build_club_airports.py || echo "club-airport build failed; keeping last mapping"
 python3 scripts/build_preview.py || echo "trip join failed; keeping last trips.json"
-if [ -n "${TRAVELPAYOUTS_TOKEN:-}" ]; then
-  echo "TRAVELPAYOUTS_TOKEN is set; fetching fares"
-  python3 scripts/fetch_fares.py && python3 scripts/build_preview.py \
-    || echo "fare fetch failed; keeping last fares.json"
-else
-  echo "TRAVELPAYOUTS_TOKEN is not set; using the last committed data/fares.json"
-fi
+}
+run_fares() {
+  if [ -n "${TRAVELPAYOUTS_TOKEN:-}" ]; then
+    echo "TRAVELPAYOUTS_TOKEN is set; fetching fares"
+    python3 scripts/fetch_fares.py && python3 scripts/build_preview.py \
+      || echo "fare fetch failed; keeping last fares.json"
+  else
+    echo "TRAVELPAYOUTS_TOKEN is not set; using the last committed data/fares.json"
+  fi
+}
+case "$phase" in
+  fixtures) run_fixtures ;;
+  fares) run_fares ;;
+  *) run_fixtures; run_fares ;;
+esac
 exit 0
