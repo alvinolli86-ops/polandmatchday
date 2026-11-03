@@ -266,6 +266,42 @@
   ],
   "note": "approx, hand-compiled"
  },
+ "Anderlecht": {
+  "league": "Belgian Pro League",
+  "venue": "Lotto Park",
+  "wikidata": "Q187528",
+  "wikidata_name": "R.S.C. Anderlecht",
+  "stadium_wikidata": "Lotto Park",
+  "lat": 50.834167,
+  "lon": 4.298333,
+  "nearest_airports": [
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 15
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 41
+   },
+   {
+    "iata": "CRL",
+    "name": "Brussels South Charleroi Airport",
+    "city": "Charleroi",
+    "km": 43
+   },
+   {
+    "iata": "LGG",
+    "name": "Liège Airport",
+    "city": "Grâce-Hollogne",
+    "km": 83
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Angers": {
   "league": "Ligue 1",
   "venue": "Stade Raymond Kopa",
@@ -373,6 +409,27 @@
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Artis Brno": {
+  "league": "Czech First League",
+  "venue": "Městský fotbalový stadion Srbská",
+  "source": "manual (hand-compiled, verify)",
+  "city": "Brno",
+  "nearest_airports": [
+   {
+    "iata": "BRQ",
+    "name": "Brno-Turany Airport",
+    "city": "Brno",
+    "km": 10
+   },
+   {
+    "iata": "VIE",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "km": 120
+   }
+  ],
+  "note": "approx, hand-compiled"
  },
  "Aston Villa": {
   "league": "Premier League",
@@ -656,6 +713,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Baník Ostrava": {
+  "league": "Czech First League",
+  "venue": "Městský stadion v Ostravě-Vítkovicích",
+  "wikidata": "Q329471",
+  "wikidata_name": "FC Baník Ostrava",
+  "stadium_wikidata": "Bazaly",
+  "lat": 49.845111,
+  "lon": 18.299392,
+  "nearest_airports": [
+   {
+    "iata": "OSR",
+    "name": "Leoš Janáček Airport Ostrava",
+    "city": "Mošnov",
+    "km": 21
+   },
+   {
+    "iata": "KTW",
+    "name": "Katowice Wojciech Korfanty International Airport",
+    "city": "Katowice",
+    "km": 90
+   },
+   {
+    "iata": "KRK",
+    "name": "Kraków John Paul II International Airport",
+    "city": "Balice",
+    "km": 109
+   },
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 139
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Barcelona": {
   "league": "La Liga",
   "venue": "Spotify Camp Nou",
@@ -800,6 +893,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Beveren": {
+  "league": "Belgian Pro League",
+  "venue": "Freethiel Stadion",
+  "wikidata": "Q509170",
+  "wikidata_name": "Sportkring Beveren",
+  "stadium_wikidata": "Freethiel Stadion",
+  "lat": 51.214139,
+  "lon": 4.243931,
+  "nearest_airports": [
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 15
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 39
+   },
+   {
+    "iata": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "km": 83
+   },
+   {
+    "iata": "RTM",
+    "name": "Rotterdam The Hague Airport",
+    "city": "Rotterdam",
+    "km": 84
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Birmingham City": {
   "league": "Championship",
   "venue": "St Andrew's @ Knighthead Park",
@@ -904,6 +1033,42 @@
     "name": "Weeze (Niederrhein) Airport",
     "city": "Weeze",
     "km": 77
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Bohemians 1905": {
+  "league": "Czech First League",
+  "venue": "Ďolíček",
+  "wikidata": "Q849221",
+  "wikidata_name": "Bohemians 1905",
+  "stadium_wikidata": "Ďolíček",
+  "lat": 50.066667,
+  "lon": 14.454167,
+  "nearest_airports": [
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 14
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 92
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 111
+   },
+   {
+    "iata": "JCL",
+    "name": "České Budějovice South Bohemian Airport",
+    "city": "České Budějovice",
+    "km": 124
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -1468,6 +1633,78 @@
     "name": "Dundee Airport",
     "city": "Dundee",
     "km": 99
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Cercle Brugge": {
+  "league": "Belgian Pro League",
+  "venue": "Jan Breydel Stadium",
+  "wikidata": "Q364698",
+  "wikidata_name": "Cercle Brugge K.S.V.",
+  "stadium_wikidata": "Jan Breydel Stadium",
+  "lat": 51.193269,
+  "lon": 3.181311,
+  "nearest_airports": [
+   {
+    "iata": "OST",
+    "name": "Ostend-Bruges International Airport",
+    "city": "Oostende",
+    "km": 21
+   },
+   {
+    "iata": "LIL",
+    "name": "Lille Airport",
+    "city": "Lesquin",
+    "km": 70
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 89
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 97
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Charleroi": {
+  "league": "Belgian Pro League",
+  "venue": "Stade du Pays de Charleroi",
+  "wikidata": "Q19585",
+  "wikidata_name": "Royal Charleroi S.C.",
+  "stadium_wikidata": "Stade du Pays de Charleroi",
+  "lat": 50.414609,
+  "lon": 4.453787,
+  "nearest_airports": [
+   {
+    "iata": "CRL",
+    "name": "Brussels South Charleroi Airport",
+    "city": "Charleroi",
+    "km": 5
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 54
+   },
+   {
+    "iata": "LGG",
+    "name": "Liège Airport",
+    "city": "Grâce-Hollogne",
+    "km": 74
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 86
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -2540,6 +2777,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Genk": {
+  "league": "Belgian Pro League",
+  "venue": "Cegeka Arena",
+  "wikidata": "Q216032",
+  "wikidata_name": "K.R.C. Genk",
+  "stadium_wikidata": "Cegeka Arena",
+  "lat": 51.005,
+  "lon": 5.533333,
+  "nearest_airports": [
+   {
+    "iata": "MST",
+    "name": "Maastricht Aachen Airport",
+    "city": "Maastricht",
+    "km": 20
+   },
+   {
+    "iata": "LGG",
+    "name": "Liège Airport",
+    "city": "Grâce-Hollogne",
+    "km": 41
+   },
+   {
+    "iata": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "km": 51
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 74
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Genoa": {
   "league": "Serie A",
   "venue": "Stadio Luigi Ferraris",
@@ -3074,6 +3347,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Hradec Králové": {
+  "league": "Czech First League",
+  "venue": "Malšovická Aréna",
+  "wikidata": "Q581423",
+  "wikidata_name": "FC Hradec Králové",
+  "stadium_wikidata": "Malšovická aréna",
+  "lat": 50.2064,
+  "lon": 15.8454,
+  "nearest_airports": [
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 23
+   },
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 114
+   },
+   {
+    "iata": "WRO",
+    "name": "Copernicus Wrocław Airport",
+    "city": "Wrocław",
+    "km": 124
+   },
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 132
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Hull City": {
   "league": "Premier League",
   "venue": "The MKM Stadium",
@@ -3182,6 +3491,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Jablonec": {
+  "league": "Czech First League",
+  "venue": "Stadion Střelnice",
+  "wikidata": "Q425599",
+  "wikidata_name": "FK Jablonec",
+  "stadium_wikidata": "Chance Arena",
+  "lat": 50.714964,
+  "lon": 15.162225,
+  "nearest_airports": [
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 88
+   },
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 94
+   },
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 108
+   },
+   {
+    "iata": "WRO",
+    "name": "Copernicus Wrocław Airport",
+    "city": "Wrocław",
+    "km": 128
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Juventus": {
   "league": "Serie A",
   "venue": "Allianz Stadium Turin",
@@ -3250,6 +3595,42 @@
     "name": "Edinburgh Airport",
     "city": "Ingliston, Edinburgh",
     "km": 81
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Kortrijk": {
+  "league": "Belgian Pro League",
+  "venue": "Guldensporenstadion",
+  "wikidata": "Q618620",
+  "wikidata_name": "K.V. Kortrijk",
+  "stadium_wikidata": "Guldensporen Stadion",
+  "lat": 50.830278,
+  "lon": 3.248889,
+  "nearest_airports": [
+   {
+    "iata": "LIL",
+    "name": "Lille Airport",
+    "city": "Lesquin",
+    "km": 31
+   },
+   {
+    "iata": "OST",
+    "name": "Ostend-Bruges International Airport",
+    "city": "Oostende",
+    "km": 49
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 87
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 94
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -3686,6 +4067,27 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Lommel": {
+  "league": "Belgian Pro League",
+  "venue": "Soevereinstadion",
+  "source": "manual (hand-compiled, verify)",
+  "city": "Lommel",
+  "nearest_airports": [
+   {
+    "iata": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "km": 35
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Brussels",
+    "km": 80
+   }
+  ],
+  "note": "approx, hand-compiled"
+ },
  "Lorient": {
   "league": "Ligue 1",
   "venue": "Stade du Moustoir",
@@ -3974,6 +4376,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Mechelen": {
+  "league": "Belgian Pro League",
+  "venue": "AFAS Stadion Mechelen",
+  "wikidata": "Q113000",
+  "wikidata_name": "KV Mechelen",
+  "stadium_wikidata": "AFAS Stadion KV Mechelen",
+  "lat": 51.037222,
+  "lon": 4.486389,
+  "nearest_airports": [
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 15
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 17
+   },
+   {
+    "iata": "CRL",
+    "name": "Brussels South Charleroi Airport",
+    "city": "Charleroi",
+    "km": 64
+   },
+   {
+    "iata": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "km": 77
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Middlesbrough": {
   "league": "Championship",
   "venue": "Riverside Stadium",
@@ -4042,6 +4480,42 @@
     "name": "London Luton Airport",
     "city": "Luton, Luton",
     "km": 48
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Mladá Boleslav": {
+  "league": "Czech First League",
+  "venue": "Lokotrans Aréna",
+  "wikidata": "Q328332",
+  "wikidata_name": "FK Mladá Boleslav",
+  "stadium_wikidata": "Městský stadion",
+  "lat": 50.427083,
+  "lon": 14.914783,
+  "nearest_airports": [
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 59
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 74
+   },
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 113
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 144
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -4621,6 +5095,42 @@
     "name": "Münster Osnabrück Airport",
     "city": "Greven",
     "km": 83
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Pardubice": {
+  "league": "Czech First League",
+  "venue": "CFIG Arena",
+  "wikidata": "Q3038689",
+  "wikidata_name": "FK Pardubice",
+  "stadium_wikidata": "Pod Vinicí",
+  "lat": 50.029661,
+  "lon": 15.781801,
+  "nearest_airports": [
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 3
+   },
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 109
+   },
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 118
+   },
+   {
+    "iata": "WRO",
+    "name": "Copernicus Wrocław Airport",
+    "city": "Wrocław",
+    "km": 142
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -5483,6 +5993,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Sigma Olomouc": {
+  "league": "Czech First League",
+  "venue": "Andrův stadion",
+  "wikidata": "Q385518",
+  "wikidata_name": "SK Sigma Olomouc",
+  "stadium_wikidata": "Andrův stadion",
+  "lat": 49.6,
+  "lon": 17.248333,
+  "nearest_airports": [
+   {
+    "iata": "OSR",
+    "name": "Leoš Janáček Airport Ostrava",
+    "city": "Mošnov",
+    "km": 63
+   },
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 64
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 118
+   },
+   {
+    "iata": "BTS",
+    "name": "M. R. Štefánik Airport",
+    "city": "Bratislava",
+    "km": 159
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Silkeborg IF": {
   "league": "Danish Superliga",
   "venue": "Jysk Park",
@@ -5591,6 +6137,114 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Slavia Prague": {
+  "league": "Czech First League",
+  "venue": "Fortuna Arena",
+  "wikidata": "Q194393",
+  "wikidata_name": "SK Slavia Prague",
+  "stadium_wikidata": "Fortuna Arena",
+  "lat": 50.0675,
+  "lon": 14.4715,
+  "nearest_airports": [
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 16
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 91
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 112
+   },
+   {
+    "iata": "JCL",
+    "name": "České Budějovice South Bohemian Airport",
+    "city": "České Budějovice",
+    "km": 125
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Slovan Liberec": {
+  "league": "Czech First League",
+  "venue": "Stadion U Nisy",
+  "wikidata": "Q221671",
+  "wikidata_name": "FC Slovan Liberec",
+  "stadium_wikidata": "Stadion u Nisy",
+  "lat": 50.776214,
+  "lon": 15.049972,
+  "nearest_airports": [
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 94
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 98
+   },
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 98
+   },
+   {
+    "iata": "WRO",
+    "name": "Copernicus Wrocław Airport",
+    "city": "Wrocław",
+    "km": 133
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Slovácko": {
+  "league": "Czech First League",
+  "venue": "Městský fotbalový stadion Miroslava Valenty",
+  "wikidata": "Q847499",
+  "wikidata_name": "1. FC Slovácko",
+  "stadium_wikidata": "Městský fotbalový stadion Miroslava Valenty",
+  "lat": 49.0655,
+  "lon": 17.4714,
+  "nearest_airports": [
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 57
+   },
+   {
+    "iata": "OSR",
+    "name": "Leoš Janáček Airport Ostrava",
+    "city": "Mošnov",
+    "km": 84
+   },
+   {
+    "iata": "BTS",
+    "name": "M. R. Štefánik Airport",
+    "city": "Bratislava",
+    "km": 101
+   },
+   {
+    "iata": "VIE",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "km": 125
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Southampton": {
   "league": "Championship",
   "venue": "St. Mary's Stadium",
@@ -5623,6 +6277,42 @@
     "name": "London Heathrow Airport",
     "city": "London",
     "km": 90
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Sparta Prague": {
+  "league": "Czech First League",
+  "venue": "epet ARENA",
+  "wikidata": "Q193481",
+  "wikidata_name": "AC Sparta Prague",
+  "stadium_wikidata": "Letná Stadium",
+  "lat": 50.099716,
+  "lon": 14.416122,
+  "nearest_airports": [
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 11
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 95
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 108
+   },
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 124
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -6161,6 +6851,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Teplice": {
+  "league": "Czech First League",
+  "venue": "AGC Aréna Na Stínadlech",
+  "wikidata": "Q738886",
+  "wikidata_name": "FK Teplice",
+  "stadium_wikidata": "Na Stínadlech",
+  "lat": 50.640075,
+  "lon": 13.817936,
+  "nearest_airports": [
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 55
+   },
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 68
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 80
+   },
+   {
+    "iata": "LEJ",
+    "name": "Leipzig/Halle Airport",
+    "city": "Schkeuditz",
+    "km": 141
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Thun": {
   "league": "Swiss Super League",
   "venue": "Stockhorn Arena",
@@ -6629,6 +7355,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Viktoria Plzeň": {
+  "league": "Czech First League",
+  "venue": "Doosan Aréna",
+  "wikidata": "Q206838",
+  "wikidata_name": "FC Viktoria Plzeň",
+  "stadium_wikidata": "Doosan Arena",
+  "lat": 49.75,
+  "lon": 13.385556,
+  "nearest_airports": [
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 61
+   },
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 74
+   },
+   {
+    "iata": "JCL",
+    "name": "České Budějovice South Bohemian Airport",
+    "city": "České Budějovice",
+    "km": 117
+   },
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 156
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Villarreal": {
   "league": "La Liga",
   "venue": "Estadio de la Cerámica",
@@ -7093,6 +7855,114 @@
     "name": "Geneva International Airport",
     "city": "Geneva",
     "km": 131
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Zbrojovka Brno": {
+  "league": "Czech First League",
+  "venue": "Městský fotbalový stadion Srbská",
+  "wikidata": "Q724832",
+  "wikidata_name": "FC Zbrojovka Brno",
+  "stadium_wikidata": "Městský fotbalový stadion Srbská",
+  "lat": 49.227162,
+  "lon": 16.586276,
+  "nearest_airports": [
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 12
+   },
+   {
+    "iata": "PED",
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "km": 107
+   },
+   {
+    "iata": "OSR",
+    "name": "Leoš Janáček Airport Ostrava",
+    "city": "Mošnov",
+    "km": 122
+   },
+   {
+    "iata": "VIE",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "km": 124
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Zlín": {
+  "league": "Czech First League",
+  "venue": "Stadion Letná Zlín",
+  "wikidata": "Q39183",
+  "wikidata_name": "FC Zlín",
+  "stadium_wikidata": "Letná Stadion",
+  "lat": 49.231311,
+  "lon": 17.669425,
+  "nearest_airports": [
+   {
+    "iata": "OSR",
+    "name": "Leoš Janáček Airport Ostrava",
+    "city": "Mošnov",
+    "km": 61
+   },
+   {
+    "iata": "BRQ",
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "km": 71
+   },
+   {
+    "iata": "BTS",
+    "name": "M. R. Štefánik Airport",
+    "city": "Bratislava",
+    "km": 123
+   },
+   {
+    "iata": "SLD",
+    "name": "Sliač Airport",
+    "city": "Sliač",
+    "km": 126
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Zulte Waregem": {
+  "league": "Belgian Pro League",
+  "venue": "Elindus Arena",
+  "wikidata": "Q376635",
+  "wikidata_name": "S.V. Zulte Waregem",
+  "stadium_wikidata": "Regenboogstadion",
+  "lat": 50.883056,
+  "lon": 3.428889,
+  "nearest_airports": [
+   {
+    "iata": "LIL",
+    "name": "Lille Airport",
+    "city": "Lesquin",
+    "km": 42
+   },
+   {
+    "iata": "OST",
+    "name": "Ostend-Bruges International Airport",
+    "city": "Oostende",
+    "km": 52
+   },
+   {
+    "iata": "BRU",
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "km": 74
+   },
+   {
+    "iata": "ANR",
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "km": 80
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
