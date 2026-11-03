@@ -141,7 +141,7 @@ footer{background:#0a2a20;color:#b9cfc4;padding:20px 0;font-size:.85rem}footer a
 .aday .b.ok{background:#d1f2e0;color:#0b5a3a}.aday .b.mid{background:#e8ecf0;color:#3d4a55}.aday .b.warn{background:#fde2e1;color:#8a1c17}
 .aday .filter{margin:8px 0}.aday .filter select,.aday .filter input{width:auto;font:inherit;padding:6px}
 .aday ul.routes{margin:6px 0 0;padding-left:18px}.aday ul.routes li{margin:4px 0}
-.aday ul.routes{margin:6px 0 0;padding-left:18px}.aday ul.routes li{margin:4px 0}
+.aday a.tickets{display:inline-block;margin:6px 0;background:var(--accent);color:#1b1b1b;font-weight:700;font-size:.82rem;padding:4px 10px;border-radius:8px;text-decoration:none}
 .aday .filter label{display:inline;font-weight:600}
 @media(min-width:700px){.hero h1{font-size:2.1rem}.match{grid-template-columns:1.4fr 1fr auto;align-items:center}}
 """
@@ -242,6 +242,7 @@ def build():
 <p>Fares: <a href="https://support.travelpayouts.com/hc/en-us/articles/203956163-Aviasales-Data-API">Travelpayouts Aviasales Data API</a> (cached prices, not live). Flight links are Aviasales affiliate links. Fixtures: <a href="https://www.thesportsdb.com/">TheSportsDB</a> and <a href="https://github.com/openfootball/football.json">openfootball/football.json</a> (CC0). Stadium coordinates: <a href="https://www.wikidata.org/">Wikidata</a> (CC0). Airports: <a href="https://ourairports.com/">OurAirports</a> (public domain).</p>
 <p>Routes are adapted from the English Wikipedia “Airlines and destinations” sections by Wikipedia contributors, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. We turned those lists into airport pairs and dropped charter-only routes.{wiki_links}</p>
 <p>Ground trips use hand-checked typical times from the source linked on each card, including <a href="https://www.spravazeleznic.cz/">Správa železnic</a>, <a href="https://www.seat61.com/trains-and-routes/berlin-to-warsaw-by-train.htm">Seat61</a>, <a href="https://en.wikipedia.org/wiki/Berlin-Warszawa-Express">Wikipedia</a>, <a href="https://krakow.pl/getHtml?dok_id=319347">the City of Kraków</a>, <a href="https://www.leoexpress.com/en/where-we-go/connections/krakow-prague">Leo Express</a> and <a href="https://slovakia.travel/en/travel-essentials/transport/getting-here/by-train">slovakia.travel</a>. Checked 20 Oct 2026. Not a live timetable.</p>
+<p>We may earn a commission from ticket and travel links.</p>
 <p>Unofficial. Not affiliated with any club, league, airline, or Aviasales.</p>"""
     else:
         note = "<p class='empty'>Trip data is not available yet.</p>"
@@ -438,7 +439,7 @@ def build():
     body = f"""<div class='card'><p>Poland Matchday is an independent, English-language guide for visitors and expats who want to see live football in Poland – or find a bar showing the Premier League.</p>
 <p><strong>How we source data:</strong> Ekstraklasa fixtures come from the official <a href='https://ekstraklasa.org/terminarz/'>ekstraklasa.org</a> fixture pages and refresh automatically. 1. Liga fixtures come from <a href='https://www.thesportsdb.com/'>TheSportsDB</a>, a community database, so please confirm them. Ticket rules come only from clubs' own ticket pages and regulations, each linked with the date we checked it. Where we couldn't confirm something we say <em>unverified</em> rather than guess.</p>
 <p>The home page, <a href="{url()}">Away Day from Poland</a>, lists cheap football weekends abroad with direct flights from Polish airports. Those flight links go to Aviasales and include our Travelpayouts partner marker. Fares on that page are cached, not live.</p>
-<p><strong>Affiliate disclosure:</strong> Aviasales flight links on the home page are affiliate links. GetYourGuide and Booking.com links on the Poland pages still use placeholder partner ids and are not live affiliate links.</p>
+<p><strong>Affiliate disclosure:</strong> Aviasales flight links on the home page are affiliate links. Match tickets for the Premier League, La Liga and Serie A go to LiveFootballTickets through Awin. GetYourGuide and Booking.com links on the Poland pages still use placeholder partner ids and are not live affiliate links. We may earn a commission from ticket and travel links.</p>
 <p>Not affiliated with Ekstraklasa S.A., PZPN or any club. Spotted an error? Corrections form coming soon.</p></div>"""
     page("about/", "About Poland Matchday", "Who we are and how Poland Matchday sources fixtures and ticket rules.", (hero("About Poland Matchday", "Independent. In English. Sourced."), body), "../")
     urls.append("about/")

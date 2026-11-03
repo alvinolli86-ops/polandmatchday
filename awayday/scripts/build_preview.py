@@ -4,6 +4,7 @@ import json, os, re, html, sys, urllib.request, datetime as dt
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fares import search_link, with_marker
 from ground import ground_html
+from tickets import ticket_link
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAX_KM = 100            # straight-line stadium -> airport limit
 MATCHDAY_BUFFER_H = 3   # match-day outbound must land >= 3h before kickoff
@@ -167,7 +168,7 @@ def inner_html(out):
                      f'<div class="sm">return, per person</div></td>'
                      f'<td><b>{l["origin"]} → {l["dest"]}</b><div class="sm">{E(PL_NAMES[l["origin"]])} · {E(al_name(q.get("airline")))}</div></td>'
                      f'<td>out {fmt(q["out_date"])} {hhmm(q.get("departure_at"))}<div class="sm">back {fmt(q["ret_date"])} {hhmm(q.get("return_at"))} · times in Polish time{"<br><b>flies out on match day</b>" if q["out_kind"]=="match day" else ""}</div></td>'
-                     f'<td><b>{E(t["home"])} v {E(t["away"])}</b><div class="sm">{E(t["league"])} · {l["km_to_stadium"]} km from airport</div></td>'
+                     f'<td><b>{E(t["home"])} v {E(t["away"])}</b><div class="sm">{E(t["league"])} · {l["km_to_stadium"]} km from airport</div>{ticket_link(t["league"], t["home"])}</td>'
                      f'<td>{E(t["kickoff_pl"])}<div class="sm">Polish time</div>{badge(t)}</td>'
                      f'<td class="sm">{E(found_text(q, now))}</td></tr>')
         cap = f'<p class="sm">Top {len(top)} of the cheapest trips. At most two rows fly into the same airport, so one destination does not fill the list.</p>' if top else ""
@@ -185,7 +186,7 @@ def inner_html(out):
                        f'<td class="sm">{E(", ".join(l["airlines"]))}{" (seasonal?)" if l["seasonal_flag"] else ""}</td><td>{f}</td></tr>')
             cards.append(f'<div class="card" data-origins="{" ".join(origins)}" data-priced="{1 if t["cheapest"] else 0}"><div class="lg">{E(t["league"])}</div>'
                          f'<h4>{E(t["home"])} v {E(t["away"])}</h4><p class="sm">{E(t["kickoff_pl"])} Polish time ({E(t["kickoff_local"])} local) {badge(t)}</p>'
-                         f'<table>{lr}</table></div>')
+                         f'{ticket_link(t["league"], t["home"])}<table>{lr}</table></div>')
         npriced = sum(1 for t in ts if t["cheapest"])
         secs.append(f'''<section><h2>Weekend {wi+1}: {fmt(a)} – {fmt(b)}</h2>
 <h3>Top {min(TOP_N, len(top) or TOP_N)} cheapest football trips from Poland</h3>{top_html}

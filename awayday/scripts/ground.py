@@ -1,6 +1,7 @@
 """No-flight ground trips. Reads the hand-maintained route file and fixtures.json.
 Does not invent times or fares."""
 import json, os, html, datetime as dt
+from tickets import ticket_link
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 E = html.escape
 MAX_MINUTES = 8 * 60
@@ -59,6 +60,7 @@ def ground_html(start, end):
             f'<div class="card"><div class="lg">{E(m.get("league") or "")}</div>'
             f'<h4>{E(m["home"])} v {E(m["away"])}</h4>'
             f'<p class="sm">{E(m.get("kickoff_pl") or m.get("date_local") or "")} Polish time{venue}</p>'
+            f'{ticket_link(m.get("league"), m.get("home"))}'
             f'<ul class="routes">{items}</ul></div>')
     if not cards:
         return ""
