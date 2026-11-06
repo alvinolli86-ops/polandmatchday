@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-06T06:14+01:00",
+ "fetched": "2026-11-06T18:08+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1763,13 +1763,13 @@
    "round": 14,
    "home": "Motor Lublin",
    "away": "Wisła Płock",
-   "date": "2026-11-06",
-   "kickoff": "2026-11-06T18:00:00+01:00",
-   "time_confirmed": true,
-   "venue": "Lublin, Motor Lublin Arena",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.motorlublin.eu/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/64038d89-b0b3-4f04-9c18-fd9df7c01d1f/motor-lublin-wisla-plock/"
   },
   {

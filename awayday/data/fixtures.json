@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T05:02:33+00:00",
+ "generated": "2026-11-06T16:57:03+00:00",
  "window": [
   "2026-11-06",
   "2026-11-23"
@@ -87,19 +87,19 @@
   "2. Bundesliga": {
    "thesportsdb_id": 4399,
    "rounds_fetched": [
-    11,
-    17
+    16
    ],
    "matches": 9,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 11: HTTP Error 429: Too Many Requests",
     "round 12: HTTP Error 429: Too Many Requests",
     "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
-    "round 15: HTTP Error 429: Too Many Requests",
-    "round 16: HTTP Error 429: Too Many Requests"
-   ]
+    "round 15: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 9
   },
   "Ligue 1": {
    "thesportsdb_id": 4334,
@@ -128,19 +128,19 @@
   "Primeira Liga": {
    "thesportsdb_id": 4344,
    "rounds_fetched": [
-    16
+    11,
+    17
    ],
    "matches": 9,
-   "crosschecked": 0,
+   "crosschecked": 7,
    "conflicts": 0,
    "errors": [
-    "round 11: HTTP Error 429: Too Many Requests",
     "round 12: HTTP Error 429: Too Many Requests",
     "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
-    "round 15: HTTP Error 429: Too Many Requests"
-   ],
-   "kept_previous": 9
+    "round 15: HTTP Error 429: Too Many Requests",
+    "round 16: HTTP Error 429: Too Many Requests"
+   ]
   },
   "Scottish Premiership": {
    "thesportsdb_id": 4330,
@@ -210,19 +210,19 @@
   "Swiss Super League": {
    "thesportsdb_id": 4675,
    "rounds_fetched": [
-    13,
-    19
+    18
    ],
    "matches": 6,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests"
-   ]
+    "round 17: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 6
   },
   "Danish Superliga": {
    "thesportsdb_id": 4340,
@@ -967,34 +967,6 @@
    "crosscheck": null
   },
   {
-   "league": "Swiss Super League",
-   "home": "Luzern",
-   "away": "Young Boys",
-   "venue": "Thermoplan Arena",
-   "kickoff_utc": "2026-11-07T17:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 18:00",
-   "date_local": "2026-11-07",
-   "round": "13",
-   "thesportsdb_event": "2493398",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Swiss Super League",
-   "home": "Vaduz",
-   "away": "Sion",
-   "venue": "Rheinpark Stadion",
-   "kickoff_utc": "2026-11-07T17:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 18:00",
-   "date_local": "2026-11-07",
-   "round": "13",
-   "thesportsdb_event": "2493399",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Danish Superliga",
    "home": "Odense BK",
    "away": "Viborg",
@@ -1019,6 +991,34 @@
    "date_local": "2026-11-07",
    "round": "14",
    "thesportsdb_event": "2497834",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Swiss Super League",
+   "home": "Luzern",
+   "away": "Young Boys",
+   "venue": "Thermoplan Arena",
+   "kickoff_utc": "2026-11-07T17:00:00+00:00",
+   "kickoff_local": "Sat 07 Nov 18:00",
+   "kickoff_pl": "Sat 07 Nov 18:00",
+   "date_local": "2026-11-07",
+   "round": "13",
+   "thesportsdb_event": "2493398",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Swiss Super League",
+   "home": "Vaduz",
+   "away": "Sion",
+   "venue": "Rheinpark Stadion",
+   "kickoff_utc": "2026-11-07T17:00:00+00:00",
+   "kickoff_local": "Sat 07 Nov 18:00",
+   "kickoff_pl": "Sat 07 Nov 18:00",
+   "date_local": "2026-11-07",
+   "round": "13",
+   "thesportsdb_event": "2493399",
    "flags": [],
    "crosscheck": null
   },
@@ -1345,6 +1345,20 @@
    "crosscheck": null
   },
   {
+   "league": "Belgian Pro League",
+   "home": "Club Brugge",
+   "away": "Anderlecht",
+   "venue": "Jan Breydel Stadium",
+   "kickoff_utc": "2026-11-08T12:30:00+00:00",
+   "kickoff_local": "Sun 08 Nov 13:30",
+   "kickoff_pl": "Sun 08 Nov 13:30",
+   "date_local": "2026-11-08",
+   "round": "11",
+   "thesportsdb_event": "2496782",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "2. Bundesliga",
    "home": "Bochum",
    "away": "Karlsruhe",
@@ -1387,20 +1401,6 @@
    "crosscheck": null
   },
   {
-   "league": "Belgian Pro League",
-   "home": "Club Brugge",
-   "away": "Anderlecht",
-   "venue": "Jan Breydel Stadium",
-   "kickoff_utc": "2026-11-08T12:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 13:30",
-   "kickoff_pl": "Sun 08 Nov 13:30",
-   "date_local": "2026-11-08",
-   "round": "11",
-   "thesportsdb_event": "2496782",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "La Liga",
    "home": "Elche",
    "away": "Real Betis",
@@ -1415,20 +1415,6 @@
    "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
-   "league": "Swiss Super League",
-   "home": "St. Gallen",
-   "away": "Lugano",
-   "venue": "Kybunpark",
-   "kickoff_utc": "2026-11-08T13:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:00",
-   "kickoff_pl": "Sun 08 Nov 14:00",
-   "date_local": "2026-11-08",
-   "round": "13",
-   "thesportsdb_event": "2493400",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Danish Superliga",
    "home": "AGF Aarhus",
    "away": "AC Horsens",
@@ -1439,6 +1425,20 @@
    "date_local": "2026-11-08",
    "round": "14",
    "thesportsdb_event": "2481874",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Swiss Super League",
+   "home": "St. Gallen",
+   "away": "Lugano",
+   "venue": "Kybunpark",
+   "kickoff_utc": "2026-11-08T13:00:00+00:00",
+   "kickoff_local": "Sun 08 Nov 14:00",
+   "kickoff_pl": "Sun 08 Nov 14:00",
+   "date_local": "2026-11-08",
+   "round": "13",
+   "thesportsdb_event": "2493400",
    "flags": [],
    "crosscheck": null
   },
@@ -1695,34 +1695,6 @@
    "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
-   "league": "Swiss Super League",
-   "home": "Thun",
-   "away": "Basel",
-   "venue": "Stockhorn Arena",
-   "kickoff_utc": "2026-11-08T15:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 16:30",
-   "kickoff_pl": "Sun 08 Nov 16:30",
-   "date_local": "2026-11-08",
-   "round": "13",
-   "thesportsdb_event": "2493401",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Swiss Super League",
-   "home": "Servette",
-   "away": "Zürich",
-   "venue": "Stade de Genève",
-   "kickoff_utc": "2026-11-08T15:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 16:30",
-   "kickoff_pl": "Sun 08 Nov 16:30",
-   "date_local": "2026-11-08",
-   "round": "13",
-   "thesportsdb_event": "2493403",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Primeira Liga",
    "home": "Santa Clara",
    "away": "Gil Vicente",
@@ -1749,6 +1721,34 @@
    "thesportsdb_event": "2514029",
    "flags": [],
    "crosscheck": "agrees (date+time)"
+  },
+  {
+   "league": "Swiss Super League",
+   "home": "Thun",
+   "away": "Basel",
+   "venue": "Stockhorn Arena",
+   "kickoff_utc": "2026-11-08T15:30:00+00:00",
+   "kickoff_local": "Sun 08 Nov 16:30",
+   "kickoff_pl": "Sun 08 Nov 16:30",
+   "date_local": "2026-11-08",
+   "round": "13",
+   "thesportsdb_event": "2493401",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Swiss Super League",
+   "home": "Servette",
+   "away": "Zürich",
+   "venue": "Stade de Genève",
+   "kickoff_utc": "2026-11-08T15:30:00+00:00",
+   "kickoff_local": "Sun 08 Nov 16:30",
+   "kickoff_pl": "Sun 08 Nov 16:30",
+   "date_local": "2026-11-08",
+   "round": "13",
+   "thesportsdb_event": "2493403",
+   "flags": [],
+   "crosscheck": null
   },
   {
    "league": "Eredivisie",

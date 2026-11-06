@@ -192,14 +192,14 @@
   "qid": "Q1543",
   "name": "AC Milan",
   "aliases": [
-   "Milan",
-   "ACM",
-   "A.C. Milan",
    "A.C.M.",
    "A.C.Milan",
    "ACMilan",
    "Association Football Milan",
-   "Associazione Calcio Milan"
+   "Associazione Calcio Milan",
+   "Milan",
+   "ACM",
+   "A.C. Milan"
   ],
   "venues": [
    {
@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
+   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola",
-   "Fiorentina"
+   "Florentia Viola"
   ],
   "venues": [
    {
@@ -341,9 +341,6 @@
   "qid": "Q19568",
   "name": "AFC Bournemouth",
   "aliases": [
-   "Bournemouth",
-   "Boscombe",
-   "The Cherries",
    "A.F.C. Bournemouth",
    "AFCB",
    "Boscombe F.C.",
@@ -352,7 +349,10 @@
    "Bournemouth and Boscombe Athletic",
    "Bournemouth and Boscombe Athletic F.C.",
    "Bournemouth and Boscombe Athletic FC",
-   "Bournemouth and Boscombe Athletic Football Club"
+   "Bournemouth and Boscombe Athletic Football Club",
+   "Bournemouth",
+   "Boscombe",
+   "The Cherries"
   ],
   "venues": [
    {
@@ -840,12 +840,12 @@
   "qid": "Q41420",
   "name": "Borussia Dortmund",
   "aliases": [
-   "Dortmund",
-   "BVB",
    "Ballspielverein Borussia 09 e.V. Dortmund",
    "Die Borussen",
    "Die Schwarzgelben",
-   "The Black and Yellows"
+   "The Black and Yellows",
+   "Dortmund",
+   "BVB"
   ],
   "venues": [
    {
@@ -934,12 +934,12 @@
   "qid": "Q19456",
   "name": "Bristol City F.C.",
   "aliases": [
-   "City",
-   "The Robins",
    "BCFC",
    "Bristol City",
    "Bristol City FC",
-   "Bristol City Football Club"
+   "Bristol City Football Club",
+   "City",
+   "The Robins"
   ],
   "venues": [
    {
@@ -1143,14 +1143,14 @@
   "qid": "Q19593",
   "name": "Celtic F.C.",
   "aliases": [
-   "Celtic Football Club",
-   "Celtic plc",
-   "The Bhoys",
-   "The Celtic Football Club",
    "Celtic",
    "CFC",
    "The Celts",
-   "The Hoops"
+   "The Hoops",
+   "Celtic Football Club",
+   "Celtic plc",
+   "The Bhoys",
+   "The Celtic Football Club"
   ],
   "venues": [
    {
@@ -1385,14 +1385,14 @@
   "qid": "Q8760",
   "name": "Deportivo de A Coruña",
   "aliases": [
+   "Depor",
+   "Deportivo",
    "Club Deportivo de la Sala Calvet, Turcos",
    "Dépor",
    "R.C. Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña S.A.D.",
-   "Real Club Deportivo de A Coruña",
-   "Depor",
-   "Deportivo"
+   "Real Club Deportivo de A Coruña"
   ],
   "venues": [
    {
@@ -1659,10 +1659,10 @@
   "qid": "Q188430",
   "name": "F.C. Copenhagen",
   "aliases": [
+   "FCK",
    "FC Copenhagen",
    "FC København",
-   "Football Club Copenhagen",
-   "FCK"
+   "Football Club Copenhagen"
   ],
   "venues": [
    {
@@ -1788,16 +1788,16 @@
   "qid": "Q7156",
   "name": "FC Barcelona",
   "aliases": [
+   "F.C. Barcelona",
+   "Fútbol Club Barcelona",
+   "F.C.B.",
    "Barcelona FC",
    "Barcelona Football Club",
    "F.C.Barcelona",
    "FC Barcelona Football",
    "FCBarcelona",
    "Football Club Barcelona",
-   "Football Club of Barcelona",
-   "F.C. Barcelona",
-   "Fútbol Club Barcelona",
-   "F.C.B."
+   "Football Club of Barcelona"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
-   "GC",
    "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich"
+   "Grasshoppers Zürich",
+   "GC"
   ],
   "venues": [
    {
@@ -2726,15 +2726,15 @@
   "qid": "Q51974",
   "name": "Hamburger SV",
   "aliases": [
+   "Hamburg",
+   "Hamburger",
+   "HSV",
    "H.S.V.",
    "Hamburg Sport Club",
    "Hamburg SV",
    "Hamburger S.V.",
    "Hamburger Sport-Verein",
-   "HamburgerSV",
-   "Hamburg",
-   "Hamburger",
-   "HSV"
+   "HamburgerSV"
   ],
   "venues": [
    {
@@ -2939,14 +2939,14 @@
   "qid": "Q9653",
   "name": "Ipswich Town F.C.",
   "aliases": [
-   "Ipswich Town",
-   "Ipswich Town FC",
-   "Ipswich Town Football Club",
-   "The Tractor Boys",
    "Ipswich",
    "Town",
    "The Blues",
-   "ITFC"
+   "ITFC",
+   "Ipswich Town",
+   "Ipswich Town FC",
+   "Ipswich Town Football Club",
+   "The Tractor Boys"
   ],
   "venues": [
    {
@@ -3375,6 +3375,9 @@
   "qid": "Q50602",
   "name": "Manchester City F.C.",
   "aliases": [
+   "Manchester City FC",
+   "Manchester City Football Club",
+   "MCFC",
    "City",
    "The Blues",
    "The Citizens",
@@ -3383,10 +3386,7 @@
    "Sky Blues",
    "The Sky Blues",
    "Manchester City",
-   "Manchester City F.C. Soccer",
-   "Manchester City FC",
-   "Manchester City Football Club",
-   "MCFC"
+   "Manchester City F.C. Soccer"
   ],
   "venues": [
    {
@@ -3441,11 +3441,11 @@
   "qid": "Q18661",
   "name": "Middlesbrough F.C.",
   "aliases": [
-   "The Boro",
    "Middlesbrough FC",
    "Middlesbrough Football Club",
    "MFC",
-   "Middlesbrough"
+   "Middlesbrough",
+   "The Boro"
   ],
   "venues": [
    {
@@ -3761,8 +3761,7 @@
   "name": "PSV Eindhoven",
   "aliases": [
    "Eindhoven Football Club",
-   "Philips Sport Vereniging",
-   "PSV"
+   "Philips Sport Vereniging"
   ],
   "venues": [
    {
@@ -3999,12 +3998,12 @@
   "qid": "Q126334",
   "name": "RC Strasbourg Alsace",
   "aliases": [
-   "Racing",
-   "Strasbourg",
    "Racing Club de Strasbourg",
    "Racing Club de Strasbourg Alsace",
    "RCSA",
-   "Racing Strasbourg"
+   "Racing Strasbourg",
+   "Racing",
+   "Strasbourg"
   ],
   "venues": [
    {
@@ -4253,10 +4252,10 @@
   "qid": "Q732002",
   "name": "Royal Antwerp F.C.",
   "aliases": [
-   "Royal Antwerp",
    "Antwerp F.C.",
    "Antwerp FC",
-   "Royal Antwerp FC"
+   "Royal Antwerp FC",
+   "Royal Antwerp"
   ],
   "venues": [
    {
@@ -5102,9 +5101,9 @@
   "qid": "Q190561",
   "name": "Standard Liège",
   "aliases": [
+   "Standard Liege",
    "Royal Standard Club de Liege",
-   "Royal Standard Club de Liège",
-   "Standard Liege"
+   "Royal Standard Club de Liège"
   ],
   "venues": [
    {
@@ -5260,14 +5259,14 @@
   "qid": "Q2768",
   "name": "Torino FC",
   "aliases": [
+   "Torino",
    "Torino F.C.",
    "Torino Football Club",
    "TorinoF.C.",
    "TorinoFC",
    "Turin F.C.",
    "Turin FC",
-   "Turin Football Club",
-   "Torino"
+   "Turin Football Club"
   ],
   "venues": [
    {
@@ -5593,8 +5592,6 @@
   "qid": "Q12297",
   "name": "Villarreal CF",
   "aliases": [
-   "VCF",
-   "Villarreal",
    "Villarreal 1923",
    "Villarreal C.F.",
    "Villarreal CF 1923",
@@ -5602,7 +5599,9 @@
    "Villarreal Club de Fútbol 1923",
    "Villarreal Club de Fútbol, S.A.D.",
    "Villarreal Club Football",
-   "Villarreal Club of Football"
+   "Villarreal Club of Football",
+   "VCF",
+   "Villarreal"
   ],
   "venues": [
    {
@@ -5774,16 +5773,16 @@
   "qid": "Q19500",
   "name": "Wolverhampton Wanderers F.C.",
   "aliases": [
+   "Wolves",
+   "Wolverhampton",
+   "Wanderers",
+   "WWFC",
    "Wolverhampton FC Wolves",
    "Wolverhampton Wanderers",
    "Wolverhampton Wanderers FC",
    "Wolverhampton Wanderers Football Club",
    "Wolverhampton Wolves",
-   "Wolverhampton Wolves FC",
-   "Wolves",
-   "Wolverhampton",
-   "Wanderers",
-   "WWFC"
+   "Wolverhampton Wolves FC"
   ],
   "venues": [
    {
