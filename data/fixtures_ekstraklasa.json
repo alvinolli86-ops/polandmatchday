@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-07T06:08+01:00",
+ "fetched": "2026-11-07T17:57+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1796,10 +1796,10 @@
    "date": "2026-11-07",
    "kickoff": "2026-11-07T12:15:00+01:00",
    "time_confirmed": true,
-   "venue": "Kielce, EXBUD Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.korona-kielce.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "0–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/c1dcbabe-a5ed-45db-bbe1-9e1085347f6e/korona-kielce-radomiak-radom/"
   },
   {
@@ -1811,10 +1811,10 @@
    "date": "2026-11-07",
    "kickoff": "2026-11-07T14:45:00+01:00",
    "time_confirmed": true,
-   "venue": "Wrocław, Tarczyński Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.slaskwroclaw.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "0–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/09b9d2cb-d4fe-498a-95a0-abd09ebd8b74/slask-wroclaw-piast-gliwice/"
   },
   {
@@ -1823,13 +1823,13 @@
    "round": 14,
    "home": "Górnik Zabrze",
    "away": "Wieczysta Kraków",
-   "date": "2026-11-07",
-   "kickoff": "2026-11-07T17:30:00+01:00",
-   "time_confirmed": true,
-   "venue": "Zabrze, Stadion im. Ernesta Pohla",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.gornikzabrze.pl/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/0e5676e5-9f36-42e0-8616-0f224242e047/gornik-zabrze-wieczysta-krakow/"
   },
   {
