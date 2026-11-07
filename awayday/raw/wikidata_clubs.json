@@ -150,12 +150,12 @@
   "qid": "Q105254",
   "name": "1. FSV Mainz 05",
   "aliases": [
+   "FSV Mainz",
    "Mainz",
    "1. Fußball- und Sportverein Mainz 05 e. V.",
    "Die Nullfünfer",
    "Mainz 05",
-   "The Zero-Fivers",
-   "FSV Mainz"
+   "The Zero-Fivers"
   ],
   "venues": [
    {
@@ -577,13 +577,13 @@
   "qid": "Q18711",
   "name": "Aston Villa F.C.",
   "aliases": [
-   "Villa",
-   "The Villa",
    "Aston Villa",
    "Aston Villa FC",
    "Aston Villa Football Club",
    "AVFC",
-   "The Villans"
+   "The Villans",
+   "Villa",
+   "The Villa"
   ],
   "venues": [
    {
@@ -840,12 +840,12 @@
   "qid": "Q41420",
   "name": "Borussia Dortmund",
   "aliases": [
+   "Dortmund",
+   "BVB",
    "Ballspielverein Borussia 09 e.V. Dortmund",
    "Die Borussen",
    "Die Schwarzgelben",
-   "The Black and Yellows",
-   "Dortmund",
-   "BVB"
+   "The Black and Yellows"
   ],
   "venues": [
    {
@@ -934,12 +934,12 @@
   "qid": "Q19456",
   "name": "Bristol City F.C.",
   "aliases": [
+   "City",
+   "The Robins",
    "BCFC",
    "Bristol City",
    "Bristol City FC",
-   "Bristol City Football Club",
-   "City",
-   "The Robins"
+   "Bristol City Football Club"
   ],
   "venues": [
    {
@@ -1143,14 +1143,14 @@
   "qid": "Q19593",
   "name": "Celtic F.C.",
   "aliases": [
-   "Celtic",
-   "CFC",
-   "The Celts",
-   "The Hoops",
    "Celtic Football Club",
    "Celtic plc",
    "The Bhoys",
-   "The Celtic Football Club"
+   "The Celtic Football Club",
+   "Celtic",
+   "CFC",
+   "The Celts",
+   "The Hoops"
   ],
   "venues": [
    {
@@ -1385,14 +1385,14 @@
   "qid": "Q8760",
   "name": "Deportivo de A Coruña",
   "aliases": [
-   "Depor",
-   "Deportivo",
    "Club Deportivo de la Sala Calvet, Turcos",
    "Dépor",
    "R.C. Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña S.A.D.",
-   "Real Club Deportivo de A Coruña"
+   "Real Club Deportivo de A Coruña",
+   "Depor",
+   "Deportivo"
   ],
   "venues": [
    {
@@ -1659,10 +1659,10 @@
   "qid": "Q188430",
   "name": "F.C. Copenhagen",
   "aliases": [
-   "FCK",
    "FC Copenhagen",
    "FC København",
-   "Football Club Copenhagen"
+   "Football Club Copenhagen",
+   "FCK"
   ],
   "venues": [
    {
@@ -1788,16 +1788,16 @@
   "qid": "Q7156",
   "name": "FC Barcelona",
   "aliases": [
-   "F.C. Barcelona",
-   "Fútbol Club Barcelona",
-   "F.C.B.",
    "Barcelona FC",
    "Barcelona Football Club",
    "F.C.Barcelona",
    "FC Barcelona Football",
    "FCBarcelona",
    "Football Club Barcelona",
-   "Football Club of Barcelona"
+   "Football Club of Barcelona",
+   "F.C. Barcelona",
+   "Fútbol Club Barcelona",
+   "F.C.B."
   ],
   "venues": [
    {
@@ -2226,7 +2226,7 @@
     "name": "De Grolsch Veste",
     "lat": 52.236666666,
     "lon": 6.8375,
-    "admin": "Enschede"
+    "admin": "Q134486510"
    }
   ],
   "leagues": [
@@ -2475,11 +2475,11 @@
   "qid": "Q219241",
   "name": "Falkirk F.C.",
   "aliases": [
-   "Falkirk",
-   "FFC",
    "Falkirk FC",
    "Falkirk Football Club",
-   "The Bairns"
+   "The Bairns",
+   "Falkirk",
+   "FFC"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
+   "GC",
    "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich",
-   "GC"
+   "Grasshoppers Zürich"
   ],
   "venues": [
    {
@@ -2900,8 +2900,6 @@
   "qid": "Q631",
   "name": "Inter Milan",
   "aliases": [
-   "Inter Club",
-   "Inter FC",
    "Inter",
    "IM",
    "F.C.I.M.",
@@ -2921,7 +2919,9 @@
    "Inter of Milan",
    "Inter soccer club",
    "Internazionale Milano",
-   "The Inter"
+   "The Inter",
+   "Inter Club",
+   "Inter FC"
   ],
   "venues": [
    {
@@ -3375,9 +3375,6 @@
   "qid": "Q50602",
   "name": "Manchester City F.C.",
   "aliases": [
-   "Manchester City FC",
-   "Manchester City Football Club",
-   "MCFC",
    "City",
    "The Blues",
    "The Citizens",
@@ -3386,7 +3383,10 @@
    "Sky Blues",
    "The Sky Blues",
    "Manchester City",
-   "Manchester City F.C. Soccer"
+   "Manchester City F.C. Soccer",
+   "Manchester City FC",
+   "Manchester City Football Club",
+   "MCFC"
   ],
   "venues": [
    {
@@ -4252,10 +4252,10 @@
   "qid": "Q732002",
   "name": "Royal Antwerp F.C.",
   "aliases": [
+   "Royal Antwerp",
    "Antwerp F.C.",
    "Antwerp FC",
-   "Royal Antwerp FC",
-   "Royal Antwerp"
+   "Royal Antwerp FC"
   ],
   "venues": [
    {
@@ -4756,12 +4756,12 @@
   "qid": "Q32494",
   "name": "Schalke 04",
   "aliases": [
-   "FC Schalke 04",
-   "S04",
-   "F.C. Schalke 04",
    "FC Gelsenkirchen-Schalke 04",
    "Schalke 0",
-   "Schalke04"
+   "Schalke04",
+   "FC Schalke 04",
+   "S04",
+   "F.C. Schalke 04"
   ],
   "venues": [
    {
