@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-07T17:57+01:00",
+ "fetched": "2026-11-08T06:08+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1823,12 +1823,12 @@
    "round": 14,
    "home": "Górnik Zabrze",
    "away": "Wieczysta Kraków",
-   "date": null,
-   "kickoff": null,
-   "time_confirmed": false,
+   "date": "2026-11-07",
+   "kickoff": "2026-11-07T17:30:00+01:00",
+   "time_confirmed": true,
    "venue": null,
-   "finished": false,
-   "score": null,
+   "finished": true,
+   "score": "2–1",
    "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/0e5676e5-9f36-42e0-8616-0f224242e047/gornik-zabrze-wieczysta-krakow/"
   },
@@ -1841,10 +1841,10 @@
    "date": "2026-11-07",
    "kickoff": "2026-11-07T20:15:00+01:00",
    "time_confirmed": true,
-   "venue": "Łódź, Stadion Miejski Widzewa Łódź",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.widzew.com/",
+   "venue": null,
+   "finished": true,
+   "score": "3–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/29e4a607-bc3d-4f17-8c35-9aab94de4a21/widzew-lodz-pogon-szczecin/"
   },
   {
