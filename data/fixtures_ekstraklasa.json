@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-08T06:08+01:00",
+ "fetched": "2026-11-08T17:56+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1856,10 +1856,10 @@
    "date": "2026-11-08",
    "kickoff": "2026-11-08T14:45:00+01:00",
    "time_confirmed": true,
-   "venue": "Białystok, Chorten Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.jagiellonia.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "1–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/9984ffce-6e8b-4493-97ca-abe9dfb959ea/jagiellonia-bialystok-gks-katowice/"
   },
   {
@@ -1868,13 +1868,13 @@
    "round": 14,
    "home": "Legia Warszawa",
    "away": "Raków Częstochowa",
-   "date": "2026-11-08",
-   "kickoff": "2026-11-08T17:30:00+01:00",
-   "time_confirmed": true,
-   "venue": "Warszawa, Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.legia.com/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/fce41e0c-8af4-41a4-8091-0e3b7b6e2b08/legia-warszawa-rakow-czestochowa/"
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T16:45:09+00:00",
+ "generated": "2026-11-08T16:44:28+00:00",
  "window": [
   "2026-11-06",
   "2026-11-23"
@@ -22,13 +22,13 @@
   "Premier League": {
    "thesportsdb_id": 4328,
    "rounds_fetched": [
-    10,
     11,
-    12
+    12,
+    13
    ],
-   "matches": 19,
-   "crosschecked": 26,
-   "conflicts": 17,
+   "matches": 10,
+   "crosschecked": 18,
+   "conflicts": 11,
    "errors": []
   },
   "Championship": {
@@ -47,10 +47,11 @@
   "La Liga": {
    "thesportsdb_id": 4335,
    "rounds_fetched": [
-    17
+    17,
+    18
    ],
-   "matches": 9,
-   "crosschecked": 0,
+   "matches": 0,
+   "crosschecked": 9,
    "conflicts": 0,
    "errors": [
     "round 12: HTTP Error 429: Too Many Requests",
@@ -58,8 +59,7 @@
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests"
-   ],
-   "kept_previous": 9
+   ]
   },
   "Serie A": {
    "thesportsdb_id": 4332,
@@ -68,8 +68,8 @@
     12,
     13
    ],
-   "matches": 19,
-   "crosschecked": 29,
+   "matches": 15,
+   "crosschecked": 25,
    "conflicts": 0,
    "errors": []
   },
@@ -80,60 +80,18 @@
     10,
     11
    ],
-   "matches": 17,
-   "crosschecked": 23,
+   "matches": 12,
+   "crosschecked": 19,
    "conflicts": 0,
    "errors": []
   },
   "2. Bundesliga": {
    "thesportsdb_id": 4399,
    "rounds_fetched": [
-    16,
     17
    ],
    "matches": 0,
    "crosschecked": 0,
-   "conflicts": 0,
-   "errors": [
-    "round 11: HTTP Error 429: Too Many Requests",
-    "round 12: HTTP Error 429: Too Many Requests",
-    "round 13: HTTP Error 429: Too Many Requests",
-    "round 14: HTTP Error 429: Too Many Requests",
-    "round 15: HTTP Error 429: Too Many Requests"
-   ]
-  },
-  "Ligue 1": {
-   "thesportsdb_id": 4334,
-   "rounds_fetched": [
-    10,
-    11,
-    12
-   ],
-   "matches": 17,
-   "crosschecked": 23,
-   "conflicts": 2,
-   "errors": []
-  },
-  "Eredivisie": {
-   "thesportsdb_id": 4337,
-   "rounds_fetched": [
-    12,
-    13,
-    14
-   ],
-   "matches": 17,
-   "crosschecked": 18,
-   "conflicts": 0,
-   "errors": []
-  },
-  "Primeira Liga": {
-   "thesportsdb_id": 4344,
-   "rounds_fetched": [
-    11,
-    17
-   ],
-   "matches": 8,
-   "crosschecked": 6,
    "conflicts": 0,
    "errors": [
     "round 12: HTTP Error 429: Too Many Requests",
@@ -143,14 +101,55 @@
     "round 16: HTTP Error 429: Too Many Requests"
    ]
   },
+  "Ligue 1": {
+   "thesportsdb_id": 4334,
+   "rounds_fetched": [
+    10,
+    11,
+    12
+   ],
+   "matches": 15,
+   "crosschecked": 21,
+   "conflicts": 0,
+   "errors": []
+  },
+  "Eredivisie": {
+   "thesportsdb_id": 4337,
+   "rounds_fetched": [
+    12,
+    13,
+    14
+   ],
+   "matches": 14,
+   "crosschecked": 15,
+   "conflicts": 0,
+   "errors": []
+  },
+  "Primeira Liga": {
+   "thesportsdb_id": 4344,
+   "rounds_fetched": [
+    16
+   ],
+   "matches": 5,
+   "crosschecked": 0,
+   "conflicts": 0,
+   "errors": [
+    "round 11: HTTP Error 429: Too Many Requests",
+    "round 12: HTTP Error 429: Too Many Requests",
+    "round 13: HTTP Error 429: Too Many Requests",
+    "round 14: HTTP Error 429: Too Many Requests",
+    "round 15: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 5
+  },
   "Scottish Premiership": {
    "thesportsdb_id": 4330,
    "rounds_fetched": [
-    13,
     14,
-    15
+    15,
+    16
    ],
-   "matches": 12,
+   "matches": 6,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": []
@@ -158,11 +157,11 @@
   "Austrian Bundesliga": {
    "thesportsdb_id": 4621,
    "rounds_fetched": [
-    12,
     13,
-    14
+    14,
+    15
    ],
-   "matches": 11,
+   "matches": 6,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": []
@@ -170,19 +169,19 @@
   "Czech First League": {
    "thesportsdb_id": 4631,
    "rounds_fetched": [
-    19
+    14,
+    20
    ],
-   "matches": 16,
+   "matches": 4,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
-    "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
     "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests"
-   ],
-   "kept_previous": 16
+    "round 18: HTTP Error 429: Too Many Requests",
+    "round 19: HTTP Error 429: Too Many Requests"
+   ]
   },
   "Slovak First Football League": {
    "thesportsdb_id": 4672,
@@ -191,7 +190,7 @@
     15,
     16
    ],
-   "matches": 12,
+   "matches": 8,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": []
@@ -203,7 +202,7 @@
     12,
     13
    ],
-   "matches": 17,
+   "matches": 13,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": []
@@ -211,18 +210,17 @@
   "Swiss Super League": {
    "thesportsdb_id": 4675,
    "rounds_fetched": [
-    18,
     19
    ],
    "matches": 0,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
-    "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests"
+    "round 17: HTTP Error 429: Too Many Requests",
+    "round 18: HTTP Error 429: Too Many Requests"
    ]
   },
   "Danish Superliga": {
@@ -232,629 +230,13 @@
     15,
     16
    ],
-   "matches": 11,
+   "matches": 10,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": []
   }
  },
  "matches": [
-  {
-   "league": "Premier League",
-   "home": "Leeds United",
-   "away": "Tottenham Hotspur",
-   "venue": "Elland Road",
-   "kickoff_utc": "2026-11-07T12:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 12:30",
-   "kickoff_pl": "Sat 07 Nov 13:30",
-   "date_local": "2026-11-07",
-   "round": "10",
-   "thesportsdb_event": "2494097",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 15:00 local"
-  },
-  {
-   "league": "La Liga",
-   "home": "Málaga",
-   "away": "Racing de Santander",
-   "venue": "Estadio La Rosaleda",
-   "kickoff_utc": "2026-11-07T13:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 14:00",
-   "kickoff_pl": "Sat 07 Nov 14:00",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2506282",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
-   "league": "Serie A",
-   "home": "Cagliari",
-   "away": "Frosinone",
-   "venue": "Unipol Domus",
-   "kickoff_utc": "2026-11-07T14:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 15:00",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2482238",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "Lecce",
-   "venue": "Stadio Olimpico Grande Torino",
-   "kickoff_utc": "2026-11-07T14:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 15:00",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2482243",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Czech First League",
-   "home": "Zlín",
-   "away": "Slovácko",
-   "venue": "Stadion Letná Zlín",
-   "kickoff_utc": "2026-11-07T14:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 15:00",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2497829",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Slovan Liberec",
-   "away": "Bohemians 1905",
-   "venue": "Stadion U Nisy",
-   "kickoff_utc": "2026-11-07T14:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 15:00",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2497830",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Hradec Králové",
-   "away": "Sigma Olomouc",
-   "venue": "Malšovická Aréna",
-   "kickoff_utc": "2026-11-07T14:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 15:00",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2497833",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Mainz",
-   "away": "Bayern Munich",
-   "venue": "MEWA ARENA",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "9",
-   "thesportsdb_event": "2508406",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Borussia Dortmund",
-   "away": "Elversberg",
-   "venue": "Signal Iduna Park",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "9",
-   "thesportsdb_event": "2508407",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "RB Leipzig",
-   "away": "Augsburg",
-   "venue": "Red Bull Arena Leipzig",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "9",
-   "thesportsdb_event": "2508410",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Paderborn",
-   "away": "Eintracht Frankfurt",
-   "venue": "Home Deluxe Arena",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "9",
-   "thesportsdb_event": "2508412",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Slovak First Football League",
-   "home": "Slovan Bratislava",
-   "away": "Trenčín",
-   "venue": "Tehelné pole",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2488559",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Slovak First Football League",
-   "home": "Dukla Banská Bystrica",
-   "away": "Spartak Trnava",
-   "venue": "Štadión SNP Štiavničky",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2488562",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Slovak First Football League",
-   "home": "Skalica",
-   "away": "Žilina",
-   "venue": "Mestský štadión Skalica",
-   "kickoff_utc": "2026-11-07T14:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 15:30",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2488564",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Premier League",
-   "home": "Fulham",
-   "away": "Newcastle United",
-   "venue": "Craven Cottage",
-   "kickoff_utc": "2026-11-07T15:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 16:00",
-   "date_local": "2026-11-07",
-   "round": "10",
-   "thesportsdb_event": "2494091",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Hull City",
-   "venue": "Emirates Stadium",
-   "kickoff_utc": "2026-11-07T15:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 16:00",
-   "date_local": "2026-11-07",
-   "round": "10",
-   "thesportsdb_event": "2494092",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Scottish Premiership",
-   "home": "St Johnstone",
-   "away": "Dundee",
-   "venue": "McDiarmid Park",
-   "kickoff_utc": "2026-11-07T15:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 16:00",
-   "date_local": "2026-11-07",
-   "round": "13",
-   "thesportsdb_event": "2494485",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Scottish Premiership",
-   "home": "Dundee United",
-   "away": "Motherwell",
-   "venue": "Tannadice Park",
-   "kickoff_utc": "2026-11-07T15:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:00",
-   "kickoff_pl": "Sat 07 Nov 16:00",
-   "date_local": "2026-11-07",
-   "round": "13",
-   "thesportsdb_event": "2494486",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Belgian Pro League",
-   "home": "Westerlo",
-   "away": "Charleroi",
-   "venue": "Het Kuipje",
-   "kickoff_utc": "2026-11-07T15:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 16:00",
-   "kickoff_pl": "Sat 07 Nov 16:00",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2496781",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "La Liga",
-   "home": "Espanyol",
-   "away": "Deportivo de A Coruña",
-   "venue": "RCDE Stadium",
-   "kickoff_utc": "2026-11-07T15:15:00+00:00",
-   "kickoff_local": "Sat 07 Nov 16:15",
-   "kickoff_pl": "Sat 07 Nov 16:15",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2506285",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Fortuna Sittard",
-   "away": "Telstar",
-   "venue": "Fortuna Sittard Stadion",
-   "kickoff_utc": "2026-11-07T15:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 16:30",
-   "kickoff_pl": "Sat 07 Nov 16:30",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2489166",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Primeira Liga",
-   "home": "Nacional de Madeira",
-   "away": "Académico de Viseu",
-   "venue": "Estádio da Madeira",
-   "kickoff_utc": "2026-11-07T15:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 15:30",
-   "kickoff_pl": "Sat 07 Nov 16:30",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2514025",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Austrian Bundesliga",
-   "home": "Austria Lustenau",
-   "away": "Grazer AK",
-   "venue": "Sun Minimeal Arena",
-   "kickoff_utc": "2026-11-07T16:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 17:00",
-   "kickoff_pl": "Sat 07 Nov 17:00",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2499774",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Parma",
-   "away": "Bologna",
-   "venue": "Stadio Ennio Tardini",
-   "kickoff_utc": "2026-11-07T17:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 18:00",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2482246",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Slovak First Football League",
-   "home": "DAC 1904 Dunajská Streda",
-   "away": "Košice",
-   "venue": "MOL Aréna",
-   "kickoff_utc": "2026-11-07T17:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 18:00",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2488560",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "Odense BK",
-   "away": "Viborg",
-   "venue": "Nature Energy Park",
-   "kickoff_utc": "2026-11-07T17:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 18:00",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2481873",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Zbrojovka Brno",
-   "away": "Baník Ostrava",
-   "venue": "Městský fotbalový stadion Srbská",
-   "kickoff_utc": "2026-11-07T17:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 18:00",
-   "date_local": "2026-11-07",
-   "round": "14",
-   "thesportsdb_event": "2497834",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Belgian Pro League",
-   "home": "Oud-Heverlee Leuven",
-   "away": "Mechelen",
-   "venue": "King Power at Den Dreef Stadion",
-   "kickoff_utc": "2026-11-07T17:15:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:15",
-   "kickoff_pl": "Sat 07 Nov 18:15",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2496780",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Premier League",
-   "home": "Nottingham Forest",
-   "away": "Manchester City",
-   "venue": "City Ground",
-   "kickoff_utc": "2026-11-07T17:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 17:30",
-   "kickoff_pl": "Sat 07 Nov 18:30",
-   "date_local": "2026-11-07",
-   "round": "10",
-   "thesportsdb_event": "2494098",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 15:00 local"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Stuttgart",
-   "away": "Werder Bremen",
-   "venue": "MHP Arena",
-   "kickoff_utc": "2026-11-07T17:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:30",
-   "kickoff_pl": "Sat 07 Nov 18:30",
-   "date_local": "2026-11-07",
-   "round": "9",
-   "thesportsdb_event": "2508409",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "La Liga",
-   "home": "Osasuna",
-   "away": "Athletic Bilbao",
-   "venue": "Estadio El Sadar",
-   "kickoff_utc": "2026-11-07T17:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:30",
-   "kickoff_pl": "Sat 07 Nov 18:30",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2506287",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
-   "league": "Eredivisie",
-   "home": "ADO Den Haag",
-   "away": "Sparta Rotterdam",
-   "venue": "Cars Jeans Stadion",
-   "kickoff_utc": "2026-11-07T17:45:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:45",
-   "kickoff_pl": "Sat 07 Nov 18:45",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2489169",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Scottish Premiership",
-   "home": "Aberdeen",
-   "away": "Hibernian",
-   "venue": "Pittodrie Stadium",
-   "kickoff_utc": "2026-11-07T17:45:00+00:00",
-   "kickoff_local": "Sat 07 Nov 17:45",
-   "kickoff_pl": "Sat 07 Nov 18:45",
-   "date_local": "2026-11-07",
-   "round": "13",
-   "thesportsdb_event": "2494484",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Auxerre",
-   "away": "Paris FC",
-   "venue": "Stade de l'Abbé Deschamps",
-   "kickoff_utc": "2026-11-07T18:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 19:00",
-   "kickoff_pl": "Sat 07 Nov 19:00",
-   "date_local": "2026-11-07",
-   "round": "10",
-   "thesportsdb_event": "2489548",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 17:15 local"
-  },
-  {
-   "league": "Primeira Liga",
-   "home": "Alverca",
-   "away": "Casa Pia",
-   "venue": "Complexo Desportivo FC Alverca",
-   "kickoff_utc": "2026-11-07T18:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 18:00",
-   "kickoff_pl": "Sat 07 Nov 19:00",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2514031",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Austrian Bundesliga",
-   "home": "SV Ried",
-   "away": "LASK",
-   "venue": "BWT Oberösterreichische Arena",
-   "kickoff_utc": "2026-11-07T18:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 19:30",
-   "kickoff_pl": "Sat 07 Nov 19:30",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2499771",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Roma",
-   "away": "Sassuolo",
-   "venue": "Stadio Olimpico",
-   "kickoff_utc": "2026-11-07T19:45:00+00:00",
-   "kickoff_local": "Sat 07 Nov 20:45",
-   "kickoff_pl": "Sat 07 Nov 20:45",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2482241",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Belgian Pro League",
-   "home": "Antwerp",
-   "away": "Lommel",
-   "venue": "Bosuilstadion",
-   "kickoff_utc": "2026-11-07T19:45:00+00:00",
-   "kickoff_local": "Sat 07 Nov 20:45",
-   "kickoff_pl": "Sat 07 Nov 20:45",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2496786",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Belgian Pro League",
-   "home": "RAAL La Louvière",
-   "away": "Cercle Brugge",
-   "venue": "Easi Arena",
-   "kickoff_utc": "2026-11-07T19:45:00+00:00",
-   "kickoff_local": "Sat 07 Nov 20:45",
-   "kickoff_pl": "Sat 07 Nov 20:45",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2496788",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Excelsior",
-   "away": "Go Ahead Eagles",
-   "venue": "Van Donge and De Roo Stadion",
-   "kickoff_utc": "2026-11-07T20:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 21:00",
-   "kickoff_pl": "Sat 07 Nov 21:00",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2489167",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Scottish Premiership",
-   "home": "St Mirren",
-   "away": "Rangers",
-   "venue": "St Mirren Park Paisley",
-   "kickoff_utc": "2026-11-07T20:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 20:00",
-   "kickoff_pl": "Sat 07 Nov 21:00",
-   "date_local": "2026-11-07",
-   "round": "13",
-   "thesportsdb_event": "2494483",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "La Liga",
-   "home": "Valencia",
-   "away": "Real Madrid",
-   "venue": "Estadio de Mestalla",
-   "kickoff_utc": "2026-11-07T20:00:00+00:00",
-   "kickoff_local": "Sat 07 Nov 21:00",
-   "kickoff_pl": "Sat 07 Nov 21:00",
-   "date_local": "2026-11-07",
-   "round": "12",
-   "thesportsdb_event": "2506280",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Paris Saint-Germain",
-   "away": "Troyes",
-   "venue": "Parc des Princes",
-   "kickoff_utc": "2026-11-07T20:05:00+00:00",
-   "kickoff_local": "Sat 07 Nov 21:05",
-   "kickoff_pl": "Sat 07 Nov 21:05",
-   "date_local": "2026-11-07",
-   "round": "10",
-   "thesportsdb_event": "2489544",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 20:45 local"
-  },
-  {
-   "league": "Primeira Liga",
-   "home": "Sporting CP",
-   "away": "Moreirense",
-   "venue": "Estádio José Alvalade",
-   "kickoff_utc": "2026-11-07T20:30:00+00:00",
-   "kickoff_local": "Sat 07 Nov 20:30",
-   "kickoff_pl": "Sat 07 Nov 21:30",
-   "date_local": "2026-11-07",
-   "round": "11",
-   "thesportsdb_event": "2514028",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
   {
    "league": "Danish Superliga",
    "home": "FC Copenhagen",
@@ -940,20 +322,6 @@
    "crosscheck": null
   },
   {
-   "league": "La Liga",
-   "home": "Elche",
-   "away": "Real Betis",
-   "venue": "Estadio Martínez Valero",
-   "kickoff_utc": "2026-11-08T13:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:00",
-   "kickoff_pl": "Sun 08 Nov 14:00",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2506288",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Eredivisie",
    "home": "Twente",
    "away": "Ajax",
@@ -966,90 +334,6 @@
    "thesportsdb_event": "2489172",
    "flags": [],
    "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Austrian Bundesliga",
-   "home": "TSV Hartberg",
-   "away": "SCR Altach",
-   "venue": "Profertil Arena Hartberg",
-   "kickoff_utc": "2026-11-08T13:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:30",
-   "kickoff_pl": "Sun 08 Nov 14:30",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2499772",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Austrian Bundesliga",
-   "home": "WSG Tirol",
-   "away": "Austria Vienna",
-   "venue": "Tivoli Stadion Tirol",
-   "kickoff_utc": "2026-11-08T13:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:30",
-   "kickoff_pl": "Sun 08 Nov 14:30",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2499773",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Premier League",
-   "home": "Brighton and Hove Albion",
-   "away": "Brentford",
-   "venue": "American Express Stadium",
-   "kickoff_utc": "2026-11-08T14:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:00",
-   "kickoff_pl": "Sun 08 Nov 15:00",
-   "date_local": "2026-11-08",
-   "round": "10",
-   "thesportsdb_event": "2494094",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
-  {
-   "league": "Premier League",
-   "home": "Crystal Palace",
-   "away": "Liverpool",
-   "venue": "Selhurst Park",
-   "kickoff_utc": "2026-11-08T14:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:00",
-   "kickoff_pl": "Sun 08 Nov 15:00",
-   "date_local": "2026-11-08",
-   "round": "10",
-   "thesportsdb_event": "2494095",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-07 15:00"
-  },
-  {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "Bournemouth",
-   "venue": "Portman Road",
-   "kickoff_utc": "2026-11-08T14:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:00",
-   "kickoff_pl": "Sun 08 Nov 15:00",
-   "date_local": "2026-11-08",
-   "round": "10",
-   "thesportsdb_event": "2494096",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-07 15:00"
-  },
-  {
-   "league": "Premier League",
-   "home": "Sunderland",
-   "away": "Chelsea",
-   "venue": "Stadium of Light",
-   "kickoff_utc": "2026-11-08T14:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 14:00",
-   "kickoff_pl": "Sun 08 Nov 15:00",
-   "date_local": "2026-11-08",
-   "round": "10",
-   "thesportsdb_event": "2494099",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-07 15:00"
   },
   {
    "league": "Serie A",
@@ -1150,20 +434,6 @@
    "crosscheck": null
   },
   {
-   "league": "Scottish Premiership",
-   "home": "Heart of Midlothian",
-   "away": "Falkirk",
-   "venue": "Tynecastle Park",
-   "kickoff_utc": "2026-11-08T15:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 15:00",
-   "kickoff_pl": "Sun 08 Nov 16:00",
-   "date_local": "2026-11-08",
-   "round": "13",
-   "thesportsdb_event": "2494487",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Belgian Pro League",
    "home": "Gent",
    "away": "Kortrijk",
@@ -1190,20 +460,6 @@
    "thesportsdb_event": "2481872",
    "flags": [],
    "crosscheck": null
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Sociedad",
-   "away": "Rayo Vallecano",
-   "venue": "Reale Arena",
-   "kickoff_utc": "2026-11-08T15:15:00+00:00",
-   "kickoff_local": "Sun 08 Nov 16:15",
-   "kickoff_pl": "Sun 08 Nov 16:15",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2506286",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Primeira Liga",
@@ -1262,34 +518,6 @@
    "crosscheck": "not found in openfootball"
   },
   {
-   "league": "Scottish Premiership",
-   "home": "Celtic",
-   "away": "Kilmarnock",
-   "venue": "Celtic Park",
-   "kickoff_utc": "2026-11-08T16:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 16:00",
-   "kickoff_pl": "Sun 08 Nov 17:00",
-   "date_local": "2026-11-08",
-   "round": "13",
-   "thesportsdb_event": "2494482",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Austrian Bundesliga",
-   "home": "Sturm Graz",
-   "away": "Red Bull Salzburg",
-   "venue": "Merkur Arena Graz",
-   "kickoff_utc": "2026-11-08T16:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 17:00",
-   "kickoff_pl": "Sun 08 Nov 17:00",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2499769",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Ligue 1",
    "home": "Angers",
    "away": "Nice",
@@ -1346,20 +574,6 @@
    "crosscheck": "agrees (date+time)"
   },
   {
-   "league": "Premier League",
-   "home": "Manchester United",
-   "away": "Aston Villa",
-   "venue": "Old Trafford",
-   "kickoff_utc": "2026-11-08T16:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 16:30",
-   "kickoff_pl": "Sun 08 Nov 17:30",
-   "date_local": "2026-11-08",
-   "round": "10",
-   "thesportsdb_event": "2494090",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-07 15:00"
-  },
-  {
    "league": "Bundesliga",
    "home": "Freiburg",
    "away": "Union Berlin",
@@ -1386,6 +600,20 @@
    "thesportsdb_event": "2482244",
    "flags": [],
    "crosscheck": "agrees (date+time)"
+  },
+  {
+   "league": "Czech First League",
+   "home": "Viktoria Plzeň",
+   "away": "Sparta Prague",
+   "venue": "Doosan Aréna",
+   "kickoff_utc": "2026-11-08T17:00:00+00:00",
+   "kickoff_local": "Sun 08 Nov 18:00",
+   "kickoff_pl": "Sun 08 Nov 18:00",
+   "date_local": "2026-11-08",
+   "round": "14",
+   "thesportsdb_event": "2497828",
+   "flags": [],
+   "crosscheck": null
   },
   {
    "league": "Slovak First Football League",
@@ -1416,20 +644,6 @@
    "crosscheck": null
   },
   {
-   "league": "Czech First League",
-   "home": "Viktoria Plzeň",
-   "away": "Sparta Prague",
-   "venue": "Doosan Aréna",
-   "kickoff_utc": "2026-11-08T17:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 18:00",
-   "kickoff_pl": "Sun 08 Nov 18:00",
-   "date_local": "2026-11-08",
-   "round": "14",
-   "thesportsdb_event": "2497828",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Belgian Pro League",
    "home": "Union Saint-Gilloise",
    "away": "Genk",
@@ -1442,34 +656,6 @@
    "thesportsdb_event": "2496787",
    "flags": [],
    "crosscheck": null
-  },
-  {
-   "league": "La Liga",
-   "home": "Villarreal",
-   "away": "Getafe",
-   "venue": "Estadio de la Cerámica",
-   "kickoff_utc": "2026-11-08T17:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 18:30",
-   "kickoff_pl": "Sun 08 Nov 18:30",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2506281",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
-   "league": "La Liga",
-   "home": "Celta Vigo",
-   "away": "Levante",
-   "venue": "Estadio Abanca-Balaídos",
-   "kickoff_utc": "2026-11-08T17:30:00+00:00",
-   "kickoff_local": "Sun 08 Nov 18:30",
-   "kickoff_pl": "Sun 08 Nov 18:30",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2506284",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Primeira Liga",
@@ -1554,20 +740,6 @@
    "thesportsdb_event": "2489551",
    "flags": [],
    "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "La Liga",
-   "home": "Atlético Madrid",
-   "away": "Barcelona",
-   "venue": "Riyadh Air Metropolitano",
-   "kickoff_utc": "2026-11-08T20:00:00+00:00",
-   "kickoff_local": "Sun 08 Nov 21:00",
-   "kickoff_pl": "Sun 08 Nov 21:00",
-   "date_local": "2026-11-08",
-   "round": "12",
-   "thesportsdb_event": "2506279",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Primeira Liga",
@@ -1736,62 +908,6 @@
    "thesportsdb_event": "2482256",
    "flags": [],
    "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Czech First League",
-   "home": "Mladá Boleslav",
-   "away": "Zlín",
-   "venue": "Lokotrans Aréna",
-   "kickoff_utc": "2026-11-21T14:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 15:00",
-   "kickoff_pl": "Sat 21 Nov 15:00",
-   "date_local": "2026-11-21",
-   "round": "15",
-   "thesportsdb_event": "2497836",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Sigma Olomouc",
-   "away": "Slavia Prague",
-   "venue": "Andrův stadion",
-   "kickoff_utc": "2026-11-21T14:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 15:00",
-   "kickoff_pl": "Sat 21 Nov 15:00",
-   "date_local": "2026-11-21",
-   "round": "15",
-   "thesportsdb_event": "2497837",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Baník Ostrava",
-   "away": "Teplice",
-   "venue": "Městský stadion v Ostravě-Vítkovicích",
-   "kickoff_utc": "2026-11-21T14:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 15:00",
-   "kickoff_pl": "Sat 21 Nov 15:00",
-   "date_local": "2026-11-21",
-   "round": "15",
-   "thesportsdb_event": "2497838",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Artis Brno",
-   "away": "Jablonec",
-   "venue": "Městský fotbalový stadion Srbská",
-   "kickoff_utc": "2026-11-21T14:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 15:00",
-   "kickoff_pl": "Sat 21 Nov 15:00",
-   "date_local": "2026-11-21",
-   "round": "15",
-   "thesportsdb_event": "2519360",
-   "flags": [],
-   "crosscheck": null
   },
   {
    "league": "Bundesliga",
@@ -2242,20 +1358,6 @@
    "crosscheck": null
   },
   {
-   "league": "Czech First League",
-   "home": "Bohemians 1905",
-   "away": "Viktoria Plzeň",
-   "venue": "Ďolíček",
-   "kickoff_utc": "2026-11-21T17:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 18:00",
-   "kickoff_pl": "Sat 21 Nov 18:00",
-   "date_local": "2026-11-21",
-   "round": "15",
-   "thesportsdb_event": "2497839",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Belgian Pro League",
    "home": "Genk",
    "away": "RAAL La Louvière",
@@ -2536,20 +1638,6 @@
    "crosscheck": "agrees (date+time)"
   },
   {
-   "league": "Czech First League",
-   "home": "Pardubice",
-   "away": "Zbrojovka Brno",
-   "venue": "CFIG Arena",
-   "kickoff_utc": "2026-11-22T12:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:00",
-   "kickoff_pl": "Sun 22 Nov 13:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2497842",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Belgian Pro League",
    "home": "Beveren",
    "away": "Gent",
@@ -2688,20 +1776,6 @@
    "thesportsdb_event": "2489559",
    "flags": [],
    "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Czech First League",
-   "home": "Slovácko",
-   "away": "Hradec Králové",
-   "venue": "Městský fotbalový stadion Miroslava Valenty",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2497841",
-   "flags": [],
-   "crosscheck": null
   },
   {
    "league": "Bundesliga",
@@ -2868,20 +1942,6 @@
    "date_local": "2026-11-22",
    "round": "15",
    "thesportsdb_event": "2481877",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Sparta Prague",
-   "away": "Slovan Liberec",
-   "venue": "epet ARENA",
-   "kickoff_utc": "2026-11-22T17:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:00",
-   "kickoff_pl": "Sun 22 Nov 18:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2497835",
    "flags": [],
    "crosscheck": null
   },
