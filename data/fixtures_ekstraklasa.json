@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-08T17:56+01:00",
+ "fetched": "2026-11-09T06:20+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1868,12 +1868,12 @@
    "round": 14,
    "home": "Legia Warszawa",
    "away": "Raków Częstochowa",
-   "date": null,
-   "kickoff": null,
-   "time_confirmed": false,
+   "date": "2026-11-08",
+   "kickoff": "2026-11-08T17:30:00+01:00",
+   "time_confirmed": true,
    "venue": null,
-   "finished": false,
-   "score": null,
+   "finished": true,
+   "score": "2–4",
    "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/fce41e0c-8af4-41a4-8091-0e3b7b6e2b08/legia-warszawa-rakow-czestochowa/"
   },
@@ -1886,10 +1886,10 @@
    "date": "2026-11-08",
    "kickoff": "2026-11-08T20:15:00+01:00",
    "time_confirmed": true,
-   "venue": "Poznań, Enea Stadion",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.lechpoznan.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "2–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/59b32bf1-a09c-4b73-be45-53864f1d2b10/lech-poznan-zaglebie-lubin/"
   },
   {
