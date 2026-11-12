@@ -1037,6 +1037,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Bochum": {
+  "league": "2. Bundesliga",
+  "venue": "Vonovia Ruhrstadion",
+  "wikidata": "Q105861",
+  "wikidata_name": "VfL Bochum",
+  "stadium_wikidata": "Ruhrstadion",
+  "lat": 51.489944,
+  "lon": 7.236489,
+  "nearest_airports": [
+   {
+    "iata": "DTM",
+    "name": "Dortmund Airport",
+    "city": "Dortmund",
+    "km": 26
+   },
+   {
+    "iata": "DUS",
+    "name": "Düsseldorf Airport",
+    "city": "Düsseldorf",
+    "km": 39
+   },
+   {
+    "iata": "CGN",
+    "name": "Cologne Bonn Airport",
+    "city": "Köln (Cologne)",
+    "km": 70
+   },
+   {
+    "iata": "NRN",
+    "name": "Weeze (Niederrhein) Airport",
+    "city": "Weeze",
+    "km": 77
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Bohemians 1905": {
   "league": "Czech First League",
   "venue": "Ďolíček",
@@ -1544,42 +1580,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Celtic": {
-  "league": "Scottish Premiership",
-  "venue": "Celtic Park",
-  "wikidata": "Q19593",
-  "wikidata_name": "Celtic F.C.",
-  "stadium_wikidata": "Celtic Park",
-  "lat": 55.849711111,
-  "lon": -4.205588888,
-  "nearest_airports": [
-   {
-    "iata": "GLA",
-    "name": "Glasgow Airport",
-    "city": "Glasgow",
-    "km": 14
-   },
-   {
-    "iata": "PIK",
-    "name": "Glasgow Prestwick Airport",
-    "city": "Prestwick, South Ayrshire",
-    "km": 45
-   },
-   {
-    "iata": "EDI",
-    "name": "Edinburgh Airport",
-    "city": "Ingliston, Edinburgh",
-    "km": 53
-   },
-   {
-    "iata": "DND",
-    "name": "Dundee Airport",
-    "city": "Dundee",
-    "km": 99
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Cercle Brugge": {
   "league": "Belgian Pro League",
   "venue": "Jan Breydel Stadium",
@@ -1940,42 +1940,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Dundee": {
-  "league": "Scottish Premiership",
-  "venue": "Dens Park",
-  "wikidata": "Q335483",
-  "wikidata_name": "Dundee F.C.",
-  "stadium_wikidata": "Dens Park",
-  "lat": 56.475264,
-  "lon": -2.973194,
-  "nearest_airports": [
-   {
-    "iata": "DND",
-    "name": "Dundee Airport",
-    "city": "Dundee",
-    "km": 4
-   },
-   {
-    "iata": "EDI",
-    "name": "Edinburgh Airport",
-    "city": "Ingliston, Edinburgh",
-    "km": 63
-   },
-   {
-    "iata": "ABZ",
-    "name": "Aberdeen International Airport",
-    "city": "Aberdeen",
-    "km": 94
-   },
-   {
-    "iata": "GLA",
-    "name": "Glasgow Airport",
-    "city": "Glasgow",
-    "km": 113
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Dundee United": {
   "league": "Scottish Premiership",
   "venue": "Tannadice Park",
@@ -2008,6 +1972,78 @@
     "name": "Glasgow Airport",
     "city": "Glasgow",
     "km": 113
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Dynamo Dresden": {
+  "league": "2. Bundesliga",
+  "venue": "Rudolf-Harbig-Stadion",
+  "wikidata": "Q141931",
+  "wikidata_name": "Dynamo Dresden",
+  "stadium_wikidata": "Rudolf-Harbig-Stadion",
+  "lat": 51.040278,
+  "lon": 13.747778,
+  "nearest_airports": [
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 11
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 110
+   },
+   {
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "km": 111
+   },
+   {
+    "iata": "LEJ",
+    "name": "Leipzig/Halle Airport",
+    "city": "Schkeuditz",
+    "km": 114
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Eintracht Braunschweig": {
+  "league": "2. Bundesliga",
+  "venue": "Eintracht-Stadion",
+  "wikidata": "Q154053",
+  "wikidata_name": "Eintracht Braunschweig",
+  "stadium_wikidata": "Eintracht-Stadion",
+  "lat": 52.29,
+  "lon": 10.521389,
+  "nearest_airports": [
+   {
+    "iata": "HAJ",
+    "name": "Hannover Airport",
+    "city": "Hannover",
+    "km": 60
+   },
+   {
+    "iata": "KSF",
+    "name": "Kassel Airport",
+    "city": "Calden",
+    "km": 124
+   },
+   {
+    "iata": "BRE",
+    "name": "Bremen Airport",
+    "city": "Bremen",
+    "km": 144
+   },
+   {
+    "iata": "ERF",
+    "name": "Erfurt-Weimar Airport",
+    "city": "Erfurt",
+    "km": 149
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -2332,42 +2368,6 @@
     "name": "Malmö Sturup Airport",
     "city": "Malmö",
     "km": 71
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Falkirk": {
-  "league": "Scottish Premiership",
-  "venue": "Falkirk Community Stadium",
-  "wikidata": "Q219241",
-  "wikidata_name": "Falkirk F.C.",
-  "stadium_wikidata": "Brockville Park",
-  "lat": 56.003442,
-  "lon": -3.789306,
-  "nearest_airports": [
-   {
-    "iata": "EDI",
-    "name": "Edinburgh Airport",
-    "city": "Ingliston, Edinburgh",
-    "km": 27
-   },
-   {
-    "iata": "GLA",
-    "name": "Glasgow Airport",
-    "city": "Glasgow",
-    "km": 43
-   },
-   {
-    "iata": "DND",
-    "name": "Dundee Airport",
-    "city": "Dundee",
-    "km": 69
-   },
-   {
-    "iata": "PIK",
-    "name": "Glasgow Prestwick Airport",
-    "city": "Prestwick, South Ayrshire",
-    "km": 74
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -2762,6 +2762,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Greuther Fürth": {
+  "league": "2. Bundesliga",
+  "venue": "Sportpark Ronhof Thomas Sommer",
+  "wikidata": "Q153539",
+  "wikidata_name": "SpVgg Greuther Fürth",
+  "stadium_wikidata": "Trolli Arena",
+  "lat": 49.486944,
+  "lon": 10.999167,
+  "nearest_airports": [
+   {
+    "iata": "NUE",
+    "name": "Nuremberg Airport",
+    "city": "Nuremberg",
+    "km": 6
+   },
+   {
+    "iata": "MUC",
+    "name": "Munich Airport",
+    "city": "Munich",
+    "km": 138
+   },
+   {
+    "iata": "STR",
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "km": 157
+   },
+   {
+    "iata": "KLV",
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "km": 159
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Groningen": {
   "league": "Eredivisie",
   "venue": "Euroborg",
@@ -2906,38 +2942,74 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Hibernian": {
-  "league": "Scottish Premiership",
-  "venue": "Easter Road",
-  "wikidata": "Q192597",
-  "wikidata_name": "Hibernian F.C.",
-  "stadium_wikidata": "Easter Road",
-  "lat": 55.961666666,
-  "lon": -3.165555555,
+ "Heidenheim": {
+  "league": "2. Bundesliga",
+  "venue": "Voith-Arena",
+  "wikidata": "Q162251",
+  "wikidata_name": "1. FC Heidenheim 1846",
+  "stadium_wikidata": "Voith-Arena",
+  "lat": 48.6685,
+  "lon": 10.1393,
   "nearest_airports": [
    {
-    "iata": "EDI",
-    "name": "Edinburgh Airport",
-    "city": "Ingliston, Edinburgh",
-    "km": 13
+    "iata": "STR",
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "km": 67
    },
    {
-    "iata": "DND",
-    "name": "Dundee Airport",
-    "city": "Dundee",
-    "km": 55
+    "iata": "FMM",
+    "name": "Memmingen Allgau Airport",
+    "city": "Memmingen",
+    "km": 76
    },
    {
-    "iata": "GLA",
-    "name": "Glasgow Airport",
-    "city": "Glasgow",
-    "km": 80
+    "iata": "NUE",
+    "name": "Nuremberg Airport",
+    "city": "Nuremberg",
+    "km": 115
    },
    {
-    "iata": "PIK",
-    "name": "Glasgow Prestwick Airport",
-    "city": "Prestwick, South Ayrshire",
-    "km": 102
+    "iata": "FDH",
+    "name": "Bodensee Airport Friedrichshafen",
+    "city": "Friedrichshafen",
+    "km": 120
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Hertha": {
+  "league": "2. Bundesliga",
+  "venue": "Olympiastadion",
+  "wikidata": "Q102720",
+  "wikidata_name": "Hertha BSC",
+  "stadium_wikidata": "Berlin Olympic Stadium",
+  "lat": 52.514722222,
+  "lon": 13.239444444,
+  "nearest_airports": [
+   {
+    "iata": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "km": 25
+   },
+   {
+    "iata": "LEJ",
+    "name": "Leipzig/Halle Airport",
+    "city": "Schkeuditz",
+    "km": 140
+   },
+   {
+    "iata": "DRS",
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "km": 158
+   },
+   {
+    "iata": "SZZ",
+    "name": "Solidarity Szczecin–Goleniów Airport",
+    "city": "Szczecin(Glewice)",
+    "km": 163
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -2974,6 +3046,42 @@
     "name": "Frankfurt Main Airport",
     "city": "Frankfurt am Main",
     "km": 91
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Holstein Kiel": {
+  "league": "2. Bundesliga",
+  "venue": "Holstein-Stadion",
+  "wikidata": "Q157828",
+  "wikidata_name": "Holstein Kiel",
+  "stadium_wikidata": "Holstein-Stadion",
+  "lat": 54.349167,
+  "lon": 10.123611,
+  "nearest_airports": [
+   {
+    "iata": "SGD",
+    "name": "Sønderborg Airport",
+    "city": "Sønderborg",
+    "km": 72
+   },
+   {
+    "iata": "LBC",
+    "name": "Lübeck Blankensee Airport",
+    "city": "Lübeck",
+    "km": 72
+   },
+   {
+    "iata": "HAM",
+    "name": "Hamburg Helmut Schmidt Airport",
+    "city": "Hamburg",
+    "km": 80
+   },
+   {
+    "iata": "FCN",
+    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
+    "city": "Wurster Nordseeküste",
+    "km": 115
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -3262,42 +3370,6 @@
     "name": "Strasbourg Airport",
     "city": "Strasbourg",
     "km": 79
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Kilmarnock": {
-  "league": "Scottish Premiership",
-  "venue": "Rugby Park",
-  "wikidata": "Q210961",
-  "wikidata_name": "Kilmarnock F.C.",
-  "stadium_wikidata": "Rugby Park",
-  "lat": 55.604225,
-  "lon": -4.508122,
-  "nearest_airports": [
-   {
-    "iata": "PIK",
-    "name": "Glasgow Prestwick Airport",
-    "city": "Prestwick, South Ayrshire",
-    "km": 12
-   },
-   {
-    "iata": "GLA",
-    "name": "Glasgow Airport",
-    "city": "Glasgow",
-    "km": 30
-   },
-   {
-    "iata": "CAL",
-    "name": "Campbeltown Airport",
-    "city": "Campbeltown",
-    "km": 76
-   },
-   {
-    "iata": "EDI",
-    "name": "Edinburgh Airport",
-    "city": "Ingliston, Edinburgh",
-    "km": 81
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -4003,6 +4075,42 @@
     "name": "Annecy Meythet airport",
     "city": "Annecy",
     "km": 88
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Magdeburg": {
+  "league": "2. Bundesliga",
+  "venue": "Avnet Arena",
+  "wikidata": "Q155730",
+  "wikidata_name": "1. FC Magdeburg",
+  "stadium_wikidata": "Avnet Arena",
+  "lat": 52.125556,
+  "lon": 11.670833,
+  "nearest_airports": [
+   {
+    "iata": "LEJ",
+    "name": "Leipzig/Halle Airport",
+    "city": "Schkeuditz",
+    "km": 87
+   },
+   {
+    "iata": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "km": 127
+   },
+   {
+    "iata": "ERF",
+    "name": "Erfurt-Weimar Airport",
+    "city": "Erfurt",
+    "km": 137
+   },
+   {
+    "iata": "HAJ",
+    "name": "Hannover Airport",
+    "city": "Hannover",
+    "km": 140
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -4798,6 +4906,42 @@
     "name": "Biarritz Pays Basque airport",
     "city": "Biarritz",
     "km": 75
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Osnabrück": {
+  "league": "2. Bundesliga",
+  "venue": "Bremer Brücke",
+  "wikidata": "Q160530",
+  "wikidata_name": "VfL Osnabrück",
+  "stadium_wikidata": "Stadion an der Bremer Brücke",
+  "lat": 52.280833,
+  "lon": 8.071111,
+  "nearest_airports": [
+   {
+    "iata": "FMO",
+    "name": "Münster Osnabrück Airport",
+    "city": "Greven",
+    "km": 31
+   },
+   {
+    "iata": "PAD",
+    "name": "Paderborn Lippstadt Airport",
+    "city": "Büren",
+    "km": 83
+   },
+   {
+    "iata": "DTM",
+    "name": "Dortmund Airport",
+    "city": "Dortmund",
+    "km": 90
+   },
+   {
+    "iata": "BRE",
+    "name": "Bremen Airport",
+    "city": "Bremen",
+    "km": 98
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
