@@ -252,13 +252,13 @@
   "qid": "Q193481",
   "name": "AC Sparta Prague",
   "aliases": [
+   "ACS",
    "A.C. Sparta Prague",
    "A.C.S.",
    "ACSparta",
    "Athletic Club Sparta Prague",
    "Sparta Prague",
-   "SpartaPrague",
-   "ACS"
+   "SpartaPrague"
   ],
   "venues": [
    {
@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
+   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola",
-   "Fiorentina"
+   "Florentia Viola"
   ],
   "venues": [
    {
@@ -1385,14 +1385,14 @@
   "qid": "Q8760",
   "name": "Deportivo de A Coruña",
   "aliases": [
+   "Depor",
+   "Deportivo",
    "Club Deportivo de la Sala Calvet, Turcos",
    "Dépor",
    "R.C. Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña S.A.D.",
-   "Real Club Deportivo de A Coruña",
-   "Depor",
-   "Deportivo"
+   "Real Club Deportivo de A Coruña"
   ],
   "venues": [
    {
@@ -1659,10 +1659,10 @@
   "qid": "Q188430",
   "name": "F.C. Copenhagen",
   "aliases": [
-   "FCK",
    "FC Copenhagen",
    "FC København",
-   "Football Club Copenhagen"
+   "Football Club Copenhagen",
+   "FCK"
   ],
   "venues": [
    {
@@ -2475,11 +2475,11 @@
   "qid": "Q219241",
   "name": "Falkirk F.C.",
   "aliases": [
-   "Falkirk",
-   "FFC",
    "Falkirk FC",
    "Falkirk Football Club",
-   "The Bairns"
+   "The Bairns",
+   "Falkirk",
+   "FFC"
   ],
   "venues": [
    {
@@ -2582,9 +2582,9 @@
   "qid": "Q634829",
   "name": "G.D. Estoril Praia",
   "aliases": [
+   "Grupo Desportivo Estoril Praia",
    "Estoril",
-   "Estoril Praia",
-   "Grupo Desportivo Estoril Praia"
+   "Estoril Praia"
   ],
   "venues": [
    {
@@ -2703,12 +2703,12 @@
   "qid": "Q659780",
   "name": "Grazer AK",
   "aliases": [
+   "GAK",
    "GAK 1902",
    "Grazer A.K.",
    "Grazer AK 1902",
    "Grazer AK FuÃŸball",
-   "Grazer Athletik-Klub",
-   "GAK"
+   "Grazer Athletik-Klub"
   ],
   "venues": [
    {
@@ -2900,8 +2900,6 @@
   "qid": "Q631",
   "name": "Inter Milan",
   "aliases": [
-   "Inter Club",
-   "Inter FC",
    "Inter",
    "IM",
    "F.C.I.M.",
@@ -2921,7 +2919,9 @@
    "Inter of Milan",
    "Inter soccer club",
    "Internazionale Milano",
-   "The Inter"
+   "The Inter",
+   "Inter Club",
+   "Inter FC"
   ],
   "venues": [
    {
@@ -3404,14 +3404,14 @@
   "qid": "Q18656",
   "name": "Manchester United F.C.",
   "aliases": [
-   "Manchester United",
-   "Red Devils",
-   "MUFC",
    "Man U",
    "Man United",
    "Man Utd",
    "Manchester United FC",
-   "Manchester United Football Club"
+   "Manchester United Football Club",
+   "Manchester United",
+   "Red Devils",
+   "MUFC"
   ],
   "venues": [
    {
@@ -3441,11 +3441,11 @@
   "qid": "Q18661",
   "name": "Middlesbrough F.C.",
   "aliases": [
-   "Middlesbrough FC",
-   "Middlesbrough Football Club",
    "MFC",
    "Middlesbrough",
-   "The Boro"
+   "The Boro",
+   "Middlesbrough FC",
+   "Middlesbrough Football Club"
   ],
   "venues": [
    {
@@ -3998,12 +3998,12 @@
   "qid": "Q126334",
   "name": "RC Strasbourg Alsace",
   "aliases": [
+   "Racing",
+   "Strasbourg",
    "Racing Club de Strasbourg",
    "Racing Club de Strasbourg Alsace",
    "RCSA",
-   "Racing Strasbourg",
-   "Racing",
-   "Strasbourg"
+   "Racing Strasbourg"
   ],
   "venues": [
    {
@@ -5101,9 +5101,9 @@
   "qid": "Q190561",
   "name": "Standard Liège",
   "aliases": [
-   "Standard Liege",
    "Royal Standard Club de Liege",
-   "Royal Standard Club de Liège"
+   "Royal Standard Club de Liège",
+   "Standard Liege"
   ],
   "venues": [
    {
@@ -5619,13 +5619,13 @@
   "qid": "Q223450",
   "name": "Vitória S.C.",
   "aliases": [
+   "Vitória de Guimarães",
    "Vitória SC",
    "Vitoria de Guimaraes",
    "Vitoria Guimaraes SC",
    "Vitória Guimarães SC",
    "Vitoria S.C.",
-   "Vitoria SC",
-   "Vitória de Guimarães"
+   "Vitoria SC"
   ],
   "venues": [
    {
