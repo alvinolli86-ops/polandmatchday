@@ -150,12 +150,12 @@
   "qid": "Q105254",
   "name": "1. FSV Mainz 05",
   "aliases": [
+   "FSV Mainz",
    "Mainz",
    "1. Fußball- und Sportverein Mainz 05 e. V.",
    "Die Nullfünfer",
    "Mainz 05",
-   "The Zero-Fivers",
-   "FSV Mainz"
+   "The Zero-Fivers"
   ],
   "venues": [
    {
@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
-   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola"
+   "Florentia Viola",
+   "Fiorentina"
   ],
   "venues": [
    {
@@ -1839,6 +1839,8 @@
   "qid": "Q15789",
   "name": "FC Bayern Munich",
   "aliases": [
+   "Bavaria Munich",
+   "FC Bavaria Munich",
    "Munich",
    "Bayern",
    "FCBM",
@@ -1854,9 +1856,7 @@
    "FC Bayern Munchen",
    "FC Hollywood",
    "FCB Munich",
-   "FCBM 1900",
-   "Bavaria Munich",
-   "FC Bavaria Munich"
+   "FCBM 1900"
   ],
   "venues": [
    {
@@ -2475,11 +2475,11 @@
   "qid": "Q219241",
   "name": "Falkirk F.C.",
   "aliases": [
+   "Falkirk",
+   "FFC",
    "Falkirk FC",
    "Falkirk Football Club",
-   "The Bairns",
-   "Falkirk",
-   "FFC"
+   "The Bairns"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
-   "GC",
    "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich"
+   "Grasshoppers Zürich",
+   "GC"
   ],
   "venues": [
    {
@@ -3404,14 +3404,14 @@
   "qid": "Q18656",
   "name": "Manchester United F.C.",
   "aliases": [
+   "Manchester United",
+   "Red Devils",
+   "MUFC",
    "Man U",
    "Man United",
    "Man Utd",
    "Manchester United FC",
-   "Manchester United Football Club",
-   "Manchester United",
-   "Red Devils",
-   "MUFC"
+   "Manchester United Football Club"
   ],
   "venues": [
    {
@@ -3998,12 +3998,12 @@
   "qid": "Q126334",
   "name": "RC Strasbourg Alsace",
   "aliases": [
-   "Racing",
-   "Strasbourg",
    "Racing Club de Strasbourg",
    "Racing Club de Strasbourg Alsace",
    "RCSA",
-   "Racing Strasbourg"
+   "Racing Strasbourg",
+   "Racing",
+   "Strasbourg"
   ],
   "venues": [
    {
@@ -4252,10 +4252,10 @@
   "qid": "Q732002",
   "name": "Royal Antwerp F.C.",
   "aliases": [
+   "Royal Antwerp",
    "Antwerp F.C.",
    "Antwerp FC",
-   "Royal Antwerp FC",
-   "Royal Antwerp"
+   "Royal Antwerp FC"
   ],
   "venues": [
    {
@@ -4480,10 +4480,10 @@
   "qid": "Q160532",
   "name": "SC Paderborn 07",
   "aliases": [
+   "Die Ostwestfalen",
    "Paderborn 07",
    "SCP 07",
-   "Sport-Club Paderborn 07 e.V.",
-   "Die Ostwestfalen"
+   "Sport-Club Paderborn 07 e.V."
   ],
   "venues": [
    {
@@ -4628,18 +4628,18 @@
   "qid": "Q2609",
   "name": "SS Lazio",
   "aliases": [
-   "SSL",
-   "S.S. Lazio",
-   "Società Sportiva Lazio",
-   "Lazio Calcio",
-   "Lazio Sport Society",
-   "Lazio Sports Society",
    "S.S.L.",
    "S.S.Lazio",
    "Societa Sportiva Lazio",
    "Sport Society Lazio",
    "Sports Society Lazio",
-   "SSLazio"
+   "SSLazio",
+   "SSL",
+   "S.S. Lazio",
+   "Società Sportiva Lazio",
+   "Lazio Calcio",
+   "Lazio Sport Society",
+   "Lazio Sports Society"
   ],
   "venues": [
    {
@@ -4756,12 +4756,12 @@
   "qid": "Q32494",
   "name": "Schalke 04",
   "aliases": [
-   "FC Schalke 04",
-   "S04",
-   "F.C. Schalke 04",
    "FC Gelsenkirchen-Schalke 04",
    "Schalke 0",
-   "Schalke04"
+   "Schalke04",
+   "FC Schalke 04",
+   "S04",
+   "F.C. Schalke 04"
   ],
   "venues": [
    {
@@ -5101,9 +5101,9 @@
   "qid": "Q190561",
   "name": "Standard Liège",
   "aliases": [
+   "Standard Liege",
    "Royal Standard Club de Liege",
-   "Royal Standard Club de Liège",
-   "Standard Liege"
+   "Royal Standard Club de Liège"
   ],
   "venues": [
    {
@@ -5619,13 +5619,13 @@
   "qid": "Q223450",
   "name": "Vitória S.C.",
   "aliases": [
-   "Vitória de Guimarães",
    "Vitória SC",
    "Vitoria de Guimaraes",
    "Vitoria Guimaraes SC",
    "Vitória Guimarães SC",
    "Vitoria S.C.",
-   "Vitoria SC"
+   "Vitoria SC",
+   "Vitória de Guimarães"
   ],
   "venues": [
    {
