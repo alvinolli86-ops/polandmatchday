@@ -791,42 +791,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Basel": {
-  "league": "Swiss Super League",
-  "venue": "St. Jakob-Park",
-  "wikidata": "Q189671",
-  "wikidata_name": "FC Basel",
-  "stadium_wikidata": "St. Jakob-Park",
-  "lat": 47.541389,
-  "lon": 7.62,
-  "nearest_airports": [
-   {
-    "iata": "BSL",
-    "name": "EuroAirport Basel–Mulhouse–Freiburg",
-    "city": "Bâle / Mulhouse",
-    "km": 10
-   },
-   {
-    "iata": "ZRH",
-    "name": "Zürich Airport",
-    "city": "Zurich",
-    "km": 70
-   },
-   {
-    "iata": "BRN",
-    "name": "Bern Airport",
-    "city": "Bern",
-    "km": 70
-   },
-   {
-    "iata": "SXB",
-    "name": "Strasbourg Airport",
-    "city": "Strasbourg",
-    "km": 111
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Bayer Leverkusen": {
   "league": "Bundesliga",
   "venue": "BayArena",
@@ -3410,42 +3374,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Lausanne-Sport": {
-  "league": "Swiss Super League",
-  "venue": "Stade de la Tuilière",
-  "wikidata": "Q309456",
-  "wikidata_name": "FC Lausanne-Sport",
-  "stadium_wikidata": "Stade Olympique de la Pontaise",
-  "lat": 46.534,
-  "lon": 6.625,
-  "nearest_airports": [
-   {
-    "iata": "GVA",
-    "name": "Geneva International Airport",
-    "city": "Geneva",
-    "km": 51
-   },
-   {
-    "iata": "NCY",
-    "name": "Annecy Meythet airport",
-    "city": "Annecy",
-    "km": 79
-   },
-   {
-    "iata": "BRN",
-    "name": "Bern Airport",
-    "city": "Bern",
-    "km": 79
-   },
-   {
-    "iata": "DLE",
-    "name": "Dole Tavaux Airport",
-    "city": "Dole",
-    "km": 107
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Lazio": {
   "league": "Serie A",
   "venue": "Stadio Olimpico",
@@ -3859,42 +3787,6 @@
     "name": "Jersey Airport",
     "city": "St. Peter",
     "km": 184
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Lugano": {
-  "league": "Swiss Super League",
-  "venue": "AIL Arena",
-  "wikidata": "Q633521",
-  "wikidata_name": "FC Lugano",
-  "stadium_wikidata": "AIL Arena",
-  "lat": 46.0230878,
-  "lon": 8.9601204,
-  "nearest_airports": [
-   {
-    "iata": "LUG",
-    "name": "Lugano Airport",
-    "city": "Agno",
-    "km": 4
-   },
-   {
-    "iata": "MXP",
-    "name": "Milan Malpensa International Airport",
-    "city": "Ferno (VA)",
-    "km": 47
-   },
-   {
-    "iata": "LIN",
-    "name": "Milano Linate Airport",
-    "city": "Segrate (MI)",
-    "km": 69
-   },
-   {
-    "iata": "BGY",
-    "name": "Il Caravaggio International Airport",
-    "city": "Orio al Serio (BG)",
-    "km": 70
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -5753,42 +5645,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Sion": {
-  "league": "Swiss Super League",
-  "venue": "Stade de Tourbillon",
-  "wikidata": "Q321061",
-  "wikidata_name": "FC Sion",
-  "stadium_wikidata": "Stade de Tourbillon",
-  "lat": 46.233333,
-  "lon": 7.376389,
-  "nearest_airports": [
-   {
-    "iata": "BRN",
-    "name": "Bern Airport",
-    "city": "Bern",
-    "km": 76
-   },
-   {
-    "iata": "GVA",
-    "name": "Geneva International Airport",
-    "city": "Geneva",
-    "km": 97
-   },
-   {
-    "iata": "NCY",
-    "name": "Annecy Meythet airport",
-    "city": "Annecy",
-    "km": 104
-   },
-   {
-    "iata": "TRN",
-    "name": "Turin Airport",
-    "city": "Caselle Torinese (TO)",
-    "km": 117
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Slovácko": {
   "league": "Czech First League",
   "venue": "Městský fotbalový stadion Miroslava Valenty",
@@ -7121,42 +6977,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Young Boys": {
-  "league": "Swiss Super League",
-  "venue": "Wankdorf Stadium",
-  "wikidata": "Q190526",
-  "wikidata_name": "BSC Young Boys",
-  "stadium_wikidata": "Stadion Wankdorf",
-  "lat": 46.962778,
-  "lon": 7.465,
-  "nearest_airports": [
-   {
-    "iata": "BRN",
-    "name": "Bern Airport",
-    "city": "Bern",
-    "km": 6
-   },
-   {
-    "iata": "BSL",
-    "name": "EuroAirport Basel–Mulhouse–Freiburg",
-    "city": "Bâle / Mulhouse",
-    "km": 71
-   },
-   {
-    "iata": "ZRH",
-    "name": "Zürich Airport",
-    "city": "Zurich",
-    "km": 99
-   },
-   {
-    "iata": "GVA",
-    "name": "Geneva International Airport",
-    "city": "Geneva",
-    "km": 131
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Zulte Waregem": {
   "league": "Belgian Pro League",
   "venue": "Elindus Arena",
@@ -7189,42 +7009,6 @@
     "name": "Antwerp International Airport (Deurne)",
     "city": "Antwerp",
     "km": 80
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Zürich": {
-  "league": "Swiss Super League",
-  "venue": "Letzigrund",
-  "wikidata": "Q206692",
-  "wikidata_name": "FC Zürich",
-  "stadium_wikidata": "Letzigrund",
-  "lat": 47.382791,
-  "lon": 8.503801,
-  "nearest_airports": [
-   {
-    "iata": "ZRH",
-    "name": "Zürich Airport",
-    "city": "Zurich",
-    "km": 9
-   },
-   {
-    "iata": "BSL",
-    "name": "EuroAirport Basel–Mulhouse–Freiburg",
-    "city": "Bâle / Mulhouse",
-    "km": 78
-   },
-   {
-    "iata": "ACH",
-    "name": "Sankt Gallen Altenrhein Airport",
-    "city": "St. Gallen",
-    "km": 80
-   },
-   {
-    "iata": "FDH",
-    "name": "Bodensee Airport Friedrichshafen",
-    "city": "Friedrichshafen",
-    "km": 82
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
