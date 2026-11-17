@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T17:20:01+00:00",
+ "generated": "2026-11-17T05:04:42+00:00",
  "window": [
   "2026-11-20",
   "2026-11-30"
@@ -129,19 +129,19 @@
   "Primeira Liga": {
    "thesportsdb_id": 4344,
    "rounds_fetched": [
-    12,
-    18
+    17
    ],
    "matches": 9,
-   "crosschecked": 7,
+   "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 12: HTTP Error 429: Too Many Requests",
     "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
-    "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests"
-   ]
+    "round 16: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 9
   },
   "Scottish Premiership": {
    "thesportsdb_id": 4330,
@@ -211,7 +211,6 @@
   "Swiss Super League": {
    "thesportsdb_id": 4675,
    "rounds_fetched": [
-    18,
     19
    ],
    "matches": 0,
@@ -221,7 +220,8 @@
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests"
+    "round 17: HTTP Error 429: Too Many Requests",
+    "round 18: HTTP Error 429: Too Many Requests"
    ]
   },
   "Danish Superliga": {
