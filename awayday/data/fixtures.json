@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T05:04:42+00:00",
+ "generated": "2026-11-17T17:10:02+00:00",
  "window": [
   "2026-11-20",
   "2026-11-30"
@@ -47,19 +47,19 @@
   "La Liga": {
    "thesportsdb_id": 4335,
    "rounds_fetched": [
-    13,
-    19
+    18
    ],
    "matches": 10,
-   "crosschecked": 9,
+   "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests"
-   ]
+    "round 17: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 10
   },
   "Serie A": {
    "thesportsdb_id": 4332,
@@ -129,19 +129,20 @@
   "Primeira Liga": {
    "thesportsdb_id": 4344,
    "rounds_fetched": [
-    17
+    12,
+    13,
+    19
    ],
    "matches": 9,
-   "crosschecked": 0,
+   "crosschecked": 14,
    "conflicts": 0,
    "errors": [
-    "round 12: HTTP Error 429: Too Many Requests",
-    "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
-    "round 16: HTTP Error 429: Too Many Requests"
-   ],
-   "kept_previous": 9
+    "round 16: HTTP Error 429: Too Many Requests",
+    "round 17: HTTP Error 429: Too Many Requests",
+    "round 18: HTTP Error 429: Too Many Requests"
+   ]
   },
   "Scottish Premiership": {
    "thesportsdb_id": 4330,
@@ -1037,20 +1038,6 @@
    "crosscheck": "CONFLICT: openfootball time 15:00 local"
   },
   {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Real Betis",
-   "venue": "Estadio Ramón Sánchez Pizjuán",
-   "kickoff_utc": "2026-11-21T17:30:00+00:00",
-   "kickoff_local": "Sat 21 Nov 18:30",
-   "kickoff_pl": "Sat 21 Nov 18:30",
-   "date_local": "2026-11-21",
-   "round": "13",
-   "thesportsdb_event": "2506291",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Bundesliga",
    "home": "Schalke 04",
    "away": "Stuttgart",
@@ -1063,6 +1050,20 @@
    "thesportsdb_event": "2508420",
    "flags": [],
    "crosscheck": "agrees (date+time)"
+  },
+  {
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Real Betis",
+   "venue": "Estadio Ramón Sánchez Pizjuán",
+   "kickoff_utc": "2026-11-21T17:30:00+00:00",
+   "kickoff_local": "Sat 21 Nov 18:30",
+   "kickoff_pl": "Sat 21 Nov 18:30",
+   "date_local": "2026-11-21",
+   "round": "13",
+   "thesportsdb_event": "2506291",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Eredivisie",
@@ -1233,20 +1234,6 @@
    "crosscheck": null
   },
   {
-   "league": "La Liga",
-   "home": "Real Madrid",
-   "away": "Celta Vigo",
-   "venue": "Estadio Santiago Bernabéu",
-   "kickoff_utc": "2026-11-21T20:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 21:00",
-   "kickoff_pl": "Sat 21 Nov 21:00",
-   "date_local": "2026-11-21",
-   "round": "13",
-   "thesportsdb_event": "2506293",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Eredivisie",
    "home": "Groningen",
    "away": "Heerenveen",
@@ -1287,6 +1274,20 @@
    "thesportsdb_event": "2494492",
    "flags": [],
    "crosscheck": null
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Madrid",
+   "away": "Celta Vigo",
+   "venue": "Estadio Santiago Bernabéu",
+   "kickoff_utc": "2026-11-21T20:00:00+00:00",
+   "kickoff_local": "Sat 21 Nov 21:00",
+   "kickoff_pl": "Sat 21 Nov 21:00",
+   "date_local": "2026-11-21",
+   "round": "13",
+   "thesportsdb_event": "2506293",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Eredivisie",
@@ -1401,20 +1402,6 @@
    "crosscheck": null
   },
   {
-   "league": "La Liga",
-   "home": "Barcelona",
-   "away": "Villarreal",
-   "venue": "Spotify Camp Nou",
-   "kickoff_utc": "2026-11-22T13:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 14:00",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2506289",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Danish Superliga",
    "home": "AC Horsens",
    "away": "Silkeborg IF",
@@ -1441,6 +1428,20 @@
    "thesportsdb_event": "2481881",
    "flags": [],
    "crosscheck": null
+  },
+  {
+   "league": "La Liga",
+   "home": "Barcelona",
+   "away": "Villarreal",
+   "venue": "Spotify Camp Nou",
+   "kickoff_utc": "2026-11-22T13:00:00+00:00",
+   "kickoff_local": "Sun 22 Nov 14:00",
+   "kickoff_pl": "Sun 22 Nov 14:00",
+   "date_local": "2026-11-22",
+   "round": "13",
+   "thesportsdb_event": "2506289",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Eredivisie",
@@ -1765,20 +1766,6 @@
    "crosscheck": null
   },
   {
-   "league": "La Liga",
-   "home": "Osasuna",
-   "away": "Málaga",
-   "venue": "Estadio El Sadar",
-   "kickoff_utc": "2026-11-22T17:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:30",
-   "kickoff_pl": "Sun 22 Nov 18:30",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2506296",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Belgian Pro League",
    "home": "Anderlecht",
    "away": "Oud-Heverlee Leuven",
@@ -1791,6 +1778,20 @@
    "thesportsdb_event": "2496791",
    "flags": [],
    "crosscheck": null
+  },
+  {
+   "league": "La Liga",
+   "home": "Osasuna",
+   "away": "Málaga",
+   "venue": "Estadio El Sadar",
+   "kickoff_utc": "2026-11-22T17:30:00+00:00",
+   "kickoff_local": "Sun 22 Nov 18:30",
+   "kickoff_pl": "Sun 22 Nov 18:30",
+   "date_local": "2026-11-22",
+   "round": "13",
+   "thesportsdb_event": "2506296",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Belgian Pro League",
