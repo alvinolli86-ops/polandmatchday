@@ -791,6 +791,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Basel": {
+  "league": "Swiss Super League",
+  "venue": "St. Jakob-Park",
+  "wikidata": "Q189671",
+  "wikidata_name": "FC Basel",
+  "stadium_wikidata": "St. Jakob-Park",
+  "lat": 47.541389,
+  "lon": 7.62,
+  "nearest_airports": [
+   {
+    "iata": "BSL",
+    "name": "EuroAirport Basel–Mulhouse–Freiburg",
+    "city": "Bâle / Mulhouse",
+    "km": 10
+   },
+   {
+    "iata": "ZRH",
+    "name": "Zürich Airport",
+    "city": "Zurich",
+    "km": 70
+   },
+   {
+    "iata": "BRN",
+    "name": "Bern Airport",
+    "city": "Bern",
+    "km": 70
+   },
+   {
+    "iata": "SXB",
+    "name": "Strasbourg Airport",
+    "city": "Strasbourg",
+    "km": 111
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Bayer Leverkusen": {
   "league": "Bundesliga",
   "venue": "BayArena",
@@ -997,42 +1033,6 @@
     "name": "Teesside International Airport",
     "city": "Darlington, Durham",
     "km": 111
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Bochum": {
-  "league": "2. Bundesliga",
-  "venue": "Vonovia Ruhrstadion",
-  "wikidata": "Q105861",
-  "wikidata_name": "VfL Bochum",
-  "stadium_wikidata": "Ruhrstadion",
-  "lat": 51.489944,
-  "lon": 7.236489,
-  "nearest_airports": [
-   {
-    "iata": "DTM",
-    "name": "Dortmund Airport",
-    "city": "Dortmund",
-    "km": 26
-   },
-   {
-    "iata": "DUS",
-    "name": "Düsseldorf Airport",
-    "city": "Düsseldorf",
-    "km": 39
-   },
-   {
-    "iata": "CGN",
-    "name": "Cologne Bonn Airport",
-    "city": "Köln (Cologne)",
-    "km": 70
-   },
-   {
-    "iata": "NRN",
-    "name": "Weeze (Niederrhein) Airport",
-    "city": "Weeze",
-    "km": 77
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -1940,78 +1940,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Dynamo Dresden": {
-  "league": "2. Bundesliga",
-  "venue": "Rudolf-Harbig-Stadion",
-  "wikidata": "Q141931",
-  "wikidata_name": "Dynamo Dresden",
-  "stadium_wikidata": "Rudolf-Harbig-Stadion",
-  "lat": 51.040278,
-  "lon": 13.747778,
-  "nearest_airports": [
-   {
-    "iata": "DRS",
-    "name": "Dresden Airport",
-    "city": "Dresden",
-    "km": 11
-   },
-   {
-    "iata": "KLV",
-    "name": "Karlovy Vary Airport",
-    "city": "Karlovy Vary",
-    "km": 110
-   },
-   {
-    "iata": "PRG",
-    "name": "Václav Havel Airport Prague",
-    "city": "Prague",
-    "km": 111
-   },
-   {
-    "iata": "LEJ",
-    "name": "Leipzig/Halle Airport",
-    "city": "Schkeuditz",
-    "km": 114
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Eintracht Braunschweig": {
-  "league": "2. Bundesliga",
-  "venue": "Eintracht-Stadion",
-  "wikidata": "Q154053",
-  "wikidata_name": "Eintracht Braunschweig",
-  "stadium_wikidata": "Eintracht-Stadion",
-  "lat": 52.29,
-  "lon": 10.521389,
-  "nearest_airports": [
-   {
-    "iata": "HAJ",
-    "name": "Hannover Airport",
-    "city": "Hannover",
-    "km": 60
-   },
-   {
-    "iata": "KSF",
-    "name": "Kassel Airport",
-    "city": "Calden",
-    "km": 124
-   },
-   {
-    "iata": "BRE",
-    "name": "Bremen Airport",
-    "city": "Bremen",
-    "km": 144
-   },
-   {
-    "iata": "ERF",
-    "name": "Erfurt-Weimar Airport",
-    "city": "Erfurt",
-    "km": 149
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Eintracht Frankfurt": {
   "league": "Bundesliga",
   "venue": "Deutsche Bank Park",
@@ -2654,42 +2582,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Greuther Fürth": {
-  "league": "2. Bundesliga",
-  "venue": "Sportpark Ronhof Thomas Sommer",
-  "wikidata": "Q153539",
-  "wikidata_name": "SpVgg Greuther Fürth",
-  "stadium_wikidata": "Trolli Arena",
-  "lat": 49.486944,
-  "lon": 10.999167,
-  "nearest_airports": [
-   {
-    "iata": "NUE",
-    "name": "Nuremberg Airport",
-    "city": "Nuremberg",
-    "km": 6
-   },
-   {
-    "iata": "MUC",
-    "name": "Munich Airport",
-    "city": "Munich",
-    "km": 138
-   },
-   {
-    "iata": "STR",
-    "name": "Stuttgart Airport",
-    "city": "Stuttgart",
-    "km": 157
-   },
-   {
-    "iata": "KLV",
-    "name": "Karlovy Vary Airport",
-    "city": "Karlovy Vary",
-    "km": 159
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Groningen": {
   "league": "Eredivisie",
   "venue": "Euroborg",
@@ -2834,78 +2726,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Heidenheim": {
-  "league": "2. Bundesliga",
-  "venue": "Voith-Arena",
-  "wikidata": "Q162251",
-  "wikidata_name": "1. FC Heidenheim 1846",
-  "stadium_wikidata": "Voith-Arena",
-  "lat": 48.6685,
-  "lon": 10.1393,
-  "nearest_airports": [
-   {
-    "iata": "STR",
-    "name": "Stuttgart Airport",
-    "city": "Stuttgart",
-    "km": 67
-   },
-   {
-    "iata": "FMM",
-    "name": "Memmingen Allgau Airport",
-    "city": "Memmingen",
-    "km": 76
-   },
-   {
-    "iata": "NUE",
-    "name": "Nuremberg Airport",
-    "city": "Nuremberg",
-    "km": 115
-   },
-   {
-    "iata": "FDH",
-    "name": "Bodensee Airport Friedrichshafen",
-    "city": "Friedrichshafen",
-    "km": 120
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Hertha": {
-  "league": "2. Bundesliga",
-  "venue": "Olympiastadion",
-  "wikidata": "Q102720",
-  "wikidata_name": "Hertha BSC",
-  "stadium_wikidata": "Berlin Olympic Stadium",
-  "lat": 52.514722222,
-  "lon": 13.239444444,
-  "nearest_airports": [
-   {
-    "iata": "BER",
-    "name": "Berlin Brandenburg Airport",
-    "city": "Berlin",
-    "km": 25
-   },
-   {
-    "iata": "LEJ",
-    "name": "Leipzig/Halle Airport",
-    "city": "Schkeuditz",
-    "km": 140
-   },
-   {
-    "iata": "DRS",
-    "name": "Dresden Airport",
-    "city": "Dresden",
-    "km": 158
-   },
-   {
-    "iata": "SZZ",
-    "name": "Solidarity Szczecin–Goleniów Airport",
-    "city": "Szczecin(Glewice)",
-    "km": 163
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Hibernian": {
   "league": "Scottish Premiership",
   "venue": "Easter Road",
@@ -2974,42 +2794,6 @@
     "name": "Frankfurt Main Airport",
     "city": "Frankfurt am Main",
     "km": 91
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Holstein Kiel": {
-  "league": "2. Bundesliga",
-  "venue": "Holstein-Stadion",
-  "wikidata": "Q157828",
-  "wikidata_name": "Holstein Kiel",
-  "stadium_wikidata": "Holstein-Stadion",
-  "lat": 54.349167,
-  "lon": 10.123611,
-  "nearest_airports": [
-   {
-    "iata": "SGD",
-    "name": "Sønderborg Airport",
-    "city": "Sønderborg",
-    "km": 72
-   },
-   {
-    "iata": "LBC",
-    "name": "Lübeck Blankensee Airport",
-    "city": "Lübeck",
-    "km": 72
-   },
-   {
-    "iata": "HAM",
-    "name": "Hamburg Helmut Schmidt Airport",
-    "city": "Hamburg",
-    "km": 80
-   },
-   {
-    "iata": "FCN",
-    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
-    "city": "Wurster Nordseeküste",
-    "km": 115
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -3370,6 +3154,42 @@
     "name": "Graz Airport",
     "city": "Feldkirchen bei Graz",
     "km": 169
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Lausanne-Sport": {
+  "league": "Swiss Super League",
+  "venue": "Stade de la Tuilière",
+  "wikidata": "Q309456",
+  "wikidata_name": "FC Lausanne-Sport",
+  "stadium_wikidata": "Stade Olympique de la Pontaise",
+  "lat": 46.534,
+  "lon": 6.625,
+  "nearest_airports": [
+   {
+    "iata": "GVA",
+    "name": "Geneva International Airport",
+    "city": "Geneva",
+    "km": 51
+   },
+   {
+    "iata": "NCY",
+    "name": "Annecy Meythet airport",
+    "city": "Annecy",
+    "km": 79
+   },
+   {
+    "iata": "BRN",
+    "name": "Bern Airport",
+    "city": "Bern",
+    "km": 79
+   },
+   {
+    "iata": "DLE",
+    "name": "Dole Tavaux Airport",
+    "city": "Dole",
+    "km": 107
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -3791,6 +3611,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Lugano": {
+  "league": "Swiss Super League",
+  "venue": "AIL Arena",
+  "wikidata": "Q633521",
+  "wikidata_name": "FC Lugano",
+  "stadium_wikidata": "AIL Arena",
+  "lat": 46.0230878,
+  "lon": 8.9601204,
+  "nearest_airports": [
+   {
+    "iata": "LUG",
+    "name": "Lugano Airport",
+    "city": "Agno",
+    "km": 4
+   },
+   {
+    "iata": "MXP",
+    "name": "Milan Malpensa International Airport",
+    "city": "Ferno (VA)",
+    "km": 47
+   },
+   {
+    "iata": "LIN",
+    "name": "Milano Linate Airport",
+    "city": "Segrate (MI)",
+    "km": 69
+   },
+   {
+    "iata": "BGY",
+    "name": "Il Caravaggio International Airport",
+    "city": "Orio al Serio (BG)",
+    "km": 70
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Lyngby": {
   "league": "Danish Superliga",
   "venue": "Lyngby Stadion",
@@ -3859,42 +3715,6 @@
     "name": "Annecy Meythet airport",
     "city": "Annecy",
     "km": 88
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Magdeburg": {
-  "league": "2. Bundesliga",
-  "venue": "Avnet Arena",
-  "wikidata": "Q155730",
-  "wikidata_name": "1. FC Magdeburg",
-  "stadium_wikidata": "Avnet Arena",
-  "lat": 52.125556,
-  "lon": 11.670833,
-  "nearest_airports": [
-   {
-    "iata": "LEJ",
-    "name": "Leipzig/Halle Airport",
-    "city": "Schkeuditz",
-    "km": 87
-   },
-   {
-    "iata": "BER",
-    "name": "Berlin Brandenburg Airport",
-    "city": "Berlin",
-    "km": 127
-   },
-   {
-    "iata": "ERF",
-    "name": "Erfurt-Weimar Airport",
-    "city": "Erfurt",
-    "km": 137
-   },
-   {
-    "iata": "HAJ",
-    "name": "Hannover Airport",
-    "city": "Hannover",
-    "km": 140
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -4654,42 +4474,6 @@
     "name": "Biarritz Pays Basque airport",
     "city": "Biarritz",
     "km": 75
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Osnabrück": {
-  "league": "2. Bundesliga",
-  "venue": "Bremer Brücke",
-  "wikidata": "Q160530",
-  "wikidata_name": "VfL Osnabrück",
-  "stadium_wikidata": "Stadion an der Bremer Brücke",
-  "lat": 52.280833,
-  "lon": 8.071111,
-  "nearest_airports": [
-   {
-    "iata": "FMO",
-    "name": "Münster Osnabrück Airport",
-    "city": "Greven",
-    "km": 31
-   },
-   {
-    "iata": "PAD",
-    "name": "Paderborn Lippstadt Airport",
-    "city": "Büren",
-    "km": 83
-   },
-   {
-    "iata": "DTM",
-    "name": "Dortmund Airport",
-    "city": "Dortmund",
-    "km": 90
-   },
-   {
-    "iata": "BRE",
-    "name": "Bremen Airport",
-    "city": "Bremen",
-    "km": 98
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -5641,6 +5425,42 @@
     "name": "Brussels South Charleroi Airport",
     "city": "Charleroi",
     "km": 63
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Sion": {
+  "league": "Swiss Super League",
+  "venue": "Stade de Tourbillon",
+  "wikidata": "Q321061",
+  "wikidata_name": "FC Sion",
+  "stadium_wikidata": "Stade de Tourbillon",
+  "lat": 46.233333,
+  "lon": 7.376389,
+  "nearest_airports": [
+   {
+    "iata": "BRN",
+    "name": "Bern Airport",
+    "city": "Bern",
+    "km": 76
+   },
+   {
+    "iata": "GVA",
+    "name": "Geneva International Airport",
+    "city": "Geneva",
+    "km": 97
+   },
+   {
+    "iata": "NCY",
+    "name": "Annecy Meythet airport",
+    "city": "Annecy",
+    "km": 104
+   },
+   {
+    "iata": "TRN",
+    "name": "Turin Airport",
+    "city": "Caselle Torinese (TO)",
+    "km": 117
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -6977,6 +6797,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Young Boys": {
+  "league": "Swiss Super League",
+  "venue": "Wankdorf Stadium",
+  "wikidata": "Q190526",
+  "wikidata_name": "BSC Young Boys",
+  "stadium_wikidata": "Stadion Wankdorf",
+  "lat": 46.962778,
+  "lon": 7.465,
+  "nearest_airports": [
+   {
+    "iata": "BRN",
+    "name": "Bern Airport",
+    "city": "Bern",
+    "km": 6
+   },
+   {
+    "iata": "BSL",
+    "name": "EuroAirport Basel–Mulhouse–Freiburg",
+    "city": "Bâle / Mulhouse",
+    "km": 71
+   },
+   {
+    "iata": "ZRH",
+    "name": "Zürich Airport",
+    "city": "Zurich",
+    "km": 99
+   },
+   {
+    "iata": "GVA",
+    "name": "Geneva International Airport",
+    "city": "Geneva",
+    "km": 131
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Zulte Waregem": {
   "league": "Belgian Pro League",
   "venue": "Elindus Arena",
@@ -7009,6 +6865,42 @@
     "name": "Antwerp International Airport (Deurne)",
     "city": "Antwerp",
     "km": 80
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Zürich": {
+  "league": "Swiss Super League",
+  "venue": "Letzigrund",
+  "wikidata": "Q206692",
+  "wikidata_name": "FC Zürich",
+  "stadium_wikidata": "Letzigrund",
+  "lat": 47.382791,
+  "lon": 8.503801,
+  "nearest_airports": [
+   {
+    "iata": "ZRH",
+    "name": "Zürich Airport",
+    "city": "Zurich",
+    "km": 9
+   },
+   {
+    "iata": "BSL",
+    "name": "EuroAirport Basel–Mulhouse–Freiburg",
+    "city": "Bâle / Mulhouse",
+    "km": 78
+   },
+   {
+    "iata": "ACH",
+    "name": "Sankt Gallen Altenrhein Airport",
+    "city": "St. Gallen",
+    "km": 80
+   },
+   {
+    "iata": "FDH",
+    "name": "Bodensee Airport Friedrichshafen",
+    "city": "Friedrichshafen",
+    "km": 82
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
