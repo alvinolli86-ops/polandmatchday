@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-20T14:03+01:00",
+ "fetched": "2026-11-20T23:52+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1901,10 +1901,10 @@
    "date": "2026-11-20",
    "kickoff": "2026-11-20T18:00:00+01:00",
    "time_confirmed": true,
-   "venue": "Gliwice, Stadion Miejski",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.piast-gliwice.eu/",
+   "venue": null,
+   "finished": true,
+   "score": "2–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/6a33a43f-1e2d-4fc6-9265-4ea37de87140/piast-gliwice-korona-kielce/"
   },
   {
@@ -1916,10 +1916,10 @@
    "date": "2026-11-20",
    "kickoff": "2026-11-20T20:30:00+01:00",
    "time_confirmed": true,
-   "venue": "Szczecin, Stadion Miejski im. Floriana Krygiera",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.pogonszczecin.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "1–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/73cf84c5-b60c-4387-8757-f5b7d7e3fad8/pogon-szczecin-slask-wroclaw/"
   },
   {
