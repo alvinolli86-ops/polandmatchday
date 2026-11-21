@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T12:35:30+00:00",
+ "generated": "2026-11-21T21:38:02+00:00",
  "window": [
   "2026-11-20",
   "2026-11-30"
@@ -88,20 +88,19 @@
   "2. Bundesliga": {
    "thesportsdb_id": 4399,
    "rounds_fetched": [
-    12,
-    13,
-    19
+    17
    ],
    "matches": 16,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 12: HTTP Error 429: Too Many Requests",
+    "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
-    "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests"
-   ]
+    "round 16: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 16
   },
   "Ligue 1": {
    "thesportsdb_id": 4334,
@@ -147,6 +146,8 @@
   "Scottish Premiership": {
    "thesportsdb_id": 4330,
    "rounds_fetched": [
+    12,
+    13,
     14,
     15,
     16
@@ -170,73 +171,58 @@
   },
   "Czech First League": {
    "thesportsdb_id": 4631,
-   "rounds_fetched": [
-    20
-   ],
+   "rounds_fetched": [],
    "matches": 8,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
-    "round 15: HTTP Error 429: Too Many Requests",
-    "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests",
-    "round 19: HTTP Error 429: Too Many Requests"
+    "next: HTTP Error 429: Too Many Requests"
    ],
    "kept_previous": 8
   },
   "Slovak First Football League": {
    "thesportsdb_id": 4672,
-   "rounds_fetched": [
-    15,
-    16,
-    17
-   ],
+   "rounds_fetched": [],
    "matches": 12,
    "crosschecked": 0,
    "conflicts": 0,
-   "errors": []
+   "errors": [
+    "next: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 12
   },
   "Belgian Pro League": {
    "thesportsdb_id": 4338,
-   "rounds_fetched": [
-    12,
-    13,
-    14
-   ],
+   "rounds_fetched": [],
    "matches": 17,
    "crosschecked": 0,
    "conflicts": 0,
-   "errors": []
+   "errors": [
+    "next: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 17
   },
   "Swiss Super League": {
    "thesportsdb_id": 4675,
-   "rounds_fetched": [
-    14,
-    20
-   ],
+   "rounds_fetched": [],
    "matches": 6,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
-    "round 15: HTTP Error 429: Too Many Requests",
-    "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests",
-    "round 19: HTTP Error 429: Too Many Requests"
-   ]
+    "next: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 6
   },
   "Danish Superliga": {
    "thesportsdb_id": 4340,
-   "rounds_fetched": [
-    15,
-    16,
-    17
-   ],
+   "rounds_fetched": [],
    "matches": 11,
    "crosschecked": 0,
    "conflicts": 0,
-   "errors": []
+   "errors": [
+    "next: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 11
   }
  },
  "matches": [
@@ -885,6 +871,20 @@
    "crosscheck": "agrees (date+time)"
   },
   {
+   "league": "Czech First League",
+   "home": "Bohemians 1905",
+   "away": "Viktoria Plzeň",
+   "venue": "Ďolíček",
+   "kickoff_utc": "2026-11-21T17:00:00+00:00",
+   "kickoff_local": "Sat 21 Nov 18:00",
+   "kickoff_pl": "Sat 21 Nov 18:00",
+   "date_local": "2026-11-21",
+   "round": "15",
+   "thesportsdb_event": "2497839",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Slovak First Football League",
    "home": "Zemplín Michalovce",
    "away": "Spartak Trnava",
@@ -923,20 +923,6 @@
    "date_local": "2026-11-21",
    "round": "14",
    "thesportsdb_event": "2493406",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Czech First League",
-   "home": "Bohemians 1905",
-   "away": "Viktoria Plzeň",
-   "venue": "Ďolíček",
-   "kickoff_utc": "2026-11-21T17:00:00+00:00",
-   "kickoff_local": "Sat 21 Nov 18:00",
-   "kickoff_pl": "Sat 21 Nov 18:00",
-   "date_local": "2026-11-21",
-   "round": "15",
-   "thesportsdb_event": "2497839",
    "flags": [],
    "crosscheck": null
   },
@@ -1347,6 +1333,20 @@
    "crosscheck": null
   },
   {
+   "league": "La Liga",
+   "home": "Barcelona",
+   "away": "Villarreal",
+   "venue": "Spotify Camp Nou",
+   "kickoff_utc": "2026-11-22T13:00:00+00:00",
+   "kickoff_local": "Sun 22 Nov 14:00",
+   "kickoff_pl": "Sun 22 Nov 14:00",
+   "date_local": "2026-11-22",
+   "round": "13",
+   "thesportsdb_event": "2506289",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
+  },
+  {
    "league": "Swiss Super League",
    "home": "Zürich",
    "away": "St. Gallen",
@@ -1387,20 +1387,6 @@
    "thesportsdb_event": "2481881",
    "flags": [],
    "crosscheck": null
-  },
-  {
-   "league": "La Liga",
-   "home": "Barcelona",
-   "away": "Villarreal",
-   "venue": "Spotify Camp Nou",
-   "kickoff_utc": "2026-11-22T13:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 14:00",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2506289",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Eredivisie",
@@ -1711,6 +1697,20 @@
    "crosscheck": "CONFLICT: openfootball time 15:00 local"
   },
   {
+   "league": "Czech First League",
+   "home": "Sparta Prague",
+   "away": "Slovan Liberec",
+   "venue": "epet ARENA",
+   "kickoff_utc": "2026-11-22T17:00:00+00:00",
+   "kickoff_local": "Sun 22 Nov 18:00",
+   "kickoff_pl": "Sun 22 Nov 18:00",
+   "date_local": "2026-11-22",
+   "round": "15",
+   "thesportsdb_event": "2497835",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
    "league": "Slovak First Football League",
    "home": "DAC 1904 Dunajská Streda",
    "away": "Komárno",
@@ -1739,18 +1739,18 @@
    "crosscheck": null
   },
   {
-   "league": "Czech First League",
-   "home": "Sparta Prague",
-   "away": "Slovan Liberec",
-   "venue": "epet ARENA",
-   "kickoff_utc": "2026-11-22T17:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:00",
-   "kickoff_pl": "Sun 22 Nov 18:00",
+   "league": "La Liga",
+   "home": "Osasuna",
+   "away": "Málaga",
+   "venue": "Estadio El Sadar",
+   "kickoff_utc": "2026-11-22T17:30:00+00:00",
+   "kickoff_local": "Sun 22 Nov 18:30",
+   "kickoff_pl": "Sun 22 Nov 18:30",
    "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2497835",
+   "round": "13",
+   "thesportsdb_event": "2506296",
    "flags": [],
-   "crosscheck": null
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Belgian Pro League",
@@ -1765,20 +1765,6 @@
    "thesportsdb_event": "2496791",
    "flags": [],
    "crosscheck": null
-  },
-  {
-   "league": "La Liga",
-   "home": "Osasuna",
-   "away": "Málaga",
-   "venue": "Estadio El Sadar",
-   "kickoff_utc": "2026-11-22T17:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:30",
-   "kickoff_pl": "Sun 22 Nov 18:30",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2506296",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Belgian Pro League",

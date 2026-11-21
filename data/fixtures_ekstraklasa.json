@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-21T13:47+01:00",
+ "fetched": "2026-11-21T22:50+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1931,10 +1931,10 @@
    "date": "2026-11-21",
    "kickoff": "2026-11-21T14:45:00+01:00",
    "time_confirmed": true,
-   "venue": "Kraków, Stadion Cracovii im. Józefa Piłsudskiego",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.cracovia.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "3–1",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/0ac80736-4d3f-49ed-8dbb-83f761fd833d/cracovia-jagiellonia-bialystok/"
   },
   {
@@ -1946,10 +1946,10 @@
    "date": "2026-11-21",
    "kickoff": "2026-11-21T17:30:00+01:00",
    "time_confirmed": true,
-   "venue": "Lubin, KGHM Zagłębie Arena",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://www.zaglebie.com/Bilety",
+   "venue": null,
+   "finished": true,
+   "score": "2–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/8b682ede-74e6-451c-a277-8914cef6139e/zaglebie-lubin-gornik-zabrze/"
   },
   {
@@ -1959,12 +1959,12 @@
    "home": "Radomiak Radom",
    "away": "Wisła Kraków",
    "date": "2026-11-21",
-   "kickoff": "2026-11-21T20:15:00+01:00",
+   "kickoff": "2026-11-21T20:45:00+01:00",
    "time_confirmed": true,
-   "venue": "Radom, Stadion im. Braci Czachorów",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.rksradomiak.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "0–0",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/3141ed0a-7da2-482a-8126-065afd29c91d/radomiak-radom-wisla-krakow/"
   },
   {
