@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
+   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola",
-   "Fiorentina"
+   "Florentia Viola"
   ],
   "venues": [
    {
@@ -577,13 +577,13 @@
   "qid": "Q18711",
   "name": "Aston Villa F.C.",
   "aliases": [
+   "Villa",
+   "The Villa",
    "Aston Villa",
    "Aston Villa FC",
    "Aston Villa Football Club",
    "AVFC",
-   "The Villans",
-   "Villa",
-   "The Villa"
+   "The Villans"
   ],
   "venues": [
    {
@@ -1410,12 +1410,12 @@
   "qid": "Q19470",
   "name": "Derby County F.C.",
   "aliases": [
+   "Derby County FC",
    "Derby",
    "DCFC",
    "The Rams",
    "County",
-   "Derby County",
-   "Derby County FC"
+   "Derby County"
   ],
   "venues": [
    {
@@ -1788,16 +1788,16 @@
   "qid": "Q7156",
   "name": "FC Barcelona",
   "aliases": [
+   "F.C. Barcelona",
+   "Fútbol Club Barcelona",
+   "F.C.B.",
    "Barcelona FC",
    "Barcelona Football Club",
    "F.C.Barcelona",
    "FC Barcelona Football",
    "FCBarcelona",
    "Football Club Barcelona",
-   "Football Club of Barcelona",
-   "F.C. Barcelona",
-   "Fútbol Club Barcelona",
-   "F.C.B."
+   "Football Club of Barcelona"
   ],
   "venues": [
    {
@@ -1839,6 +1839,8 @@
   "qid": "Q15789",
   "name": "FC Bayern Munich",
   "aliases": [
+   "Bavaria Munich",
+   "FC Bavaria Munich",
    "Munich",
    "Bayern",
    "FCBM",
@@ -1854,9 +1856,7 @@
    "FC Bayern Munchen",
    "FC Hollywood",
    "FCB Munich",
-   "FCBM 1900",
-   "Bavaria Munich",
-   "FC Bavaria Munich"
+   "FCBM 1900"
   ],
   "venues": [
    {
@@ -2681,11 +2681,11 @@
   "qid": "Q201360",
   "name": "Grasshopper Club Zürich",
   "aliases": [
+   "GC",
+   "Grasshoppers",
    "Grasshopper Club Zurich",
    "Grasshoppers Zurich",
-   "Grasshoppers Zürich",
-   "GC",
-   "Grasshoppers"
+   "Grasshoppers Zürich"
   ],
   "venues": [
    {
@@ -2900,8 +2900,6 @@
   "qid": "Q631",
   "name": "Inter Milan",
   "aliases": [
-   "Inter Club",
-   "Inter FC",
    "Inter",
    "IM",
    "F.C.I.M.",
@@ -2921,7 +2919,9 @@
    "Inter of Milan",
    "Inter soccer club",
    "Internazionale Milano",
-   "The Inter"
+   "The Inter",
+   "Inter Club",
+   "Inter FC"
   ],
   "venues": [
    {
@@ -2939,14 +2939,14 @@
   "qid": "Q9653",
   "name": "Ipswich Town F.C.",
   "aliases": [
-   "Ipswich Town",
-   "Ipswich Town FC",
-   "Ipswich Town Football Club",
-   "The Tractor Boys",
    "Ipswich",
    "Town",
    "The Blues",
-   "ITFC"
+   "ITFC",
+   "Ipswich Town",
+   "Ipswich Town FC",
+   "Ipswich Town Football Club",
+   "The Tractor Boys"
   ],
   "venues": [
    {
@@ -3375,9 +3375,6 @@
   "qid": "Q50602",
   "name": "Manchester City F.C.",
   "aliases": [
-   "Manchester City FC",
-   "Manchester City Football Club",
-   "MCFC",
    "City",
    "The Blues",
    "The Citizens",
@@ -3386,7 +3383,10 @@
    "Sky Blues",
    "The Sky Blues",
    "Manchester City",
-   "Manchester City F.C. Soccer"
+   "Manchester City F.C. Soccer",
+   "Manchester City FC",
+   "Manchester City Football Club",
+   "MCFC"
   ],
   "venues": [
    {
@@ -3404,14 +3404,14 @@
   "qid": "Q18656",
   "name": "Manchester United F.C.",
   "aliases": [
+   "Manchester United",
+   "Red Devils",
+   "MUFC",
    "Man U",
    "Man United",
    "Man Utd",
    "Manchester United FC",
-   "Manchester United Football Club",
-   "Manchester United",
-   "Red Devils",
-   "MUFC"
+   "Manchester United Football Club"
   ],
   "venues": [
    {
@@ -3913,9 +3913,9 @@
   "qid": "Q191843",
   "name": "R.C. Lens",
   "aliases": [
+   "Lens",
    "Racing Club de Lens",
-   "RC Lens",
-   "Lens"
+   "RC Lens"
   ],
   "venues": [
    {
@@ -5517,8 +5517,6 @@
   "qid": "Q105861",
   "name": "VfL Bochum",
   "aliases": [
-   "Die Unabsteigbaren",
-   "The Unrelegatables",
    "VfL Bochum 1848"
   ],
   "venues": [
@@ -5608,7 +5606,7 @@
     "name": "Estadio de la Cerámica",
     "lat": 39.944167,
     "lon": -0.103611,
-    "admin": "Villarreal"
+    "admin": "Vila-real"
    }
   ],
   "leagues": [
@@ -5619,13 +5617,13 @@
   "qid": "Q223450",
   "name": "Vitória S.C.",
   "aliases": [
+   "Vitória de Guimarães",
    "Vitória SC",
    "Vitoria de Guimaraes",
    "Vitoria Guimaraes SC",
    "Vitória Guimarães SC",
    "Vitoria S.C.",
-   "Vitoria SC",
-   "Vitória de Guimarães"
+   "Vitoria SC"
   ],
   "venues": [
    {
@@ -5663,14 +5661,14 @@
   "qid": "Q2714",
   "name": "Watford F.C.",
   "aliases": [
+   "WFC",
+   "Watford",
    "The Hornets",
    "W.F.C.",
    "Watford FC",
    "Watford Football Club",
    "WatfordFC",
-   "WatfordFootballClub",
-   "WFC",
-   "Watford"
+   "WatfordFootballClub"
   ],
   "venues": [
    {
@@ -5773,16 +5771,16 @@
   "qid": "Q19500",
   "name": "Wolverhampton Wanderers F.C.",
   "aliases": [
+   "Wolves",
+   "Wolverhampton",
+   "Wanderers",
+   "WWFC",
    "Wolverhampton FC Wolves",
    "Wolverhampton Wanderers",
    "Wolverhampton Wanderers FC",
    "Wolverhampton Wanderers Football Club",
    "Wolverhampton Wolves",
-   "Wolverhampton Wolves FC",
-   "Wolves",
-   "Wolverhampton",
-   "Wanderers",
-   "WWFC"
+   "Wolverhampton Wolves FC"
   ],
   "venues": [
    {

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-21T22:50+01:00",
+ "fetched": "2026-11-22T13:44+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -1973,13 +1973,13 @@
    "round": 15,
    "home": "Raków Częstochowa",
    "away": "Widzew Łódź",
-   "date": "2026-11-22",
-   "kickoff": "2026-11-22T12:15:00+01:00",
-   "time_confirmed": true,
-   "venue": "Częstochowa, Miejski Stadion Piłkarski Raków",
+   "date": null,
+   "kickoff": null,
+   "time_confirmed": false,
+   "venue": null,
    "finished": false,
    "score": null,
-   "ticket_url": "https://bilety.rakow.com/",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/7b654cb9-5edc-47c6-8dcf-b8f1ceb1ad9e/rakow-czestochowa-widzew-lodz/"
   },
   {
