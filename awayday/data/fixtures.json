@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T21:44:20+00:00",
+ "generated": "2026-11-23T14:31:18+00:00",
  "window": [
   "2026-11-20",
   "2026-11-30"
@@ -26,9 +26,9 @@
     12,
     13
    ],
-   "matches": 13,
-   "crosschecked": 11,
-   "conflicts": 9,
+   "matches": 11,
+   "crosschecked": 10,
+   "conflicts": 8,
    "errors": []
   },
   "Championship": {
@@ -68,9 +68,9 @@
     13,
     14
    ],
-   "matches": 16,
-   "crosschecked": 26,
-   "conflicts": 5,
+   "matches": 11,
+   "crosschecked": 21,
+   "conflicts": 1,
    "errors": []
   },
   "Bundesliga": {
@@ -88,35 +88,35 @@
   "2. Bundesliga": {
    "thesportsdb_id": 4399,
    "rounds_fetched": [],
-   "matches": 12,
+   "matches": 9,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
     "next: HTTP Error 429: Too Many Requests"
    ],
-   "kept_previous": 12
+   "kept_previous": 9
   },
   "Ligue 1": {
    "thesportsdb_id": 4334,
    "rounds_fetched": [],
-   "matches": 12,
+   "matches": 9,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
     "next: HTTP Error 429: Too Many Requests"
    ],
-   "kept_previous": 12
+   "kept_previous": 9
   },
   "Eredivisie": {
    "thesportsdb_id": 4337,
    "rounds_fetched": [],
-   "matches": 13,
+   "matches": 9,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
     "next: HTTP Error 429: Too Many Requests"
    ],
-   "kept_previous": 13
+   "kept_previous": 9
   },
   "Primeira Liga": {
    "thesportsdb_id": 4344,
@@ -211,7 +211,7 @@
    "rounds_fetched": [
     20
    ],
-   "matches": 11,
+   "matches": 7,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
@@ -221,304 +221,10 @@
     "round 18: HTTP Error 429: Too Many Requests",
     "round 19: HTTP Error 429: Too Many Requests"
    ],
-   "kept_previous": 11
+   "kept_previous": 7
   }
  },
  "matches": [
-  {
-   "league": "Eredivisie",
-   "home": "Twente",
-   "away": "Willem II",
-   "venue": "De Grolsch Veste",
-   "kickoff_utc": "2026-11-22T11:15:00+00:00",
-   "kickoff_local": "Sun 22 Nov 12:15",
-   "kickoff_pl": "Sun 22 Nov 12:15",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489180",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Serie A",
-   "home": "Juventus",
-   "away": "Venezia",
-   "venue": "Allianz Stadium Turin",
-   "kickoff_utc": "2026-11-22T11:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 12:30",
-   "kickoff_pl": "Sun 22 Nov 12:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482252",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-23 20:45"
-  },
-  {
-   "league": "2. Bundesliga",
-   "home": "Kaiserslautern",
-   "away": "Dynamo Dresden",
-   "venue": "Fritz-Walter-Stadion",
-   "kickoff_utc": "2026-11-22T12:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:30",
-   "kickoff_pl": "Sun 22 Nov 13:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2511842",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "2. Bundesliga",
-   "home": "Karlsruhe",
-   "away": "Osnabrück",
-   "venue": "BBBank Wildpark",
-   "kickoff_utc": "2026-11-22T12:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:30",
-   "kickoff_pl": "Sun 22 Nov 13:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2511843",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "2. Bundesliga",
-   "home": "Energie Cottbus",
-   "away": "Hertha",
-   "venue": "LEAG Energie Stadion",
-   "kickoff_utc": "2026-11-22T12:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:30",
-   "kickoff_pl": "Sun 22 Nov 13:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2511844",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "AC Horsens",
-   "away": "Silkeborg IF",
-   "venue": "CASA Arena Horsens",
-   "kickoff_utc": "2026-11-22T13:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 14:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481878",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "Viborg",
-   "away": "Randers FC",
-   "venue": "Energi Viborg Arena",
-   "kickoff_utc": "2026-11-22T13:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 14:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481881",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Ajax",
-   "away": "ADO Den Haag",
-   "venue": "Johan Cruijff ArenA",
-   "kickoff_utc": "2026-11-22T13:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:30",
-   "kickoff_pl": "Sun 22 Nov 14:30",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489174",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Sparta Rotterdam",
-   "away": "AZ Alkmaar",
-   "venue": "Spartastadion",
-   "kickoff_utc": "2026-11-22T13:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:30",
-   "kickoff_pl": "Sun 22 Nov 14:30",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489181",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
-  {
-   "league": "Premier League",
-   "home": "Hull City",
-   "away": "Brighton and Hove Albion",
-   "venue": "The MKM Stadium",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2494107",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
-  {
-   "league": "Serie A",
-   "home": "Sassuolo",
-   "away": "Genoa",
-   "venue": "Mapei Stadium – Città del Tricolore",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482249",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 12:30 local"
-  },
-  {
-   "league": "Serie A",
-   "home": "Bologna",
-   "away": "Udinese",
-   "venue": "Stadio Renato Dall'Ara",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482254",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 18:00 local"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Paris FC",
-   "away": "Angers",
-   "venue": "Stade Jean-Bouin",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2489559",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "Sønderjyske",
-   "away": "Odense BK",
-   "venue": "Sydbank Park",
-   "kickoff_utc": "2026-11-22T15:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 16:00",
-   "kickoff_pl": "Sun 22 Nov 16:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481876",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Go Ahead Eagles",
-   "away": "Fortuna Sittard",
-   "venue": "De Adelaarshorst",
-   "kickoff_utc": "2026-11-22T15:45:00+00:00",
-   "kickoff_local": "Sun 22 Nov 16:45",
-   "kickoff_pl": "Sun 22 Nov 16:45",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489178",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lorient",
-   "away": "Rennes",
-   "venue": "Stade du Moustoir",
-   "kickoff_utc": "2026-11-22T16:15:00+00:00",
-   "kickoff_local": "Sun 22 Nov 17:15",
-   "kickoff_pl": "Sun 22 Nov 17:15",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2489557",
-   "flags": [],
-   "crosscheck": "not found in openfootball"
-  },
-  {
-   "league": "Premier League",
-   "home": "Liverpool",
-   "away": "Manchester United",
-   "venue": "Anfield",
-   "kickoff_utc": "2026-11-22T16:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 16:30",
-   "kickoff_pl": "Sun 22 Nov 17:30",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2494102",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-21 15:00"
-  },
-  {
-   "league": "Serie A",
-   "home": "AC Milan",
-   "away": "Frosinone",
-   "venue": "Stadio Giuseppe Meazza",
-   "kickoff_utc": "2026-11-22T17:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:00",
-   "kickoff_pl": "Sun 22 Nov 18:00",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482250",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 15:00 local"
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "FC Nordsjælland",
-   "away": "FC Copenhagen",
-   "venue": "Right to Dream Park",
-   "kickoff_utc": "2026-11-22T17:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:00",
-   "kickoff_pl": "Sun 22 Nov 18:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481877",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Atalanta",
-   "away": "Inter Milan",
-   "venue": "New Balance Arena",
-   "kickoff_utc": "2026-11-22T19:45:00+00:00",
-   "kickoff_local": "Sun 22 Nov 20:45",
-   "kickoff_pl": "Sun 22 Nov 20:45",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482253",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Le Mans",
-   "venue": "Orange Vélodrome",
-   "kickoff_utc": "2026-11-22T19:45:00+00:00",
-   "kickoff_local": "Sun 22 Nov 20:45",
-   "kickoff_pl": "Sun 22 Nov 20:45",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2489553",
-   "flags": [],
-   "crosscheck": "agrees (date+time)"
-  },
   {
    "league": "Danish Superliga",
    "home": "Brøndby",

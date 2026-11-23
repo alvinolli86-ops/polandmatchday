@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T21:55:25+00:00",
- "fares_fetched": "2026-11-22T21:55:24+00:00",
+ "generated": "2026-11-23T14:42:05+00:00",
+ "fares_fetched": "2026-11-23T14:42:05+00:00",
  "ecb_pln_per_eur": 4.4583,
  "ecb_date": "2026-11-20",
  "weekends": [
@@ -14,1925 +14,6 @@
   ]
  ],
  "trips": [
-  {
-   "league": "Eredivisie",
-   "home": "Twente",
-   "away": "Willem II",
-   "venue": "De Grolsch Veste",
-   "kickoff_utc": "2026-11-22T11:15:00+00:00",
-   "kickoff_local": "Sun 22 Nov 12:15",
-   "kickoff_pl": "Sun 22 Nov 12:15",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489180",
-   "flags": [],
-   "crosscheck": "agrees (date+time)",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "DTM",
-     "dest_name": "Dortmund Airport",
-     "km_to_stadium": 96,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111DTM23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "DTM",
-     "dest_name": "Dortmund Airport",
-     "km_to_stadium": 96,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111DTM23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "DTM",
-     "dest_name": "Dortmund Airport",
-     "km_to_stadium": 96,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111DTM23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "DTM",
-     "dest_name": "Dortmund Airport",
-     "km_to_stadium": 96,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111DTM23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Juventus",
-   "away": "Venezia",
-   "venue": "Allianz Stadium Turin",
-   "kickoff_utc": "2026-11-22T11:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 12:30",
-   "kickoff_pl": "Sun 22 Nov 12:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482252",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-23 20:45",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "TRN",
-     "dest_name": "Turin Airport",
-     "km_to_stadium": 10,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111TRN23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "TRN",
-     "dest_name": "Turin Airport",
-     "km_to_stadium": 10,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111TRN23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "2. Bundesliga",
-   "home": "Karlsruhe",
-   "away": "Osnabrück",
-   "venue": "BBBank Wildpark",
-   "kickoff_utc": "2026-11-22T12:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:30",
-   "kickoff_pl": "Sun 22 Nov 13:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2511843",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "KRK",
-     "dest": "STR",
-     "dest_name": "Stuttgart Airport",
-     "km_to_stadium": 70,
-     "airlines": [
-      "Eurowings"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111STR23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "SXB",
-     "dest_name": "Strasbourg Airport",
-     "km_to_stadium": 79,
-     "airlines": [
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111SXB23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "2. Bundesliga",
-   "home": "Energie Cottbus",
-   "away": "Hertha",
-   "venue": "LEAG Energie Stadion",
-   "kickoff_utc": "2026-11-22T12:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:30",
-   "kickoff_pl": "Sun 22 Nov 13:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2511844",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "BER",
-     "dest_name": "Berlin Brandenburg Airport",
-     "km_to_stadium": 89,
-     "airlines": [
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BER23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "AC Horsens",
-   "away": "Silkeborg IF",
-   "venue": "CASA Arena Horsens",
-   "kickoff_utc": "2026-11-22T13:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 14:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481878",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "AAR",
-     "dest_name": "Aarhus Airport",
-     "km_to_stadium": 67,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111AAR23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "AAR",
-     "dest_name": "Aarhus Airport",
-     "km_to_stadium": 67,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111AAR23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "Viborg",
-   "away": "Randers FC",
-   "venue": "Energi Viborg Arena",
-   "kickoff_utc": "2026-11-22T13:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 14:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481881",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "KTW",
-     "dest": "AAR",
-     "dest_name": "Aarhus Airport",
-     "km_to_stadium": 77,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111AAR23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "AAR",
-     "dest_name": "Aarhus Airport",
-     "km_to_stadium": 77,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111AAR23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 81,
-     "airlines": [
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 81,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 81,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111BLL23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Ajax",
-   "away": "ADO Den Haag",
-   "venue": "Johan Cruijff ArenA",
-   "kickoff_utc": "2026-11-22T13:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:30",
-   "kickoff_pl": "Sun 22 Nov 14:30",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489174",
-   "flags": [],
-   "crosscheck": "agrees (date+time)",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 12,
-     "airlines": [
-      "KLM",
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 12,
-     "airlines": [
-      "easyJet",
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 12,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 12,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 12,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111AMS23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Sparta Rotterdam",
-   "away": "AZ Alkmaar",
-   "venue": "Spartastadion",
-   "kickoff_utc": "2026-11-22T13:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:30",
-   "kickoff_pl": "Sun 22 Nov 14:30",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489181",
-   "flags": [],
-   "crosscheck": "not found in openfootball",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 49,
-     "airlines": [
-      "KLM",
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 49,
-     "airlines": [
-      "easyJet",
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 49,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 49,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 49,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "EIN",
-     "dest_name": "Eindhoven Airport",
-     "km_to_stadium": 83,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111EIN23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "EIN",
-     "dest_name": "Eindhoven Airport",
-     "km_to_stadium": 83,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111EIN23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "EIN",
-     "dest_name": "Eindhoven Airport",
-     "km_to_stadium": 83,
-     "airlines": [
-      "Ryanair",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111EIN23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "EIN",
-     "dest_name": "Eindhoven Airport",
-     "km_to_stadium": 83,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111EIN23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "EIN",
-     "dest_name": "Eindhoven Airport",
-     "km_to_stadium": 83,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111EIN23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "EIN",
-     "dest_name": "Eindhoven Airport",
-     "km_to_stadium": 83,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111EIN23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Premier League",
-   "home": "Hull City",
-   "away": "Brighton and Hove Albion",
-   "venue": "The MKM Stadium",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 14:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2494107",
-   "flags": [],
-   "crosscheck": "not found in openfootball",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 86,
-     "airlines": [
-      "Ryanair",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 86,
-     "airlines": [
-      "Jet2.com",
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 86,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 86,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 86,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111LBA23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Sassuolo",
-   "away": "Genoa",
-   "venue": "Mapei Stadium – Città del Tricolore",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482249",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 12:30 local",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 54,
-     "airlines": [
-      "LOT Polish Airlines",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 54,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 54,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 54,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "VRN",
-     "dest_name": "Verona Villafranca Valerio Catullo Airport",
-     "km_to_stadium": 78,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111VRN23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "VRN",
-     "dest_name": "Verona Villafranca Valerio Catullo Airport",
-     "km_to_stadium": 78,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111VRN23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "VRN",
-     "dest_name": "Verona Villafranca Valerio Catullo Airport",
-     "km_to_stadium": 78,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111VRN23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Bologna",
-   "away": "Udinese",
-   "venue": "Stadio Renato Dall'Ara",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482254",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 18:00 local",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "LOT Polish Airlines",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111BLQ23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "BLQ",
-     "dest_name": "Bologna Guglielmo Marconi Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111BLQ23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Paris FC",
-   "away": "Angers",
-   "venue": "Stade Jean-Bouin",
-   "kickoff_utc": "2026-11-22T14:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 15:00",
-   "kickoff_pl": "Sun 22 Nov 15:00",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2489559",
-   "flags": [],
-   "crosscheck": "agrees (date+time)",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "ORY",
-     "dest_name": "Paris-Orly Airport",
-     "km_to_stadium": 10,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111ORY23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "ORY",
-     "dest_name": "Paris-Orly Airport",
-     "km_to_stadium": 10,
-     "airlines": [
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111ORY23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "ORY",
-     "dest_name": "Paris-Orly Airport",
-     "km_to_stadium": 10,
-     "airlines": [
-      "Transavia France"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111ORY23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "CDG",
-     "dest_name": "Charles de Gaulle International Airport",
-     "km_to_stadium": 26,
-     "airlines": [
-      "Air France",
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111CDG23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "CDG",
-     "dest_name": "Charles de Gaulle International Airport",
-     "km_to_stadium": 26,
-     "airlines": [
-      "Air France",
-      "easyJet"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111CDG23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "BVA",
-     "dest_name": "Beauvais-Tillé airport",
-     "km_to_stadium": 73,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111BVA23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "BVA",
-     "dest_name": "Beauvais-Tillé airport",
-     "km_to_stadium": 73,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111BVA23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "BVA",
-     "dest_name": "Beauvais-Tillé airport",
-     "km_to_stadium": 73,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111BVA23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "BVA",
-     "dest_name": "Beauvais-Tillé airport",
-     "km_to_stadium": 73,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111BVA23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "BVA",
-     "dest_name": "Beauvais-Tillé airport",
-     "km_to_stadium": 73,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111BVA23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "Sønderjyske",
-   "away": "Odense BK",
-   "venue": "Sydbank Park",
-   "kickoff_utc": "2026-11-22T15:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 16:00",
-   "kickoff_pl": "Sun 22 Nov 16:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481876",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 57,
-     "airlines": [
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 57,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111BLL23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "BLL",
-     "dest_name": "Billund Airport",
-     "km_to_stadium": 57,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111BLL23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Eredivisie",
-   "home": "Go Ahead Eagles",
-   "away": "Fortuna Sittard",
-   "venue": "De Adelaarshorst",
-   "kickoff_utc": "2026-11-22T15:45:00+00:00",
-   "kickoff_local": "Sun 22 Nov 16:45",
-   "kickoff_pl": "Sun 22 Nov 16:45",
-   "date_local": "2026-11-22",
-   "round": "13",
-   "thesportsdb_event": "2489178",
-   "flags": [],
-   "crosscheck": "agrees (date+time)",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 96,
-     "airlines": [
-      "KLM",
-      "LOT Polish Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 96,
-     "airlines": [
-      "easyJet",
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 96,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 96,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111AMS23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "AMS",
-     "dest_name": "Amsterdam Airport Schiphol",
-     "km_to_stadium": 96,
-     "airlines": [
-      "KLM"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111AMS23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Premier League",
-   "home": "Liverpool",
-   "away": "Manchester United",
-   "venue": "Anfield",
-   "kickoff_utc": "2026-11-22T16:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 16:30",
-   "kickoff_pl": "Sun 22 Nov 17:30",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2494102",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball has 2026-11-21 15:00",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "LPL",
-     "dest_name": "Liverpool John Lennon Airport",
-     "km_to_stadium": 13,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111LPL23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "LPL",
-     "dest_name": "Liverpool John Lennon Airport",
-     "km_to_stadium": 13,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111LPL23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "LPL",
-     "dest_name": "Liverpool John Lennon Airport",
-     "km_to_stadium": 13,
-     "airlines": [
-      "easyJet",
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111LPL23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "LPL",
-     "dest_name": "Liverpool John Lennon Airport",
-     "km_to_stadium": 13,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111LPL23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "LPL",
-     "dest_name": "Liverpool John Lennon Airport",
-     "km_to_stadium": 13,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111LPL23111?marker=792630"
-    },
-    {
-     "origin": "SZZ",
-     "dest": "LPL",
-     "dest_name": "Liverpool John Lennon Airport",
-     "km_to_stadium": 13,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/SZZ2111LPL23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "easyJet",
-      "Jet2.com",
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Jet2.com",
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "RZE",
-     "dest": "MAN",
-     "dest_name": "Manchester Airport",
-     "km_to_stadium": 46,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/RZE2111MAN23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 98,
-     "airlines": [
-      "Ryanair",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 98,
-     "airlines": [
-      "Jet2.com",
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 98,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 98,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111LBA23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "LBA",
-     "dest_name": "Leeds Bradford Airport",
-     "km_to_stadium": 98,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111LBA23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Serie A",
-   "home": "AC Milan",
-   "away": "Frosinone",
-   "venue": "Stadio Giuseppe Meazza",
-   "kickoff_utc": "2026-11-22T17:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:00",
-   "kickoff_pl": "Sun 22 Nov 18:00",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482250",
-   "flags": [],
-   "crosscheck": "CONFLICT: openfootball time 15:00 local",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "MXP",
-     "dest_name": "Milan Malpensa International Airport",
-     "km_to_stadium": 35,
-     "airlines": [
-      "LOT Polish Airlines",
-      "Neos",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111MXP23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "MXP",
-     "dest_name": "Milan Malpensa International Airport",
-     "km_to_stadium": 35,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111MXP23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "MXP",
-     "dest_name": "Milan Malpensa International Airport",
-     "km_to_stadium": 35,
-     "airlines": [
-      "Ryanair",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111MXP23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "MXP",
-     "dest_name": "Milan Malpensa International Airport",
-     "km_to_stadium": 35,
-     "airlines": [
-      "Ryanair",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111MXP23111?marker=792630"
-    },
-    {
-     "origin": "RZE",
-     "dest": "MXP",
-     "dest_name": "Milan Malpensa International Airport",
-     "km_to_stadium": 35,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/RZE2111MXP23111?marker=792630"
-    },
-    {
-     "origin": "WAW",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "LCJ",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/LCJ2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "LUZ",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 50,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/LUZ2111BGY23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Danish Superliga",
-   "home": "FC Nordsjælland",
-   "away": "FC Copenhagen",
-   "venue": "Right to Dream Park",
-   "kickoff_utc": "2026-11-22T17:00:00+00:00",
-   "kickoff_local": "Sun 22 Nov 18:00",
-   "kickoff_pl": "Sun 22 Nov 18:00",
-   "date_local": "2026-11-22",
-   "round": "15",
-   "thesportsdb_event": "2481877",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "CPH",
-     "dest_name": "Copenhagen Kastrup Airport",
-     "km_to_stadium": 29,
-     "airlines": [
-      "LOT Polish Airlines",
-      "Scandinavian Airlines",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111CPH23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "CPH",
-     "dest_name": "Copenhagen Kastrup Airport",
-     "km_to_stadium": 29,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": true,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111CPH23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "CPH",
-     "dest_name": "Copenhagen Kastrup Airport",
-     "km_to_stadium": 29,
-     "airlines": [
-      "Norwegian Air Shuttle",
-      "Ryanair",
-      "Scandinavian Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111CPH23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "CPH",
-     "dest_name": "Copenhagen Kastrup Airport",
-     "km_to_stadium": 29,
-     "airlines": [
-      "Ryanair",
-      "Scandinavian Airlines",
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111CPH23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "CPH",
-     "dest_name": "Copenhagen Kastrup Airport",
-     "km_to_stadium": 29,
-     "airlines": [
-      "Scandinavian Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111CPH23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "CPH",
-     "dest_name": "Copenhagen Kastrup Airport",
-     "km_to_stadium": 29,
-     "airlines": [
-      "Ryanair",
-      "Scandinavian Airlines"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111CPH23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "MMX",
-     "dest_name": "Malmö Sturup Airport",
-     "km_to_stadium": 71,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111MMX23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Serie A",
-   "home": "Atalanta",
-   "away": "Inter Milan",
-   "venue": "New Balance Arena",
-   "kickoff_utc": "2026-11-22T19:45:00+00:00",
-   "kickoff_local": "Sun 22 Nov 20:45",
-   "kickoff_pl": "Sun 22 Nov 20:45",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2482253",
-   "flags": [],
-   "crosscheck": "agrees (date+time)",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "WAW",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Wizz Air"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WAW2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "WMI",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WMI2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "KRK",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "KTW",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KTW2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "GDN",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/GDN2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "POZ",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/POZ2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "LCJ",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/LCJ2111BGY23111?marker=792630"
-    },
-    {
-     "origin": "LUZ",
-     "dest": "BGY",
-     "dest_name": "Il Caravaggio International Airport",
-     "km_to_stadium": 5,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/LUZ2111BGY23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Le Mans",
-   "venue": "Orange Vélodrome",
-   "kickoff_utc": "2026-11-22T19:45:00+00:00",
-   "kickoff_local": "Sun 22 Nov 20:45",
-   "kickoff_pl": "Sun 22 Nov 20:45",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2489553",
-   "flags": [],
-   "crosscheck": "agrees (date+time)",
-   "weekend": 0,
-   "legs": [
-    {
-     "origin": "KRK",
-     "dest": "MRS",
-     "dest_name": "Marseille Provence Airport",
-     "km_to_stadium": 24,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/KRK2111MRS23111?marker=792630"
-    },
-    {
-     "origin": "WRO",
-     "dest": "MRS",
-     "dest_name": "Marseille Provence Airport",
-     "km_to_stadium": 24,
-     "airlines": [
-      "Ryanair"
-     ],
-     "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
-     "check_link": "https://www.aviasales.com/search/WRO2111MRS23111?marker=792630"
-    }
-   ],
-   "cheapest": null
-  },
   {
    "league": "Danish Superliga",
    "home": "Brøndby",
@@ -1959,23 +40,8 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": {
-      "status": "cached",
-      "price": 916,
-      "currency": "PLN",
-      "airline": "W6",
-      "flight_number": "1367",
-      "departure_at": "2026-11-23T06:45:00+01:00",
-      "return_at": "2026-11-24T10:10:00+01:00",
-      "duration_to": 95,
-      "found_on": "2026-11-16",
-      "link": "https://www.aviasales.com/search/WAW2311CPH24111?t=W617954163001795422000000095WAWCPH17955150001795519800000080CPHWAW_de0eb9edc0c46562f192eed1ba897b3a_18893&search_date=16112026&expected_price_uuid=01a1e31f-86e5-8040-28cb-5ea7af360a96&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uAYnFBXz8rFWKg-wbtZ2RQ&expected_price_source=share&expected_price_currency=pln&expected_price=916",
-      "note": "Cached fare found by Aviasales users, not live.",
-      "out_date": "2026-11-23",
-      "ret_date": "2026-11-24",
-      "out_kind": "match day"
-     },
-     "checked": true,
+     "fare": null,
+     "checked": false,
      "check_link": "https://www.aviasales.com/search/WAW2211CPH24111?marker=792630"
     },
     {
@@ -2018,7 +84,7 @@
      ],
      "seasonal_flag": false,
      "fare": null,
-     "checked": true,
+     "checked": false,
      "check_link": "https://www.aviasales.com/search/GDN2211CPH24111?marker=792630"
     },
     {
@@ -2062,36 +128,7 @@
      "check_link": "https://www.aviasales.com/search/WMI2211MMX24111?marker=792630"
     }
    ],
-   "cheapest": {
-    "origin": "WAW",
-    "dest": "CPH",
-    "dest_name": "Copenhagen Kastrup Airport",
-    "km_to_stadium": 15,
-    "airlines": [
-     "LOT Polish Airlines",
-     "Scandinavian Airlines",
-     "Wizz Air"
-    ],
-    "seasonal_flag": false,
-    "fare": {
-     "status": "cached",
-     "price": 916,
-     "currency": "PLN",
-     "airline": "W6",
-     "flight_number": "1367",
-     "departure_at": "2026-11-23T06:45:00+01:00",
-     "return_at": "2026-11-24T10:10:00+01:00",
-     "duration_to": 95,
-     "found_on": "2026-11-16",
-     "link": "https://www.aviasales.com/search/WAW2311CPH24111?t=W617954163001795422000000095WAWCPH17955150001795519800000080CPHWAW_de0eb9edc0c46562f192eed1ba897b3a_18893&search_date=16112026&expected_price_uuid=01a1e31f-86e5-8040-28cb-5ea7af360a96&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=uAYnFBXz8rFWKg-wbtZ2RQ&expected_price_source=share&expected_price_currency=pln&expected_price=916",
-     "note": "Cached fare found by Aviasales users, not live.",
-     "out_date": "2026-11-23",
-     "ret_date": "2026-11-24",
-     "out_kind": "match day"
-    },
-    "checked": true,
-    "check_link": "https://www.aviasales.com/search/WAW2211CPH24111?marker=792630"
-   }
+   "cheapest": null
   },
   {
    "league": "Serie A",
@@ -2117,22 +154,7 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": {
-      "status": "cached",
-      "price": 508,
-      "currency": "PLN",
-      "airline": "W6",
-      "flight_number": "1431",
-      "departure_at": "2026-11-23T05:35:00+01:00",
-      "return_at": "2026-11-24T08:20:00+01:00",
-      "duration_to": 130,
-      "found_on": "2026-11-22",
-      "link": "https://www.aviasales.com/search/WAW2311BGY24111?t=W617954121001795419900000130WAWBGY17955084001795515600000120BGYWAW_6929984fa366d3ea8d77bb8b22afa1e0_10185&search_date=22112026&expected_price_uuid=01a2049c-457d-8031-6489-2ace8abb926a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PvSzJ767vntoc2EupyvaQg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=508",
-      "note": "Cached fare found by Aviasales users, not live.",
-      "out_date": "2026-11-23",
-      "ret_date": "2026-11-24",
-      "out_kind": "match day"
-     },
+     "fare": null,
      "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2211BGY24111?marker=792630"
     },
@@ -2145,22 +167,7 @@
       "Ryanair"
      ],
      "seasonal_flag": false,
-     "fare": {
-      "status": "cached",
-      "price": 516,
-      "currency": "PLN",
-      "airline": "FR",
-      "flight_number": "3340",
-      "departure_at": "2026-11-23T06:35:00+01:00",
-      "return_at": "2026-11-24T11:05:00+01:00",
-      "duration_to": 125,
-      "found_on": "2026-11-22",
-      "link": "https://www.aviasales.com/search/WMI2311BGY24111?t=FR17954157001795423200000125WMIBGY17955183001795525200000115BGYWMI_fe92626fd58e16b33a6b82a1c19a2987_10348&search_date=22112026&expected_price_uuid=01a2049c-457d-8031-6489-2ace8abb926a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9syJmsxjzychGEFrUXJb0Q&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=516",
-      "note": "Cached fare found by Aviasales users, not live.",
-      "out_date": "2026-11-23",
-      "ret_date": "2026-11-24",
-      "out_kind": "match day"
-     },
+     "fare": null,
      "checked": true,
      "check_link": "https://www.aviasales.com/search/WMI2211BGY24111?marker=792630"
     },
@@ -2325,34 +332,7 @@
      "check_link": "https://www.aviasales.com/search/RZE2211MXP24111?marker=792630"
     }
    ],
-   "cheapest": {
-    "origin": "WAW",
-    "dest": "BGY",
-    "dest_name": "Il Caravaggio International Airport",
-    "km_to_stadium": 33,
-    "airlines": [
-     "Wizz Air"
-    ],
-    "seasonal_flag": false,
-    "fare": {
-     "status": "cached",
-     "price": 508,
-     "currency": "PLN",
-     "airline": "W6",
-     "flight_number": "1431",
-     "departure_at": "2026-11-23T05:35:00+01:00",
-     "return_at": "2026-11-24T08:20:00+01:00",
-     "duration_to": 130,
-     "found_on": "2026-11-22",
-     "link": "https://www.aviasales.com/search/WAW2311BGY24111?t=W617954121001795419900000130WAWBGY17955084001795515600000120BGYWAW_6929984fa366d3ea8d77bb8b22afa1e0_10185&search_date=22112026&expected_price_uuid=01a2049c-457d-8031-6489-2ace8abb926a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PvSzJ767vntoc2EupyvaQg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=508",
-     "note": "Cached fare found by Aviasales users, not live.",
-     "out_date": "2026-11-23",
-     "ret_date": "2026-11-24",
-     "out_kind": "match day"
-    },
-    "checked": true,
-    "check_link": "https://www.aviasales.com/search/WAW2211BGY24111?marker=792630"
-   }
+   "cheapest": null
   },
   {
    "league": "Premier League",
@@ -3050,7 +1030,22 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": null,
+     "fare": {
+      "status": "cached",
+      "price": 639,
+      "currency": "PLN",
+      "airline": "W6",
+      "flight_number": "1381",
+      "departure_at": "2026-11-27T06:05:00+01:00",
+      "return_at": "2026-11-29T08:55:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-18",
+      "link": "https://www.aviasales.com/search/WAW2711CRL29111?t=W617957595001795767600000135WAWCRL17959425001795949700000120CRLWAW_41cc792b99645a85b32cd73ccde03e5f_13043&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=639",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-27",
+      "ret_date": "2026-11-29",
+      "out_kind": "match day"
+     },
      "checked": false,
      "check_link": "https://www.aviasales.com/search/WAW2611CRL28111?marker=792630"
     },
@@ -3133,7 +1128,35 @@
      "check_link": "https://www.aviasales.com/search/LCJ2611CRL28111?marker=792630"
     }
    ],
-   "cheapest": null
+   "cheapest": {
+    "origin": "WAW",
+    "dest": "CRL",
+    "dest_name": "Brussels South Charleroi Airport",
+    "km_to_stadium": 48,
+    "airlines": [
+     "Ryanair",
+     "Wizz Air"
+    ],
+    "seasonal_flag": false,
+    "fare": {
+     "status": "cached",
+     "price": 639,
+     "currency": "PLN",
+     "airline": "W6",
+     "flight_number": "1381",
+     "departure_at": "2026-11-27T06:05:00+01:00",
+     "return_at": "2026-11-29T08:55:00+01:00",
+     "duration_to": 135,
+     "found_on": "2026-11-18",
+     "link": "https://www.aviasales.com/search/WAW2711CRL29111?t=W617957595001795767600000135WAWCRL17959425001795949700000120CRLWAW_41cc792b99645a85b32cd73ccde03e5f_13043&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=639",
+     "note": "Cached fare found by Aviasales users, not live.",
+     "out_date": "2026-11-27",
+     "ret_date": "2026-11-29",
+     "out_kind": "match day"
+    },
+    "checked": false,
+    "check_link": "https://www.aviasales.com/search/WAW2611CRL28111?marker=792630"
+   }
   },
   {
    "league": "Premier League",
@@ -4296,23 +2319,8 @@
       "Ryanair"
      ],
      "seasonal_flag": false,
-     "fare": {
-      "status": "cached",
-      "price": 761,
-      "currency": "PLN",
-      "airline": "FR",
-      "flight_number": "7171",
-      "departure_at": "2026-11-27T18:40:00+01:00",
-      "return_at": "2026-11-29T09:45:00+01:00",
-      "duration_to": 130,
-      "found_on": "2026-11-16",
-      "link": "https://www.aviasales.com/search/POZ2711CIA29111?t=FR17958048001795812600000130POZCIA17959455001795953300000130CIAPOZ_00cd15dc27ab50c76826f44b95fd66cc_15705&search_date=16112026&expected_price_uuid=01a1e3f3-c248-8031-6c0d-db7a65f87ddc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4LTqSCI4HHTzolSQTgDsbQ&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=761",
-      "note": "Cached fare found by Aviasales users, not live.",
-      "out_date": "2026-11-27",
-      "ret_date": "2026-11-29",
-      "out_kind": "day before"
-     },
-     "checked": true,
+     "fare": null,
+     "checked": false,
      "check_link": "https://www.aviasales.com/search/POZ2711CIA29111?marker=792630"
     },
     {
@@ -7748,8 +5756,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 733,
+      "currency": "PLN",
+      "airline": "SN",
+      "flight_number": "2556",
+      "departure_at": "2026-11-27T18:05:00+01:00",
+      "return_at": "2026-11-29T15:20:00+01:00",
+      "duration_to": 125,
+      "found_on": "2026-11-18",
+      "link": "https://www.aviasales.com/search/WAW2711BRU29111?t=SN17958027001795810200000125WAWBRU17959656001795972500000115BRUWAW_3948ce09cee2d458406078e2a581e921_14963&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7k2PNmh5pcf8WHCLarpdOA&expected_price_source=share&expected_price_currency=pln&expected_price=733",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-27",
+      "ret_date": "2026-11-29",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2711BRU29111?marker=792630"
     },
     {
@@ -8438,15 +6461,15 @@
      "seasonal_flag": false,
      "fare": {
       "status": "cached",
-      "price": 1179,
+      "price": 1274,
       "currency": "PLN",
       "airline": "KL",
       "flight_number": "1326",
       "departure_at": "2026-11-27T14:00:00+01:00",
       "return_at": "2026-11-29T09:20:00+01:00",
       "duration_to": 120,
-      "found_on": "2026-11-20",
-      "link": "https://www.aviasales.com/search/KRK2711AMS29111?t=KL17957880001795795200000120KRKAMS17959440001795950900000115AMSKRK_82cbffb8d07acab6e7264a0c0c58864e_23815&search_date=20112026&expected_price_uuid=01a1f8c1-b728-8030-ed12-bee761daaa02&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Drg0qu4BJiRJvK-DPdpgCQ&expected_price_source=share&expected_price_currency=pln&expected_price=1179",
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/KRK2711AMS29111?t=KL17957880001795795200000120KRKAMS17959440001795950900000115AMSKRK_82cbffb8d07acab6e7264a0c0c58864e_25666&search_date=23112026&expected_price_uuid=01a20890-8e39-8031-205a-0289bc9feda5&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Drg0qu4BJiRJvK-DPdpgCQ&expected_price_source=share&expected_price_currency=pln&expected_price=1274",
       "note": "Cached fare found by Aviasales users, not live.",
       "out_date": "2026-11-27",
       "ret_date": "2026-11-29",
@@ -9240,8 +7263,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 733,
+      "currency": "PLN",
+      "airline": "SN",
+      "flight_number": "2556",
+      "departure_at": "2026-11-27T18:05:00+01:00",
+      "return_at": "2026-11-29T15:20:00+01:00",
+      "duration_to": 125,
+      "found_on": "2026-11-18",
+      "link": "https://www.aviasales.com/search/WAW2711BRU29111?t=SN17958027001795810200000125WAWBRU17959656001795972500000115BRUWAW_3948ce09cee2d458406078e2a581e921_14963&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7k2PNmh5pcf8WHCLarpdOA&expected_price_source=share&expected_price_currency=pln&expected_price=733",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-27",
+      "ret_date": "2026-11-29",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2711BRU29111?marker=792630"
     },
     {
@@ -9271,7 +7309,35 @@
      "check_link": "https://www.aviasales.com/search/GDN2711BRU29111?marker=792630"
     }
    ],
-   "cheapest": null
+   "cheapest": {
+    "origin": "WAW",
+    "dest": "BRU",
+    "dest_name": "Brussels Airport",
+    "km_to_stadium": 97,
+    "airlines": [
+     "Brussels Airlines",
+     "LOT Polish Airlines"
+    ],
+    "seasonal_flag": false,
+    "fare": {
+     "status": "cached",
+     "price": 733,
+     "currency": "PLN",
+     "airline": "SN",
+     "flight_number": "2556",
+     "departure_at": "2026-11-27T18:05:00+01:00",
+     "return_at": "2026-11-29T15:20:00+01:00",
+     "duration_to": 125,
+     "found_on": "2026-11-18",
+     "link": "https://www.aviasales.com/search/WAW2711BRU29111?t=SN17958027001795810200000125WAWBRU17959656001795972500000115BRUWAW_3948ce09cee2d458406078e2a581e921_14963&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7k2PNmh5pcf8WHCLarpdOA&expected_price_source=share&expected_price_currency=pln&expected_price=733",
+     "note": "Cached fare found by Aviasales users, not live.",
+     "out_date": "2026-11-27",
+     "ret_date": "2026-11-29",
+     "out_kind": "day before"
+    },
+    "checked": true,
+    "check_link": "https://www.aviasales.com/search/WAW2711BRU29111?marker=792630"
+   }
   },
   {
    "league": "Premier League",
@@ -10091,15 +8157,15 @@
      "seasonal_flag": false,
      "fare": {
       "status": "cached",
-      "price": 459,
+      "price": 521,
       "currency": "PLN",
       "airline": "W6",
       "flight_number": "1309",
       "departure_at": "2026-11-27T06:00:00+01:00",
       "return_at": "2026-11-29T09:05:00+01:00",
       "duration_to": 150,
-      "found_on": "2026-11-20",
-      "link": "https://www.aviasales.com/search/WAW2711LYS29111?t=W617957592001795768200000150WAWLYS17959431001795951500000140LYSWAW_013d4bfacfc498ea311ed1b97b247d20_9267&search_date=20112026&expected_price_uuid=01a1fac3-298a-8031-61db-b67151796d4e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iCI_1rwsexA9iwjRn6jXKA&expected_price_source=share&expected_price_currency=pln&expected_price=459",
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2711LYS29111?t=W617957592001795768200000150WAWLYS17959431001795951500000140LYSWAW_013d4bfacfc498ea311ed1b97b247d20_10496&search_date=23112026&expected_price_uuid=01a20853-6b55-8030-a346-4a60186f8923&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iCI_1rwsexA9iwjRn6jXKA&expected_price_source=share&expected_price_currency=pln&expected_price=521",
       "note": "Cached fare found by Aviasales users, not live.",
       "out_date": "2026-11-27",
       "ret_date": "2026-11-29",
@@ -10133,15 +8199,15 @@
     "seasonal_flag": false,
     "fare": {
      "status": "cached",
-     "price": 459,
+     "price": 521,
      "currency": "PLN",
      "airline": "W6",
      "flight_number": "1309",
      "departure_at": "2026-11-27T06:00:00+01:00",
      "return_at": "2026-11-29T09:05:00+01:00",
      "duration_to": 150,
-     "found_on": "2026-11-20",
-     "link": "https://www.aviasales.com/search/WAW2711LYS29111?t=W617957592001795768200000150WAWLYS17959431001795951500000140LYSWAW_013d4bfacfc498ea311ed1b97b247d20_9267&search_date=20112026&expected_price_uuid=01a1fac3-298a-8031-61db-b67151796d4e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iCI_1rwsexA9iwjRn6jXKA&expected_price_source=share&expected_price_currency=pln&expected_price=459",
+     "found_on": "2026-11-23",
+     "link": "https://www.aviasales.com/search/WAW2711LYS29111?t=W617957592001795768200000150WAWLYS17959431001795951500000140LYSWAW_013d4bfacfc498ea311ed1b97b247d20_10496&search_date=23112026&expected_price_uuid=01a20853-6b55-8030-a346-4a60186f8923&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iCI_1rwsexA9iwjRn6jXKA&expected_price_source=share&expected_price_currency=pln&expected_price=521",
      "note": "Cached fare found by Aviasales users, not live.",
      "out_date": "2026-11-27",
      "ret_date": "2026-11-29",
@@ -10321,15 +8387,15 @@
      "seasonal_flag": false,
      "fare": {
       "status": "cached",
-      "price": 398,
+      "price": 415,
       "currency": "PLN",
       "airline": "W4",
       "flight_number": "6388",
       "departure_at": "2026-11-27T09:45:00+01:00",
       "return_at": "2026-11-29T07:00:00+01:00",
       "duration_to": 135,
-      "found_on": "2026-11-22",
-      "link": "https://www.aviasales.com/search/WAW2711MXP29111?t=W417957727001795780800000135WAWMXP17959356001795943400000130MXPWAW_e677324fb849a123688071a1f01ee847_7971&search_date=22112026&expected_price_uuid=01a203ea-edbc-8031-2e8d-00ed2bea9f1d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7qQuFU-Lqg7m44oC9BsRPw&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=398",
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2711MXP29111?t=W417957727001795780800000135WAWMXP17959356001795943400000130MXPWAW_e677324fb849a123688071a1f01ee847_8293&search_date=23112026&expected_price_uuid=01a2071f-8330-8031-24ca-40c79fbc9aa6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7qQuFU-Lqg7m44oC9BsRPw&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=415",
       "note": "Cached fare found by Aviasales users, not live.",
       "out_date": "2026-11-27",
       "ret_date": "2026-11-29",
@@ -10448,15 +8514,15 @@
      "seasonal_flag": false,
      "fare": {
       "status": "cached",
-      "price": 485,
+      "price": 498,
       "currency": "PLN",
       "airline": "W6",
       "flight_number": "1431",
       "departure_at": "2026-11-27T05:35:00+01:00",
       "return_at": "2026-11-29T08:20:00+01:00",
       "duration_to": 130,
-      "found_on": "2026-11-22",
-      "link": "https://www.aviasales.com/search/WAW2711BGY29111?t=W617957577001795765500000130WAWBGY17959404001795947600000120BGYWAW_18e1daafa3639dbe5861eab224954c52_9718&search_date=22112026&expected_price_uuid=01a203ea-edbc-8031-2e8d-00ed2bea9f1d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ehWBMQK6YQF7wlm0XHW3qA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=485",
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2711BGY29111?t=W617957577001795765500000130WAWBGY17959404001795947600000120BGYWAW_18e1daafa3639dbe5861eab224954c52_9959&search_date=23112026&expected_price_uuid=01a2071f-8330-8031-24ca-40c79fbc9aa6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ehWBMQK6YQF7wlm0XHW3qA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=498",
       "note": "Cached fare found by Aviasales users, not live.",
       "out_date": "2026-11-27",
       "ret_date": "2026-11-29",
@@ -10476,15 +8542,15 @@
      "seasonal_flag": false,
      "fare": {
       "status": "cached",
-      "price": 641,
+      "price": 651,
       "currency": "PLN",
       "airline": "FR",
       "flight_number": "3340",
       "departure_at": "2026-11-27T16:20:00+01:00",
       "return_at": "2026-11-29T16:40:00+01:00",
       "duration_to": 125,
-      "found_on": "2026-11-22",
-      "link": "https://www.aviasales.com/search/WMI2711BGY29111?t=FR17957964001795803900000125WMIBGY17959704001795977300000115BGYWMI_830076d5e78cc89dc3c021336c229eaf_12850&search_date=22112026&expected_price_uuid=01a203ea-edbc-8031-2e8d-00ed2bea9f1d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3szfTu5DvRTZ8SDxq_9yzA&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=641",
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WMI2711BGY29111?t=FR17957964001795803900000125WMIBGY17959704001795977300000115BGYWMI_830076d5e78cc89dc3c021336c229eaf_13031&search_date=23112026&expected_price_uuid=01a2071f-8330-8031-24ca-40c79fbc9aa6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3szfTu5DvRTZ8SDxq_9yzA&origin_airports=0,1&destination_airports=0,1&expected_price_source=share&expected_price_currency=pln&expected_price=651",
       "note": "Cached fare found by Aviasales users, not live.",
       "out_date": "2026-11-27",
       "ret_date": "2026-11-29",
@@ -10808,8 +8874,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 733,
+      "currency": "PLN",
+      "airline": "SN",
+      "flight_number": "2556",
+      "departure_at": "2026-11-27T18:05:00+01:00",
+      "return_at": "2026-11-29T15:20:00+01:00",
+      "duration_to": 125,
+      "found_on": "2026-11-18",
+      "link": "https://www.aviasales.com/search/WAW2711BRU29111?t=SN17958027001795810200000125WAWBRU17959656001795972500000115BRUWAW_3948ce09cee2d458406078e2a581e921_14963&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7k2PNmh5pcf8WHCLarpdOA&expected_price_source=share&expected_price_currency=pln&expected_price=733",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-27",
+      "ret_date": "2026-11-29",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2711BRU29111?marker=792630"
     },
     {
@@ -10893,8 +8974,23 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 498,
+      "currency": "PLN",
+      "airline": "W6",
+      "flight_number": "1381",
+      "departure_at": "2026-11-28T06:05:00+01:00",
+      "return_at": "2026-11-29T08:55:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-16",
+      "link": "https://www.aviasales.com/search/WAW2811CRL29111?t=W617958459001795854000000135WAWCRL17959425001795949700000120CRLWAW_f825f208ce3343d9795d7989f79d8410_10271&search_date=16112026&expected_price_uuid=01a1e681-7a01-8030-2e2c-4414cb2678ea&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wvzXZL6jOl2ozfok2AWZeg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=498",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-29",
+      "out_kind": "match day"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2711CRL29111?marker=792630"
     },
     {
@@ -10985,8 +9081,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 733,
+      "currency": "PLN",
+      "airline": "SN",
+      "flight_number": "2556",
+      "departure_at": "2026-11-27T18:05:00+01:00",
+      "return_at": "2026-11-29T15:20:00+01:00",
+      "duration_to": 125,
+      "found_on": "2026-11-18",
+      "link": "https://www.aviasales.com/search/WAW2711BRU29111?t=SN17958027001795810200000125WAWBRU17959656001795972500000115BRUWAW_3948ce09cee2d458406078e2a581e921_14963&search_date=18112026&expected_price_uuid=01a1edd2-6989-8030-698d-10bbbc1d78eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7k2PNmh5pcf8WHCLarpdOA&expected_price_source=share&expected_price_currency=pln&expected_price=733",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-27",
+      "ret_date": "2026-11-29",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2711BRU29111?marker=792630"
     },
     {
@@ -11016,7 +9127,35 @@
      "check_link": "https://www.aviasales.com/search/GDN2711BRU29111?marker=792630"
     }
    ],
-   "cheapest": null
+   "cheapest": {
+    "origin": "WAW",
+    "dest": "CRL",
+    "dest_name": "Brussels South Charleroi Airport",
+    "km_to_stadium": 5,
+    "airlines": [
+     "Ryanair",
+     "Wizz Air"
+    ],
+    "seasonal_flag": false,
+    "fare": {
+     "status": "cached",
+     "price": 498,
+     "currency": "PLN",
+     "airline": "W6",
+     "flight_number": "1381",
+     "departure_at": "2026-11-28T06:05:00+01:00",
+     "return_at": "2026-11-29T08:55:00+01:00",
+     "duration_to": 135,
+     "found_on": "2026-11-16",
+     "link": "https://www.aviasales.com/search/WAW2811CRL29111?t=W617958459001795854000000135WAWCRL17959425001795949700000120CRLWAW_f825f208ce3343d9795d7989f79d8410_10271&search_date=16112026&expected_price_uuid=01a1e681-7a01-8030-2e2c-4414cb2678ea&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wvzXZL6jOl2ozfok2AWZeg&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=498",
+     "note": "Cached fare found by Aviasales users, not live.",
+     "out_date": "2026-11-28",
+     "ret_date": "2026-11-29",
+     "out_kind": "match day"
+    },
+    "checked": true,
+    "check_link": "https://www.aviasales.com/search/WAW2711CRL29111?marker=792630"
+   }
   },
   {
    "league": "Ligue 1",
@@ -11322,15 +9461,15 @@
      "seasonal_flag": false,
      "fare": {
       "status": "cached",
-      "price": 512,
+      "price": 438,
       "currency": "PLN",
       "airline": "FR",
       "flight_number": "5050",
       "departure_at": "2026-11-27T15:30:00+01:00",
       "return_at": "2026-11-29T06:00:00+01:00",
       "duration_to": 125,
-      "found_on": "2026-11-21",
-      "link": "https://www.aviasales.com/search/POZ2711BVA29111?t=FR17957934001795800900000125POZBVA17959320001795938900000115BVAPOZ_e8900bac49e3bc9358e35ddd54c9e2c8_10334&search_date=21112026&expected_price_uuid=01a1fef7-80e2-8030-eb8a-6780295b50bf&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Uogma4QeZaBqkD2ISqdb4Q&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=512",
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/POZ2711BVA29111?t=FR17957934001795800900000125POZBVA17959320001795938900000115BVAPOZ_e8900bac49e3bc9358e35ddd54c9e2c8_8775&search_date=23112026&expected_price_uuid=01a205de-ce79-8030-a3ca-905160b25b9b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Uogma4QeZaBqkD2ISqdb4Q&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=438",
       "note": "Cached fare found by Aviasales users, not live.",
       "out_date": "2026-11-27",
       "ret_date": "2026-11-29",
@@ -11341,7 +9480,7 @@
     }
    ],
    "cheapest": {
-    "origin": "KRK",
+    "origin": "POZ",
     "dest": "BVA",
     "dest_name": "Beauvais-Tillé airport",
     "km_to_stadium": 69,
@@ -11351,22 +9490,22 @@
     "seasonal_flag": false,
     "fare": {
      "status": "cached",
-     "price": 452,
+     "price": 438,
      "currency": "PLN",
      "airline": "FR",
-     "flight_number": "3435",
-     "departure_at": "2026-11-28T12:10:00+01:00",
-     "return_at": "2026-11-29T09:35:00+01:00",
-     "duration_to": 140,
-     "found_on": "2026-11-18",
-     "link": "https://www.aviasales.com/search/KRK2811BVA29111?t=FR17958678001795876200000140KRKBVA17959449001795952700000130BVAKRK_e70a74db6bd480d38a876eaf50db0aa6_9232&search_date=18112026&expected_price_uuid=01a1ee16-e6af-8030-affa-1c5541521401&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=X6HFGl8zs1KVgKaap2VgiA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=452",
+     "flight_number": "5050",
+     "departure_at": "2026-11-27T15:30:00+01:00",
+     "return_at": "2026-11-29T06:00:00+01:00",
+     "duration_to": 125,
+     "found_on": "2026-11-23",
+     "link": "https://www.aviasales.com/search/POZ2711BVA29111?t=FR17957934001795800900000125POZBVA17959320001795938900000115BVAPOZ_e8900bac49e3bc9358e35ddd54c9e2c8_8775&search_date=23112026&expected_price_uuid=01a205de-ce79-8030-a3ca-905160b25b9b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Uogma4QeZaBqkD2ISqdb4Q&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=438",
      "note": "Cached fare found by Aviasales users, not live.",
-     "out_date": "2026-11-28",
+     "out_date": "2026-11-27",
      "ret_date": "2026-11-29",
-     "out_kind": "match day"
+     "out_kind": "day before"
     },
     "checked": true,
-    "check_link": "https://www.aviasales.com/search/KRK2711BVA29111?marker=792630"
+    "check_link": "https://www.aviasales.com/search/POZ2711BVA29111?marker=792630"
    }
   },
   {
@@ -12278,8 +10417,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 983,
+      "currency": "PLN",
+      "airline": "LO",
+      "flight_number": "235",
+      "departure_at": "2026-11-28T07:20:00+01:00",
+      "return_at": "2026-11-30T07:50:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811BRU30111?t=LO17958504001795858500000135WAWBRU17960250001796032200000120BRUWAW_7e1aa6190778800dcd3967667ec64a21_19817&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=AK0EECekrnl1PtUXlRsL_A&expected_price_source=share&expected_price_currency=pln&expected_price=983",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811BRU30111?marker=792630"
     },
     {
@@ -12318,8 +10472,23 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 540,
+      "currency": "PLN",
+      "airline": "W6",
+      "flight_number": "1381",
+      "departure_at": "2026-11-28T06:05:00+01:00",
+      "return_at": "2026-11-30T08:55:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811CRL30111?t=W617958459001795854000000135WAWCRL17960289001796036100000120CRLWAW_02bf2f9e8d5b4985e600ccb953c57f45_10891&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811CRL30111?marker=792630"
     },
     {
@@ -12401,7 +10570,35 @@
      "check_link": "https://www.aviasales.com/search/LCJ2811CRL30111?marker=792630"
     }
    ],
-   "cheapest": null
+   "cheapest": {
+    "origin": "WAW",
+    "dest": "CRL",
+    "dest_name": "Brussels South Charleroi Airport",
+    "km_to_stadium": 63,
+    "airlines": [
+     "Ryanair",
+     "Wizz Air"
+    ],
+    "seasonal_flag": false,
+    "fare": {
+     "status": "cached",
+     "price": 540,
+     "currency": "PLN",
+     "airline": "W6",
+     "flight_number": "1381",
+     "departure_at": "2026-11-28T06:05:00+01:00",
+     "return_at": "2026-11-30T08:55:00+01:00",
+     "duration_to": 135,
+     "found_on": "2026-11-23",
+     "link": "https://www.aviasales.com/search/WAW2811CRL30111?t=W617958459001795854000000135WAWCRL17960289001796036100000120CRLWAW_02bf2f9e8d5b4985e600ccb953c57f45_10891&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+     "note": "Cached fare found by Aviasales users, not live.",
+     "out_date": "2026-11-28",
+     "ret_date": "2026-11-30",
+     "out_kind": "day before"
+    },
+    "checked": true,
+    "check_link": "https://www.aviasales.com/search/WAW2811CRL30111?marker=792630"
+   }
   },
   {
    "league": "Swiss Super League",
@@ -12767,7 +10964,7 @@
      ],
      "seasonal_flag": false,
      "fare": null,
-     "checked": true,
+     "checked": false,
      "check_link": "https://www.aviasales.com/search/GDN2811CPH30111?marker=792630"
     },
     {
@@ -14384,8 +12581,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 983,
+      "currency": "PLN",
+      "airline": "LO",
+      "flight_number": "235",
+      "departure_at": "2026-11-28T07:20:00+01:00",
+      "return_at": "2026-11-30T07:50:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811BRU30111?t=LO17958504001795858500000135WAWBRU17960250001796032200000120BRUWAW_7e1aa6190778800dcd3967667ec64a21_19817&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=AK0EECekrnl1PtUXlRsL_A&expected_price_source=share&expected_price_currency=pln&expected_price=983",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811BRU30111?marker=792630"
     },
     {
@@ -14773,23 +12985,8 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": {
-      "status": "cached",
-      "price": 604,
-      "currency": "PLN",
-      "airline": "W6",
-      "flight_number": "1741",
-      "departure_at": "2026-11-29T11:35:00+01:00",
-      "return_at": "2026-11-30T18:30:00+01:00",
-      "duration_to": 70,
-      "found_on": "2026-11-16",
-      "link": "https://www.aviasales.com/search/GDN2911CPH30111?t=W617959521001795956300000070GDNCPH17960634001796067300000065CPHGDN_43c944754eddac7eeea8bd84a7dde193_12487&search_date=16112026&expected_price_uuid=01a1e1b5-304e-8030-e20d-ac3f9c9561ec&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jqhCRMqSL4fSFW5uX1WRxg&expected_price_source=share&expected_price_currency=pln&expected_price=604",
-      "note": "Cached fare found by Aviasales users, not live.",
-      "out_date": "2026-11-29",
-      "ret_date": "2026-11-30",
-      "out_kind": "match day"
-     },
-     "checked": true,
+     "fare": null,
+     "checked": false,
      "check_link": "https://www.aviasales.com/search/GDN2811CPH30111?marker=792630"
     },
     {
@@ -16268,8 +14465,23 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 540,
+      "currency": "PLN",
+      "airline": "W6",
+      "flight_number": "1381",
+      "departure_at": "2026-11-28T06:05:00+01:00",
+      "return_at": "2026-11-30T08:55:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811CRL30111?t=W617958459001795854000000135WAWCRL17960289001796036100000120CRLWAW_02bf2f9e8d5b4985e600ccb953c57f45_10891&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811CRL30111?marker=792630"
     },
     {
@@ -16360,8 +14572,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 983,
+      "currency": "PLN",
+      "airline": "LO",
+      "flight_number": "235",
+      "departure_at": "2026-11-28T07:20:00+01:00",
+      "return_at": "2026-11-30T07:50:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811BRU30111?t=LO17958504001795858500000135WAWBRU17960250001796032200000120BRUWAW_7e1aa6190778800dcd3967667ec64a21_19817&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=AK0EECekrnl1PtUXlRsL_A&expected_price_source=share&expected_price_currency=pln&expected_price=983",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811BRU30111?marker=792630"
     },
     {
@@ -16391,7 +14618,35 @@
      "check_link": "https://www.aviasales.com/search/GDN2811BRU30111?marker=792630"
     }
    ],
-   "cheapest": null
+   "cheapest": {
+    "origin": "WAW",
+    "dest": "CRL",
+    "dest_name": "Brussels South Charleroi Airport",
+    "km_to_stadium": 78,
+    "airlines": [
+     "Ryanair",
+     "Wizz Air"
+    ],
+    "seasonal_flag": false,
+    "fare": {
+     "status": "cached",
+     "price": 540,
+     "currency": "PLN",
+     "airline": "W6",
+     "flight_number": "1381",
+     "departure_at": "2026-11-28T06:05:00+01:00",
+     "return_at": "2026-11-30T08:55:00+01:00",
+     "duration_to": 135,
+     "found_on": "2026-11-23",
+     "link": "https://www.aviasales.com/search/WAW2811CRL30111?t=W617958459001795854000000135WAWCRL17960289001796036100000120CRLWAW_02bf2f9e8d5b4985e600ccb953c57f45_10891&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+     "note": "Cached fare found by Aviasales users, not live.",
+     "out_date": "2026-11-28",
+     "ret_date": "2026-11-30",
+     "out_kind": "day before"
+    },
+    "checked": true,
+    "check_link": "https://www.aviasales.com/search/WAW2811CRL30111?marker=792630"
+   }
   },
   {
    "league": "Primeira Liga",
@@ -16503,8 +14758,23 @@
       "LOT Polish Airlines"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 983,
+      "currency": "PLN",
+      "airline": "LO",
+      "flight_number": "235",
+      "departure_at": "2026-11-28T07:20:00+01:00",
+      "return_at": "2026-11-30T07:50:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811BRU30111?t=LO17958504001795858500000135WAWBRU17960250001796032200000120BRUWAW_7e1aa6190778800dcd3967667ec64a21_19817&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=AK0EECekrnl1PtUXlRsL_A&expected_price_source=share&expected_price_currency=pln&expected_price=983",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811BRU30111?marker=792630"
     },
     {
@@ -16543,8 +14813,23 @@
       "Wizz Air"
      ],
      "seasonal_flag": false,
-     "fare": null,
-     "checked": false,
+     "fare": {
+      "status": "cached",
+      "price": 540,
+      "currency": "PLN",
+      "airline": "W6",
+      "flight_number": "1381",
+      "departure_at": "2026-11-28T06:05:00+01:00",
+      "return_at": "2026-11-30T08:55:00+01:00",
+      "duration_to": 135,
+      "found_on": "2026-11-23",
+      "link": "https://www.aviasales.com/search/WAW2811CRL30111?t=W617958459001795854000000135WAWCRL17960289001796036100000120CRLWAW_02bf2f9e8d5b4985e600ccb953c57f45_10891&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+      "note": "Cached fare found by Aviasales users, not live.",
+      "out_date": "2026-11-28",
+      "ret_date": "2026-11-30",
+      "out_kind": "day before"
+     },
+     "checked": true,
      "check_link": "https://www.aviasales.com/search/WAW2811CRL30111?marker=792630"
     },
     {
@@ -16626,7 +14911,35 @@
      "check_link": "https://www.aviasales.com/search/LCJ2811CRL30111?marker=792630"
     }
    ],
-   "cheapest": null
+   "cheapest": {
+    "origin": "WAW",
+    "dest": "CRL",
+    "dest_name": "Brussels South Charleroi Airport",
+    "km_to_stadium": 41,
+    "airlines": [
+     "Ryanair",
+     "Wizz Air"
+    ],
+    "seasonal_flag": false,
+    "fare": {
+     "status": "cached",
+     "price": 540,
+     "currency": "PLN",
+     "airline": "W6",
+     "flight_number": "1381",
+     "departure_at": "2026-11-28T06:05:00+01:00",
+     "return_at": "2026-11-30T08:55:00+01:00",
+     "duration_to": 135,
+     "found_on": "2026-11-23",
+     "link": "https://www.aviasales.com/search/WAW2811CRL30111?t=W617958459001795854000000135WAWCRL17960289001796036100000120CRLWAW_02bf2f9e8d5b4985e600ccb953c57f45_10891&search_date=23112026&expected_price_uuid=01a207fa-d522-8031-66d4-a7455a6dd7da&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LqCAuPmexaKGOjsGLDZwXA&origin_airports=1&destination_airports=0&expected_price_source=share&expected_price_currency=pln&expected_price=540",
+     "note": "Cached fare found by Aviasales users, not live.",
+     "out_date": "2026-11-28",
+     "ret_date": "2026-11-30",
+     "out_kind": "day before"
+    },
+    "checked": true,
+    "check_link": "https://www.aviasales.com/search/WAW2811CRL30111?marker=792630"
+   }
   },
   {
    "league": "Bundesliga",
@@ -17919,40 +16232,6 @@
   }
  ],
  "unreachable": [
-  {
-   "league": "2. Bundesliga",
-   "home": "Kaiserslautern",
-   "away": "Dynamo Dresden",
-   "venue": "Fritz-Walter-Stadion",
-   "kickoff_utc": "2026-11-22T12:30:00+00:00",
-   "kickoff_local": "Sun 22 Nov 13:30",
-   "kickoff_pl": "Sun 22 Nov 13:30",
-   "date_local": "2026-11-22",
-   "round": "12",
-   "thesportsdb_event": "2511842",
-   "flags": [],
-   "crosscheck": null,
-   "weekend": 0,
-   "legs": [],
-   "cheapest": null
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lorient",
-   "away": "Rennes",
-   "venue": "Stade du Moustoir",
-   "kickoff_utc": "2026-11-22T16:15:00+00:00",
-   "kickoff_local": "Sun 22 Nov 17:15",
-   "kickoff_pl": "Sun 22 Nov 17:15",
-   "date_local": "2026-11-22",
-   "round": "11",
-   "thesportsdb_event": "2489557",
-   "flags": [],
-   "crosscheck": "not found in openfootball",
-   "weekend": 0,
-   "legs": [],
-   "cheapest": null
-  },
   {
    "league": "Czech First League",
    "home": "Artis Brno",
