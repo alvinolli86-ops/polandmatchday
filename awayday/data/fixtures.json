@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:53:36+00:00",
+ "generated": "2026-11-24T14:49:13+00:00",
  "window": [
   "2026-11-27",
   "2026-12-07"
@@ -127,18 +127,18 @@
    "thesportsdb_id": 4330,
    "rounds_fetched": [
     12,
-    13,
+    18,
     19
    ],
    "matches": 0,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 13: HTTP Error 429: Too Many Requests",
     "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
-    "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests"
+    "round 17: HTTP Error 429: Too Many Requests"
    ]
   },
   "Austrian Bundesliga": {
@@ -168,7 +168,7 @@
   "Slovak First Football League": {
    "thesportsdb_id": 4672,
    "rounds_fetched": [
-    19
+    21
    ],
    "matches": 6,
    "crosschecked": 0,
@@ -176,7 +176,9 @@
    "errors": [
     "round 16: HTTP Error 429: Too Many Requests",
     "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests"
+    "round 18: HTTP Error 429: Too Many Requests",
+    "round 19: HTTP Error 429: Too Many Requests",
+    "round 20: HTTP Error 429: Too Many Requests"
    ],
    "kept_previous": 6
   },
@@ -207,18 +209,19 @@
   "Danish Superliga": {
    "thesportsdb_id": 4340,
    "rounds_fetched": [
-    16,
     21
    ],
    "matches": 6,
    "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 16: HTTP Error 429: Too Many Requests",
     "round 17: HTTP Error 429: Too Many Requests",
     "round 18: HTTP Error 429: Too Many Requests",
     "round 19: HTTP Error 429: Too Many Requests",
     "round 20: HTTP Error 429: Too Many Requests"
-   ]
+   ],
+   "kept_previous": 6
   }
  },
  "matches": [
@@ -1651,20 +1654,6 @@
    "crosscheck": null
   },
   {
-   "league": "Danish Superliga",
-   "home": "Silkeborg IF",
-   "away": "AGF Aarhus",
-   "venue": "Jysk Park",
-   "kickoff_utc": "2026-11-29T17:00:00+00:00",
-   "kickoff_local": "Sun 29 Nov 18:00",
-   "kickoff_pl": "Sun 29 Nov 18:00",
-   "date_local": "2026-11-29",
-   "round": "16",
-   "thesportsdb_event": "2481887",
-   "flags": [],
-   "crosscheck": null
-  },
-  {
    "league": "Serie A",
    "home": "Roma",
    "away": "Monza",
@@ -1689,6 +1678,20 @@
    "date_local": "2026-11-29",
    "round": "16",
    "thesportsdb_event": "2488572",
+   "flags": [],
+   "crosscheck": null
+  },
+  {
+   "league": "Danish Superliga",
+   "home": "Silkeborg IF",
+   "away": "AGF Aarhus",
+   "venue": "Jysk Park",
+   "kickoff_utc": "2026-11-29T17:00:00+00:00",
+   "kickoff_local": "Sun 29 Nov 18:00",
+   "kickoff_pl": "Sun 29 Nov 18:00",
+   "date_local": "2026-11-29",
+   "round": "16",
+   "thesportsdb_event": "2481887",
    "flags": [],
    "crosscheck": null
   },
