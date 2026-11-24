@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-23T15:42+01:00",
+ "fetched": "2026-11-24T04:03+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -2021,10 +2021,10 @@
    "date": "2026-11-23",
    "kickoff": "2026-11-23T19:00:00+01:00",
    "time_confirmed": true,
-   "venue": "Kraków, Synerise Arena - Stadion Miejski im. Henryka Reymana",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.kswieczysta.com/",
+   "venue": null,
+   "finished": true,
+   "score": "2–1",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/fbc9685c-bbc3-4074-926e-6643e109b9e4/wieczysta-krakow-motor-lublin/"
   },
   {
