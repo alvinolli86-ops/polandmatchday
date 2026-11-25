@@ -282,12 +282,12 @@
   "qid": "Q2052",
   "name": "ACF Fiorentina",
   "aliases": [
-   "Fiorentina",
    "A.C. Fiorentina",
    "A.C.F.Fiorentina",
    "AC Fiorentina",
    "Associazione Calcio Fiorentina",
-   "Florentia Viola"
+   "Florentia Viola",
+   "Fiorentina"
   ],
   "venues": [
    {
@@ -1385,14 +1385,14 @@
   "qid": "Q8760",
   "name": "Deportivo de A Coruña",
   "aliases": [
+   "Depor",
+   "Deportivo",
    "Club Deportivo de la Sala Calvet, Turcos",
    "Dépor",
    "R.C. Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña",
    "Real Club Deportivo de La Coruña S.A.D.",
-   "Real Club Deportivo de A Coruña",
-   "Depor",
-   "Deportivo"
+   "Real Club Deportivo de A Coruña"
   ],
   "venues": [
    {
@@ -1659,10 +1659,10 @@
   "qid": "Q188430",
   "name": "F.C. Copenhagen",
   "aliases": [
+   "FCK",
    "FC Copenhagen",
    "FC København",
-   "Football Club Copenhagen",
-   "FCK"
+   "Football Club Copenhagen"
   ],
   "venues": [
    {
@@ -1788,16 +1788,16 @@
   "qid": "Q7156",
   "name": "FC Barcelona",
   "aliases": [
+   "F.C. Barcelona",
+   "Fútbol Club Barcelona",
+   "F.C.B.",
    "Barcelona FC",
    "Barcelona Football Club",
    "F.C.Barcelona",
    "FC Barcelona Football",
    "FCBarcelona",
    "Football Club Barcelona",
-   "Football Club of Barcelona",
-   "F.C. Barcelona",
-   "Fútbol Club Barcelona",
-   "F.C.B."
+   "Football Club of Barcelona"
   ],
   "venues": [
    {
@@ -2582,9 +2582,9 @@
   "qid": "Q634829",
   "name": "G.D. Estoril Praia",
   "aliases": [
-   "Grupo Desportivo Estoril Praia",
    "Estoril",
-   "Estoril Praia"
+   "Estoril Praia",
+   "Grupo Desportivo Estoril Praia"
   ],
   "venues": [
    {
@@ -2703,12 +2703,12 @@
   "qid": "Q659780",
   "name": "Grazer AK",
   "aliases": [
-   "GAK",
    "GAK 1902",
    "Grazer A.K.",
    "Grazer AK 1902",
    "Grazer AK FuÃŸball",
-   "Grazer Athletik-Klub"
+   "Grazer Athletik-Klub",
+   "GAK"
   ],
   "venues": [
    {
@@ -2726,15 +2726,15 @@
   "qid": "Q51974",
   "name": "Hamburger SV",
   "aliases": [
-   "Hamburg",
-   "Hamburger",
-   "HSV",
    "H.S.V.",
    "Hamburg Sport Club",
    "Hamburg SV",
    "Hamburger S.V.",
    "Hamburger Sport-Verein",
-   "HamburgerSV"
+   "HamburgerSV",
+   "Hamburg",
+   "Hamburger",
+   "HSV"
   ],
   "venues": [
    {
@@ -3441,11 +3441,11 @@
   "qid": "Q18661",
   "name": "Middlesbrough F.C.",
   "aliases": [
-   "Middlesbrough FC",
-   "Middlesbrough Football Club",
    "MFC",
    "Middlesbrough",
-   "The Boro"
+   "The Boro",
+   "Middlesbrough FC",
+   "Middlesbrough Football Club"
   ],
   "venues": [
    {
@@ -3739,10 +3739,10 @@
   "qid": "Q269151",
   "name": "PEC Zwolle",
   "aliases": [
-   "PEC",
-   "FC Zwolle",
    "PEC Zwolle '82",
-   "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle"
+   "Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle",
+   "PEC",
+   "FC Zwolle"
   ],
   "venues": [
    {
@@ -3913,9 +3913,9 @@
   "qid": "Q191843",
   "name": "R.C. Lens",
   "aliases": [
+   "Lens",
    "Racing Club de Lens",
-   "RC Lens",
-   "Lens"
+   "RC Lens"
   ],
   "venues": [
    {
@@ -3998,12 +3998,12 @@
   "qid": "Q126334",
   "name": "RC Strasbourg Alsace",
   "aliases": [
+   "Racing Strasbourg",
    "Racing",
    "Strasbourg",
    "Racing Club de Strasbourg",
    "Racing Club de Strasbourg Alsace",
-   "RCSA",
-   "Racing Strasbourg"
+   "RCSA"
   ],
   "venues": [
    {
@@ -4957,10 +4957,10 @@
   "qid": "Q75729",
   "name": "Sporting CP",
   "aliases": [
+   "SCP",
    "Sporting Club Portugal",
    "Sporting Lisbon",
-   "Sporting Portugal",
-   "SCP"
+   "Sporting Portugal"
   ],
   "venues": [
    {
@@ -5259,14 +5259,14 @@
   "qid": "Q2768",
   "name": "Torino FC",
   "aliases": [
-   "Torino",
    "Torino F.C.",
    "Torino Football Club",
    "TorinoF.C.",
    "TorinoFC",
    "Turin F.C.",
    "Turin FC",
-   "Turin Football Club"
+   "Turin Football Club",
+   "Torino"
   ],
   "venues": [
    {
@@ -5617,13 +5617,13 @@
   "qid": "Q223450",
   "name": "Vitória S.C.",
   "aliases": [
-   "Vitória de Guimarães",
    "Vitória SC",
    "Vitoria de Guimaraes",
    "Vitoria Guimaraes SC",
    "Vitória Guimarães SC",
    "Vitoria S.C.",
-   "Vitoria SC"
+   "Vitoria SC",
+   "Vitória de Guimarães"
   ],
   "venues": [
    {
@@ -5771,16 +5771,16 @@
   "qid": "Q19500",
   "name": "Wolverhampton Wanderers F.C.",
   "aliases": [
+   "Wolves",
+   "Wolverhampton",
+   "Wanderers",
+   "WWFC",
    "Wolverhampton FC Wolves",
    "Wolverhampton Wanderers",
    "Wolverhampton Wanderers FC",
    "Wolverhampton Wanderers Football Club",
    "Wolverhampton Wolves",
-   "Wolverhampton Wolves FC",
-   "Wolves",
-   "Wolverhampton",
-   "Wanderers",
-   "WWFC"
+   "Wolverhampton Wolves FC"
   ],
   "venues": [
    {
