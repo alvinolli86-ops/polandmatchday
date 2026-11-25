@@ -71,6 +71,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Aberdeen": {
+  "league": "Scottish Premiership",
+  "venue": "Pittodrie Stadium",
+  "wikidata": "Q187326",
+  "wikidata_name": "Aberdeen F.C.",
+  "stadium_wikidata": "Pittodrie Stadium",
+  "lat": 57.159166666,
+  "lon": -2.088888888,
+  "nearest_airports": [
+   {
+    "iata": "ABZ",
+    "name": "Aberdeen International Airport",
+    "city": "Aberdeen",
+    "km": 8
+   },
+   {
+    "iata": "DND",
+    "name": "Dundee Airport",
+    "city": "Dundee",
+    "km": 97
+   },
+   {
+    "iata": "INV",
+    "name": "Inverness Airport",
+    "city": "Inverness, Highland",
+    "km": 125
+   },
+   {
+    "iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "km": 156
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Académico de Viseu": {
   "league": "Primeira Liga",
   "venue": "Estádio do Fontelo",
@@ -1379,6 +1415,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Dundee United": {
+  "league": "Scottish Premiership",
+  "venue": "Tannadice Park",
+  "wikidata": "Q192873",
+  "wikidata_name": "Dundee United F.C.",
+  "stadium_wikidata": "Tannadice Park",
+  "lat": 56.474703,
+  "lon": -2.968961,
+  "nearest_airports": [
+   {
+    "iata": "DND",
+    "name": "Dundee Airport",
+    "city": "Dundee",
+    "km": 4
+   },
+   {
+    "iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "km": 63
+   },
+   {
+    "iata": "ABZ",
+    "name": "Aberdeen International Airport",
+    "city": "Aberdeen",
+    "km": 93
+   },
+   {
+    "iata": "GLA",
+    "name": "Glasgow Airport",
+    "city": "Glasgow",
+    "km": 113
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Dynamo Dresden": {
   "league": "2. Bundesliga",
   "venue": "Rudolf-Harbig-Stadion",
@@ -2083,6 +2155,42 @@
     "name": "Bremen Airport",
     "city": "Bremen",
     "km": 95
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Heart of Midlothian": {
+  "league": "Scottish Premiership",
+  "venue": "Tynecastle Park",
+  "wikidata": "Q202093",
+  "wikidata_name": "Heart of Midlothian F.C.",
+  "stadium_wikidata": "Tynecastle Park",
+  "lat": 55.939055555,
+  "lon": -3.232444444,
+  "nearest_airports": [
+   {
+    "iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "km": 9
+   },
+   {
+    "iata": "DND",
+    "name": "Dundee Airport",
+    "city": "Dundee",
+    "km": 59
+   },
+   {
+    "iata": "GLA",
+    "name": "Glasgow Airport",
+    "city": "Glasgow",
+    "km": 75
+   },
+   {
+    "iata": "PIK",
+    "name": "Glasgow Prestwick Airport",
+    "city": "Prestwick, South Ayrshire",
+    "km": 97
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -3068,6 +3176,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Motherwell": {
+  "league": "Scottish Premiership",
+  "venue": "Fir Park",
+  "wikidata": "Q216523",
+  "wikidata_name": "Motherwell F.C.",
+  "stadium_wikidata": "Fir Park",
+  "lat": 55.779947,
+  "lon": -3.980078,
+  "nearest_airports": [
+   {
+    "iata": "GLA",
+    "name": "Glasgow Airport",
+    "city": "Glasgow",
+    "km": 30
+   },
+   {
+    "iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "km": 42
+   },
+   {
+    "iata": "PIK",
+    "name": "Glasgow Prestwick Airport",
+    "city": "Prestwick, South Ayrshire",
+    "km": 49
+   },
+   {
+    "iata": "DND",
+    "name": "Dundee Airport",
+    "city": "Dundee",
+    "km": 95
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "NEC Nijmegen": {
   "league": "Eredivisie",
   "venue": "Goffertstadion",
@@ -3715,6 +3859,42 @@
     "name": "Billund Airport",
     "city": "Billund",
     "km": 96
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Rangers": {
+  "league": "Scottish Premiership",
+  "venue": "Ibrox Stadium",
+  "wikidata": "Q19597",
+  "wikidata_name": "Rangers F.C.",
+  "stadium_wikidata": "Ibrox Stadium",
+  "lat": 55.853055555,
+  "lon": -4.309166666,
+  "nearest_airports": [
+   {
+    "iata": "GLA",
+    "name": "Glasgow Airport",
+    "city": "Glasgow",
+    "km": 8
+   },
+   {
+    "iata": "PIK",
+    "name": "Glasgow Prestwick Airport",
+    "city": "Prestwick, South Ayrshire",
+    "km": 43
+   },
+   {
+    "iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "km": 59
+   },
+   {
+    "iata": "CAL",
+    "name": "Campbeltown Airport",
+    "city": "Campbeltown",
+    "km": 98
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -4486,6 +4666,42 @@
     "name": "Portimão Airport",
     "city": "Portimão",
     "km": 186
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "St Mirren": {
+  "league": "Scottish Premiership",
+  "venue": "St Mirren Park Paisley",
+  "wikidata": "Q319136",
+  "wikidata_name": "St. Mirren F.C.",
+  "stadium_wikidata": "St. Mirren Park",
+  "lat": 55.850556,
+  "lon": -4.443889,
+  "nearest_airports": [
+   {
+    "iata": "GLA",
+    "name": "Glasgow Airport",
+    "city": "Glasgow",
+    "km": 2
+   },
+   {
+    "iata": "PIK",
+    "name": "Glasgow Prestwick Airport",
+    "city": "Prestwick, South Ayrshire",
+    "km": 40
+   },
+   {
+    "iata": "EDI",
+    "name": "Edinburgh Airport",
+    "city": "Ingliston, Edinburgh",
+    "km": 68
+   },
+   {
+    "iata": "CAL",
+    "name": "Campbeltown Airport",
+    "city": "Campbeltown",
+    "km": 91
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
