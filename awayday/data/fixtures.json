@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T00:34:43+00:00",
+ "generated": "2026-11-27T13:48:16+00:00",
  "window": [
   "2026-11-27",
   "2026-12-07"
@@ -47,19 +47,19 @@
   "La Liga": {
    "thesportsdb_id": 4335,
    "rounds_fetched": [
-    14,
-    20
+    19
    ],
    "matches": 10,
-   "crosschecked": 9,
+   "crosschecked": 0,
    "conflicts": 0,
    "errors": [
+    "round 14: HTTP Error 429: Too Many Requests",
     "round 15: HTTP Error 429: Too Many Requests",
     "round 16: HTTP Error 429: Too Many Requests",
     "round 17: HTTP Error 429: Too Many Requests",
-    "round 18: HTTP Error 429: Too Many Requests",
-    "round 19: HTTP Error 429: Too Many Requests"
-   ]
+    "round 18: HTTP Error 429: Too Many Requests"
+   ],
+   "kept_previous": 10
   },
   "Serie A": {
    "thesportsdb_id": 4332,
@@ -1038,20 +1038,6 @@
    "crosscheck": "CONFLICT: openfootball time 15:00 local"
   },
   {
-   "league": "La Liga",
-   "home": "Elche",
-   "away": "Atlético Madrid",
-   "venue": "Estadio Martínez Valero",
-   "kickoff_utc": "2026-11-28T17:30:00+00:00",
-   "kickoff_local": "Sat 28 Nov 18:30",
-   "kickoff_pl": "Sat 28 Nov 18:30",
-   "date_local": "2026-11-28",
-   "round": "14",
-   "thesportsdb_event": "2506308",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Bundesliga",
    "home": "Stuttgart",
    "away": "Eintracht Frankfurt",
@@ -1064,6 +1050,20 @@
    "thesportsdb_event": "2508424",
    "flags": [],
    "crosscheck": "agrees (date+time)"
+  },
+  {
+   "league": "La Liga",
+   "home": "Elche",
+   "away": "Atlético Madrid",
+   "venue": "Estadio Martínez Valero",
+   "kickoff_utc": "2026-11-28T17:30:00+00:00",
+   "kickoff_local": "Sat 28 Nov 18:30",
+   "kickoff_pl": "Sat 28 Nov 18:30",
+   "date_local": "2026-11-28",
+   "round": "14",
+   "thesportsdb_event": "2506308",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Eredivisie",
@@ -1248,20 +1248,6 @@
    "crosscheck": null
   },
   {
-   "league": "La Liga",
-   "home": "Real Madrid",
-   "away": "Deportivo Alavés",
-   "venue": "Estadio Santiago Bernabéu",
-   "kickoff_utc": "2026-11-28T20:00:00+00:00",
-   "kickoff_local": "Sat 28 Nov 21:00",
-   "kickoff_pl": "Sat 28 Nov 21:00",
-   "date_local": "2026-11-28",
-   "round": "14",
-   "thesportsdb_event": "2506304",
-   "flags": [],
-   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
-  },
-  {
    "league": "Eredivisie",
    "home": "Cambuur",
    "away": "Sparta Rotterdam",
@@ -1274,6 +1260,20 @@
    "thesportsdb_event": "2489191",
    "flags": [],
    "crosscheck": "agrees (date+time)"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Madrid",
+   "away": "Deportivo Alavés",
+   "venue": "Estadio Santiago Bernabéu",
+   "kickoff_utc": "2026-11-28T20:00:00+00:00",
+   "kickoff_local": "Sat 28 Nov 21:00",
+   "kickoff_pl": "Sat 28 Nov 21:00",
+   "date_local": "2026-11-28",
+   "round": "14",
+   "thesportsdb_event": "2506304",
+   "flags": [],
+   "crosscheck": "openfootball has only the nominal matchday date, no kickoff yet"
   },
   {
    "league": "Primeira Liga",
