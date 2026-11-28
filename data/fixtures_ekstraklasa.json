@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27T15:01+01:00",
+ "fetched": "2026-11-28T01:14+01:00",
  "source": "ekstraklasa.org (official)",
  "matches": [
   {
@@ -2036,10 +2036,10 @@
    "date": "2026-11-27",
    "kickoff": "2026-11-27T18:00:00+01:00",
    "time_confirmed": true,
-   "venue": "Częstochowa, Miejski Stadion Piłkarski Raków",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.rakow.com/",
+   "venue": null,
+   "finished": true,
+   "score": "1–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/b103f5dd-4561-4bbd-84ec-70f601a089bc/rakow-czestochowa-piast-gliwice/"
   },
   {
@@ -2051,10 +2051,10 @@
    "date": "2026-11-27",
    "kickoff": "2026-11-27T20:30:00+01:00",
    "time_confirmed": true,
-   "venue": "Zabrze, Stadion im. Ernesta Pohla",
-   "finished": false,
-   "score": null,
-   "ticket_url": "https://bilety.gornikzabrze.pl/",
+   "venue": null,
+   "finished": true,
+   "score": "3–2",
+   "ticket_url": null,
    "source_url": "https://ekstraklasa.org/mecz/08bde349-0c7f-4104-bbf0-f7cb1389f382/gornik-zabrze-wisla-plock/"
   },
   {
