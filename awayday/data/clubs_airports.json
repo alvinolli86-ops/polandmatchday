@@ -1,4 +1,40 @@
 {
+ "AC Horsens": {
+  "league": "Danish Superliga",
+  "venue": "CASA Arena Horsens",
+  "wikidata": "Q289286",
+  "wikidata_name": "AC Horsens",
+  "stadium_wikidata": "CASA Arena Horsens",
+  "lat": 55.8716,
+  "lon": 9.8576,
+  "nearest_airports": [
+   {
+    "iata": "BLL",
+    "name": "Billund Airport",
+    "city": "Billund",
+    "km": 46
+   },
+   {
+    "iata": "ODE",
+    "name": "Odense Hans Christian Andersen Airport",
+    "city": "Odense",
+    "km": 53
+   },
+   {
+    "iata": "KRP",
+    "name": "Midtjyllands Airport / Air Base Karup",
+    "city": "Karup",
+    "km": 67
+   },
+   {
+    "iata": "AAR",
+    "name": "Aarhus Airport",
+    "city": "Aarhus",
+    "km": 67
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "AC Milan": {
   "league": "Serie A",
   "venue": "Stadio Giuseppe Meazza",
@@ -67,6 +103,42 @@
     "name": "Antwerp International Airport (Deurne)",
     "city": "Antwerp",
     "km": 97
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "AGF Aarhus": {
+  "league": "Danish Superliga",
+  "venue": "Vejlby Stadion",
+  "wikidata": "Q301431",
+  "wikidata_name": "Aarhus Gymnastikforening",
+  "stadium_wikidata": "Ceres Park & Arena",
+  "lat": 56.131944,
+  "lon": 10.196389,
+  "nearest_airports": [
+   {
+    "iata": "AAR",
+    "name": "Aarhus Airport",
+    "city": "Aarhus",
+    "km": 32
+   },
+   {
+    "iata": "KRP",
+    "name": "Midtjyllands Airport / Air Base Karup",
+    "city": "Karup",
+    "km": 70
+   },
+   {
+    "iata": "ODE",
+    "name": "Odense Hans Christian Andersen Airport",
+    "city": "Odense",
+    "km": 73
+   },
+   {
+    "iata": "BLL",
+    "name": "Billund Airport",
+    "city": "Billund",
+    "km": 78
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -388,27 +460,6 @@
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Artis Brno": {
-  "league": "Czech First League",
-  "venue": "Městský fotbalový stadion Srbská",
-  "source": "manual (hand-compiled, verify)",
-  "city": "Brno",
-  "nearest_airports": [
-   {
-    "iata": "BRQ",
-    "name": "Brno-Turany Airport",
-    "city": "Brno",
-    "km": 10
-   },
-   {
-    "iata": "VIE",
-    "name": "Vienna International Airport",
-    "city": "Vienna",
-    "km": 120
-   }
-  ],
-  "note": "approx, hand-compiled"
  },
  "Aston Villa": {
   "league": "Premier League",
@@ -836,42 +887,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Bochum": {
-  "league": "2. Bundesliga",
-  "venue": "Vonovia Ruhrstadion",
-  "wikidata": "Q105861",
-  "wikidata_name": "VfL Bochum",
-  "stadium_wikidata": "Ruhrstadion",
-  "lat": 51.489944,
-  "lon": 7.236489,
-  "nearest_airports": [
-   {
-    "iata": "DTM",
-    "name": "Dortmund Airport",
-    "city": "Dortmund",
-    "km": 26
-   },
-   {
-    "iata": "DUS",
-    "name": "Düsseldorf Airport",
-    "city": "Düsseldorf",
-    "km": 39
-   },
-   {
-    "iata": "CGN",
-    "name": "Cologne Bonn Airport",
-    "city": "Köln (Cologne)",
-    "km": 70
-   },
-   {
-    "iata": "NRN",
-    "name": "Weeze (Niederrhein) Airport",
-    "city": "Weeze",
-    "km": 77
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Bohemians 1905": {
   "league": "Czech First League",
   "venue": "Ďolíček",
@@ -1124,36 +1139,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Brest": {
-  "league": "Ligue 1",
-  "venue": "Stade Francis-Le Blé",
-  "wikidata": "Q218372",
-  "wikidata_name": "Stade Brestois 29",
-  "stadium_wikidata": "Stade Francis-Le Blé",
-  "lat": 48.40293,
-  "lon": -4.46148,
-  "nearest_airports": [
-   {
-    "iata": "BES",
-    "name": "Brest Bretagne airport",
-    "city": "Brest",
-    "km": 6
-   },
-   {
-    "iata": "GCI",
-    "name": "Guernsey Airport",
-    "city": "Saint Peter Port",
-    "km": 178
-   },
-   {
-    "iata": "JER",
-    "name": "Jersey Airport",
-    "city": "St. Peter",
-    "km": 189
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Brighton and Hove Albion": {
   "league": "Premier League",
   "venue": "American Express Stadium",
@@ -1222,6 +1207,42 @@
     "name": "Exeter International Airport",
     "city": "Exeter, Devon",
     "km": 96
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "Brøndby": {
+  "league": "Danish Superliga",
+  "venue": "Brøndby Stadion",
+  "wikidata": "Q211906",
+  "wikidata_name": "Brøndby IF",
+  "stadium_wikidata": "Brøndby Stadium",
+  "lat": 55.648853,
+  "lon": 12.418358,
+  "nearest_airports": [
+   {
+    "iata": "CPH",
+    "name": "Copenhagen Kastrup Airport",
+    "city": "Copenhagen",
+    "km": 15
+   },
+   {
+    "iata": "RKE",
+    "name": "Copenhagen Roskilde Airport",
+    "city": "Roskilde",
+    "km": 19
+   },
+   {
+    "iata": "MMX",
+    "name": "Malmö Sturup Airport",
+    "city": "Malmö",
+    "km": 61
+   },
+   {
+    "iata": "AGH",
+    "name": "Ängelholm-Helsingborg Airport",
+    "city": "Ängelholm",
+    "km": 77
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -2267,6 +2288,78 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "FC Midtjylland": {
+  "league": "Danish Superliga",
+  "venue": "MCH Arena",
+  "wikidata": "Q618520",
+  "wikidata_name": "FC Midtjylland",
+  "stadium_wikidata": "MCH Arena",
+  "lat": 56.11666667,
+  "lon": 8.95166667,
+  "nearest_airports": [
+   {
+    "iata": "KRP",
+    "name": "Midtjyllands Airport / Air Base Karup",
+    "city": "Karup",
+    "km": 22
+   },
+   {
+    "iata": "BLL",
+    "name": "Billund Airport",
+    "city": "Billund",
+    "km": 44
+   },
+   {
+    "iata": "EBJ",
+    "name": "Esbjerg Airport",
+    "city": "Esbjerg",
+    "km": 70
+   },
+   {
+    "iata": "AAR",
+    "name": "Aarhus Airport",
+    "city": "Aarhus",
+    "km": 105
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
+ "FC Nordsjælland": {
+  "league": "Danish Superliga",
+  "venue": "Right to Dream Park",
+  "wikidata": "Q210025",
+  "wikidata_name": "FC Nordsjælland",
+  "stadium_wikidata": "Right to Dream Park",
+  "lat": 55.815847,
+  "lon": 12.353289,
+  "nearest_airports": [
+   {
+    "iata": "CPH",
+    "name": "Copenhagen Kastrup Airport",
+    "city": "Copenhagen",
+    "km": 29
+   },
+   {
+    "iata": "RKE",
+    "name": "Copenhagen Roskilde Airport",
+    "city": "Roskilde",
+    "km": 29
+   },
+   {
+    "iata": "AGH",
+    "name": "Ängelholm-Helsingborg Airport",
+    "city": "Ängelholm",
+    "km": 62
+   },
+   {
+    "iata": "MMX",
+    "name": "Malmö Sturup Airport",
+    "city": "Malmö",
+    "km": 71
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Famalicao": {
   "league": "Primeira Liga",
   "venue": "Estádio Municipal 22 de Junho",
@@ -2663,42 +2756,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Grazer AK": {
-  "league": "Austrian Bundesliga",
-  "venue": "Merkur Arena Graz",
-  "wikidata": "Q659780",
-  "wikidata_name": "Grazer AK",
-  "stadium_wikidata": "Merkur Arena",
-  "lat": 47.046111,
-  "lon": 15.454444,
-  "nearest_airports": [
-   {
-    "iata": "GRZ",
-    "name": "Graz Airport",
-    "city": "Feldkirchen bei Graz",
-    "km": 6
-   },
-   {
-    "iata": "MBX",
-    "name": "Maribor Edvard Rusjan Airport",
-    "city": "Maribor",
-    "km": 65
-   },
-   {
-    "iata": "KLU",
-    "name": "Klagenfurt Airport",
-    "city": "Klagenfurt am Wörthersee",
-    "km": 96
-   },
-   {
-    "iata": "LJU",
-    "name": "Ljubljana Jože Pučnik Airport",
-    "city": "Zgornji Brnik",
-    "km": 119
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Greuther Fürth": {
   "league": "2. Bundesliga",
   "venue": "Sportpark Ronhof Thomas Sommer",
@@ -2731,42 +2788,6 @@
     "name": "Karlovy Vary Airport",
     "city": "Karlovy Vary",
     "km": 159
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Groningen": {
-  "league": "Eredivisie",
-  "venue": "Euroborg",
-  "wikidata": "Q24711",
-  "wikidata_name": "FC Groningen",
-  "stadium_wikidata": "Euroborg",
-  "lat": 53.206111111,
-  "lon": 6.591388888,
-  "nearest_airports": [
-   {
-    "iata": "GRQ",
-    "name": "Groningen Airport Eelde",
-    "city": "Groningen",
-    "km": 10
-   },
-   {
-    "iata": "FMO",
-    "name": "Münster Osnabrück Airport",
-    "city": "Greven",
-    "km": 140
-   },
-   {
-    "iata": "BRE",
-    "name": "Bremen Airport",
-    "city": "Bremen",
-    "km": 148
-   },
-   {
-    "iata": "FCN",
-    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
-    "city": "Wurster Nordseeküste",
-    "km": 150
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -2911,42 +2932,6 @@
     "name": "Rotterdam The Hague Airport",
     "city": "Rotterdam",
     "km": 151
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Heidenheim": {
-  "league": "2. Bundesliga",
-  "venue": "Voith-Arena",
-  "wikidata": "Q162251",
-  "wikidata_name": "1. FC Heidenheim 1846",
-  "stadium_wikidata": "Voith-Arena",
-  "lat": 48.6685,
-  "lon": 10.1393,
-  "nearest_airports": [
-   {
-    "iata": "STR",
-    "name": "Stuttgart Airport",
-    "city": "Stuttgart",
-    "km": 67
-   },
-   {
-    "iata": "FMM",
-    "name": "Memmingen Allgau Airport",
-    "city": "Memmingen",
-    "km": 76
-   },
-   {
-    "iata": "NUE",
-    "name": "Nuremberg Airport",
-    "city": "Nuremberg",
-    "km": 115
-   },
-   {
-    "iata": "FDH",
-    "name": "Bodensee Airport Friedrichshafen",
-    "city": "Friedrichshafen",
-    "km": 120
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -3635,42 +3620,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Levante": {
-  "league": "La Liga",
-  "venue": "Estadio Ciudad de Valencia",
-  "wikidata": "Q8823",
-  "wikidata_name": "Levante UD",
-  "stadium_wikidata": "Estadi Ciutat de València",
-  "lat": 39.494722,
-  "lon": -0.364167,
-  "nearest_airports": [
-   {
-    "iata": "VLC",
-    "name": "Valencia Airport",
-    "city": "Valencia",
-    "km": 10
-   },
-   {
-    "iata": "CDT",
-    "name": "Castellón-Costa Azahar Airport",
-    "city": "Castellón de la Plana",
-    "km": 88
-   },
-   {
-    "iata": "ALC",
-    "name": "Alicante-Elche Miguel Hernández Airport",
-    "city": "Alicante",
-    "km": 136
-   },
-   {
-    "iata": "IBZ",
-    "name": "Ibiza Airport",
-    "city": "Ibiza (Eivissa)",
-    "km": 165
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Lille": {
   "league": "Ligue 1",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy",
@@ -4012,30 +3961,6 @@
     "name": "Nîmes-Arles-Camargue Airport",
     "city": "Nîmes/Garons",
     "km": 96
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Marítimo": {
-  "league": "Primeira Liga",
-  "venue": "Estádio do Marítimo",
-  "wikidata": "Q216503",
-  "wikidata_name": "C.S. Marítimo",
-  "stadium_wikidata": "Estádio do Marítimo",
-  "lat": 32.645561,
-  "lon": -16.928331,
-  "nearest_airports": [
-   {
-    "iata": "FNC",
-    "name": "Cristiano Ronaldo International Airport",
-    "city": "Funchal",
-    "km": 16
-   },
-   {
-    "iata": "PXO",
-    "name": "Porto Santo Airport",
-    "city": "Vila Baleira",
-    "km": 72
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -4651,42 +4576,6 @@
     "name": "Bremen Airport",
     "city": "Bremen",
     "km": 98
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Oud-Heverlee Leuven": {
-  "league": "Belgian Pro League",
-  "venue": "King Power at Den Dreef Stadion",
-  "wikidata": "Q916199",
-  "wikidata_name": "Oud-Heverlee Leuven",
-  "stadium_wikidata": "Den Dreef",
-  "lat": 50.868333,
-  "lon": 4.694167,
-  "nearest_airports": [
-   {
-    "iata": "BRU",
-    "name": "Brussels Airport",
-    "city": "Zaventem",
-    "km": 15
-   },
-   {
-    "iata": "ANR",
-    "name": "Antwerp International Airport (Deurne)",
-    "city": "Antwerp",
-    "km": 39
-   },
-   {
-    "iata": "CRL",
-    "name": "Brussels South Charleroi Airport",
-    "city": "Charleroi",
-    "km": 48
-   },
-   {
-    "iata": "LGG",
-    "name": "Liège Airport",
-    "city": "Grâce-Hollogne",
-    "km": 59
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -5930,42 +5819,6 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
- "Southampton": {
-  "league": "Championship",
-  "venue": "St. Mary's Stadium",
-  "wikidata": "Q18732",
-  "wikidata_name": "Southampton F.C.",
-  "stadium_wikidata": "St Mary's Stadium",
-  "lat": 50.90583333,
-  "lon": -1.39111111,
-  "nearest_airports": [
-   {
-    "iata": "SOU",
-    "name": "Southampton Airport",
-    "city": "Southampton",
-    "km": 5
-   },
-   {
-    "iata": "BOH",
-    "name": "Bournemouth Airport",
-    "city": "Bournemouth",
-    "km": 34
-   },
-   {
-    "iata": "LGW",
-    "name": "London Gatwick Airport",
-    "city": "London",
-    "km": 89
-   },
-   {
-    "iata": "LHR",
-    "name": "London Heathrow Airport",
-    "city": "London",
-    "km": 90
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
  "Sparta Prague": {
   "league": "Czech First League",
   "venue": "epet ARENA",
@@ -6460,42 +6313,6 @@
     "name": "Cornwall Airport Newquay",
     "city": "Newquay",
     "km": 153
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Sønderjyske": {
-  "league": "Danish Superliga",
-  "venue": "Sydbank Park",
-  "wikidata": "Q3511548",
-  "wikidata_name": "Sønderjyske Fodbold",
-  "stadium_wikidata": "Sydbank Park",
-  "lat": 55.261359,
-  "lon": 9.487791,
-  "nearest_airports": [
-   {
-    "iata": "SGD",
-    "name": "Sønderborg Airport",
-    "city": "Sønderborg",
-    "km": 38
-   },
-   {
-    "iata": "BLL",
-    "name": "Billund Airport",
-    "city": "Billund",
-    "km": 57
-   },
-   {
-    "iata": "ODE",
-    "name": "Odense Hans Christian Andersen Airport",
-    "city": "Odense",
-    "km": 58
-   },
-   {
-    "iata": "EBJ",
-    "name": "Esbjerg Airport",
-    "city": "Esbjerg",
-    "km": 66
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
@@ -7004,6 +6821,42 @@
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
  },
+ "Viborg": {
+  "league": "Danish Superliga",
+  "venue": "Energi Viborg Arena",
+  "wikidata": "Q837956",
+  "wikidata_name": "Viborg FF",
+  "stadium_wikidata": "Evergi Viborg Arena",
+  "lat": 56.455897,
+  "lon": 9.402064,
+  "nearest_airports": [
+   {
+    "iata": "KRP",
+    "name": "Midtjyllands Airport / Air Base Karup",
+    "city": "Karup",
+    "km": 25
+   },
+   {
+    "iata": "AAL",
+    "name": "Aalborg Airport",
+    "city": "Aalborg",
+    "km": 76
+   },
+   {
+    "iata": "AAR",
+    "name": "Aarhus Airport",
+    "city": "Aarhus",
+    "km": 77
+   },
+   {
+    "iata": "BLL",
+    "name": "Billund Airport",
+    "city": "Billund",
+    "km": 81
+   }
+  ],
+  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
+ },
  "Viktoria Plzeň": {
   "league": "Czech First League",
   "venue": "Doosan Aréna",
@@ -7108,42 +6961,6 @@
     "name": "London Stansted Airport",
     "city": "London, Essex",
     "km": 51
-   }
-  ],
-  "source": "Wikidata stadium coords + OurAirports (straight-line km)"
- },
- "Werder Bremen": {
-  "league": "Bundesliga",
-  "venue": "Weserstadion",
-  "wikidata": "Q51976",
-  "wikidata_name": "SV Werder Bremen",
-  "stadium_wikidata": "Weserstadion",
-  "lat": 53.066389,
-  "lon": 8.8375,
-  "nearest_airports": [
-   {
-    "iata": "BRE",
-    "name": "Bremen Airport",
-    "city": "Bremen",
-    "km": 4
-   },
-   {
-    "iata": "FCN",
-    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
-    "city": "Wurster Nordseeküste",
-    "km": 79
-   },
-   {
-    "iata": "HAJ",
-    "name": "Hannover Airport",
-    "city": "Hannover",
-    "km": 88
-   },
-   {
-    "iata": "HAM",
-    "name": "Hamburg Helmut Schmidt Airport",
-    "city": "Hamburg",
-    "km": 99
    }
   ],
   "source": "Wikidata stadium coords + OurAirports (straight-line km)"
